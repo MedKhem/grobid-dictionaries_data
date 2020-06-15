@@ -1,0 +1,20 @@
+Dict+FrFang+Model+dictionary-body-segmentation+Feature+Engineered+DataLevel+4
+===== Field-level results =====
+
+label                accuracy     precision    recall       f1           support
+
+<dictScrap>          99.76        100          50           66.67        2      
+<entry>              96.87        96.59        97.06        96.82        204    
+<pc>                 99.04        98.51        99.5         99           199    
+
+all (micro avg.)     98.55        97.54        98.02        97.78        405    
+all (macro avg.)     98.55        98.36        82.19        87.5         405    
+
+===== Instance-level results =====
+
+Total expected instances:   3
+Correct instances:          1
+Instance-level recall:      33.33
+
+
+Evaluation for dictionary-body-segmentation model is realized in 1665 ms

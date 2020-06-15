@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="form.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="form.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><form><orth>SUCER </orth></form><form><orth>SUCRE </orth></form><form><orth>SUEUR </orth></form><form><orth>SUFFIRE </orth></form><form><orth>SUITE </orth></form><form><orth>SUIVRE </orth></form><form><orth>SUPERSTITIONS </orth></form><form><orth>SUPPLICATIONS </orth></form><form><orth>SUPPLIER </orth></form><form><orth>SUPPORT </orth></form><form><orth>SUPPORTER </orth></form><form><orth>SUPPURATION </orth></form><form><orth>SUPPURER <lb/></orth></form><form><orth>SURSAUTER </orth></form><form><orth>SURTOUT </orth></form><form><orth>SURVEILLANT </orth></form><form><orth>SURVEILLER </orth></form><form><orth>SURVIVRE </orth></form><form><orth>SUSPENDRE </orth></form><form><orth>SUSPENDU </orth></form><form><orth>SUSPENSION </orth></form><form><orth>SYPHILIS </orth></form><form><orth>TABAC </orth></form><form><orth>TABLE </orth></form><form><orth>TABOU </orth></form><form><orth>TABOURET </orth></form><form><orth>TACHE </orth></form><form><orth>TAILLE </orth></form><form><orth>TAILLER </orth></form><form><orth>TAIRE (se)</orth></form><form><orth>TALENT </orth></form><form><orth>TALON </orth></form><form><orth>TAMBOUR </orth></form><form><orth>TAMPONNER </orth></form><form><orth>TAM</orth></form><form><orth>TANGAGE </orth></form><form><orth>TANTE </orth></form><form><orth>TANIÈRE </orth></form><form><orth>TAON </orth></form><form><orth>TAPER </orth></form><form><orth>TAPISSER </orth></form><form><orth>TARDER </orth></form><form><orth>TARET </orth></form><form><orth>TARSE </orth></form><form><orth>TARTRE </orth></form><form><orth>TAS </orth></form><form><orth>TASSER </orth></form><form><orth>TÂTER </orth></form><form><orth>TÂTONNER </orth></form><form><orth>TATOUAGE </orth></form><form><orth>TEINDRE </orth></form><form><orth>TEL </orth></form><form><orth>TÉMOIN </orth></form><form><orth>TEMPE </orth></form><form><orth>TEMPÉRANCE </orth></form><form><orth>TEMPÉRANT <lb/></orth></form><form><orth>TEMPÊTE </orth></form><form><orth>TEMPS </orth></form><form><orth>TENAILLES </orth></form><form><orth>TENDON </orth></form><form><orth>TENDRE </orth></form><form><orth>TENDRE </orth></form><form><orth>TÉNÈBRES </orth></form><form><orth>TENIR </orth></form></body>
+	</text>
+</tei>

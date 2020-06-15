@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="lexicalEntry.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="lexicalEntry.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><entry><lemma>a a </lemma>
+<pc>: </pc>
+<sense>a (del que halla a otro en maleficio) <lb/></sense>
+</entry><entry><lemma>a a a </lemma>
+<pc>: </pc>
+<sense>a (interiectio admirantis) <lb/></sense>
+</entry><entry><lemma>a dzuchica añandaa </lemma>
+<pc>: </pc>
+<sense>poco más o menos <lb/></sense>
+</entry><entry><lemma>a dzuchica caa cuvui </lemma>
+<pc>: </pc>
+<sense>poco más o menos <lb/></sense>
+</entry><entry><lemma>a dzuchica coo cuvui </lemma>
+<pc>: </pc>
+<sense>poco más o menos <lb/></sense>
+</entry><entry><lemma>a hua dzevui </lemma>
+<pc>: </pc>
+<sense>o no <lb/></sense>
+</entry><entry><lemma>a hua dzevui dzavua </lemma>
+<pc>: </pc>
+<sense>pues no <lb/></sense>
+</entry><entry><lemma>a huihica añandaa </lemma>
+<pc>: </pc>
+<sense>poco más o menos <lb/></sense>
+</entry><entry><lemma>a huitnani </lemma>
+<pc>: </pc>
+<sense>ahora poco <lb/></sense>
+</entry><entry><lemma>a na ndehe cuvui ndatu nicay </lemma>
+<pc>: </pc>
+<sense>o bienaventurado, <lb/>o dichoso <lb/></sense>
+</entry><entry><lemma>a ñaha </lemma>
+<pc>: </pc>
+<sense>o no ; pues no <lb/></sense>
+</entry><entry><lemma>a sa dzevui </lemma>
+<pc>: </pc>
+<sense>pues no <lb/></sense>
+</entry><entry><lemma>a yoo </lemma>
+<pc>: </pc>
+<sense>por ventura alguno <lb/></sense>
+</entry><entry><lemma>a yoo ee ñahando </lemma>
+<pc>: </pc>
+<sense>por ventura alguno de voso­ <lb/>tros <lb/></sense>
+</entry><entry><lemma>aa </lemma>
+<pc>: </pc>
+<sense>de manera que <lb/></sense>
+</entry><entry><lemma>aa </lemma>
+<pc>: </pc>
+<sense>ya, acordándoseme lo que se me había olvi­ <lb/>dado <lb/></sense>
+</entry><entry><lemma>aa dzuhua huii </lemma>
+<pc>: </pc>
+<sense>así, así (sonriéndose) <lb/></sense>
+</entry><entry><lemma>aa ndica huii </lemma>
+<pc>: </pc>
+<sense>ya (acordándoseme lo que se me <lb/>había olvidado) <lb/></sense>
+</entry><entry><lemma>adzi </lemma>
+<pc>: </pc>
+<sense>o (disyuntiva) ; por ventura ; quizás <lb/></sense>
+</entry><entry><lemma>adzi </lemma>
+<pc>: </pc>
+<sense>suave cosa <lb/></sense>
+</entry><entry><lemma>adzi cuvui </lemma>
+<pc>: </pc>
+<sense>o (disyuntiva) ; por ventura ; quizás <lb/></sense>
+</entry><entry><lemma>adzi q cuvui </lemma>
+<pc>: </pc>
+<sense>por ventura <lb/></sense>
+</entry><entry><lemma>adzi yoo </lemma>
+<pc>: </pc>
+<sense>por ventura alguno <lb/></sense>
+</entry><entry><lemma>adzi yoo ee ñahando </lemma>
+<pc>: </pc>
+<sense>por ventura alguno de vo­ <lb/>sotros <lb/></sense>
+</entry><entry><lemma>ahua </lemma>
+<pc>: </pc>
+<sense>ay, quejándose la mujer <lb/></sense>
+</entry><entry><lemma>ama </lemma>
+<pc>: </pc>
+<sense>así <lb/></sense>
+</entry><entry><lemma>ama </lemma>
+<pc>: </pc>
+<sense>bien está (otorgando) ; sí <lb/></sense>
+</entry><entry><lemma>amana </lemma>
+<pc>: </pc>
+<sense>¿cuándo? (adverbio interrogativo), ¿en qué <lb/>tiempo? <lb/></sense>
+</entry><entry><lemma>amana cuiya </lemma>
+<pc>: </pc>
+<sense>en algún tiempo <lb/></sense>
+</entry><entry><lemma>amana cuvui huatu inindo </lemma>
+<pc>: </pc>
+<sense>cuandoquiera que <lb/>quisieres <lb/></sense>
+</entry><entry><lemma>amana na ndita ñumana nuundo </lemma>
+<pc>: </pc>
+<sense>¿cuándo has <lb/>de despertar? <lb/></sense>
+</entry><entry><lemma>amana na ndotondo </lemma>
+<pc>: </pc>
+<sense>¿cuándo has de despertar? <lb/></sense>
+</entry><entry><lemma>amana na tahui inindo </lemma>
+<pc>: </pc>
+<sense>¿cuándo has de volver en <lb/>ti? ; ¿cuándo has de despertar? <lb/></sense>
+</entry><entry><lemma>amana quevui </lemma>
+<pc>: </pc>
+<sense>en algún tiempo <lb/></sense>
+</entry><entry><lemma>amana quevui sa cuvui inindo </lemma>
+<pc>: </pc>
+<sense>cuandoquiera <lb/>que quisieres <lb/></sense>
+</entry><entry><lemma>amanaca </lemma>
+<pc>: </pc>
+<sense>¿cuándo, en qué tiempo? <lb/></sense>
+</entry><entry><lemma>amani </lemma>
+<pc>: </pc>
+<sense>de tarde en tarde o raras veces <lb/></sense>
+</entry><entry><lemma>andaya </lemma>
+<pc>: </pc>
+<sense>infierno, lugar de dañados <lb/></sense>
+</entry><entry><lemma>andevui </lemma>
+<pc>: </pc>
+<sense>cielo <lb/></sense>
+</entry><entry><lemma>andevui isi ndaa tiñoo </lemma>
+<pc>: </pc>
+<sense>cielo estrellado <lb/></sense>
+</entry><entry><lemma>angel nicoo coo ndaa ndita ña </lemma>
+<pc>: </pc>
+<sense>ángel de mi guarda <lb/></sense>
+</entry><entry><lemma>angel yondaca ñaha </lemma>
+<pc>: </pc>
+<sense>ángel de mi guarda <lb/></sense>
+</entry><entry><lemma>aniñe </lemma>
+<pc>: </pc>
+<sense>palacio <lb/></sense>
+</entry><entry><lemma>anuhu </lemma>
+<pc>: </pc>
+<sense>abismo ; centro de la tierra ; infierno, lugar <lb/>de dañados <lb/></sense>
+</entry><entry><lemma>anuhu </lemma>
+<pc>: </pc>
+<sense>profundo <lb/></sense>
+</entry><entry><lemma>anuhu maa </lemma>
+<pc>: </pc>
+<sense>profundo <lb/></sense>
+</entry><entry><lemma>anuhu naa </lemma>
+<pc>: </pc>
+<sense>infierno, lugar de dañados <lb/></sense>
+</entry><entry><lemma>anuhu ndahui </lemma>
+<pc>: </pc>
+<sense>infierno, lugar de dañados <lb/></sense>
+</entry><entry><lemma>atana </lemma>
+<pc>: </pc>
+<sense>ojalá <lb/></sense>
+</entry><entry><lemma>atu </lemma>
+<pc>: </pc>
+<sense>amarga cosa ; áspero al gusto <lb/></sense>
+</entry><entry><lemma>aya </lemma>
+<pc>: </pc>
+<sense>amarga cosa ; áspero al gusto <lb/></sense>
+</entry><entry><lemma>ca chihi ca taa qhu </lemma>
+<pc>: </pc>
+<sense>lo que está por venir <lb/></sense>
+</entry><entry><lemma>ca chihi taa qhu </lemma>
+<pc>: </pc>
+<sense>tiempo por venir <lb/></sense>
+</entry><entry><lemma>ca nay </lemma>
+<pc>: </pc>
+<sense>llevar alguna cosa (futuro) <lb/></sense>
+</entry><entry><lemma>ca nayndo quesi </lemma>
+<pc>: </pc>
+<sense>llevar alguna cosa (imperativo), <lb/>traerlo <lb/></sense>
+</entry><entry><lemma>ca nayndo saha qhundo </lemma>
+<pc>: </pc>
+<sense>llevar alguna cosa (im­ <lb/>perativo: llevarás esto) <lb/></sense>
+</entry><entry><lemma>ca ndaa huatu dzoo </lemma>
+<pc>: </pc>
+<sense>flocadura tener la manta <lb/></sense>
+</entry><entry><lemma>ca ndaca qhu </lemma>
+<pc>: </pc>
+<sense>lo que está por venir <lb/></sense>
+</entry><entry><lemma>ca ndidzo ca tavui </lemma>
+<pc>: </pc>
+<sense>lo que está por venir <lb/></sense>
+</entry><entry><lemma>ca numi ca naha qhundo </lemma>
+<pc>: </pc>
+<sense>presto (ir) <lb/></sense>
+</entry><entry><lemma>ca numi ca nahando qhundo </lemma>
+<pc>: </pc>
+<sense>ir presto <lb/></sense>
+</entry><entry><lemma>ca siñu </lemma>
+<pc>: </pc>
+<sense>anda (mandando) <lb/></sense>
+</entry><entry><lemma>ca taa hui yuu </lemma>
+<pc>: </pc>
+<sense>almádena <lb/></sense>
+</entry><entry><lemma>ca tniño ca ndaca qhu </lemma>
+<pc>: </pc>
+<sense>tiempo por venir <lb/></sense>
+</entry><entry><lemma>ca tniño ca ndaca qhu </lemma>
+<pc>: </pc>
+<sense>para siempre <lb/></sense>
+</entry><entry><lemma>ca toto ca dzii a qhu </lemma>
+<pc>: </pc>
+<sense>para siempre <lb/></sense>
+</entry><entry><lemma>caa </lemma>
+<pc>: </pc>
+<sense>hierro, metal <lb/></sense>
+</entry><entry><lemma>caa </lemma>
+<pc>: </pc>
+<sense>rellanada cosa <lb/></sense>
+</entry><entry><lemma>caa ca tnoo ñuhu </lemma>
+<pc>: </pc>
+<sense>candil <lb/></sense>
+</entry><entry><lemma>caa caa nini </lemma>
+<pc>: </pc>
+<sense>pestillo de cerradura <lb/></sense>
+</entry><entry><lemma>caa caa sa ndavuate yocoo </lemma>
+<pc>: </pc>
+<sense>volar hacia abajo <lb/></sense>
+</entry><entry><lemma>caa caa yondavuate </lemma>
+<pc>: </pc>
+<sense>volar hacia arriba <lb/></sense>
+</entry><entry><lemma>caa campana dzuchi </lemma>
+<pc>: </pc>
+<sense>esquilón <lb/></sense>
+</entry><entry><lemma>caa campana iñe cani </lemma>
+<pc>: </pc>
+<sense>esquilonada campana <lb/></sense>
+</entry><entry><lemma>caa campana iñe yoo </lemma>
+<pc>: </pc>
+<sense>esquilonada campana <lb/></sense>
+</entry><entry><lemma>caa cana idzi </lemma>
+<pc>: </pc>
+<sense>cardas ; peine de cardador <lb/></sense>
+</entry><entry><lemma>caa canda maa </lemma>
+<pc>: </pc>
+<sense>reloj <lb/></sense>
+</entry><entry><lemma>caa canda yutnu </lemma>
+<pc>: </pc>
+<sense>podadera <lb/></sense>
+</entry><entry><lemma>caa casi </lemma>
+<pc>: </pc>
+<sense>acero <lb/></sense>
+</entry><entry><lemma>caa codzo </lemma>
+<pc>: </pc>
+<sense>azuela <lb/></sense>
+</entry><entry><lemma>caa codzonica </lemma>
+<pc>: </pc>
+<sense>un poco más <lb/></sense>
+</entry><entry><lemma>caa coho dzini </lemma>
+<pc>: </pc>
+<sense>celada, armadura de la cabeza <lb/></sense>
+</entry><entry><lemma>caa cono dza cuii ndayu </lemma>
+<pc>: </pc>
+<sense>plana de albañir <lb/></sense>
+</entry><entry><lemma>caa cono yocanindi </lemma>
+<pc>: </pc>
+<sense>dar de llano con la espalda <lb/></sense>
+</entry><entry><lemma>caa coyo </lemma>
+<pc>: </pc>
+<sense>barrena <lb/></sense>
+</entry><entry><lemma>caa cuhua </lemma>
+<pc>: </pc>
+<sense>reloj <lb/></sense>
+</entry><entry><lemma>caa cuina </lemma>
+<pc>: </pc>
+<sense>ganzúa <lb/></sense>
+</entry><entry><lemma>caa cuiñe inino mañu caa cuhua </lemma>
+<pc>: </pc>
+<sense>fiel de balanza <lb/></sense>
+</entry><entry><lemma>caa cuiñe ndodzo ite </lemma>
+<pc>: </pc>
+<sense>candelero en que se pone la <lb/>candela <lb/></sense>
+</entry><entry><lemma>caa cuta indii yavui </lemma>
+<pc>: </pc>
+<sense>hebilleta <lb/></sense>
+</entry><entry><lemma>caa cuta sa coho dzuq saha </lemma>
+<pc>: </pc>
+<sense>argolla para el pie o <lb/>garganta <lb/></sense>
+</entry><entry><lemma>caa cutu itu </lemma>
+<pc>: </pc>
+<sense>reja para arar <lb/></sense>
+</entry><entry><lemma>caa chidzo </lemma>
+<pc>: </pc>
+<sense>martillo <lb/></sense>
+</entry><entry><lemma>caa chihi cuhua </lemma>
+<pc>: </pc>
+<sense>compás de hierro <lb/></sense>
+</entry><entry><lemma>caa dza cay ndodzo tnee cavallo </lemma>
+<pc>: </pc>
+<sense>pujavante <lb/></sense>
+</entry><entry><lemma>caa dza cay nduta </lemma>
+<pc>: </pc>
+<sense>jeringa para echar agua <lb/></sense>
+</entry><entry><lemma>caa dza cay ñuhu </lemma>
+<pc>: </pc>
+<sense>eslabón de pedernal <lb/></sense>
+</entry><entry><lemma>caa dza ndaa yutnu </lemma>
+<pc>: </pc>
+<sense>hoz podadera <lb/></sense>
+</entry><entry><lemma>caa dza q cavua tnee cavallo </lemma>
+<pc>: </pc>
+<sense>pujavante <lb/></sense>
+</entry><entry><lemma>caa dzahui (quachita) </lemma>
+<pc>: </pc>
+<sense>encubierto estar (defecto <lb/>de otro) <lb/></sense>
+</entry><entry><lemma>caa dzanda yutnu </lemma>
+<pc>: </pc>
+<sense>podadera <lb/></sense>
+</entry><entry><lemma>caa dzavua yona taandi </lemma>
+<pc>: </pc>
+<sense>contrahacer letra <lb/></sense>
+</entry><entry><lemma>caa dzee </lemma>
+<pc>: </pc>
+<sense>desparramado estar <lb/></sense>
+</entry><entry><lemma>caa dzee yutnu </lemma>
+<pc>: </pc>
+<sense>sierra de hierro <lb/></sense>
+</entry><entry><lemma>caa dzico </lemma>
+<pc>: </pc>
+<sense>pueblo rico <lb/></sense>
+</entry><entry><lemma>caa dzinda </lemma>
+<pc>: </pc>
+<sense>tenazas <lb/></sense>
+</entry><entry><lemma>caa dziñe yocanindi </lemma>
+<pc>: </pc>
+<sense>dar de agudo <lb/></sense>
+</entry><entry><lemma>caa dziñendi</lemma>, <inflected>futuro cavua</inflected> 
+<pc>: </pc>
+<sense>echado estar de lado <lb/></sense>
+</entry><entry><lemma>caa dzita ñuhu </lemma>
+<pc>: </pc>
+<sense>azada o azadón ; badil de hierro <lb/></sense>
+</entry><entry><lemma>caa dzuhu </lemma>
+<pc>: </pc>
+<sense>ganzúa <lb/></sense>
+</entry><entry><lemma>caa eeni </lemma>
+<pc>: </pc>
+<sense>sencilla <lb/></sense>
+</entry><entry><lemma>caa huadza tnuhu yocaha </lemma>
+<pc>: </pc>
+<sense>dobla hablar <lb/></sense>
+</entry><entry><lemma>caa huisi </lemma>
+<pc>: </pc>
+<sense>ganzúa <lb/></sense>
+</entry><entry><lemma>caa huisini </lemma>
+<pc>: </pc>
+<sense>sencilla <lb/></sense>
+</entry><entry><lemma>caa indii yavui </lemma>
+<pc>: </pc>
+<sense>armella <lb/></sense>
+</entry><entry><lemma>caa indita dziñe idzu </lemma>
+<pc>: </pc>
+<sense>estribo de silla <lb/></sense>
+</entry><entry><lemma>caa indodzo nuu nduvua </lemma>
+<pc>: </pc>
+<sense>casquillo de saeta <lb/></sense>
+</entry><entry><lemma>caa ini yotnaha tnuquu </lemma>
+<pc>: </pc>
+<sense>jeringa <lb/></sense>
+</entry><entry><lemma>caa inino ndaha </lemma>
+<pc>: </pc>
+<sense>manopla <lb/></sense>
+</entry><entry><lemma>caa na canda yutnu </lemma>
+<pc>: </pc>
+<sense>hoz podadera <lb/></sense>
+</entry><entry><lemma>caa na cuhua idzu caa </lemma>
+<pc>: </pc>
+<sense>almohaza <lb/></sense>
+</entry><entry><lemma>caa na qna </lemma>
+<pc>: </pc>
+<sense>llave <lb/></sense>
+</entry><entry><lemma>caa na tniño tnaha </lemma>
+<pc>: </pc>
+<sense>corchete <lb/></sense>
+</entry><entry><lemma>caa nacono nini sa yondiyu sa co ndadzi </lemma>
+<pc>: </pc>
+<sense>cerrojo <lb/></sense>
+</entry></body>
+	</text>
+</tei>

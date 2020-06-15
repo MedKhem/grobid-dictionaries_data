@@ -1,0 +1,25 @@
+Dict+DLF+Model+form+Feature+Unigram+DataLevel+2
+===== Field-level results =====
+
+label                accuracy     precision    recall       f1           support
+
+<dictScrap>          98.99        92.86        93.98        93.41        83     
+<gramGrp>            99.54        97.81        99.44        98.62        180    
+<lbl>                99.73        50           33.33        40           3      
+<note>               99.36        0            0            0            1      
+<orth>               98.26        94.32        94.86        94.59        175    
+<part>               99.91        95.45        100          97.67        21     
+<pc>                 99.08        98.71        98.71        98.71        387    
+<pron>               97.44        89.6         96.28        92.82        188    
+
+all (micro avg.)     99.04        94.92        97.11        96           1038   
+all (macro avg.)     99.04        77.34        77.07        76.98        1038   
+
+===== Instance-level results =====
+
+Total expected instances:   183
+Correct instances:          161
+Instance-level recall:      87.98
+
+
+Evaluation for form model is realized in 353 ms

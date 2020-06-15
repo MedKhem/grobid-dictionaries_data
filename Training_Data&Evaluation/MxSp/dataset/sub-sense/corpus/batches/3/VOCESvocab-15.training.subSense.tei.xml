@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="subSense.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="subSense.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><subSense><def>así</def>, <def>así</def> 
+<pc>(</pc>
+<usg>de enojo</usg>
+<pc>) <lb/></pc>
+</subSense><subSense><def>sobre todo</def> (<usg>precediendo <lb/>plática</usg>) <lb/>
+</subSense><subSense><def>a esta hora <lb/></def>
+</subSense><subSense><def>obligado ser por profe-<lb/>sión el fraile <lb/></def>
+</subSense><subSense><def>manera o modo <lb/></def>
+</subSense><subSense><def>estado de cada cosa </def>
+</subSense><subSense><def>forma o manera </def>
+</subSense><subSense><def>inclinación </def>
+</subSense><subSense><def>manera o modo <lb/></def>
+</subSense><subSense><def>soler </def>
+<pc>(</pc>
+<usg>acostumbrar</usg>
+<pc>) <lb/></pc>
+</subSense><subSense><def>certificado estar</def>, <def>por cierto tener</def> <lb/>
+</subSense><subSense><def>obligado ser por profesión <lb/>el fraile <lb/></def>
+</subSense><subSense><def>obligado ser por profesión <lb/>el fraile <lb/></def>
+</subSense><subSense><def>comúnmente se <lb/>dice <lb/></def>
+</subSense><subSense><def>esta es mi suerte <lb/></def>
+</subSense><subSense><def>aficionado o aplicado natu-<lb/>ralmente ser una cosa más que otra <lb/></def>
+</subSense><subSense><def>condición natural de alguno </def>
+</subSense><subSense><def>incli-<lb/>nación <lb/></def>
+</subSense><subSense><def>medio quemado <lb/></def>
+</subSense><subSense><def>aficionado o aplicado <lb/>naturalmente ser una cosa más que otra <lb/></def>
+</subSense><subSense><def>obligado ser <lb/>por profesión el fraile <lb/></def>
+</subSense><subSense><def>obligado ser por <lb/>profesión el fraile <lb/></def>
+</subSense><subSense><def>aficionado o aplicado <lb/>naturalmente ser una cosa más que otra <lb/></def>
+</subSense><subSense><def>obligado ser por profe-<lb/>sión el fraile <lb/></def>
+</subSense><subSense><def>esta es mi suerte <lb/></def>
+</subSense><subSense><def>a media noche <lb/></def>
+</subSense><subSense><def>aficionado o aplicado natu-<lb/>ralmente ser una cosa más que otra <lb/></def>
+</subSense><subSense><def>obligado ser por <lb/>profesión el fraile <lb/></def>
+</subSense><subSense><def>así se usa <lb/></def>
+</subSense><subSense><def>costumbre de pueblo <lb/></def>
+</subSense><subSense><def>acerca de aquel negocio <lb/></def>
+</subSense><subSense><def>correr <lb/>muy ligeramente <lb/></def>
+</subSense><subSense><def>así hombres <lb/>como mujeres <lb/></def>
+</subSense><subSense><def>como quiera <lb/></def>
+</subSense><subSense><def>así como </def>
+</subSense><subSense><def>como comparativo </def>
+</subSense><subSense><def>según</def> <lb/>(<gramGrp>adverbio</gramGrp>) <lb/>
+</subSense><subSense><def>a esta hora <lb/></def>
+</subSense><subSense><def>estado de cada cosa <lb/></def>
+</subSense><subSense><def>forma de letra <lb/></def>
+</subSense><subSense><def>hacer cuenta que <lb/>es pascua <lb/></def>
+</subSense><subSense><def>correr muy ligera-<lb/>mente <lb/></def>
+</subSense><subSense><def>de cualquiera manera que <lb/>lo hagas <lb/></def>
+</subSense><subSense><def>blanca cosa en gran <lb/>manera <lb/></def>
+</subSense><subSense><def>blanca cosa en gran <lb/>manera <lb/></def>
+</subSense><subSense><def>acompa-<lb/>ñar con buenas obras la fe <lb/></def>
+</subSense><subSense><def>en tanto</def>
+<pc>, </pc>
+<def>o en tanto <lb/>que dicen misa <lb/></def>
+</subSense><subSense><def>blanca cosa en gran <lb/>manera <lb/></def>
+</subSense><subSense><def>también <lb/></def>
+</subSense><subSense><def>sobre todo </def>
+<pc>(</pc>
+<usg>precediendo plática</usg>
+<pc>) <lb/></pc>
+</subSense><subSense><def>así se dice o <lb/>se entiende <lb/></def>
+</subSense><subSense><def>acostumbrarse por usarse <lb/></def>
+</subSense><subSense><def>usarse entre algunos o <lb/>entre todos <lb/></def>
+</subSense><subSense><def>costumbre de <lb/>pueblo <lb/></def>
+</subSense><subSense><def>así se dice o se entiende <lb/></def>
+</subSense><subSense><def>semejar o parecerse una cosa a <lb/>otra <lb/></def>
+</subSense><subSense><def>aficionado o aplicado natu-<lb/>ralmente ser una cosa más que otra <lb/></def>
+</subSense><subSense><def>doblar el precio <lb/></def>
+</subSense><subSense><def>aficionado o aplicado natu-<lb/>ralmente ser una cosa más que otra <lb/></def>
+</subSense><subSense><def>comúnmente se dice <lb/></def>
+</subSense><subSense><def>así se dice o se entiende <lb/></def>
+</subSense><subSense><def>aficionado o aplicado natu-<lb/>ralmente ser una cosa más que otra <lb/></def>
+</subSense><subSense><def>semejar o parecerse una cosa a <lb/>otra <lb/></def>
+</subSense><subSense><def>parecerme o así me parece <lb/></def>
+</subSense><subSense><def>certificado estar</def>, <def>por cierto tener</def> <lb/>
+</subSense><subSense><def>usarse entre algunos o entre todos <lb/></def>
+</subSense></body>
+	</text>
+</tei>

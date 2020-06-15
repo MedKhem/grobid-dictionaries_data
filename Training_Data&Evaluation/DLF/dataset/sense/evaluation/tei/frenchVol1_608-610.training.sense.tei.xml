@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="sense.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="sense.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><sense><subSense>Terme de chimie. Qui a rapport au chloroforme.In-<lb/>sensibilité ou anesthésie chloroformique</subSense>
+</sense><sense><subSense>Administrationdu chloroforme pour produire <lb/>l'insensibilité</subSense>
+</sense><sense><subSense>Mettre dans l'insensibilité par l'administration du <lb/>chloroforme</subSense>
+</sense><sense><subSense>Terme de <lb/>chimie. Appareil ou moyen à l'aide duquel on dé-<lb/>termine la proportion dé chlore contenue dans une <lb/>liqueur ou combinéeà l'état d'hypochlorite</subSense>
+</sense><sense><subSense>Terme <lb/>de chimie. Méthode d'analyse pour déterminer la <lb/>quantité de chlore contenue dans une combinaison</subSense>
+</sense><sense><subSense>1°Adj. Terme <lb/>d'histoire naturelle. Qui aune teinte jaune</subSense>
+</sense><sense><subSense>2°S. <lb/>m. Nom d'un genre de coléoptèresd'un vert tendre</subSense>
+</sense><sense><subSense>3°S. f. La chlorophane,variété de fluorine de Si-<lb/>bérie , <lb/>de couleur violette, qui, chauffée, devient <lb/>phosphorescented'une belle lumière verte</subSense>
+</sense><sense><subSense>Terme de <lb/>chimie. Matière colorante verte des feuilles</subSense>
+</sense><sense><subSense>1" Terme de méde-<lb/>cine. Maladie qui affecte spécialement les jeunes <lb/>filles non réglées, caractérisée par la pâleur exces-<lb/>sive <lb/>, <lb/>la teinte jaunâtre ou verdâtre de la peau, la <lb/>flaccidité des chairs, la blancheur de la conjonctive, <lb/>et divers autres accident?</subSense>
+</sense><sense><subSense>2" Terme de botanique. <lb/>Étiolement ou décoloration des plantes</subSense>
+</sense><sense><subSense>Terme de chi-<lb/>mie. Sel produit par la combinaison de deux chlo-<lb/>rures</subSense>
+</sense><sense><subSense>1°Qui est at-<lb/>teint de la chlorose. Une jeune fille chlorotique</subSense>
+<pc>. <lb/>|| </pc>
+<subSense>Substantivement.Une chlorotique. Des chloroti-<lb/>ques</subSense>
+</sense><sense><subSense>2°Qui appartient à la chlorose. Accidents <lb/>chlorotiques</subSense>
+</sense><sense><subSense>Terme de chimie. <lb/>Combinaison du chlore et d'un corps simple, autre <lb/>que l'oxygèneet l'hydrogène. Un des principaux est <lb/>le chlorure de sodium, nom scientifique du sel do <lb/>cuisine, sel marin, ou, simplement, sel</subSense>
+</sense><sense><subSense>Qui contient du chlore ou du chlorure. Une liqueur <lb/>chlorurée</subSense>
+<pc>. || </pc>
+<subSense>Roches chlorurées,dépôts de sel gemme</subSense>
+</sense><sense><subSense>Termede chimie. <lb/>Imprégner de chlorure ou dé chlore. Il faut chlo-<lb/>rurer ce mélange</subSense>
+</sense><sense><subSense>Terme didac-<lb/>tique. Qui a la forme d'un entonnoir</subSense>
+</sense><sense><subSense>i°Rencontre violente d'un <lb/>corps avec un autre. Le choc le renversa. Non-seu-<lb/>lement les comètes ne troublent point sensiblement <lb/>par leurs attractions les mouvements des planètes <lb/>et des satellites; mais si, dans l'immensité des <lb/>siècles écoulés, quelques-unesd'elles ont rencontré <lb/>ces corps, comme cela est très-vraisemblable,il ne <lb/>paraît pas que leur choc ait eu sur ces mouvements <lb/>une grande influence, LA PLACE, Mécanique cël. <lb/>t. iv, p. 256. Il tombe au moindre choc, BOIL. Sat. <lb/>vin. D'un carrosseen passant il accroche une roue, <lb/>Et du choc le renverse en un grand tas de boue, ID. <lb/>ib. vn. Voilà messire Jean Chouart Qui du choc de <lb/>son mort a la tête cassée -, Le paroissien en plomb <lb/>entraîne son pasteur, LA PONT. Fabl. vn, 11. Mou-<lb/>rir d'un coup de lance:ou du choc d'une pique, RÉ-<lb/>GNIER, Sal. vi</subSense>
+<pc>. || </pc>
+<subSense>Le choc des verres, l'action de <lb/>trinquer. Préférons, puisqu'enfin nos coeurs flambent <lb/>encor, Aux discours larmoyants le choc des coupes <lb/>d'or, v. HUGO, Voix intêr. vi</subSense>
+</sense><sense><subSense>2°Terme de phy-<lb/>sique.Action qu'un corps mis en mouvementexerce; <lb/>en vertu de sa masse et de sa vitesse acquise, sur <lb/>les corps qu'il rencontre</subSense>
+<pc>. || </pc>
+<subSense>Choc en retour-, se dit <lb/>du coup de foudre qui va frapper un objet à une <lb/>assez grande distance du point où la foudre a éclaté</subSense>
+</sense><sense><subSense>3°Terme de guerre. Rencontre, attaque vigou-<lb/>reuse entre deux corps armés. Le choc de deux <lb/>escadrons. Les ennemis furent renversés au pre-<lb/>mier choc</subSense>
+<pc>. || </pc>
+<subSense>Action de choc, action où les combat-<lb/>tants s'abordent corps à corps, par opposition à <lb/>action de feu</subSense>
+<pc>. || </pc>
+<subSense>Fig. Conflit, lutte, opposition. Le <lb/>choc des intérêts. Le choc des éléments, l'orage. Le <lb/>choc des opinions. Les fastes de l'histoire Me mon-<lb/>trent des Etats l'un par l'autre 1 abattus, Le choc des <lb/>nations et trop peu de vertus, ST-LAMBERT, Sai-<lb/>sons, hiver</subSense>
+</sense><sense><subSense>4"Par extension, atteinte, revers su-<lb/>bit. Ce choc ébranla sa fortune. Tel qu'on l'avait vu <lb/>dans tous ses combats,résolu, paisible, occupé sans <lb/>inquiétude de ce qu'il fallait faire pour les soutenir, <lb/>tel fut-il à ce dernier choc [l'article de la mort], <lb/>BOSS. Louis de Bourb. Supposons toutefois qu'encor <lb/>fidèle et pure, Sa vertu de ce choc revienne sans <lb/>blessure, BOIL. Sat. x</subSense>
+</sense><sense><subSense>Un <lb/>des noms provinciauxde l'oiseau dit gros-bec</subSense>
+</sense><sense><subSense>Un des <lb/>noms provinciauxdu milan</subSense>
+</sense><sense><subSense>1°Pâte alimentaire pré-<lb/>parée avec des amandes de cacao, du sucre ou du <lb/>miel et souvent quelques aromates. Une tablette de <lb/>chocolat. Du chocolat à la vanille</subSense>
+</sense><sense><subSense>2°Boisson pré-<lb/>parée avec cette pâte, dissoute dans de l'eau ou du <lb/>lait. Une tasse de chocolat. D'abord deux filles jo-<lb/>lies et proprement mises servirent du chocolat, <lb/>qu'elles firent très-bien mousser, VOLT. Cand. 25</subSense>
+</sense><sense><subSense>3°Adjectif invariable. Couleur chocolat. Teinte <lb/>chocolat. Étoffe chocolat</subSense>
+</sense><sense><subSense>Fabricant, <lb/>marchand de chocolat</subSense>
+</sense><sense><subSense>Vase où <lb/>l'on prépare le chocolat pour le prendre en boisson. <lb/>Chocolatière d'argent</subSense>
+</sense><sense><subSense>Un des noms vul-<lb/>gaires du choucas</subSense>
+</sense><sense><subSense>Terme d'anti-<lb/>quité grecque. Femme qui porte les offrandes desti-<lb/>nées aux morts</subSense>
+</sense><sense><subSense>1°Terme de l'antiquité <lb/>grecque. Ensemble de gens qui dansent ou mar-<lb/>chent en cadence : ce sens n'est guère usité que dans <lb/>la poésie ou en parlantdes anciens. Apollon musa-<lb/>gète dirige le choeur des muses. Diane guide les <lb/>choeursdesnymphes.Formant des choeursde danse, <lb/>portant des corbeilles, J. j. ROUSS. Ém. v. Faunes, <lb/>sylvains, bacchantes et dryades, Autour demoi for-<lb/>mez des choeurs joyeux, BÊRANGER, Vinde Chypre</subSense>
+</sense><sense><subSense>2°Dans la tragédie ou comédie grecque, réunion <lb/>de gens qui marchaient ou dansaient ensemble en <lb/>chantant ou déclamant des vers lyriques ; sorte de <lb/>personnage collectif et chantant, soit qu'il occupât <lb/>les intermèdes, soit qu'il intervint dans le cours <lb/>même de la pièce. La tragédie, informeet grossière <lb/>en naissant, N'était qu'un simple choeur où cha-<lb/>cun, en dansant, Et du dieu des raisins entonnant <lb/>les louanges, S'efforçait d'attirer de fertilesvendan-<lb/>ges, BOIL. Art p. m. Sophocle .... intéressa le choeur <lb/>dans toute l'action, ID. ib</subSense>
+<pc>. || </pc>
+<subSense>Par extensionde l'an-<lb/>tique, les membres d'un corps de ballet qui dan-<lb/>sent ensemble. Les coryphées sont employés utile-<lb/>ment dans les choeurs qui offrent l'image de ceux <lb/>des Grecs, NOVERRE, Lett. xxv. Sur les arts imita-<lb/>teurs</subSense>
+<pc>. || </pc>
+<subSense>Dame de choeurs, celle qui danse dans les <lb/>choeurs et qui ne danse pas seule</subSense>
+<pc>. || </pc>
+<subSense>Par exten-<lb/>sion, ce que lss choeurs chantent ou sont suppo-<lb/>sés chanter. Les choeurs d'Eschyle. Il y a de beaux <lb/>choeurs dans cet opéra. Racine a mis des choeurs <lb/>dans Esther et dans Athalie</subSense>
+</sense><sense><subSense>3°Réunion de per-<lb/>sonnes qui chantent ensemble, sans figurer mar-<lb/>che ni danse. Les choeurs de l'opéra. Un choeur <lb/>de vieillards, de jeunes filles. Être engagédans les <lb/>choeurs. Pourquoi une actrice des choeurs discor-<lb/>dants de l'Académie royale de musiquea-t-elle été <lb/>trois jours dans sa cave [avant d'être enterrée]? <lb/>VOLT. Dial. xxi</subSense>
+<pc>. || </pc>
+<subSense>Terme d'église. Ceuxqui chantent. <lb/>Le choeur répond au célébrant</subSense>
+<pc>. || </pc>
+<subSense>Terme de théologie. <lb/>Les neufichoeursdesanges.les neufordresdelahiérar-<lb/>chie céleste.De tous les choeurs des cieux va remplir <lb/>les souhaits, EOTK. St. Gen. iv,fl</subSense>
+<pc>. || </pc>
+<subSense>4°Partie del'église <lb/>où l'on chantel'office divin, et qui est en tête de la nef. <lb/>Avoirplace au choeur</subSense>. 11<subSense>Le service duchoeur.Il serait <lb/>bien dur qu'un grand chanoine fût sujet au choeur, <lb/>pendant que le trésorier, l'archidiacre, le péniten-<lb/>cier etle grand vicaire s'en croient exempts, LA BRUY. <lb/>XIV</subSense>
+<pc>. || </pc>
+<subSense>Enfants de choeur, enfants employés dans le <lb/>choeur au chant des offices, et, plus souvent en-<lb/>core, aux petites besognes d'église, comme servir <lb/>le vin au prêtre, etc</subSense>
+<pc>. || </pc>
+<subSense>Tondu comme un enfant <lb/>de choeur, se dit d'un homme.dontles cheveux sont <lb/>coupés de très-près, ou même qui est chauve</subSense>
+<pc>.|| </pc>
+<subSense>Dans' <lb/>les couvents de filles, religieusesdu choeur, dames <lb/>du choeur, toutes les religieusesqui ne sont point <lb/>converses</subSense>
+</sense><sense><subSense>5" Terme de musique. Composition de <lb/>musiqueà plusieurs partieset exécutée par plusieurs <lb/>voix pour chaque partie. Le choeur des démons <lb/>dans Orphée. Le choeur des chasseurs dans Robin <lb/>des bois. Le choeur des soldats dans OEdipe à Co-<lb/>lone est un choeur à trois parties qui commence par <lb/>un unisson. Ce choeur est écrit à cinq parties</subSense>
+<pc>. <lb/>i| </pc>
+<subSense>Choeur réel, quatuor dans lequel chaque voix a <lb/>une mélodie distincte</subSense>
+<pc>. || </pc>
+<subSense>Se dit encore en parlant <lb/>des grandes subdivisions d'un orchestre. Le choeur <lb/>des cuivres</subSense>
+</sense><sense><subSense>6°Dans le langage ordinaire, chant <lb/>exécuté par plusieurs voix ensemble. Chanter en <lb/>choeur. On répéta le refrain en choeur</subSense>
+</sense><sense><subSense>Pain choine, pain blanc. <lb/>Terme vieilli</subSense>
+</sense><sense><subSense>Tomber. Le Pô.... dans sa ca-<lb/>verne profonde, S'apprête à voir en son onde Choir <lb/>un autre Phaéthon, MALH. II, 2. Fais choir en sacri-<lb/>fice au-dessus de la France Les fronts trop élevés <lb/>de ces âmes d'enfer, ID. H, 12. Tout va choir en <lb/>ma main, ou tomber dans la vôtre, CORN. Rodog. <lb/>i, 5. Et pour te faire choir je n'aurais aujourd'hui <lb/>Qu'à retirer la main qui seule est ton appui, m. <lb/>Cinna, v, l. Vous laissez choir ainsi ce glorieux <lb/>courage,ID. Cid, n, 5. Et ma tête en tombant ferait <lb/>choir sa couronne, ID. Cid, n, l. Combien en <lb/>trompe un tel espoir [d'une longue vie], Et com-<lb/>bien en laisse-t-il choir Dans le plus beau de leur <lb/>carrière? ID. Imit. i, 23. Mais plus dans un haut <lb/>rang la faveur vous a mis, Plus la crainte de choir <lb/>vous doit rendre soumis, TH. CORN. Essex, i, 2. <lb/>Pour nous saluer laissant choir son chapeau, RÉ-<lb/>GNIER, Sat. x. Un jeune enfant,dans .l'eau se laissa <lb/>choir En badinant sur les bords de la Seine, LA <lb/>FONT. Fabl. i, 19. Je l'ai laissé choir, MOL. Sgan. <lb/>22. Nous l'avons, en dormant, madame, échappé <lb/>belle; Un monde près de nous a passé tout du long, <lb/>Est chu tout au travers de notre tourbillon, ID. Fera, <lb/>sav. iv, 3. Ainsi qu'on voit, sous cent mains dili-<lb/>gentes, Choir les épis des.moissons jaunissantes, <lb/>VOLT. dansGiRAULT-DuviviER.J'ai très-bien pu, par <lb/>distraction, faire choir sur le bouquin te bouteille <lb/>àl'encre, p. L. COUR, I, 93. Cet insolent chut du <lb/>ciel en terre, BOSS. n, Démons, 2</subSense>
+</sense><sense><subSense>1°Pris <lb/>de préférence.Le terrain choisi par le général pour <lb/>livrerbataille.Israël, peuple choisi de Dieu</subSense>
+</sense><sense><subSense>2"Têtes <lb/>choisies, terme de statistique, quand il s'agit des <lb/>tables de mortalité. Les chances de mort n'étant <lb/>pas les mêmes pour toutes les conditions, on est <lb/>obligé de distinguer les probabilitéscalculées sur <lb/>tout le monde et celles qui ne s'appliquentqu'à des <lb/>têtes choisies. Asseoir une rente viagère sur une <lb/>tête choisie</subSense>
+<pc>. || </pc>
+<subSense>3°Quiexcelle, qui est meilleur. So-<lb/>ciété choisie. Morceaux choisis. OEuvres choisies. La <lb/>cour était moins grosse chez la duchesse, mais elle <lb/>y était plus choisie, HAMILT. Gramm. 6. Termes <lb/>choisis, CORN. Olhon, 11, 4. [La femme de Law] <lb/>haute, altière, impertinente en ses discours, re-<lb/>cevantles hommages, rendant peu ou point, et fai-<lb/>sant rarement quelques visites choisies, ST-SIM. 445, <lb/>4 84. Il Substantivement.Aussitôt chorus d'applau-<lb/>dissement du choix [delà dame d'honneur] et de <lb/>louangesde la choisie, ST-SIM. 275, 2(2</subSense>
+<pc>. || </pc>
+<subSense>Familière-<lb/>ment. C'est du choisi, c'est ce qu'il y a de mieux</subSense>
+</sense><sense><subSense>l°Prendredepréférence. <lb/>Il choisit dans le panier les plus belles cerises. Ne <lb/>voulant me donner pour toute l'affection que vous <lb/>me devez, que des paroles, vous les avez choisies si <lb/>riches et si belles que.... VOIT. Lett. 4. Mais où son <lb/>adresse parait principalement, c'est à choisir de tous <lb/>ces accidents ceux qui marquent davantage l'excès <lb/>et la violence de l'amour, BOIL. Sublime, 8. Et nous <lb/>ne recevons ni crainte ni désir De cette liberté qui <lb/>n'a rien à choisir? CORN. OEdipe, m, 5. Choisis une <lb/>heure propre à rentrer en toi-même, A penser aux <lb/>bienfaits de la bonté suprême, CORN. Imit. 1, 20. <lb/>Quand ce grand Dieu a choisi quelqu'un poui être <lb/>l'instrument de ses desseins, rien n'en arrête le <lb/>cours, BOSS. Reine d'Anglet. On n'a pas des plaisirs <lb/>à choisir, SÉV. 340. Romulus choisit parmi tout le <lb/>peuple ce qu'il y avait de meilleur pour en former <lb/>le conseil public, BOSS. Hist. univ. m, 7. Chrétiens, <lb/>ne murmurez pas si Madame a été choisie pournous <lb/>donner une telle instruction, ID. Duch. d'Orl. Rome <lb/>a choisi mon bras, je n'examine rien, CORN. Hor. <lb/>11, 3. Quoi! Roxane, Seigneur, qu'Amurat a choisie <lb/>Entre tant de beautés.... RAC. Baj. 1, 4. D'avoir <lb/>choisi mon père au fond de Pldumée, ID. Béréi. 11, <lb/>2. SiNéron, irrité de notre intelligence, Avaitchoisi <lb/>la nuit pour cacher sa vengeance, ID. Brit. v, 4. <lb/>Assurément Trophonius choisissait ses gens et ne <lb/>recevait pas tout le monde, FONTEN. Oracles, ch. xv. <lb/>Il Se choisir, faire choix pour soi. Celle qu'il s'est <lb/>choisie poursa compagne inséparable, LA BRUT. XIV. <lb/>Il Familièrement.Choisir de l'oeil, fixer son regard <lb/>sur l'objet qu'onpréfère</subSense>
+<pc>. || </pc>
+<subSense>Choisir se construit avec <lb/>de et un infinitif. Quiconque choisira de faire mes <lb/>volontés, PASC. Proph. 33. Il a choisi d'y demeurer, <lb/>ID. dans COUSIN. X qui choisiriez-vous, mon fils, de <lb/>ressembler? RAC. Athal. iv, 4</subSense>. |j <subSense>Absolument. Il y a <lb/>chez ie marchand de quoi choisir. Donner à choisir. <lb/>Qui choisitmal pour soi choisit mal pour un autre, <lb/>CORN. Agésil. 11, t. Mais vous me choisirez si vous <lb/>savez choisir, VOLT. Triumv. 11, 4</subSense>
+</sense><sense><subSense>2°Faire une <lb/>option entre deux choses. C'est à vous de choisir <lb/>mon amour ou ma haine, CORN. Rodog. m, 4. Je <lb/>puis choisir, .dit-on, ou beaucoup d'ans sans gloire <lb/>Ou peu de jours suivis d'une longue mémoire, RAC. <lb/>Iph. 1, 2.</subSense>. I] <subSense>Choisir d'une chose ou d'une autre. <lb/>Choisir de partir ou rester. Choisis de leur donner <lb/>ton sangou de l'encens, CORN. Poly. v, 2. Choisissez <lb/>d'être reine ou d'être Laodice, ID. Nicam. ni, 4, <lb/>Choisis d'épouser, dans quatre jours, monsieur ou <lb/>un couvent -MOL. Mal. im. n, 8. Choisissez de la <lb/>cour ou de la retraite, MASS. Cor. Respecthumain. <lb/>Choisissez de César, d'Achille ou d'Alexandre, BCIL. <lb/>Sat. v. Qu'il choisisse, s'il veut, d'Auguste ou de <lb/>Tibère, RAC. Brit. 1, 2</subSense>
+<pc>. || </pc>
+<subSense>Choisir si.... Choisissez si <lb/>vous voulez payer ou avoir un procès. Choisissez <lb/>aujourd'hui Si vous voulez tout perdre ou tout tenir <lb/>de lui, BAC. Alex. 11, 2</subSense>
+<pc>. || </pc>
+<subSense>Absolument. Devine, si <lb/>tu peux, et choisis, si tu l'oses; L'un des deux est <lb/>ton fils, l'autre ton-empereur, CORN. Hérâcl.-iv, 6</subSense>. <lb/>Il <subSense>3°Se choisir, v. ré/7. Faire choix l'un de l'autre. <lb/>Il Proverbe. Souvent qui choisit prend le pire. Mais <lb/>aussi bien que moi vous avez oui dire.Quefille qui <lb/>choisit bien souvent prend le pire, TH. CORN. Don <lb/>Bertran de Cigaral, iv, 4</subSense>
+</sense><sense><subSense>Qui peut, <lb/>qui doit être choisi</subSense>
+</sense><sense><subSense>] i°Action de choisir, faculté de choisir. Un choix <lb/>éclairé. Faire son choix. Remettre la chose au choix <lb/>d'un autre. Le choix du sénat a été approuvé.' C'est <lb/>le choix de la nation qui mit d'abord le sceptre entre <lb/>les mains de vos ancêtres, MASS. Pet. car. Êcueils. <lb/>Le choix d'elle et de vous [entre elle et vous] est as-<lb/>sez inégal, MOL. Mél. i, 5. Il est un heureux choix <lb/>de mots harmonieux ; Fuyez des mauvais sons le <lb/>concours odieux, BOIL. Art p. i. Un si beau choix <lb/>fut sans doute une inspiration d'en haut, PATKD, <lb/>dans BOUHOURS, Nouv. rem. Mon choix sera suivi, <lb/>c'est un point résolu, MOL. F. sav. v, 3</subSense>
+</sense><sense><subSense>2°Préfé-<lb/>rence accordée à une personneou à une chose. Quand <lb/>je ne saurais autre chose de vous, sinon que vous <lb/>êtes le choix de ce grand génie [le cardinal de Ri-<lb/>chelieu] qui n'a fait que dès miracles, CORN. Disc, <lb/>de réception à l'Acad. fr. Parmi tant d'amis, il <lb/>faut faire un choix prudent, BOSS. Polit, Mon père <lb/>a consenti que je suive mon choix, CORN. le Ment. <lb/>i, 4.' Nousl'allons voir ici faire choix d'un époux, <lb/>ID. D. San. i, 4. Et criblant mes raisons pour en <lb/>faire un bon choix, RÉGNIER, Sat. xrv. Hippocrate <lb/>ne fait Choix de ses mots, LA. FONT. Âbb. mal. Il <lb/>veut bien donner ce qui vient de son choix, <lb/>SÉV. 467. De quelque heureux époux que l'on dût <lb/>faire choix, RAC. Iph.i, 3. Cet honneur vous re-<lb/>garde et j'ai fait choix de vous, ID. Mithr. ni, 4. Ma <lb/>haine avait le choix, CORN. Pomp. iv, 4. Tout est ici <lb/>tellement changé que je ne voisplus guère de choix <lb/>entre le séjourdeMunsteret celui de Paris, VOIT. Lett. <lb/>490. Dans ce durettriste choixdeseperdreoude per-<lb/>dre les siens, ST-ÉVREM. n, 4 0. Celle-ci fit un choix <lb/>qu'on n'aurait jamais cru, Se trouvant à la fin toute <lb/>aise et toute heureuse De rencontrer un malotru, <lb/>LA FONT. Fabl. vi, 5. Je confie àvos soins Les plan-<lb/>tes que par choix cultivait ma tendresse, DBLAV. <lb/>Paria, ni, 4</subSense>
+<pc>. || </pc>
+<subSense>Sans choix, c'est-à-dire sans discer-<lb/>nement, sans distinction.Une éruditionentassée sans <lb/>choix. Ces volumes 'sans choix à la tête jetés, BOIL. <lb/>Lutr. v. Il mangeait de toutes choses sans choix, <lb/>BOSS. Bern. 4. Vous avais-je sans choix Confondu <lb/>jusqu'ici dans la foule des rois? RAC. Bérén. ni, 4. <lb/>Ronsard est dur, sans goût, sans choix, Arrangeant <lb/>mal ses mots, gâtant par son françoisDes Grecs et <lb/>des Latins les grâces infinies, RAC. Lett. 4 4 3, La <lb/>Fontaine à Racine</subSense>
+<pc>. || </pc>
+<subSense>A son choix, à sa volonté. Que <lb/>s'il était au choix de notre âme insensée De languir <lb/>toujours en ces lieux [la terre], Nous traînerions <lb/>nos mauxsans aucune penséeDe régner jamais dans <lb/>les cieux, CORN. Imit. i, 22. Avoir à répondre oui <lb/>et non à son choix, PASC. Prov. 5. Chacun peut à <lb/>son choix disposer de son âme, RAC. Andr. ni, 2. <lb/>Et de ses ennemis se défaire à son choix, VOLT. <lb/>Triumv. n, 2</subSense>
+<pc>. || </pc>
+<subSense>N'avoir pas le choix, être réduit <lb/>à une extrémité qui ne laisse pas d'alternative</subSense>
+<pc>. <lb/>|| </pc>
+<subSense>3°Ce qui a été particulièrementchoisi, élite. On y <lb/>monte [a une galerie] par un escalier dérobé, et le <lb/>maître du logis lapourrait appeler sa bibliothèque, <lb/>s'il voulaitdonner au choixle nom qui se donne à la <lb/>multitude, BALZ. Socralechrét.Disc. 4 4. Tu vois toute <lb/>la pourpre et tout le choix de Rome Se ranger à <lb/>l'envi sous les lois d'un seul homme, BRËBEUF, <lb/>Phars. n. 11 est fort peu d'endroits Dont il n'ait <lb/>le rebut aussi bien que le choix, CORN, le Ment, i, 4</subSense>
+</sense><sense><subSense>4°Terme de blason. Armes de choix, armoiries <lb/>qu'un particulier compose à sa fantaisie, et sans les <lb/>avoir acquises. On dit aussi armes arbitraires</subSense>
+</sense><sense><subSense>Terme de <lb/>médecine.Qui purge la bile, qui agit sur l'appareil <lb/>biliaire</subSense>
+<pc>. || </pc>
+<subSense>S. m. Les cholagogues. Le purger par <lb/>cholagogues, MOL. Pourc. i, 4 1</subSense>
+</sense><sense><subSense>Mot que <lb/>donne le Dictionnairede l'Académie, que les méde-<lb/>cins ne connaissent pas, et qui, en tout cas, doit <lb/>être supprimé, étant absolumentbarbare, puisqu'il <lb/>n'y a point en grec de mot x°&amp;gt;.l8o;. Le mot devrait <lb/>être cholélogie ou cholologie, traité sur la bile</subSense>
+</sense><sense><subSense>Terme d'ana-<lb/>tomie. Conduit ou canal cholédoque,conduitformé <lb/>par la réunion des conduits hépatique et cystique, <lb/>et versant la bile dans le duodénum</subSense>
+</sense><sense><subSense>Terme de mé-<lb/>decine. Calcul biliaire</subSense>
+</sense><sense><subSense>Terme de phy-<lb/>siologie. Traité sur la bile</subSense>
+</sense><sense><subSense>Terme de <lb/>physiologie. Élaboration par laquelle le corps vi-<lb/>vant fait la bile</subSense>
+</sense><sense><subSense>Terme de médecine. <lb/>Il 1°Maladie endémique et sporadique caractérisée <lb/>par des évacuationsabondantes du haut et du bas, <lb/>une grande faiblesse et du refroidissement</subSense>
+</sense><sense><subSense>2°Ma-<lb/>ladie épidémique, dite aussi choléra asiatique, née <lb/>dans l'Inde en 4 817, offrant des symptômes analo-<lb/>gues à ceux du choléra endémique, mais avec beau-<lb/>coup plus d'intensité, et caractérisée par une ma-<lb/>tière semblable à de l'eau de riz qui est dans les <lb/>selles</subSense>
+</sense><sense><subSense>Terme <lb/>de médecine. Qui a l'apparence du choléra. Entérite <lb/>cholériforme</subSense>
+</sense><sense><subSense>Terme de méde-<lb/>cine. Affection qui règne souvent pendantle choléra <lb/>épidémique, qui est caractérisée par une diarrhée <lb/>ordinairement indolente, et qu'il ne fautjamais né-<lb/>gliger</subSense>
+</sense><sense><subSense>Terme de mé-<lb/>decine</subSense>
+<pc>. H </pc>
+<subSense>1°Qui tient de la bile. Tempérament cho-<lb/>lérique</subSense>
+</sense><sense><subSense>2°Qui appartient au choléra. Accidents <lb/>cholériques.Il Substantivement, celui, celle qui est <lb/>atteint du choléra. Un cholérique. Une cholérique</subSense>
+</sense><sense><subSense>Terme <lb/>de chimie. Genre de sels formés par l'acide cho-<lb/>lestérique</subSense>
+</sense><sense><subSense>Terme de chimie. Substance <lb/>cristallisée des calculs biliaires humains, décrite <lb/>par Fourcroy sous le nom d'adipocire</subSense>
+</sense><sense><subSense>Terme <lb/>de chimie. Acide formé par la réaction de l'acide <lb/>azotique sur la cholestérine</subSense>
+</sense><sense><subSense>Sorte de vers <lb/>ïambique grec ou latin qui a un ïambe au 5e pied <lb/>et un spondée au 6e</subSense>
+</sense><sense><subSense>Qui ap-<lb/>partient au choliambe.Vers choliambiques</subSense>
+</sense><sense><subSense>Terme de mé-<lb/>decine. Pénétration de la bile dansle sang</subSense>
+</sense><sense><subSense>Qu'on doit chô-<lb/>mer. Fête, jour chômable</subSense>
+</sense><sense><subSense>i" Action de chô-<lb/>mer; suspension des travaux. Toute <lb/>. <lb/>industrie est <lb/>exposée aux chômages.On ne payepas aux ouvriers <lb/>les jours de chômage. Le chômagedes fêtes et di-<lb/>manches</subSense>. Il <subSense>2°Par extension. Le chômage d'un <lb/>canal, d'un moulin, d'une usine</subSense>
+<pc>. || </pc>
+<subSense>Fig. Mme de <lb/>Richelieu me parut abattue ; les fatigues de la cour <lb/>ont rabaissé son caquet; son moulin me parut <lb/>en chômage[Mmede Sévigné écrivait chaumage], <lb/>SÉV. 4 4 0</subSense>
+</sense><sense><subSense>Fête <lb/>chômée, fête pendant laquelle on chôme, c'est-à-<lb/>dire pendant laquelle les travaux mercenaires et les <lb/>ventes publiques sont interrompus</subSense>
+</sense><sense><subSense>Terme de bota-<lb/>nique. Genre de plantes de la famille des rubia-<lb/>cées</subSense>
+</sense><sense><subSense>[ i°Ne pas travailler <lb/>parce qu'on solennise une fête. Les dimanches on <lb/>chôme. Profitons, s'il se peut, d'un si fameux <lb/>exemple; Chômons; c'est faire assez qu'aller de <lb/>temple en temple, Rendre à chaque immortel les <lb/>voeux qui lui sont dus, LA FONT. Filles de Minée. <lb/>Il 2°Ne pas travailler par manque d'ouvrage.Un bon <lb/>ouvrier chôme rarement. Les ouvrierschôment bien <lb/>souvent dans les saisonsrigoureuses,dans les crises <lb/>industrielles</subSense>
+<pc>. || </pc>
+<subSense>Ne pas travailler pour une raison <lb/>quelconque.Nous suons, nous peinons comme bêtes <lb/>de somme; Et pour qui? pour lui seul: nous n'en <lb/>profitons pas; Notre soin n'aboutit qu'à fournir ses <lb/>repas; Chômons, c'est un métier qu'il veut nous <lb/>faire apprendre, LA FONT. Fabl. ni, 2. Net'attends <lb/>pas que je t'aide un seul brin, Ni que par moi ton <lb/>labeur se consomme; Je t'ai jà dit que j'étais gentil-<lb/>homme, Né pour chômer et pour ne rien savoir, ID. <lb/>Papef</subSense>
+</sense><sense><subSense>3" Par extension. Ce moulin, ce canal <lb/>chôme, ils ne travaillent pas. La monnaie chôme, <lb/>les ateliers de monnayage ne travaillent pas. La <lb/>terre chôme, elle est en jachère. L'argent chôme, il <lb/>ne produit pas d'intérêt</subSense>
+<pc>. || </pc>
+<subSense>4°Chômer de, manquer <lb/>de. Chômer de besogne. N'épargnez pas le bois, on <lb/>ne vous en laissera point chômer. Partez, vous ne <lb/>chômerez pas d'argent pour votre voyage</subSense>
+</sense><sense><subSense>5" Y. a. <lb/>Solenniser par la cessation du travail. Constantin <lb/>établit que l'on chômerait le dimanche, MONTESQ. <lb/>Espr. xxiv, 23. Au lieu de chômer les saints et de <lb/>faire pénitence, p. L. COUR, I, 24 4. Qu'on me ré-<lb/>vère et qu'on chôme ma fête, LA FONT. Diable. Mais <lb/>à quoi sert Bacchus qu'à causer.desquerelles?... Et <lb/>nous irons chômer la peste des humains! ID. Filles <lb/>de Minée. Vierge n'était, martyr et confesseurQu'il <lb/>ne chômât, m. Cal. Tous les voisins chômèrent la <lb/>défaite De ce démon, ID. Papef</subSense>
+<pc>. || </pc>
+<subSense>Proverbes. Il ce <lb/>faut point chômer les fêtes avant qu'elles ne soient <lb/>venues, il est imprudent de se réjouir de ce qui <lb/>estàvenir, et aussi il ne faut pas s'affliger d'un mal <lb/>qui n'est pas encore venu et qui peut-être ne vien-<lb/>dra pas. Laissons venir la fête, avant que la chômer, <lb/>MOL. le Dép. 1, 4</subSense>. Il <subSense>C'est un saint qu'on ne chôme <lb/>plus, se dit d'un homme qui a perdu crédit, pou-<lb/>voir, réputation. L'honneur est un vieux saint que <lb/>l'on ne chôme plus, RÉGNIER, Sat.xm</subSense>
+</sense></body>
+	</text>
+</tei>

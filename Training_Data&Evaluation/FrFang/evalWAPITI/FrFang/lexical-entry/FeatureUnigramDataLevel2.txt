@@ -1,0 +1,23 @@
+Dict+FrFang+Model+lexical-entry+Feature+Unigram+DataLevel+2
+===== Field-level results =====
+
+label                accuracy     precision    recall       f1           support
+
+<dictScrap>          99.92        0            0            0            2      
+<lemma>              99.96        100          99.5         99.75        202    
+<note>               99.96        0            0            0            1      
+<pc>                 99.56        98.21        99.32        98.76        442    
+<re>                 68.34        30.28        62.01        40.69        437    
+<sense>              69.46        2.86         8.42         4.27         202    
+
+all (micro avg.)     89.53        43.43        72.16        54.22        1286   
+all (macro avg.)     89.53        38.56        44.88        40.58        1286   
+
+===== Instance-level results =====
+
+Total expected instances:   202
+Correct instances:          12
+Instance-level recall:      5.94
+
+
+Evaluation for lexical-entry model is realized in 853 ms

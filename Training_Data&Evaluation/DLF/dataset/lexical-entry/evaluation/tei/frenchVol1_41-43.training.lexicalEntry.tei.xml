@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="lexicalEntry.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="lexicalEntry.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><entry><lemma>ACCUL (a-kul), s. m. </lemma>
+<pc>|| </pc>
+<sense>i°Lieu où l'on est acculé, <lb/>qui n'a point d'issue. Les voleurs, poussés dans un <lb/>accul, y furent pris</sense>
+<pc>. || </pc>
+<sense>2° Fig. Pontchartrain fut fort <lb/>blâmable de n'avoir point senti de quel accul de <lb/>fortune il [Pelletier] l'avait tiré, SAINT-SIMON, 69, <lb/>440</sense>
+<pc>. || </pc>
+<sense>3° Le fond du terrier où les chiens pous-<lb/>sent les renards, les blaireaux, etc. Le renard est à <lb/>l'accul</sense>
+<pc>. || </pc>
+<sense>4" En termes de marine, une espèce de <lb/>criquetrop petite pour les grands bâtiments</sense>
+<pc>. || </pc>
+<sense>5° En <lb/>termes d'artillerie, piquets qu'on enfonce en terre <lb/>pour empêcherle recul du canon</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. A et cul</etym>
+</entry><entry><lemma>ACCULÉ,ÉE(a-ku-lé,lée),part. passé</lemma>
+<pc>. </pc>
+<sense>|| i°Misdans <lb/>un accul, au propre et au figuré. Le renard acculé. <lb/>Cet homme acculé et ne sachant plus que dire. La <lb/>comtesse de Roucy me répondit, acculée et dans <lb/>l'excès de sa colère, qu'enfin Praslin était lieute-<lb/>nant général, et que son marine l'était pas, SAINT-<lb/>SIMON, 104, 107</sense>
+<pc>. Il </pc>
+<sense>2° En termes de blason, se dit <lb/>du cheval et du lion quand ils sont cabrés, et de <lb/>deux canons placés sur leurs affûts, et dont les cu-<lb/>lasses sont opposées l'une à l'autre</sense>
+</entry><entry><lemma>t"ACCULÉE (a-ku-lée), s. f. </lemma>
+<sense>Action d'un navire <lb/>qui frappe la mer avec sa poupe</sense>
+</entry><entry><lemma>f ACCULEMENT (a-ku-le-man), s. m. </lemma>
+<sense>Action d'ac-<lb/>culer, au propre et au figuré. Je le laissai dire [le <lb/>duc d'Orléans] et comme prendre haleine de l'accu-<lb/>lemeht où j'avais réduit son incomparablefausseté, <lb/>SAINT-SIMON, 611, 6</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Acculer</etym>
+</entry><entry><lemma>ACCULER (a-ku-lé), v. a. </lemma>
+<pc>|| </pc>
+<sense>1" Pousser dans un ac-<lb/>cul. Les chiens avaientacculé le sanglier. Le prince <lb/>d'Orange se retranchaà la hâte [àl'abbaye de Pure] <lb/>et se repentit bien de s'y être laissé acculer si <lb/>promptement, SAINT-SIMON,44, 4 26</sense>
+<pc>. || </pc>
+<sense>2° Fig. Ac-<lb/>culer quelqu'un, le mettre dans l'impossibilité de <lb/>répondre, d'agir</sense>
+<pc>. || </pc>
+<sense>3° S'acculer, v. réfl. S'adosser. <lb/>Poursuivi par quatre hommes, il s'accula contre la <lb/>muraille et se défendit</sense>
+<pc>.|| </pc>
+<sense>4° En termes de manège, <lb/>le cheval s'accule lorsque, arrivé sur ses voltes, il <lb/>marche de côté en rapprochant sa croupe du centre ; <lb/>lorsqu'ilrecule vers un obstacle et y reste fixé con-<lb/>tre la volonté du cavalier; ou encore lorsqu'il se <lb/>jette brusquement sur les jarrets au moment où on <lb/>l'arrête</sense>. <lb/>-<note>REM. Dans les premières éditions de son dic-<lb/>tionnaire, l'Académie tolérait l'expression d'accu-<lb/>ler ses souliers; mais les dernières ne permettent <lb/>plus que le verbe éculer. Acculer s'est dit autrefois <lb/>en ce sens (voy. l'historique)</note>
+<pc>. <lb/>-</pc>
+<note>HIST. XIII. s. Or donc, Bernart, qui fors rains <lb/>as, Va, si t'accule à cel huiset, Et si l'entr'ovre un <lb/>petitet,Hen. 13346. ||xvies <lb/>où se sied et accule, <lb/>Et là, séant, en toute pars spécule, MAROT, rv, 48. <lb/>Il se veaultroyt par lès fanges, acculoyt [mettait <lb/>à eu, éculait] ses souliers, HAB. Garg. i, n. De sa <lb/>lance, rompoyt ung huis, enfonceoyt ung hamois, <lb/>aculoit une arbre, m. Garg. i, 23. Où Dragut se <lb/>voyant aculé et amusant les chrestiens de quelque <lb/>petit fort.... D'AUB. Hist. i, 39</note>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Accul</etym>
+</entry><entry><lemma>ACCUMULATEUR, TRICE (a-ku-mu-la-teur, <lb/>tri-s'), s. m. et f.</lemma> <sense>Celui, celle qui accumule</sense>
+<pc>. <lb/>-</pc>
+<etym>ËTYM. Accumuler</etym>
+</entry><entry><lemma>ACCUMULATION (a-ku-mu-la-sion), s. f. </lemma>
+<pc>|| </pc>
+<sense>l'Ac-<lb/>tion d'accumuler, résultat de cette action. L'accu-<lb/>mulation de la population</sense>
+<pc>. || </pc>
+<sense>2° En jurisprudence, <lb/>accumulation de droit, augmentation de droit sur <lb/>quelque chose</sense>. || <sense>3' Fig. Accumulation de preuves. <lb/>Faire une accumulationde mots. L'accumulation, <lb/>figure de rhétorique</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Accumulatio, de accumulare, accu-<lb/>muler» <lb/></etym>
+</entry><entry><lemma>ACCUMULÉ, ÉE (a-ku-mu-lé, lée), part, passé</lemma>
+<pc>. <lb/>|| </pc>
+<sense>i° Terre accumulée. Trésors accumulésdepuis des <lb/>siècles</sense>
+<pc>. || </pc>
+<sense>2° Fig. Arguments accumulés. Les maux <lb/>accumulés sur sa tête</sense>
+</entry><entry><lemma>ACCUMULER (a-ku-mu-lé), v. a. </lemma>
+<pc>|| </pc>
+<sense>1° Mettre en-<lb/>semble,-entasser. Accumuler de la terre au pied <lb/>des arbres. Il accumule chez lui tant de trésors. <lb/>Sa race accumulant d'immenses héritages, VOLT. <lb/>Tanc. i, 1. D'autres n'ont garde d'abandonner un <lb/>bénéfice qu'ils possèdent ; il est dans leurs mains, <lb/>mais leurs mains ne sont pas remplies ; que leur <lb/>faut-il donc? Accumuler bénéfices sur bénéfices, <lb/>BOVÏRD.Pensées,X.\\,-p. 360</sense>
+<pc>. || </pc>
+<sense>2° Absolument,amasser <lb/>des richesses. Il ne songe qu'à accumuler. Fureur <lb/>d'accumuler, monstre de qui les yeux Regardent <lb/>comme un point tous les bienfaits des dieux, LA <lb/>FONT. Fab. vin,27.D'autres,accumulant pour enfouir <lb/>encor, Recueillent dans la fange une poussière <lb/>d'or, LAMART. Ilqrm. iv, 11</sense>
+<pc>. || </pc>
+<sense>3° Fig. Au sens <lb/>moral. Accumuler les honneurs sur la tête de quel-<lb/>qu'un. Accumuler faute sUr faute. Si je multipliais <lb/>tout cela, si je le redoublais, si je l'accumulais sans <lb/>mesure, après y avoir épuise toutes les puissances <lb/>démonâme, BOURD. Pensées, t. i,p. 29.D'oùils'en-<lb/>suitqu'ayanttoujours jusqu'àprésentaccumulépéché <lb/>sur péché, je n'ai fait, dans tout le cours de mes <lb/>années, qu'accumuler dettes sur dettes, ID. ib. t. n, <lb/>p. 79. Je l'ai vu contre vous accumulerles crimes, <lb/>VOLT. Mér. m, 6. Quels maux sont en ces lieux ac-<lb/>cumulés sur moi? ID. Mér. ni, 1</sense>
+<pc>.1| </pc>
+<sense>4° S'accumuler, <lb/>v. réfl. Deveniraccumulé.Les denrées s'accumulent <lb/>dans les magasins. Les honneurs s'accumulent sur <lb/>sa tête. Les dettes s'accumulaient. Les prospérités <lb/>qui s'accumulent sur vous</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Provenç. ammolar; espagn. acumular; <lb/>ital. accumulare ; de accumulare, as ad, à, et cu-<lb/>mulare, combler (voy. ce mot)</etym>
+</entry><entry><lemma>ACCUSABLE (a-ku-za-bF), adj. </lemma>
+<sense>Qui mérite d'être <lb/>accusé, qui peut être accusé. Suis-je accusable en-<lb/>cor du meurtre de Gustave?PIRON, Gust.Wasa,iv,6</sense>
+<pc>. <lb/>-</pc>
+<note>HIST. xvi" s. Les troisièmes sont accusables et <lb/>punissables, CHARRON, Sagesse, I, 4 6</note>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Accusabilis, de accusare, accuser (voy. <lb/>ce mot)</etym>
+</entry><entry><lemma>ACCUSATEUR, TRICE (a-ku-za-teur, tri-s'). <lb/></lemma>
+<pc>|| </pc>
+<sense>1°S. m. et /'.Celui,celle qui accuse en justice. L'ac-<lb/>cusateur public. Se porter pour accusateur. Susciter <lb/>un accusateur. Le père le plus tendre est son accu-<lb/>sateur, VOLT. Tancr. iv, 2. Les deux accusateurs que <lb/>lui-même a produits.... CORN. Nie. m, 8. Avotre <lb/>accusateur que pourrai-je répondre? RAC. Ph. m, <lb/>3. Pourquoi, par quelcapriceLaissez-vous le champ <lb/>libre à votre accusatrice? m. Phèd. v, 1 <lb/>on <lb/>cabale, on suscite Accusateurset gens grevés par <lb/>ses arrêts. De nos biens, disent-ils, il s'est fait <lb/>un palais,LA FONT. Fab. x, 40</sense>
+<pc>. || </pc>
+<sense>2°Adj. Toutpeutse <lb/>réparer : qu'un peuple accusateur Du forfait qu'il <lb/>condamne ose nommer l'auteur, LANCIVAL, Uect. <lb/>IV, 6</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Accusator, de accusare, accuser</etym>
+<pc>. <lb/>-</pc>
+<xr>SYN. ACCUSATEUR, DÉNONCIATEUR,DÉLATEUR. Ce-<lb/>lui qui informe l'autorité qu'un tel a commis une <lb/>action coupable. L'accusateur non-seulement dé-<lb/>nonce, mais poursuit celui qu'il accuse. Le dénon-<lb/>ciateur révèle un fait, le rend public, le défère à <lb/>l'autorité : il ne se cache pas. Dans les troubles pu-<lb/>blics, les voisinssont souvent les dénonciateurs les <lb/>uns des autres. Le dénonciateur est, suivant les <lb/>motifs qui l'animent, à louer ou à blâmer. Le déla-<lb/>teur fait toujours un métier odieux; il se cache; <lb/>ses rapports sont secrets; il cherche d'ordinaire ou <lb/>à nuire à l'objet de ses délations, ou à flatter les <lb/>passionsde celui à qui il les fait</xr>
+<pc>. <lb/>-</pc>
+<note>HIST. XIII" s. Comme accuseûr coîitre celi à qui <lb/>on met sus le cas de crieme, BEAUM.VI, 12. || xive s. <lb/>Et li accuseûr aura cinq sols, Ordonn. des R. dé <lb/>Fr. 1313, t. I, p. 621</note>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Provenç. acusaire, acusador; ital. ac-<lb/>eusalore;ie accusator, de accusare (voy. ACCUSER). <lb/>Accusator, ace. accusatorem, a donné au nomina-<lb/>tif,avecl'accentsurl'o, en provençalacuzaire,,et dans <lb/>l'ancien français aurait donné acusere, toutefois ici <lb/>sans exemple; et au régime, avec l'accent surl'o, en <lb/>provençalacusador, et en français acuseor, acuseùr et <lb/>lesformesitaliennes etespagnoles.Accuseûr au sujet, <lb/>comme dans l'exemple de l'historique, serait une <lb/>faute, si le xrv" siècle ne commençait pas à perdre <lb/>la distinction du cas sujet et du cas régime. Quant <lb/>à accusateur, il a été refait directement sur le latin : <lb/>la forme française d'origine serait accuseûr</etym>
+</entry><entry><lemma>ACCUSATIF(a-ku-za-tif), s. m. </lemma>
+<sense>Terme de gram-<lb/>maire. Cas, dans leslangues où les noms se décli-<lb/>nent, qui sert principalement à indiquer le régime <lb/>direct des verbesactifs ou transitifs, et celui de cer-<lb/>taines prépositions.C'est par abus de terme qu'on <lb/>a nommé en français accusatifle complément di-<lb/>rect d'un verbe actif. En français, le régime_ ap-<lb/>pelle aussitôt un accusatifqui ne peut se déplacer, <lb/>FÉN. XXI, 4 92</sense>
+<pc>. <lb/>-<lb/>' <lb/>-</pc>
+<note>HIST. xv s. Quant rencontré a un accusatif, <lb/>CH. D'ORL. Bond. 68</note>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Accusativus,de accusare, accuser; pro-<lb/>venç. acusatiu; espagn. acusativo ; ital. accusativo</etym>
+</entry><entry><lemma>ACCUSATION" (a-ku-za-sion; en poésie, de cinq <lb/>syllabes), s. f. </lemma>
+<pc>|| </pc>
+<sense>1° Action en justice par laquelle on <lb/>accuse quelqu'un. Les chefs d'accusation.Accusation <lb/>d'empoisonnement.Intenter une accusation contre <lb/>quelqu'un. Dresser une accusation. Par son élo-<lb/>quence, l'avocat ruina l'accusation. Il se lava de <lb/>l'accusation de péculat.-Il défendit aux tribunaux <lb/>d'admettre les accusationsde fourberie. L'accusa-' <lb/>tioii qu'il suscita contre cet ecclésiastique, PASC. <lb/>Prov. 4 6</sense>
+<pc>. || </pc>
+<sense>2° Toute espèce de reproche, d'imputa-<lb/>tion. Ne prêtons pas l'oreille aux accusations.Il fut <lb/>indisposé contre moi par des accusationsmal fon-<lb/>dées. Former des accusations contre quelqu'un, <lb/>BOIL. Sat. xii,avertiss</sense>
+<pc>. || </pc>
+<sense>3° Au sens passif, l'accusa-<lb/>tion de quelqu'un, l'accusationdont il est l'objet. <lb/>Encore que ses accusationssoient incessamment aux <lb/>oreilles de V. M.... PELLISSON, il, 461</sense>
+<pc>. || </pc>
+<sense>4° Action <lb/>de révéler, de confesser. Nous entendons tous les <lb/>jours des pécheurs qui mêlent à l'accusationde <lb/>leurs fautes les maximes du siècle et le langage des <lb/>passions, MASS. Carême, Confession</sense>
+<pc>. <lb/>-</pc>
+<note>HIST. XIII0 s. Vérités est que toutes accusations <lb/>de foy, à savoir mon qui croit bien en le [la] foy et <lb/>qui non , <lb/>la conoissance en appartient à sainte <lb/>Eglise , BEAUM. II , 2. || xvr s. Le peuple ayant <lb/>mis en justice d'accusation capitale ses capitaines, <lb/>MONT. I, 3</note>
+<pc>. <lb/>-</pc>
+<etym>ÎÏTYM
+. Provenç.accusation; espagn. acusacion; <lb/>ital. accusazione; de accusatio, de accusare, ac-<lb/>cuser. Dans l'ancien français, on ne se servaitguère <lb/>que d'accusement, dont les exemples abondent. Ac-<lb/>cusement a été employé jusque dans le xvi" s. : Le <lb/>riche dessous toy ne craint point que son bien Par <lb/>faux accusement ne demeure plus sien, RONS. 867. <lb/>Quant à accusation cité plus haut de Beaumanoir, <lb/>c'est une forme faite directement sur le latin et non <lb/>un mot d'origine. La forme d'origine eût été acusai-<lb/>son, comme raison, oraison, etc</etym>
+</entry><entry><lemma>ACCUSÉ, ÉE (a-ku-zé, zée). </lemma>
+<pc>|| </pc>
+<sense>1° Part, passé. <lb/>Accusé d'un crime. Accusé d'aspirer au trône. Les <lb/>vents, les mêmes vents si longtempsaccusés Ne te <lb/>couvriront pas de ses vaisseaux brisés? RAC. Iph. v, <lb/>4. Un homme, justement accusé d'adultère, vint <lb/>lui demander s'il lui était permis de se justifier par <lb/>serment, FÊN. Philosophes, Thaïes. Selon vous, on <lb/>est coupable dès qu'on est accusé ; un soupçon mé-<lb/>rite la mort, ID. Tél. xx</sense>
+<pc>. || </pc>
+<sense>2° Accusé, accusée, s. <lb/>m. etf. Celui, celle qui estaccusé en justice. C'est lui <lb/>qui est l'accusé. Se consacrer à la défense des ac-<lb/>cusés. Qui fonde vos soupçons? de vains cris? de <lb/>faux bruits? Quels sont les accusés?... M. J. CHÉN. <lb/>Charles IX, rv, 4. Dieu, jugez entre nous; Les ac-<lb/>cusés tremblants sont ici devant vous, DOCIS, Lear, <lb/>m, 8</sense>
+<pc>. || </pc>
+<sense>3° Accusé de réception, mot d'écrit par le-<lb/>quel on reconnaîtavoir reçu une lettre, un paquet</sense>
+</entry><entry><lemma>ACCUSER (a-ku-sé), v. a. </lemma>
+<pc>|| </pc>
+<sense>1° Imputer un crime <lb/>à quelqu'un. Il fut accusé de brigue, de violence. <lb/>Accuser quelqu'un d'un-crime capital. On l'accusa <lb/>d'avoir fui du combat. Socrate fut accusé de nier les <lb/>dieux que le peuple adorait. Pour vous justifier du <lb/>crime dont ma raison vous accusait.... MOL. Fest. de <lb/>Pierre, i, 3. Je n'accuse personne et vous tiens in-<lb/>nocent, CORN. Rod. v, 4. Ce n'est pas qu'après tout <lb/>tu doives épouser Celui qu'un père mort t'obligeait <lb/>d'accuser, ID. Ciâ, rv, 2. D'un amour criminel Phè-<lb/>dre accuse Hippolyte, RAC. Phèd. iv, 2. Je le croiscri-<lb/>minel, puisque vous l'accusez, ID. t&amp;amp;. v, 7</sense>
+<pc>. || </pc>
+<sense>2"Dans <lb/>le droit criminel actuel, poursuivre, en vertu d'un <lb/>arrêt de la chambre des mises en accusation, une <lb/>personne devant la cour d'assises</sense>
+<pc>. || </pc>
+<sense>3° Accuser <lb/>un acte faux, soutenir qu'un acte est faux. || Cette <lb/>locution a vieilli. On dit présentement, arguer un <lb/>acte de faux</sense>
+<pc>. || </pc>
+<sense>4° En général, imputer, reprocher. <lb/>Tu pouvais, pour toi, m'accuser de froideur, MOI, <lb/>l'Étour. I, 6. Il l'avaitaccusé de discoursmédisants, <lb/>m. ib. ni, s. Quand vous devez la vie aux soins de <lb/>ce grand homme, Vous osez l'accuser d'avoir trop <lb/>fait pour Rome, VOLT. Catil. v, 4. Ah! si nous pé-<lb/>rissons, n'en accusez que vous, RAC. Baj. n, 3. <lb/>La vie n'était pour lui qu'un esclavage et uHe triste <lb/>captivité ; et sans en accuser la Providence ni s'en <lb/>plaindre.... BOURD. Pensées, t. i,p. 45</sense>
+<pc>. || </pc>
+<sense>5° Gour-<lb/>mander,blâmer.D'Egmont....Del'incertain Mayenne <lb/>accusaitla lenteur, VOLT. Senr. vin. Mais avec quel <lb/>courroux, avec quelle tendresse Mahomet de mes <lb/>sens accusa la faiblesse ! ID. Fanât, rv, 3. Contre <lb/>l'effort des vents ces myrtes sans appuis Accusent <lb/>notre indifférence, c. DELAV. Paria, n, 5. N'accuse <lb/>pointmon sort;c'esttoi seulquil'asfait, CORN. Cinna, <lb/>ni, 4. Par desambassadeurs accuser maparesse, RAC. <lb/>Nithr. ni,4. Où donc estce grand coeur dont tantôt <lb/>l'allégresseSemblaitdujour trop longaccuser la pa-<lb/>resse? BOIL. Lutr. n <lb/>En vain de ton départ Les <lb/>tiens impatientsaccusentle retard, DELILLE, Enéi-<lb/>de, m</sense>
+<pc>. || </pc>
+<sense>6° Enparlantdes choses, servir de preuve, <lb/>d'indice. Le fait même l'accuse. Devant les dieux <lb/>vengeurs, mon désespoir m'accuse, VOLT. Sémir. <lb/>i, 5. Voyons qui son amour accusera des deux, <lb/>RAC. Mithr. ni, 4. Et son silence même accusant sa <lb/>noblesseNous dit qu'elle nous cache une illustre <lb/>princesse, m. Iph. i, 2. Caché sous des lam-<lb/>beaux, un reste de richesse Semble encor de <lb/>son rang accuser la noblesse, DDCIS , <lb/>Lear, n, 2</sense>
+<pc>. <lb/>|| </pc>
+<sense>7° X certains jeux de cartes, accuser son jeu, en <lb/>faire connaître ce que les règles veulent qu'on dé-, <lb/>clare</sense>
+<pc>. || </pc>
+<sense>8° Accuser juste , accuser faux, être exact, <lb/>inexactdans son récit. Chamillart convenait que <lb/>Catinat accusaitvrai' en tout et partout, ST-SIMON, <lb/>105, -f20. La renommée accuse juste en contant ce <lb/>que vous valez, MOL. Préc. 4 0</sense>
+<pc>. || </pc>
+<sense>9° Accuser une <lb/>douleur, accuser son âge, dire qu'on sent une dou-<lb/>leur, qu'on a tel âge</sense>
+<pc>. || </pc>
+<sense>10° Accuser la réception ou <lb/>accuser réception d;une lettre, d'un.paquet. M. Plet <lb/>ne nous accusa ni la réceptionde cette lettre ni celle <lb/>d'un assez gros paquet que je lui avais adressé, <lb/>VOLT. Lettr. Prusse, 36. Je n'ai de temps que pour en <lb/>accuser la réception, BOSS. Lettr. QuiéHQO. La plu-<lb/>part commencent par accuser la réception de ma <lb/>lettre, SÉV. 243</sense>
+<pc>. || </pc>
+<sense>11° En termes de peinture, faire <lb/>sortir certaines parties qui sont recouvertes par <lb/>quelque enveloppe. Accuser .les muscles, les os</sense>
+<pc>. <lb/>|| </pc>
+<sense>12" S'accuser, v. -réfl. Se dire coupable. Il s'ac-<lb/>cuse d'homicide. S'accuser d'une faute , <lb/>de sa cré; <lb/>dulité. Elle s'accusait de ralentir ma marche. Vient-<lb/>elle s'accuser et se perdre elle-même? RAC. Ph. m, <lb/>C. Votre coeur s'accusait de trop de cruauté, ID. <lb/>Brit. iv, 3. Je m'accuse, moi-même, d'en avoir trop <lb/>entendu, MOL'. F', de Pierre, i, 3. Je me suis ac-<lb/>cusé de trop de violence, CORN. Cid, m, 4</sense>
+<pc>. || </pc>
+<sense>13° <lb/>S'accuser, déclarer ses péchés au prêtre dansla con-<lb/>fession. S'accuserd'avoir rompu le jeûne</sense>. • <lb/>-<note>REM. Régnier a dit : Un rêveur m'accuseQue <lb/>je ne suis pas net.... Sat. n. Cette tournure est in-<lb/>solite , <lb/>et l'on dit d'habitude' de avec l'infinitif : De <lb/>n'être pas net. Cependant elle n'a rien qui soit fau-<lb/>tif en soi</note>
+<pc>. <lb/>-</pc>
+<note>HIST. xn° s. S'aucuns est acuseis qu'il ait au-<lb/>cun ochis.... TALLLIAR, Recueil, p. 491. Etfeissent <lb/>deux homes avant venir, qui Naboth acusassent et <lb/>sur lui testemoniassent que il out mesparlé de Deu <lb/>meïme et del rei, Bots, 33). || xnr s. Cil cui je <lb/>n'avoie riens mesfait, m'acusoient, Psautier, f. 48. <lb/>Par iceste manière bien nous acuserons [nous <lb/>prouverons notre fait], Berte, 23. Qui est accusé de <lb/>cas de crieme, il ne se puet défendre par procureur, <lb/>BEATJM. 80. En cas de criemedont on pot perdre vie <lb/>ou membre, li acusés n'est pas tenus à jurer, se li <lb/>cas n'est de gages, ID. XX, 9. li mariages fu après <lb/>acusés, et fu depeciés [cassé], et fut tenu por mal-<lb/>vès, m. xvin, 48. Tretout ansinc vous dis pour <lb/>voir [vrai] Que li cristal, s£ns décevoir, Tout l'estre <lb/>du vergièr accusent X ceux qui dedans l'iaue mu-<lb/>sent, la Rose, -1669,11 xrve s. Et "encore eùst on tout <lb/>occis et tué,S'il n'eussent nommél'englois et accusé <lb/>Qui les-armespendi de Bertran l'aduré, Guesclin, <lb/>4 9767. Dame, distGàlerans, jà n'aie je pardon, Seje <lb/>vous en accuse par nulle entention, Baud. de Séb. <lb/>n, 90. || xvi" s. Ils ne nous accusoient [dénonçaient] <lb/>jamais aux ennemys, CARLOIX, v, 6. Ceux qui accu-<lb/>sent les hommes de.... MONT, I, 44. Les vieux du <lb/>Sénat accusèrent [blâmèrent] cette pratique, ID. I, <lb/>23*. Les mesmes paroles qui accusent [indiquent] <lb/>ma maladie, ID. I, 34</note>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM
+. Provenç accusar;espagn. acusar; ital. <lb/>accusare; de accusare, de ad, à, et d'un ra-<lb/>dical sur lequel on a varié. Priscien dit que ce ra-<lb/>dical est jusare, fréquentatifde cudere, qui veut dire <lb/>forger. Mais il est plus vraisemblablede le ratta-<lb/>cher à causa, cause (voy. ce mot). Ce qui ajoute <lb/>quelque probabilité à cette étymologie, c'est que <lb/>Bède dit que accusare s'est aussi écrit avec deux ss, <lb/>orthographe qui est aussi celle de causa, caussa. <lb/>t.... ACÉ (a-sé), suffixeemployé surtout pour dési-<lb/>gner des catégoriesde plantes ou d'animaux ; leslilia-<lb/>cées, les crustacés</etym>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Aceus, suffixe latin indiquant le rapport <lb/>et la ressemblance</etym>
+</entry><entry><lemma>ACENS (a-san), s. m. </lemma>
+<sense>Terme d'anciennes coutu-<lb/>mes. Terre ou héritage quelconque tenu à cens</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. A et cens</etym>
+</entry><entry><lemma>ACENSÉ, ÉE (a-san-sé, sée), part, passé</lemma>
+</entry><entry><lemma>ACENSEMENT (a-san-se-rnan), s. m. </lemma>
+<sense>Terme d'an-<lb/>ciennes coutumes. Action de donner à cens</sense>
+<pc>. <lb/>-</pc>
+<note>HIST. xive s. La seureté de tout le vendaige ou <lb/>acensissementdes dis moulins, DU CANGE, accensa-<lb/>mentum</note>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Âcenser; provenç. acessamen, assensa-<lb/>ment</etym>
+</entry><entry><lemma>ACENSER (a-san-sé), «. a. </lemma>
+<sense>Terme d'anciennes <lb/>coutumes. Donner à'cens, c'est-à-dire sous la re-<lb/>devance d'une rente</sense>
+<pc>. <lb/>-</pc>
+<note>HIST. xine s. Il ont acensi pour els et por les <lb/>oirsdu roi de Navarre lesmaisonsle roi qui sont.... <lb/>DU CANGE , accensare. Et s'il avenoit que je acense-<lb/>sisse mon winage, m. ib. || xiv s. Que toutes les <lb/>revenues de la dicte ville seront acensées, ID. ib. <lb/>|| xve s. Les communes de Paris s'esmurent et armè-<lb/>rent , et occisenttous ceux qui avoient assencé ces <lb/>gabelles et ces impositions, FROISS.II , n, 437. Robaut <lb/>dist au suppliant qu'il se achenssast et composast <lb/>par devers Jehan, DU CANGE, ib</note>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Acens; Berry, .accenser; provenç. aces-<lb/>sar; ital. accensare</etym>
+</entry><entry><lemma>ACÉPHALE (à-sé-fal'), adj. </lemma>
+<sense>Terme didactique. <lb/>||i° Qui n'a point de tête. Un monstre acéphale</sense>
+<pc>. <lb/>|| </pc>
+<sense>2° Fig.. Qui n'a point ou qui ne reconnaît pas <lb/>de chef. Concile acéphale.Secte acéphale</sense>
+<pc>. || </pc>
+<sense>8° Dans <lb/>la versificationancienne, vers acéphale, vers tron-<lb/>qué au commencement, et particulièrementl'hexa-<lb/>mètre qui commençait par une brève</sense>
+<pc>. || </pc>
+<sense>4° S. m. <lb/>Espèce fabuleuse d'hommes sans tête. St Augustin <lb/>assure qu'il a vu des -acéphale», VOLT. Oreilles, 6</sense>
+<pc>. <lb/>|| </pc>
+<sense>5° En termes d'histoire naturelle, animaux qui <lb/>n'ont point de tête. Les huîtres sont des acéphales</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. 'Axéça)-oç,de a privatif, et x£&amp;lt;paXïi, tête, <lb/>(voy. CÊPHALIQUE)</etym>
+</entry><entry><lemma>t ACÉRAIN,AINE(a-sé-rin, Te-n'),adj. </lemma>
+<sense>Qui tient <lb/>de la nature de l'acier. Fer acérain. Mine acéraine</sense>
+<pc>. <lb/>-</pc>
+<note>HIST. xn° s. Pinabaux de Sorence tint le brant <lb/>acerin, flonc. p. 494. Le roi [il] servi au bon <lb/>branc acerin ; De plusors gueres il fist maint orfe-<lb/>nin, R. de Cambrai, 8</note>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Acier</etym>
+</entry><entry><lemma>ACERBE (a-ser-b'),ad]'</lemma>
+<pc>. || </pc>
+<sense>1° D'ungoût âpre. Fruits <lb/>acerbes</sense>
+<pc>. || </pc>
+<sense>2° Fig. Sévère et dur. Des parolesacerbes. <lb/>C'est un homme "acerbe. Il m'écrivit surun ton très-<lb/>acerbe</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Acerbus. Ce mot a une parenté évidente <lb/>avec acer, acre (voy. ACRE), et avec tous les mots' <lb/>qui, formés avec le radical ac différemment varié, <lb/>ont le sens de pointu et de piquant</etym>
+</entry><entry><lemma>ACERBITÉ (a-sèr-bi-té),s. f. </lemma>
+<pc>\\ </pc>
+<sense>1° Qualité de ce <lb/>qui est acerbe. L'acerbitéde ce fruit</sense>
+<pc>. || </pc>
+<sense>2° Fig. L'a-<lb/>cerbité de son langage. L'obligationde raconter le <lb/>fait lui rappelle la mémoireplus vive de l'acerbité <lb/>d'un événementqui.... p. L. CODR. I, 74</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Acerbitas, de acerbus, acerbe</etym>
+</entry><entry><lemma>f ACERE (a-se-r'), adj. m. </lemma>
+<sense>Histoire naturelle. Il <lb/>se ditd'insectes qui n'ont point d'antennes et'demol-<lb/>lusques dont la tête est dépourvue de tentacules</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. A privatif,et xépoe;, corne (voy. CORNE)</etym>
+</entry><entry><lemma>ACÉRÉ, ÉE (a-sé-ré, rée), part, passé</lemma>
+<pc>. || </pc>
+<sense>1° Rendu <lb/>tranchant par l'acier, affilé, aigu. Fer à pointe <lb/>acérée. La plainte qu'on permet à des désespérés <lb/>Ne te sauvera pas de ses traits acérés, ROTROU, <lb/>Berc. mour. v, 3. Un serpent blessait Zadig au <lb/>coeur.de sa langue acérée, VOLT. Zadig, 7</sense>
+<pc>. || </pc>
+<sense>2" Fig. <lb/>Qui blesse profondément.Les traits acérés delà ca-<lb/>lomnie. Langue acérée. Plaisanteries acérées</sense>
+</entry><entry><lemma>ACÉRER(a^sé-ré. La syllabe ce prend l'accentaigu <lb/>quand la syllabe qui la suit est sonnante, j'a-<lb/>cérais, et l'accent grave quand cette syllabe est <lb/>muette, j'acère), v. a. </lemma>
+<pc>|| </pc>
+<sense>1" Garnir d'acier un instru-<lb/>ment pour le rendretranchant</sense>
+<pc>. || </pc>
+<sense>2° Fig. Quelques <lb/>motifs particuliers acéraient encore les calomnies et <lb/>les haines qui doivent préparer les dissensions de <lb/>Marseille, MIRAB. Collection,t. ni, p. 407</sense>
+<pc>. <lb/>-</pc>
+<note>HIST. xii" s. Hanste [il]eut moult fort, li fers <lb/>fu acerez, Ronc. p. 36.Vostre espée est reburse, ses <lb/>brans est acerez; S'il traistsur vus s'espée, sustenir <lb/>nel purrez, Th. le Mart. 36. L'escu [il] saisi, qui fu <lb/>à or bendez, Etprent l'espié qui fu bien acerez, H. <lb/>de Cambrai, 24. || xm° s. Les portes [ils] desfer-<lb/>rerent à grans pels [pieux] acérés, Ch. d'Ant.vi, <lb/>843. || xve s. Et tenoit un glaive roide et fort à un <lb/>long fer bien acéré, FROISS.i, i, 435. ||xvi°s. Il <lb/>n'y a harnois si bien trempé et acéré qui eust pu <lb/>préserver un coeur de leurpointe, YVER,p.B39. Sai-<lb/>chant que cueur d'amye ou vray amant Est acéré <lb/>trop plus que dyamant Contre infortune, j. MAROT, <lb/>v, 209. De sa lance asserée verde et roide rumpoyt <lb/>un huys, RAB. Garg. i, 23. Ilz ont les grypbes tant <lb/>fortes, longues et asserées, que rien ne leur es-<lb/>chappe, depuys que une foys l'ont mis entre leurs <lb/>serres, ID. Pant. v, 44. Cela que le soudarfaux es-<lb/>paules ferrées,Que le cheval flanqué de" bardes acé-<lb/>rées, Ne put faire par force, amour le fait seulet, <lb/>RONS. 662. Il faut roidir son courage, affermir son <lb/>ame, l'endurcir et acerer à jouir, sçavoir, enten-<lb/>dre, juger toutes choses, CHARRON, Sag. Préface</note>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Acier; provenç. aceirar; espagn.acerar; <lb/>ital. aciajare</etym>
+</entry><entry><lemma>f ACÉRURE (a-sé-ru-r'),s. f. </lemma>
+<sense>Morceau d'acier pré-<lb/>paré pour être soudé à une pièce qu'on veut acérer</sense>
+</entry><entry><lemma>ACESCENSE(a-sè-ssan-s'), s. f. </lemma>
+<sense>Terme didacti-<lb/>que. Disposition à s'aigrir</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Acescent</etym>
+</entry><entry><lemma>ACKSCENT,ENTE(a-sè-ssan,ssant'), adj. </lemma>
+<sense>Terme <lb/>didactique. Qui commence à deveniracide</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Acescens,de acescere, deveniracide, d'un <lb/>radical ac qui se trouve dans acide (voy. ACIDE)</etym>
+</entry><entry><lemma>TACÉTABULE(a-sé-ta-bu-l'), s. m. </lemma>
+<pc>|| </pc>
+<sense>i» Terme <lb/>d'antiquité. Sortede vase destiné au vinaigre</sense>
+<pc>. || </pc>
+<sense>2° Me-<lb/>sure répondant à la cotyle grecque et contenant <lb/>0,27 litres</sense>
+<pc>. || </pc>
+<sense>3° Les anatomistes appelaient autre-<lb/>fois acétabulesles cavitésarticulaires qu'on nomme <lb/>aujourd'hui cavités cotyloïdes. Ils donnaient aussi <lb/>le nom d'acétabuleà des enfoncementsqui se voient <lb/>à l'intérieurde la matrice chez les chèvres, les bre-<lb/>bis, etc. || Histoire naturelle. Suçoir des bras des <lb/>mollusques céphalopodes</sense>
+<pc>. <lb/>-</pc>
+<note>HIST. xvie s. L'air est conduit.... de la grand <lb/>artère aux artèresde la matrice et cotilidoines <lb/>, <lb/>qui <lb/>sont au chorium, par lesacetables, et des acetables <lb/>à l'umbilic de l'enfant, par la veine umbilicale, <lb/>PARÉ, t. II, p. 634. Iceux orifices ont esté appelles <lb/>des Grecs cotylédons, et des Latins acetables, ID. <lb/>XVIII, 6</note>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Acetabulum, de acelum, vinaigre (voy <lb/>ACÉTIQUE)</etym>
+</entry><entry><lemma>ACÉTATE(a-sé-ta-f), s. m. </lemma>
+<sense>Terme de chimie. Se <lb/>dit des sels produits par les combinaisons de l'acide <lb/>acétique avec une base. De l'acétate de morphine, <lb/>un grain dans une cuve se perd, en une cuillerée <lb/>tue, p. L. COUP, n, 384</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM.-Acétique</etym>
+</entry><entry><lemma>ACÉTEUX, EUSE (a-sé-teû, teû-se), adj. </lemma>
+<sense>Qui <lb/>a le goût du vinaigre. Acide acéteux, nom ancien-<lb/>nement donné au vinaigre ordinaire,que l'on croyait <lb/>différer de l'acide acétique concentré, par un degré <lb/>moindre d'oxygénation</sense>
+<pc>. <lb/>-</pc>
+<note>HIST. xvie s. Toutes ces choses aceteuses sont <lb/>fort louées, parce qu'elles irritent l'appétit, PARÉ, <lb/>xxrv, 2</note>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Acetum <lb/>, <lb/>vinaigre <lb/>, <lb/>d'un radical ac qui <lb/>se trouve dans acide (voy. ACIDE)</etym>
+</entry><entry><lemma>t ACÉTIFICATION(a-sé-ti-fi-ka-sion), s.f. </lemma>
+<sense>Réac-<lb/>tion chimique qui transforme l'esprit-de-vin en vi-<lb/>naigre</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Acetum, vinaigre, et facere, faire</etym>
+</entry><entry><lemma>ACÉTIQUE (a-sé-ti-k'), adj. </lemma>
+<sense>Terme de chimie. <lb/>. <lb/>Acide acétique, acidequi est le principe du viniigre</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. acetum,vinaigre, d'un radical ac qui se <lb/>trouve dans acide (voy. ACIDE)</etym>
+</entry><entry><lemma>-(-ACHALANDAGE (a-cha-lan-da-j'), s. m. </lemma>
+<sense>L'en-<lb/>semble des chalands</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Achfllander</etym>
+</entry><entry><lemma>ACHALANDÉ, ÉE (a-cha-lan-dé, dée), part, passé</lemma>
+<pc>. <lb/></pc>
+<sense>Qui a beaucoup de chalands. Boutique achalandée. <lb/>Ce marchand est très-achalandé. Il y a des artisans <lb/>bien plus achalandés les uns que les autres, plus <lb/>forts et plus adroits, et qui gagnent par conséquent <lb/>davantage, VAUBAN, Dîme, p. 94</sense>
+</entry><entry><lemma>ACHALANDER(a-cha-lan-dé),».a.</lemma>
+<pc>|| </pc>
+<sense>i-Achalan-<lb/>deruneboutique.yfairevenirdeschalands</sense>. || <sense>2°Fig. <lb/>Procurer la vogue. Il fallait bien des cérémonies, <lb/>bien du temps pour achalander un oracle, VOLT. <lb/>Moeurs, Oracle</sense>
+<pc>. || </pc>
+<sense>3" S'achalander, v. réfl. Devenir <lb/>achalandé</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. A et chaland</etym>
+</entry><entry><lemma>ACHARNÉ, ÉE (a-char-hé, née), part, passé</lemma>
+<pc>. <lb/>|| </pc>
+<sense>i° Attaché furieusementà sa proie, au propre et <lb/>au figuré. Accusateur acharné. C'est un joueur <lb/>acharné. Elle!, n'étaient pas moins acharnées les <lb/>unes contre les autres, BOSS. Mst. n, 8. D'un peu-<lb/>ple d'assassinsles troupes effrénées, Par devoir et <lb/>par zèle au carnage acharnées, VOLT. Henr. n. On <lb/>dit que ces brigands aux meurtres acharnés.... ID. <lb/>Orphel, i, 5. Je courais, furieux dans ma rage ho-<lb/>micide, Sur ses flancs acharné, dévorer un perfide, <lb/>Ducis,iiom. rv, 5.Ce n'était plus, dans cet amas con-<lb/>fus d'hommes acharnés les uns sur les autres, que <lb/>massacre,vengeance.... FÉN. Tél. xx</sense>. || <sense>2°Où ily ade <lb/>l'acharnement. Un combat acharné. On fait une <lb/>guerre acharnée. Haine acharnée</sense>
+</entry><entry><lemma>ACHARNEMENT (a-char-ne-man),s. m. </lemma>
+<pc>|| </pc>
+<sense>1° Ac-<lb/>tion d'un animal qui s'attache opiniâtrement à la <lb/>chair qu'il dévore</sense>
+<pc>. || </pc>
+<sense>2° Fureur avec laquelle se <lb/>battent des animaux ou des hommes. Combattre <lb/>avec acharnement. On poursuivit l'ennemi avec <lb/>acharnement</sense>.|| <sense>3°Fig. Animosité opiniâtre. L'achar-<lb/>nement des plaideurs. L'acharnement des guerres <lb/>civiles. L'acharnement odieux du chancelier Séguier <lb/>contre Fouquet</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Acharner</etym>
+</entry><entry><lemma>ACHARNER (a-char-né), v. a. </lemma>
+<pc>\\ </pc>
+<sense>1" Donner aux <lb/>chiens, aux oiseauxde proie le goût de la chair</sense>
+<pc>. <lb/>|| </pc>
+<sense>2° Irriter des hommes, des animauxles uns contre <lb/>les autres. Ce n'est point, madame, et ce ne peut <lb/>point être votre dessein d'acharner les fidèles con-<lb/>tre les fidèles, BALZ. Disc, à la Régente. Le premier <lb/>sang versé rend sa fureur plus forte [du peuple] ; Il <lb/>l'amorce, il l'acharné, il en éteint l'horreur, CORN. <lb/>Nicom. v, 4. Puisse leur liberté, préparant leur <lb/>ruine, Acharnant les époux, les pères, les en-<lb/>fants.... VOLT. Scyth. v, 4. Qu'allons-nous donc <lb/>faire par le renvoi de la délibération? Manquer le <lb/>moment décisif, acharner notre amour-propre à <lb/>changer quelque chose à un ensemble que nous <lb/>n'avons pas même conçu ! MIRAB. Collection, t. n, <lb/>p. m</sense>
+<pc>. || </pc>
+<sense>3° S'acharner, v. réfl. Mettre fureur et opi-<lb/>niâtreté dans la lutte. S'acharner sur les vaincus. <lb/>Ce qu'il y avait de plus grand en France s'acharnait <lb/>à ce combat. On s'acharne, on combat sur le corps <lb/>d'Indatire, VOLT. Scyth. iv, 7. Que l'ours s'acharne <lb/>peu souvent Sur un corps qui ne vit, ne meut ni ne <lb/>respire, LA FONT. Fab. v, 20. Ton extrême rigueur <lb/>S'acharne sur mon coeur,MOL. Princ. d'Él. ni,3cm-<lb/>term. 2</sense>
+<pc>. || </pc>
+<sense>4° S'attacher avec opiniâtreté. Ils s'achar-<lb/>nent à diffamer cette harangue. Ils s'acharnaient <lb/>contre le baptême des petits enfants, BOSS. Var. n</sense>
+<pc>. <lb/>-</pc>
+<note>HIST. xvc s. Et tant estoit sur eulx acharné <lb/>qu'après eulx es jardins ficher se vouloit,Bouciq. ri, <lb/>20. || xvic s. Bertrand leur remit le coeur en disant <lb/>qu'il falloit s'acharner sur la personne du baron de <lb/>Mareuil, Giioescl. Stém. 8. Il se verrait maistre de <lb/>ces vices qui sont habituez et acharnez en luy', MONT, <lb/>I, 397. Qui a jamais leu d'homme si obstinément <lb/>acharné envers femme, que de celui-là envers Pop-<lb/>pée? m. iv, 382. Des puissantsdieux et des hommes <lb/>mocqueur,Tout acharné de meurtre et de furie,En-<lb/>flé d'orgueil, enflé de vanterie, RONS. 662. Prince <lb/>né avec un esprit vif, promptà tout, acharné à toutes <lb/>sortes d'amour, B'AUB. Hist. il, 4 29</note>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. A et chair (voy. ce mot); Berry, achar-<lb/>gner ; bourguig. écharné</etym>
+</entry><entry><lemma>ACHAT (a-cha;le f se lie: l'achat et la vente,di-<lb/>tes : l'acha-tet la vente ; au pl. a-châ, rimant avec ap-<lb/>pas; d'autresprononcenta-cha,-comme au singulier ; <lb/>î's se lie; les achats et les ventes, dites: les acha-z <lb/>et les ventes), s. m. </lemma>
+<pc>|| </pc>
+<sense>1° Action d'acheter. Hispal <lb/>fit achat d'un château, us. FONT. Fiancée. Faites <lb/>achat d'un vin qui pousse à vivre, BÊRANGER, Mon <lb/>tombeau</sense>
+<pc>. \\ </pc>
+<sense>2° La chose achetée. Je yeux vous mon-<lb/>trer mes achats</sense>
+<pc>. <lb/>-</pc>
+<note>HIST. xinc s. Et gardés que nus qui l'achatN'i <lb/>puisse faire bon achat, la Rose, -13248. Ce ne puet <lb/>estre que Jehans tiengne un ceval par title d'achat et <lb/>par title d'emprunt, BEAUM. VI, 26. Je fac savoir que <lb/>tous les acas,i... nu CANOË, accatum. || xiv° s. Les <lb/>volontaires sont teles comme vendicion,achat, prest, <lb/>plegerie, usage, ORESME, Eth. -146. || xvi° s.L'achet <lb/>de paradis estoit taxé à certains deniers, CALV. lnst. <lb/>622 <lb/>perdit sa chalemie et son pipeau d'avaine, <lb/>Qui valoient bien d'achat quatre toisons de laine, <lb/>Rons. 743</note>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Voy. ACHETER</etym>
+</entry><entry><lemma>t ACHATE (a-ka-f), s. m. </lemma>
+<sense>Fidèle compagnon. <lb/>C'est son fidèle Achate</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Achates, nom, dans YÉnéide, du fidèle <lb/>compagnon d'Enée, et qui est devenu, dans notre <lb/>langue, un nom commun</etym>
+</entry><entry><lemma>ACHE (a-ch!), s. f. </lemma>
+<sense>Plante ombellifère qui res-<lb/>semble au persil. Le front couronné d'ache toujours <lb/>verte, nous nous excitionsà jouir de la vie, CHA-<lb/>ÏEAUBR. Mart. -160</sense>
+<pc>. <lb/>. <lb/>-</pc>
+<note>HIST. xvi° s. Nous disons quand quelcun est <lb/>bien malade et en grand danger de la vie, qu'il ne <lb/>lui fault plus que Tache <lb/>, <lb/>c'est à dire la sépulture, <lb/>pour ce que nous avons accoustuméde couronner <lb/>les sépultures des morts avec ceste herbe, AMYOT, <lb/>Timol. 36</note>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Apium, du grec âroov</etym>
+</entry><entry><lemma>f ACHÊE (a-chée), s. f. </lemma>
+<sense>Appât pour la pêche à <lb/>la ligne</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Voy. AICHE</etym>
+</entry><entry><lemma>ACHEMINE, ÉE (a-che-mi-né, née), part, passé</lemma>
+<pc>. <lb/>|| </pc>
+<sense>1° Mis en chemin, au propre et au figuré. Convois <lb/>acheminés. Du blé acheminé au marché. Une affaire <lb/>bien acheminée. De nous voir en nostre navire X si <lb/>bonport acheminés, MALH. m, 3. Le cardinalvoyant <lb/>l'affaire assez acheminée pour pouvoir former le <lb/>dessein de l'arrêter [M. le Prince], il résolut de <lb/>prendre des mesures avec Mme de Chevreuse, LA-<lb/>ROCH. Mém. -103</sense>
+<pc>. || </pc>
+<sense>2" Technologie. Se dit d'une glace <lb/>dont on a enlevé les plus grosses aspérités</sense>
+</entry><entry><lemma>ACHEMINEMENT (a-che-mi-ne-man), s. m. </lemma>
+<sense>Ce <lb/>qui est voie, chemin d'une chose. Toute lavie est <lb/>un acheminement vers la mort. Cela était un ache-<lb/>minement au consulat. Ce premier crime fut un <lb/>acheminement à un autre. Cette manière de vi-<lb/>vre est un merveilleuxacheminementà la passion, <lb/>PASO. édit. Cous. La venue des fauxprophètes sem-<lb/>blait être un acheminement à la dernière ruine, <lb/>BOSS. Hist. n, 9. J'ai cru que, pourvu que nous <lb/>conservassionsles effets de l'histoire, toutes les cir-<lb/>constances [delà tragédie] ou, comme je viens de <lb/>les nommer, les acheminements étaient en notre <lb/>pouvoir, CORN. Ex. de Rodog</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Acheminer</etym>
+</entry><entry><lemma>ACHEMINER (a-che-mi-né), v. a. </lemma>
+<pc>|| </pc>
+<sense>1° Mettre <lb/>dans le chemin, au propre et au figuré. Acheminer <lb/>du blé vers le camp. La joie où vous m'acheminez.... <lb/>MOL. le Dép. v, 6. C'est une nouvelle qui achemine <lb/>la paix, SÉV. 329. Il refusait d'acheminer cette affaire <lb/>par des voies raisonnables, BOSS. Projet. Au trépas <lb/>Chaque moment de plaisir l'achemine, LA FONT. <lb/>Mandrag</sense>
+<pc>. || </pc>
+<sense>2° En termes de manège, acheminer <lb/>un cheval, habituer un jeune cheval à marcher de-<lb/>vant lui</sense>
+<pc>. || </pc>
+<sense>3° S'acheminer, v. réfl. Se mettre en che-<lb/>min, partir pour. Je n'ai point trouvé étrange de <lb/>les voir arrivés où je les avais vus s'acheminer, <lb/>BALZ. 7° Disc, sur la cour. Le maréchal s'étant <lb/>acheminé pour aller à Trêves.... SÉV. 205. Une <lb/>troupe mutine, Maîtresse de la ville, au. palais <lb/>s'achemine, QOIN. Paus. v, 4</sense>
+<pc>. || </pc>
+<sense>4° Fig. Arriver <lb/>à son but, à ses fins. Sa sagesse.... S'achemineà <lb/>grands pas à l'empire du monde, CORN. JVic.'v, -I. <lb/>Depuis ce coup fatal le pouvoird'Agrippine Vers sa <lb/>chute à grands pas chaque jour s'achemine, RAC. <lb/>Brit. i, -i. L'oeuvre de Dieu s'acheminait, BOSS. <lb/>Hist. il, 6. Les choses s'acheminent où nous vou-<lb/>lons, MOL. Pourc_.ni,t.Il n'y .a pas une ode dont le <lb/>but soit plus évident et où le poètes'y achemineplus <lb/>droit, DIBER. Lettr. à Gai. Ce qui fut décidé main-<lb/>tenant s'examine ; Et vers nous pas à pas la raison <lb/>s'achemine, M. J. CHËN. Charles IX, n, 3. On est <lb/>trop heureux de n'être trompé que dans des choses <lb/>médiocres; les grandes ne laissent pas de s'achemi-<lb/>ner ; et c'est la seule chose dont un grand homme <lb/>doit être en peine, FÉN. Tél. xxn</sense>
+<pc>. <lb/>-</pc>
+<note>HIST. xi° s. [Il] entre en sa veie, si s'est ache-<lb/>minez, Ch. de Roi. 26. Vers doulce Francetuit sont <lb/>acheminié, ib. 63. || xir s. Ne à haut ne à bas lur <lb/>conseil ne illustrèrent; Quant il virent lur aise, par <lb/>nuit s'acheminèrent, Th. le Mart. 50. Quant il <lb/>orent ensemble, tant cum voldrent, parlé, Muntent <lb/>sur lur chevals et sunt acheminé, ib. M 8. En vers <lb/>la mer se sunt nuitantre achemine, ib. 60. || xme s. <lb/>Il issent de la ville ; es les acheminés, Ch
+. 
+d'Ant. <lb/>m, 588. Jusques à l'endémain que sont acheminé, <lb/>ib <lb/>. <lb/>m, 477. Ysengrins'est'acheminez, Et erre tant qu'il <lb/>vint à cort, Renart, 8248. Lors après celé départie, <lb/>Eschivantla destre partie,Vers la-senestre m'ache-<lb/>min Por querre le plus brief chemin, la Rose, <lb/>4 0063. Si [elle] Ta tant poursivui [le sentier] et tant <lb/>acheminé.... Berle, 46. Au temps que les cornoilles <lb/>braient Et la froidure s'achemine.... RUTEB. n, 66
+. <lb/>|| 
+xve s. Si s'en achemina [de Dynant] vers Vennes, <lb/>FROISS. I, I, 208. Il xvie s. Chose à quoy nature <lb/>mesme nous achemine, MONT, I, 4 4. Il s'achemina <lb/>de ce pas au supplice, ID. I, 4 9. Mon opinion est de <lb/>les acheminertousjours aux meilleureschoses et plus <lb/>proufitables, ID. i, -169. [Cette chose] acheminant <lb/>ainsi cetteamitié quenous avons nourrie, ID. I , 206. <lb/>Estant donc les Barbaresacheminez en ceste inten-<lb/>tion vers Rome.... AMYOT, Carn. 34. Ses affaires <lb/>estaient jà. si bien acheminezqu'il les tenoit pour <lb/>achevez, ID. Tirn. -12. Quand toute la monstre de <lb/>son triumphe fut acheminée, luy mesme monta des-<lb/>sus son chariot triumphal. ID. Marc. 4 0. Lucullus <lb/>ne laissa point d'acheminer et haster son armée le <lb/>plus tost qu'il lui fut possible, ID. IMCUII. 44. Ces <lb/>choses ainsi faittes, Lucullus s'achemina devers la <lb/>cité de Tigranocerta, m. t&amp;amp;. 48</note>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. À et cheminer; picard, akeminer</etym>
+</entry><entry><lemma>ACHÉRON(a-ché-ron), s. m. </lemma>
+<sense>Terme de mytho-<lb/>logie. Fleuve des enfers. Les poètes le prennent <lb/>pour Tenfer ou pour la mort. Un mal qui répand la <lb/>terreur.... La peste, puisqu'il faut l'appeler par son <lb/>nom, Capable d'enrichir "en un jour TAchéron, LA <lb/>FONT. Fabl. vn, -l</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. AxÉptflv</etym>
+</entry><entry><lemma>ACHETÉ, ÉÈ (a-che-té,tée), p. passé. </lemma>
+<pc>|| </pc>
+<sense>1° Acquis <lb/>à prix d'argent. Des noirs achetés à la côte d'Afri-<lb/>que. Jegouverne l'empire où jefusacheté, RAC. Eslk. <lb/>il, 1</sense>
+<pc>.1| </pc>
+<sense>2" Gagné par corruption. Applaudissements <lb/>achetés. Un témoin acheté. Retourner à l'armée! <lb/>Ah ! sachez que là reine La sème d'assassins ache-<lb/>tés par sa haine, CORN. Nie. i, 4</sense>
+<pc>. || </pc>
+<sense>3° Obtenu avec <lb/>peine. Récompense achetée au prix d'un grand tra-<lb/>vail. L'honneur d'un si beau choix serait trop ache-<lb/>té.... CORN. Hor. n, 8. Ce reste malheureux [de vie] <lb/>serait trop acheté, S'il faut le conserver par une <lb/>lâcheté, RAC. Baj. n, 3. Au prix du déshonneur quel-<lb/>ques heures de plus Lui sembleraient trop achetées, <lb/>A. CHÉN, 200. [Pierre le Grand] remportant avec lui <lb/>la science de la construction des vaisseaux, acquise <lb/>en moins de deux ans, parce, qu'il l'avait acquise <lb/>par lui-même, et achetée courageusement par une <lb/>espèce d'abdication de la dignité royale, FONTEN. <lb/>Cgar Pierre. Il est si ordinaire à l'homme de n'être <lb/>pas heureux, et si essentiel à tout ce quiest un bien <lb/>d'être acheté par mille peines, qu'une affaire qui <lb/>se rend facile devient suspecte, LABRDY. 44</sense>
+</entry><entry><lemma>ACHETER (a-che-té ; ne prononcez pas a-je-té,ni, <lb/>comme Vaugelas le défend aussi, a-jé-ter. La syl-• <lb/>labec/ie est muette quand la syllabequi suit est son-<lb/>nante , et prendl'accent grave quand cette syllabe qui <lb/>suit est muette ; gardez-vousdonc bien de pronon-<lb/>cer, comme font quelques personnes, ach'trai pour <lb/>a-chè-te-rai, et ainsi de suite); v. a. </lemma>
+<pc>||" </pc>
+<sense>1° Acquérir <lb/>une chose à prix d'argent. Acheter une maison. Les <lb/>gens qui font la traite achètent des noirs sur la <lb/>côte d'Afrique. Des étrangersachetèrent de quelques <lb/>pêcheurs ce qu'ils allaient tirer du coup de filet <lb/>qu'ils venaient de jeter dans la mer, FÉN. Philoso-<lb/>phes, Thaïes. Comme une pierre précieuse qu'on <lb/>n'achète qu'en se défaisant de tout le reste et le <lb/>vendant, BOURD. Pensées,t. i, p. 90. Une femme de <lb/>qui il achetaitdes herbes au marché, LA BRUY. Disc' <lb/>sur Théoph. M'habiller de bonnesétoffes et me nour-<lb/>rir de viandes saines, et les acheter peu, ID. -10. <lb/>Les huit ou dix mille hommes sont au souverain <lb/>comme une monnaie dont il achète une place ou <lb/>une victoire; s'il fait qu'il lui en coûte moins.... ID. <lb/>10. || Absolument. La manie d'acheter</sense>
+<pc>. |[ </pc>
+<sense>2° Ache-<lb/>ter un homme, lui donner une somme pour qu'il <lb/>serve en place d'un autre à l'armée. 11 3° Acheter <lb/>des soldats, donner à un gouvernement étranger <lb/>de l'argent pour qu'il fournissedes soldats. Dans la <lb/>guerre d'Amérique, l'Angleterre acheta plusieurs <lb/>régiments dans les petits Etats de l'Allemagne</sense>
+<pc>. <lb/>|| </pc>
+<sense>4° Procurer à prix d'argent une chose qui n'est pas <lb/>vénale, corrompre à prix d'argent. Acheter ses ju-<lb/>ges. Il acheta par des largesses l'attachement des <lb/>soldats. Et des mêmes présents qu'il verse dans mes <lb/>mains,J'achète contre lui les esprits des Romains, <lb/>CORN. Cinna, i, 2. Je gage, s'il naît un Voltaire, <lb/>Qu'on emprunte pour Tacheter, BÉR. Poète de Cour</sense>
+<pc>. <lb/>|| </pc>
+<sense>5° Fig. Obtenir avec peine et difficulté. Ache-<lb/>ter la bienveillance par des flatteries. Il acheta <lb/>la victoire au prix du sang de ses meilleurs sol-<lb/>dats <lb/>Ceux qui de leur sang m'ont acheté l'em-<lb/>pire <lb/>, <lb/>CORN. Cinna, v, -I. Ce que de tout mon <lb/>sang je voudrais acheter, ID. Pol. iv,3. N'achetez <lb/>point si cher une gloire inutile, RAC. Alex, v, s. <lb/>J'entrevois vos mépris, etjuge, à vos discours,Com-<lb/>bien j'achèterais vos superbes secours, ID. Iph.iv, 6. <lb/>Nul ne leur a plus fait acheter la victoire, ID. Mithr. <lb/>v, 5. "Il a par trop de sang acheté leur colère, ID. <lb/>Andr. i, 4. Vous achetiez sa mort avec mon hymé-<lb/>née, VOLT. Mit. iv, 2. Que les jours de mon fils <lb/>n'achètent point ses jours, ID. Orphel. n, 3. Il <lb/>achetait parses propres périls sa réputation, FLËCH. <lb/>Mar.-Th. Les plaisirs qui se font acheter par des <lb/>remords, MASS. Prod. Chactas avait acheté: la vertu <lb/>par l'infortune, CHATEAUB. Atala, 207. Si les hom-<lb/>mes ne sont point capables d'une joie plus sensible <lb/>que de connaîtrequ'ils sontaimés, et si les rois sont <lb/>hommes, peuvent-ils jamais trop acheter le coeur <lb/>de leurs peuples? LA BRÏÏY. -IO. Fallût-ildonc Tache-<lb/></sense>
+</entry></body>
+	</text>
+</tei>

@@ -1,0 +1,24 @@
+Dict+DLF+Model+sub-sense+Feature+Unigram+DataLevel+4
+===== Field-level results =====
+
+label                accuracy     precision    recall       f1           support
+
+<def>                62.65        7.44         30.14        11.93        219    
+<example>            62.88        6.82         24.89        10.7         233    
+<gramGrp>            99.54        36.36        44.44        40           9      
+<num>                99.85        94.44        85           89.47        20     
+<pc>                 95.02        81.5         78.55        80           331    
+<re>                 99.35        7.69         16.67        10.53        6      
+<usg>                98.81        76.74        85.71        80.98        77     
+
+all (micro avg.)     88.3         21.6         52.74        30.65        895    
+all (macro avg.)     88.3         44.43        52.2         46.23        895    
+
+===== Instance-level results =====
+
+Total expected instances:   229
+Correct instances:          51
+Instance-level recall:      22.27
+
+
+Evaluation for sub-sense model is realized in 1340 ms

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dictionaryBodySegmentation.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="dictionaryBodySegmentation.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><entry>yondico dzamandi : mudar a veces la carga <lb/></entry>
+<entry>yondico inindi : amansarse el airado ; aplacarse ; <lb/>desembravecerse ; desencapotarse, desenojarse <lb/></entry>
+<entry>yondico nahindi yuu : revolver alguna cosa como <lb/>piedra <lb/></entry>
+<entry>yondico ndahui inindi : amansarse el airado <lb/></entry>
+<entry>yondico ndahui inindi sita : mancilla tener de <lb/>quien primero estaba enojado <lb/></entry>
+<entry>yondico ndaq ndayendi : adobar ropa vieja <lb/></entry>
+<entry>yondico ndidzondi : adobar ropa vieja <lb/></entry>
+<entry>yondico ndodzo tniño nicoo coondi : suceder a <lb/>otro en oficio <lb/></entry>
+<entry>yondico ñahandi : seguir acompañando <lb/></entry>
+<entry>yondico quaa : tornar a pecar <lb/></entry>
+<entry>yondico quay : repetir <lb/></entry>
+<entry>yondico sica ñahandi : seguir de lejos <lb/></entry>
+<entry>yondico siyo : digerir la comida <lb/></entry>
+<entry>yondico siyo qua ñuhu : enconarse la llaga <lb/></entry>
+<entry>yondico tasi inindi : mudar el corazón ; pena tener, <lb/>arrepintiéndose de algo <lb/></entry>
+<entry>yondico tasindi : mover algo quitándolo de un <lb/>lugar para otro ; revender ; vender como regatón <lb/></entry>
+<entry>yondico tasindi huahi : mudar casa <lb/></entry>
+<entry>yondico tnahandi : proceder <lb/></entry>
+<entry>yondico tneendi : estribar haciendo fuerza con las <lb/>manos <lb/></entry>
+<entry>yondico tniño naandi : volver prestado en espe-<lb/>cie <lb/></entry>
+<entry>yondico tniñondi : trasegar vino <lb/></entry>
+<entry>yondico tnundoo : arribar los navíos volver al <lb/>puerto <lb/></entry>
+<entry>yondicondi : volverse de donde había ido ; huir para <lb/>atrás ; retraerse o retirarse en batalla ; tornar de <lb/>donde fui <lb/></entry>
+<entry>yondicondi : moler <lb/></entry>
+<entry>yondicondi : refrescarse ; resfriarse <lb/></entry>
+<entry>yondicondita, futuro ca ndico : acompañar a otro <lb/>andando con él <lb/></entry>
+<entry>yondicote : atados estar animales <lb/></entry>
+<entry>yondichi : estar manchado <lb/></entry>
+<entry>yondichi yondaa vuisi : hojosa cosa de hojas <lb/></entry>
+<entry>yondidzi ndaa : extenderse por la tierra, como <lb/>hojas de calabaza <lb/></entry>
+<entry>yondidzo ñaha idzu : caminar a caballo <lb/></entry>
+<entry>yondidzo yecandi, futuro ca ndidzo : prestados <lb/>tener tomines ; deudas tener, deberlas <lb/></entry>
+<entry>yondidzo yecandita nday ndaa cata nitavui, fu-<lb/>turo ca ndidzo : adeudado estar sin pagarlo que <lb/>debe <lb/></entry>
+<entry>yondidzo yotavuindi quachi : dejar de enmendar-<lb/>se perseverando en el pecado <lb/></entry>
+<entry>yondidzo yotavuindi quachi, futuro candidzo, <lb/></entry>
+<entry>futuro ca tavui : estar siempre en pecados <lb/></entry>
+<entry>yondidzondi, futuro ca ndidzo : llevar a cuestas <lb/></entry>
+<entry>yondidzondi dzidzo : cargado estar <lb/></entry>
+<entry>yondihi tnahandi : apretarse atropellándose <lb/></entry>
+<entry>yondihi yonañundi quachi : dejar de enmendarse <lb/>perseverando en el pecado <lb/></entry>
+<entry>yondihindi tayu : estar sentado en escaño <lb/></entry>
+<entry>yondihindi yonañundi quachi, futuro co ndi-<lb/>hi : estar siempre en pecados <lb/></entry>
+<entry>yondihindi yonañundi quachi idzi mihi : vivir <lb/>en pecados (por metáfora) <lb/></entry>
+<entry>yondii : relumbrar por relucir <lb/></entry>
+<entry>yondii : rodar como la bola <lb/></entry>
+<entry>yondii idza : urdir <lb/></entry>
+<entry>yondii ndaa : reverberar <lb/></entry>
+<entry>yondii ndaandi : calentarse al sol <lb/></entry>
+<entry>yondii ndicandii : hacer sol <lb/></entry>
+<entry>yondii ndodzo : abochornarse las mieses (no quie-<lb/>re decir abochonarse, sino abochornar las mieses, <lb/>que significa por modo activo) <lb/></entry>
+<entry>yondii ndodzo : abrasar el sol <lb/></entry>
+<entry>yondii ndodzo : asolearse algo ; herir el sol en algu-<lb/>na parte <lb/></entry>
+<entry>yondii ndodzo quaha : rodar como la bola <lb/></entry>
+<entry>yondii nini : resplandecer ; reverberar ; traslucirse <lb/></entry>
+<entry>yondii ninindi : echar rayos de sí resplandeciendo <lb/></entry>
+<entry>yondii yoo : luna hacer <lb/></entry>
+<entry>yondii yosaya ñuu : carestía haber de manteni-<lb/>mientos (esa negra sequedad) <lb/></entry>
+<entry>yondii yotnoo yosicandi : andar de día claro <lb/></entry>
+<entry>yondii yotuvuisi yosacusi : llorar mucha el niño <lb/>con coraje <lb/></entry>
+<entry>yondiindi : devanar con aspa ; lucir o resplandecer <lb/>persona <lb/></entry>
+<entry>yondiindi idza : tela urdir <lb/></entry>
+<entry>yondisi huatundi : aderezados galanamente según <lb/>su estado <lb/></entry>
+<entry>yondisindi ndayu saha ndeye : enlutarse, ponerse <lb/>luto <lb/></entry>
+<entry>yondisindi sa saa : estrenar vestidura <lb/></entry>
+<entry>yondito cuiindi : vivir para siempre <lb/></entry>
+<entry>yondito cutundi : cuidado tener mirando por al-<lb/>guno <lb/></entry>
+<entry>yondito cutundita : tener cuidado de alguno <lb/></entry>
+<entry>yondito huahandi : pesar algún negocio, conside-<lb/>rarlo bien <lb/></entry>
+</body>
+	</text>
+</tei>

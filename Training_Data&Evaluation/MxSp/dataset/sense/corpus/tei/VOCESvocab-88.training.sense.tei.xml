@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="sense.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="sense.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><sense><subSense>ir por algo generalmente [futuro de yosa ca-<lb/>hindi] <lb/></subSense>
+</sense><sense><subSense>de cuando en cuando <lb/></subSense>
+</sense><sense><subSense>en fin, en conclusión <lb/></subSense>
+</sense><sense><subSense>columpiarse <lb/></subSense>
+</sense><sense><subSense>atabal de palo, teponaztle <lb/></subSense>
+</sense><sense><subSense>4 <lb/></subSense>
+</sense><sense><subSense>elementos los cuatro <lb/></subSense>
+</sense><sense><subSense>cuatro tantos <lb/></subSense>
+</sense><sense><subSense>cuadra cosa <lb/></subSense>
+</sense><sense><subSense>anoche <lb/></subSense>
+</sense><sense><subSense>infieri <lb/></subSense>
+</sense><sense><subSense>ir a <lb/>llamar a alguno <lb/></subSense>
+</sense><sense><subSense>ir por algo <lb/>generalmente <lb/></subSense>
+</sense><sense><subSense>crecer el maíz cuando tiene hojas <lb/>grandes <lb/></subSense>
+</sense><sense><subSense>amaneciendo ir <lb/></subSense>
+</sense><sense><subSense>amaneciendo ir <lb/></subSense>
+</sense><sense><subSense>crecer (el maíz) cuando sale la <lb/>espiga <lb/></subSense>
+</sense><sense><subSense>crecer (el maíz) cuando sale la es-<lb/>piga <lb/></subSense>
+</sense><sense><subSense>caer poco a poco, o irse cayendo <lb/></subSense>
+</sense><sense><subSense>acostarse la pared, que pro-<lb/>mete ruina <lb/></subSense>
+</sense><sense><subSense>pasar como el tiempo (pretérito) <lb/></subSense>
+</sense><sense><subSense>a puesta de sol (a las 5/6) <lb/></subSense>
+</sense><sense><subSense>¿hacia dónde está Mé-<lb/>xico? <lb/></subSense>
+</sense><sense><subSense>pintar la fruta cuando empie-<lb/>za a madurar <lb/></subSense>
+</sense><sense><subSense>irse aumentando algo <lb/></subSense>
+</sense><sense><subSense>ir mejorando en la <lb/>enfermedad <lb/></subSense>
+</sense><sense><subSense>me-<lb/>jorar en enfermedad <lb/></subSense>
+</sense><sense><subSense>anochecer <lb/></subSense>
+</sense><sense><subSense>crecer el maíz cuando <lb/>tiene hojas grandes <lb/></subSense>
+</sense><sense><subSense>inclinarse pared <lb/></subSense>
+</sense><sense><subSense>por todas partes <lb/></subSense>
+</sense><sense><subSense>abrirse el entendimiento al niño <lb/>cuando empieza el uso de la razón <lb/></subSense>
+</sense><sense><subSense>anochecer <lb/></subSense>
+</sense><sense><subSense>abrirse el entendimiento al niño <lb/>cuando empieza el uso de la razón <lb/></subSense>
+</sense><sense><subSense>esclareciendo ir ya el día <lb/></subSense>
+</sense><sense><subSense>de día entre dos luces <lb/></subSense>
+</sense><sense><subSense>desfallecer desmayán-<lb/>dose <lb/></subSense>
+</sense><sense><subSense>desfallecer desmayán-<lb/>dose <lb/></subSense>
+</sense><sense><subSense>amarillecerse la fruta que comien-<lb/>za a madurar <lb/></subSense>
+</sense><sense><subSense>pintar la fruta cuando <lb/>empieza a madurar <lb/></subSense>
+</sense><sense><subSense>emplumecer el ave cuando <lb/>empieza a echar pluma <lb/></subSense>
+</sense><sense><subSense>anochecer <lb/></subSense>
+</sense><sense><subSense>pintar la fruta cuando empieza <lb/>a madurar <lb/></subSense>
+</sense><sense><subSense>pintar la fruta cuando empieza a <lb/>madurar <lb/></subSense>
+</sense><sense><subSense>allegarse, irse allegando <lb/></subSense>
+</sense><sense><subSense>llegarse el tiempo <lb/></subSense>
+</sense><sense><subSense>andar en un año <lb/>que se hizo tal cosa <lb/></subSense>
+</sense><sense><subSense>modorra, vigilia antes del <lb/>alba <lb/></subSense>
+</sense><sense><subSense>desfallecer desmayán-<lb/>dose <lb/></subSense>
+</sense><sense><subSense>refrescar la tarde <lb/></subSense>
+</sense><sense><subSense>emplumecer el ave que ha sido <lb/>pelada <lb/></subSense>
+</sense><sense><subSense>mejorar en enfermedad <lb/></subSense>
+</sense></body>
+	</text>
+</tei>

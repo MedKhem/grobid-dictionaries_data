@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="form.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="form.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><form><orth>a a </orth>
+</form><form><orth>a a a </orth>
+</form><form><orth>a dzuchica añandaa </orth>
+</form><form><orth>a dzuchica caa cuvui </orth>
+</form><form><orth>a dzuchica coo cuvui </orth>
+</form><form><orth>a hua dzevui </orth>
+</form><form><orth>a hua dzevui dzavua </orth>
+</form><form><orth>a huihica añandaa </orth>
+</form><form><orth>a huitnani </orth>
+</form><form><orth>a na ndehe cuvui ndatu nicay </orth>
+</form><form><orth>a ñaha </orth>
+</form><form><orth>a sa dzevui </orth>
+</form><form><orth>a yoo </orth>
+</form><form><orth>a yoo ee ñahando </orth>
+</form><form><orth>aa </orth>
+</form><form><orth>aa </orth>
+</form><form><orth>aa dzuhua huii </orth>
+</form><form><orth>aa ndica huii </orth>
+</form><form><orth>adzi </orth>
+</form><form><orth>adzi </orth>
+</form><form><orth>adzi cuvui </orth>
+</form><form><orth>adzi q cuvui </orth>
+</form><form><orth>adzi yoo </orth>
+</form><form><orth>adzi yoo ee ñahando </orth>
+</form><form><orth>ahua </orth>
+</form><form><orth>ama </orth>
+</form><form><orth>ama </orth>
+</form><form><orth>amana </orth>
+</form><form><orth>amana cuiya </orth>
+</form><form><orth>amana cuvui huatu inindo </orth>
+</form><form><orth>amana na ndita ñumana nuundo </orth>
+</form><form><orth>amana na ndotondo </orth>
+</form><form><orth>amana na tahui inindo </orth>
+</form><form><orth>amana quevui </orth>
+</form><form><orth>amana quevui sa cuvui inindo </orth>
+</form><form><orth>amanaca </orth>
+</form><form><orth>amani </orth>
+</form><form><orth>andaya </orth>
+</form><form><orth>andevui </orth>
+</form><form><orth>andevui isi ndaa tiñoo </orth>
+</form><form><orth>angel nicoo coo ndaa ndita ña </orth>
+</form><form><orth>angel yondaca ñaha </orth>
+</form><form><orth>aniñe </orth>
+</form><form><orth>anuhu </orth>
+</form><form><orth>anuhu </orth>
+</form><form><orth>anuhu maa </orth>
+</form><form><orth>anuhu naa </orth>
+</form><form><orth>anuhu ndahui </orth>
+</form><form><orth>atana </orth>
+</form><form><orth>atu </orth>
+</form><form><orth>aya </orth>
+</form><form><orth>ca chihi ca taa qhu </orth>
+</form><form><orth>ca chihi taa qhu </orth>
+</form><form><orth>ca nay </orth>
+</form><form><orth>ca nayndo quesi </orth>
+</form><form><orth>ca nayndo saha qhundo </orth>
+</form><form><orth>ca ndaa huatu dzoo </orth>
+</form><form><orth>ca ndaca qhu </orth>
+</form><form><orth>ca ndidzo ca tavui </orth>
+</form><form><orth>ca numi ca naha qhundo </orth>
+</form><form><orth>ca numi ca nahando qhundo </orth>
+</form><form><orth>ca siñu </orth>
+</form><form><orth>ca taa hui yuu </orth>
+</form><form><orth>ca tniño ca ndaca qhu </orth>
+</form><form><orth>ca tniño ca ndaca qhu </orth>
+</form><form><orth>ca toto ca dzii a qhu </orth>
+</form><form><orth>caa </orth>
+</form><form><orth>caa </orth>
+</form><form><orth>caa ca tnoo ñuhu </orth>
+</form><form><orth>caa caa nini </orth>
+</form><form><orth>caa caa sa ndavuate yocoo </orth>
+</form><form><orth>caa caa yondavuate </orth>
+</form><form><orth>caa campana dzuchi </orth>
+</form><form><orth>caa campana iñe cani </orth>
+</form><form><orth>caa campana iñe yoo </orth>
+</form><form><orth>caa cana idzi </orth>
+</form><form><orth>caa canda maa </orth>
+</form><form><orth>caa canda yutnu </orth>
+</form><form><orth>caa casi </orth>
+</form><form><orth>caa codzo </orth>
+</form><form><orth>caa codzonica </orth>
+</form><form><orth>caa coho dzini </orth>
+</form><form><orth>caa cono dza cuii ndayu </orth>
+</form><form><orth>caa cono yocanindi </orth>
+</form><form><orth>caa coyo </orth>
+</form><form><orth>caa cuhua </orth>
+</form><form><orth>caa cuina </orth>
+</form><form><orth>caa cuiñe inino mañu caa cuhua </orth>
+</form><form><orth>caa cuiñe ndodzo ite </orth>
+</form><form><orth>caa cuta indii yavui </orth>
+</form><form><orth>caa cuta sa coho dzuq saha </orth>
+</form><form><orth>caa cutu itu </orth>
+</form><form><orth>caa chidzo </orth>
+</form><form><orth>caa chihi cuhua </orth>
+</form><form><orth>caa dza cay ndodzo tnee cavallo </orth>
+</form><form><orth>caa dza cay nduta </orth>
+</form><form><orth>caa dza cay ñuhu </orth>
+</form><form><orth>caa dza ndaa yutnu </orth>
+</form><form><orth>caa dza q cavua tnee cavallo </orth>
+</form><form><orth>caa dzahui (quachita) </orth>
+</form><form><orth>caa dzanda yutnu </orth>
+</form><form><orth>caa dzavua yona taandi </orth>
+</form><form><orth>caa dzee </orth>
+</form><form><orth>caa dzee yutnu </orth>
+</form><form><orth>caa dzico </orth>
+</form><form><orth>caa dzinda </orth>
+</form><form><orth>caa dziñe yocanindi </orth>
+</form><form><orth>caa dziñendi</orth>
+</form><form><gramGrp>futuro </gramGrp>
+<part>cavua</part> 
+</form><form><orth>caa dzita ñuhu </orth>
+</form><form><orth>caa dzuhu </orth>
+</form><form><orth>caa eeni </orth>
+</form><form><orth>caa huadza tnuhu yocaha </orth>
+</form><form><orth>caa huisi </orth>
+</form><form><orth>caa huisini </orth>
+</form><form><orth>caa indii yavui </orth>
+</form><form><orth>caa indita dziñe idzu </orth>
+</form><form><orth>caa indodzo nuu nduvua </orth>
+</form><form><orth>caa ini yotnaha tnuquu </orth>
+</form><form><orth>caa inino ndaha </orth>
+</form><form><orth>caa na canda yutnu </orth>
+</form><form><orth>caa na cuhua idzu caa </orth>
+</form><form><orth>caa na qna </orth>
+</form><form><orth>caa na tniño tnaha </orth>
+</form><form><orth>caa nacono nini sa yondiyu sa co ndadzi </orth>
+</form></body>
+	</text>
+</tei>

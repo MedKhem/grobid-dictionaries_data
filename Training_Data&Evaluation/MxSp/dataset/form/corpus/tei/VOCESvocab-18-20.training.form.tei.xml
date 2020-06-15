@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="form.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="form.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><form><orth>dzehe ninumi ñaha quevui ninihi nduta </orth>
+</form><form><orth>dzehe nisa ndaca ñaha nitnaha ndaha </orth>
+</form><form><orth>dzehe nisay dzaya ninihi nduta </orth>
+</form><form><orth>dzehe nuu </orth>
+</form><form><orth>dzehe quene </orth>
+</form><form><orth>dzehe sahu ñuhundi </orth>
+</form><form><orth>dzehe yotanda uvui </orth>
+</form><form><orth>dzehua </orth>
+</form><form><orth>dzehua castilla </orth>
+</form><form><orth>dzehua nano </orth>
+</form><form><orth>dzehua ndoo </orth>
+</form><form><orth>dzehua nina ndico </orth>
+</form><form><orth>dzehua ñaña </orth>
+</form><form><orth>dzehua tendica </orth>
+</form><form><orth>dzehua ticoo </orth>
+</form><form><orth>dzehui </orth>
+</form><form><orth>dzehui ñuhu cuisi </orth>
+</form><form><orth>dzehui ñuhu tnusii caa tinduu </orth>
+</form><form><orth>dzehui yoo </orth>
+</form><form><orth>dzemi </orth>
+</form><form><orth>dzemi canu </orth>
+</form><form><orth>dzemi coo taha nuni </orth>
+</form><form><orth>dzeñe </orth>
+</form><form><orth>dzeñe caa </orth>
+</form><form><orth>dzeque </orth>
+</form><form><orth>dzeque caa nduhua </orth>
+</form><form><orth>dzeque co ndaa ndaha </orth>
+</form><form><orth>dzeque co ndaa dzuq ndaha </orth>
+</form><form><orth>dzeque dzeque nisiyo saha </orth>
+</form><form><orth>dzeque dzeque yocachindi </orth>
+</form><form><orth>dzeque dzequeni nisiyo saha </orth>
+</form><form><orth>dzeque dzequeni nisiyo saha </orth>
+</form><form><orth>dzeque dzichi </orth>
+</form><form><orth>dzeque dziñuhu </orth>
+</form><form><orth>dzeque dziñuhu quaa </orth>
+</form><form><orth>dzeque dziñuhu taa ndaha </orth>
+</form><form><orth>dzeque dzuma </orth>
+</form><form><orth>dzeque indita ndadzi </orth>
+</form><form><orth>dzeque indita tende </orth>
+</form><form><orth>dzeque na cahui </orth>
+</form><form><orth>dzeque na quatu </orth>
+</form><form><orth>dzeque quevui </orth>
+</form><form><orth>dzeque si </orth>
+</form><form><orth>dzeque site </orth>
+</form><form><orth>dzeque taa ndaha </orth>
+</form><form><orth>dzeque tutu </orth>
+</form><form><orth>dzeque yocahandi </orth>
+</form><form><orth>dzeque yoho dziñuhu quaa </orth>
+</form><form><orth>dzete </orth>
+</form><form><orth>dzevua tendaya </orth>
+</form><form><orth>dzevui </orth>
+</form><form><orth>dzevui </orth>
+</form><form><orth>dzevui </orth>
+</form><form><orth>dzevui dzavua cuhua </orth>
+</form><form><orth>dzevui dzevuini </orth>
+</form><form><orth>dzevui dzevuini nicuvui dzuchi huaha </orth>
+</form><form><orth>dzevui ndu dzavua ndehe nduvui caa </orth>
+</form><form><orth>dzevui ñuhu </orth>
+</form><form><orth>dzevui sa </orth>
+</form><form><orth>dzevui sa iyota </orth>
+</form><form><orth>dzevui tutu </orth>
+</form><form><orth>dzevuita yona qnita </orth>
+</form><form><orth>dzevuito </orth>
+</form><form><orth>dzeye </orth>
+</form><form><orth>dzi </orth>
+</form><form><orth>dzi </orth>
+</form><form><orth>dzi dzi </orth>
+</form><form><orth>dzi </orth>
+</form><form><orth>dzi ndoho dzi </orth>
+</form><form><orth>dzi saco ye saco </orth>
+</form><form><orth>dzi tnoo quay casa </orth>
+</form><form><orth>dzi tnoo quayca ticuiye </orth>
+</form><form><orth>dzica </orth>
+</form><form><orth>dzica quachi </orth>
+</form><form><orth>dzico </orth>
+</form><form><orth>dzico ana yosico yosivuindi</orth>
+</form><form><gramGrp>futuro </gramGrp>
+<part>cuico</part>
+</form><form><orth>dzico ayo yosivuindi </orth>
+</form><form><orth>dzico coo </orth>
+</form><form><orth>dzico huatu </orth>
+</form><form><orth>dzico ini yocanandita yosaha huahi </orth>
+</form><form><orth>dzico quahi yocanandita </orth>
+</form><form><orth>dzico sa casi </orth>
+</form><form><orth>dzico yosayndi</orth>
+</form><form><gramGrp>futuro </gramGrp>
+<part>quay</part> 
+</form><form><orth>dzicu </orth>
+</form><form><orth>dzichi </orth>
+</form><form><orth>dzichi </orth>
+</form><form><orth>dzichi </orth>
+</form><form><orth>dzichi cuine </orth>
+</form><form><orth>dzichi ndaha </orth>
+</form><form><orth>dzidzi sa ee toto ee dzini </orth>
+</form><form><orth>dzidzindi </orth>
+</form><form><orth>dzidzindi </orth>
+</form><form><orth>dzidzo </orth>
+</form><form><orth>dzidzondi </orth>
+</form><form><orth>dzihi </orth>
+</form><form><orth>dzii </orth>
+</form><form><orth>dzii </orth>
+</form><form><orth>dzii cutu </orth>
+</form><form><orth>dzii nuu vino </orth>
+</form><form><orth>dzii tuchi nicuvuite </orth>
+</form><form><orth>dzii yutnu </orth>
+</form><form><orth>dzina </orth>
+</form><form><orth>dzina, dzinaca </orth>
+</form><form><orth>dzina huaa </orth>
+</form><form><orth>dzina huii </orth>
+</form><form><orth>dzina huii, dzina ñuhu </orth>
+</form><form><orth>dzina nuu </orth>
+</form><form><orth>dzina nuuca </orth>
+</form><form><orth>dzina ñahu dzina huii </orth>
+</form><form><orth>dzina ñuhu </orth>
+</form><form><orth>dzina ñuhuca </orth>
+</form><form><orth>dzina tay iyo nuu </orth>
+</form><form><orth>dzina yuca </orth>
+</form><form><orth>dzinaca </orth>
+</form><form><orth>dzinaca ndii ndodzo nuundi sita</orth>
+</form><form><gramGrp>futuro </gramGrp>
+<part>cuindo-<lb/>dzo</part> 
+</form><form><orth>dzinaca yosahandi </orth>
+</form><form><orth>dzinaca yosahandi</orth>
+</form><form><gramGrp>futuro </gramGrp>
+<part>qh</part> 
+</form><form><orth>dzinañu </orth>
+</form><form><orth>dzindiqui </orth>
+</form><form><orth>dzindiqui yeque </orth>
+</form><form><orth>dzinduhua </orth>
+</form><form><orth>dzini </orth>
+</form><form><orth>dzini </orth>
+</form><form><orth>dzini </orth>
+</form><form><orth>dzini cusi </orth>
+</form><form><orth>dzini dzitu </orth>
+</form><form><orth>dzini huahi </orth>
+</form><form><orth>dzini mesa </orth>
+</form><form><orth>dzini ndee </orth>
+</form><form><orth>dzini nicoo cavua </orth>
+</form><form><orth>dzini nidzata ninota </orth>
+</form><form><orth>dzini nisaa cavua </orth>
+</form><form><orth>dzini ñaha </orth>
+</form><form><orth>dzini ñu dzavui </orth>
+</form><form><orth>dzini ñuu </orth>
+</form><form><orth>dzini qua saa nini tnaa, yanda tnaa tasi </orth>
+</form><form><orth>dzini si </orth>
+</form><form><orth>dzini sito </orth>
+</form><form><orth>dzini tecuite </orth>
+</form><form><orth>dzini tniindi </orth>
+</form><form><orth>dzini yanda </orth>
+</form><form><orth>dzini yecu nicuvuita </orth>
+</form><form><orth>dzini yucu </orth>
+</form><form><orth>dzini yutnu </orth>
+</form><form><orth>dzinisi </orth>
+</form><form><orth>dzino ñuhu </orth>
+</form><form><orth>dzinuhu </orth>
+</form><form><orth>dzinuhu </orth>
+</form><form><orth>dzinuhu na tuvui uni quevui </orth>
+</form><form><orth>dzinuhu yona tuvui idza </orth>
+</form><form><orth>dziña </orth>
+</form><form><orth>dziña coco </orth>
+</form><form><orth>dziñe </orth>
+</form><form><orth>dziñe cono </orth>
+</form><form><orth>dziñe chisi </orth>
+</form><form><orth>dziñe chisi yocana nini </orth>
+</form><form><orth>dziñe dzatni </orth>
+</form><form><orth>dziñe dziñe </orth>
+</form><form><orth>dziñe itni </orth>
+</form><form><orth>dziñe ndica </orth>
+</form><form><orth>dziñe nuu </orth>
+</form><form><orth>dziñe quaha </orth>
+</form><form><orth>dziñe si </orth>
+</form><form><orth>dziñe tnaandi </orth>
+</form><form><orth>dziñete </orth>
+</form><form><orth>dziñuhu </orth>
+</form><form><orth>dziñuhu cuisi </orth>
+</form><form><orth>dziñuhu cuisi nisa coo ndaa tnuni </orth>
+</form><form><orth>dziñuhu cuisi nitevuita </orth>
+</form><form><orth>dziñuhu cuisi yondaa ndusa tnuni </orth>
+</form><form><orth>dziñuhu cusi nicuvui ndoo </orth>
+</form><form><orth>dziñuhu dzee </orth>
+</form><form><orth>dziñuhu iñe siña </orth>
+</form><form><orth>dziñuhu ndusa </orth>
+</form><form><orth>dziñuhu nidza cay nduuta </orth>
+</form><form><orth>dziñuhu nidzaca nino </orth>
+</form><form><orth>dziñuhu niqui tnaha ndaa </orth>
+</form><form><orth>dziñuhu nisa coho satnu </orth>
+</form><form><orth>dziñuhu nisina </orth>
+</form><form><orth>dziñuhu nisivui tnaha </orth>
+</form><form><orth>dziñuhu ña ndoo </orth>
+</form><form><orth>dziñuhu quaa </orth>
+</form><form><orth>dziñuhu sa coho chiyo </orth>
+</form><form><orth>dziñuhu yehe dzevui ñuhu </orth>
+</form><form><orth>dziñuhu yotasindi </orth>
+</form><form><orth>dzita </orth>
+</form><form><orth>dzita </orth>
+</form><form><orth>dzita cadzu </orth>
+</form><form><orth>dzita coho </orth>
+</form><form><orth>dzita cuta </orth>
+</form><form><orth>dzita cuta quachi </orth>
+</form><form><orth>dzita dzatnu </orth>
+</form><form><orth>dzita dzayu </orth>
+</form><form><orth>dzita huidzi </orth>
+</form><form><orth>dzita huidzi nichiyo dzaha </orth>
+</form><form><orth>dzita huita </orth>
+</form><form><orth>dzita indii yavui </orth>
+</form><form><orth>dzita indodzo dziya</orth>
+</form><form><gramGrp>futuro </gramGrp>
+<part>cuindodzo</part> 
+</form><form><orth>dzita nahi </orth>
+</form><form><orth>dzita nahi </orth>
+</form><form><orth>dzita ndadzu </orth>
+</form><form><orth>dzita nicachi </orth>
+</form><form><orth>dzita nicadzu </orth>
+</form><form><orth>dzita nicaye, nisisi </orth>
+</form><form><orth>dzita nicudzi, nicana cachi </orth>
+</form><form><orth>dzita nicuvui nu ñuhu </orth>
+</form><form><orth>dzita nihi dzecui </orth>
+</form><form><orth>dzita nindoyo nino </orth>
+</form><form><orth>dzita ninucoho yoco </orth>
+</form><form><orth>dzita nisa coho ndevui </orth>
+</form><form><orth>dzita nisiñe ndaa dzuqndi </orth>
+</form><form><orth>dzita nitahay </orth>
+</form><form><orth>dzita nitahui, nicachi </orth>
+</form><form><orth>dzita nitayu </orth>
+</form><form><orth>dzita niyatna </orth>
+</form><form><orth>dzita ña yehe yusa iya </orth>
+</form><form><orth>dzita ña yusa iya </orth>
+</form><form><orth>dzita ñañu </orth>
+</form><form><orth>dzita ñoho coño </orth>
+</form><form><orth>dzita ñoho ndevui </orth>
+</form><form><orth>dzita ñoho ndoyo </orth>
+</form><form><orth>dzita sadzi </orth>
+</form><form><orth>dzita saha </orth>
+</form><form><orth>dzita sahi </orth>
+</form><form><orth>dzita sañe </orth>
+</form><form><orth>dzita site tiyaca </orth>
+</form><form><orth>dzita ticoo </orth>
+</form><form><orth>dzita ticoo niyatna nuu ñuhu cayu </orth>
+</form><form><orth>dzita vuidzi yadzi </orth>
+</form><form><orth>dzita yutnu </orth>
+</form><form><orth>dzitaca </orth>
+</form><form><orth>dzite </orth>
+</form><form><orth>dzite toniñe </orth>
+</form><form><orth>dzite toniñe obispo </orth>
+</form><form><orth>dzitne </orth>
+</form><form><orth>dzitni </orth>
+</form><form><orth>dzitni cachi tindeye</orth>
+</form><form><gramGrp>futuro </gramGrp>
+<part>quay</part> 
+</form><form><orth>dzitni cuihi </orth>
+</form><form><orth>dzitni cuiñe </orth>
+</form><form><orth>dzitni cuta </orth>
+</form><form><orth>dzitni huiyu </orth>
+</form><form><orth>dzitni ndanda </orth>
+</form><form><orth>dzitni ndico </orth>
+</form><form><orth>dzitni ndodzo </orth>
+</form><form><orth>dzitni nduta </orth>
+</form><form><orth>dzitni quene </orth>
+</form><form><orth>dzitni quete </orth>
+</form><form><orth>dzitni ticoo </orth>
+</form><form><orth>dzitni tinduu tiquaa </orth>
+</form><form><orth>dzitni tnama </orth>
+</form><form><orth>dzitni tnusii </orth>
+</form><form><orth>dzitni too </orth>
+</form><form><orth>dzitni tuu </orth>
+</form><form><orth>dzitnu </orth>
+</form><form><orth>dzitnu yutnu </orth>
+</form></body>
+	</text>
+</tei>

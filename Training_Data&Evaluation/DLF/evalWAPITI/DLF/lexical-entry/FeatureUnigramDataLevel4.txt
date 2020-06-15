@@ -1,0 +1,23 @@
+Dict+DLF+Model+lexical-entry+Feature+Unigram+DataLevel+4
+===== Field-level results =====
+
+label                accuracy     precision    recall       f1           support
+
+<etym>               92.95        31.56        70.19        43.55        161    
+<lemma>              97.33        66.14        86.46        74.94        192    
+<note>               69.43        0.16         4.35         0.31         46     
+<pc>                 98.48        89.08        92.98        90.99        342    
+<sense>              60.84        8.56         47.26        14.5         292    
+<xr>                 98.7         0            0            0            5      
+
+all (micro avg.)     86.29        19.11        71           30.12        1038   
+all (macro avg.)     86.29        32.58        50.21        37.38        1038   
+
+===== Instance-level results =====
+
+Total expected instances:   192
+Correct instances:          57
+Instance-level recall:      29.69
+
+
+Evaluation for lexical-entry model is realized in 2809 ms

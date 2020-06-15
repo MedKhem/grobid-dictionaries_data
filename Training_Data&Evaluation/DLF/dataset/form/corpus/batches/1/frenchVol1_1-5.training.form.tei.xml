@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="form.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="form.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><form><orth>A </orth><pc>(</pc><pron>il</pron><pc>), </pc><gramGrp>s. m. </gramGrp></form><form><orth>A </orth><pc>(</pc><pron>a</pron><pc>), </pc><gramGrp>3» pers. sing. ind</gramGrp></form><form><orth>À </orth><pc>(</pc><pron>a</pron><pc>) </pc><gramGrp>prép. </gramGrp><note>Lorsque à précède l'article mascu-<lb/>lin suivi d'une consonne autre quel'/t muette, on <lb/>les contracte en ait pour à le; lorsqu'il précède <lb/>l'articlepluriel des deux genres, on les contracte en <lb/>aux pour â les</note></form><form>(<orth>ABAISSANT</orth>, <part>ANTE</part> <pc>(</pc><pron>a-bè-san, san-t'</pron><pc>), </pc><gramGrp>ad). <lb/></gramGrp></form><form><orth>ABAISSE </orth><pc>(</pc><pron>à-bê-s'</pron><pc>), </pc><gramGrp>s. f. </gramGrp></form><form><orth>ABAISSÉ</orth>, <part>ÉE</part> <pc>(</pc><pron>a-bè-sé, sée</pron><pc>) , </pc><gramGrp>part, et adj. <lb/></gramGrp></form><form><orth>ABAISSEMENT </orth><pc>(</pc><pron>a-bê-se-man</pron><pc>), </pc><gramGrp>s.m.</gramGrp></form><form><orth>ABAISSER </orth><pc>(</pc><pron>a-bè-sé;quelques-uns disent a-bé-sé. <lb/>Ai prend le son è ou ê, quand la syllabe qui suit est <lb/>muette : ila-bè-se-ra ou a-bê-se-ra</pron><pc>), </pc><gramGrp>v. a. </gramGrp></form></body>
+	</text>
+</tei>

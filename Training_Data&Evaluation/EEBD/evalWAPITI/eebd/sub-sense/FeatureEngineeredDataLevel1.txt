@@ -1,0 +1,24 @@
+Dict+Eebd+Model+sub-sense+Feature+Engineered+DataLevel+1
+===== Field-level results =====
+
+label                accuracy     precision    recall       f1           support
+
+<def>                98.94        95.94        98.44        97.17        192    
+<example>            98.75        96.34        98.87        97.59        266    
+<note>               99.62        88.24        88.24        88.24        17     
+<num>                100          100          100          100          86     
+<pc>                 95.48        93.96        94.65        94.3         411    
+<re>                 98.56        0            0            0            8      
+<usg>                99.81        100          75           85.71        8      
+
+all (micro avg.)     98.74        94.8         95.95        95.37        988    
+all (macro avg.)     98.74        82.07        79.31        80.43        988    
+
+===== Instance-level results =====
+
+Total expected instances:   194
+Correct instances:          180
+Instance-level recall:      92.78
+
+
+Evaluation for sub-sense model is realized in 1252 ms

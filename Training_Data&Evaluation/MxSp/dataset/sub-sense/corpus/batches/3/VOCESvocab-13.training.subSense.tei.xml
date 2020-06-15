@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="subSense.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="subSense.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><subSense><def>como hasta tal parte <lb/></def>
+</subSense><subSense><def>desde entonces <lb/></def>
+</subSense><subSense><def>al prin-<lb/>cipio del mundo <lb/></def>
+</subSense><subSense><def>principio del <lb/>mundo <lb/></def>
+</subSense><subSense><def>aprisa </def>
+</subSense><subSense><def>incontinenti </def>
+[<translation>luego</translation>] 
+</subSense><subSense><def>y luego </def>
+</subSense><subSense><def>luego a la hora </def>
+</subSense><subSense><def>temprano <lb/></def>
+</subSense><subSense><def>hallar algo <lb/>de presto <lb/></def>
+</subSense><subSense><def>de antes <lb/></def>
+</subSense><subSense><def>origen o principio <lb/></def>
+</subSense><subSense><def>al principio <lb/></def>
+</subSense><subSense><def>principio del mundo <lb/></def>
+</subSense><subSense><def>al <lb/>principio del mundo <lb/></def>
+</subSense><subSense><def>pensar antes <lb/></def>
+</subSense><subSense><def>origen o principio <lb/></def>
+</subSense><subSense><def>origen o principio <lb/></def>
+</subSense><subSense><def>gemir al gemido de otro <lb/></def>
+</subSense><subSense><def>agradecer con palabras <lb/>solamente <lb/></def>
+</subSense><subSense><def>incontinenti</def> [<translation>luego</translation>] <lb/>
+</subSense><subSense><def>incontinenti</def> [<translation>luego</translation>] <lb/>
+</subSense><subSense><def>hasta aquí </def>(<usg>señalando</usg>) <lb/>
+</subSense><subSense><def>aquende más cerca <lb/></def>
+</subSense><subSense><def>empeorar cada <lb/>día más en la vida <lb/></def>
+</subSense><subSense><def>origen o principio <lb/></def>
+</subSense><subSense><def>y aún</def> (<gramGrp>conjunción adversativa</gramGrp>), <lb/><def>ut ¿y aún haces eso todavía?</def> <lb/>
+</subSense><subSense><def>caerse muerto <lb/></def>
+</subSense><subSense><def>de allí </def>
+</subSense><subSense><def>hasta acullá <lb/></def>
+</subSense><subSense><def>hasta mañana <lb/></def>
+</subSense><subSense><def>desde ahora <lb/>para siempre jamás <lb/></def>
+</subSense><subSense><def>centro de la tierra <lb/></def>
+</subSense><subSense><def>cisterna aljibe <lb/></def>
+</subSense><subSense><def>chivo o cabrón <lb/></def>
+</subSense><subSense><def>chivato capado <lb/></def>
+</subSense><subSense><def>átomos del sol <lb/></def>
+</subSense><subSense><def>que </def>
+<pc>(</pc>
+<gramGrp>adverbio de comparación</gramGrp>) <lb/>
+</subSense><subSense><def>barniz amarillo para jícaras <lb/></def>
+</subSense><subSense><def>tanto cuanto <lb/></def>
+</subSense><subSense><def>a las 11</def> (<usg>día</usg>) <lb/>
+</subSense><subSense><def>iguales cosas parejas </def>
+</subSense><subSense><def>justa en medi-<lb/>da, pro diversis supositis <lb/></def>
+</subSense><subSense><def>amigo entrañable <lb/></def>
+</subSense><subSense><def>amigo entrañable <lb/></def>
+</subSense><subSense><def>cofia de mujer <lb/></def>
+</subSense><subSense><def>recabar, o recaudar <lb/></def>
+</subSense><subSense><def>eco voz que resuena <lb/></def>
+</subSense><subSense><def>duende </def>
+</subSense><subSense><def>fantasma <lb/></def>
+</subSense><subSense><def>duda hay si escapara <lb/></def>
+</subSense><subSense><def>monipodio hacer <lb/></def>
+</subSense><subSense><def>mazorca, el corazón de ella <lb/></def>
+</subSense><subSense><def>espiga de trigo mocha <lb/></def>
+</subSense><subSense><def>espiga de trigo mocha <lb/></def>
+</subSense><subSense><def>que </def>
+<pc>(</pc>
+<gramGrp>adverbio 
+de compara
+-<lb/>ción</gramGrp>) <lb/>
+</subSense><subSense><def>poco más o menos <lb/></def>
+</subSense><subSense><def>lanzadera de tejedor <lb/></def>
+</subSense><subSense><def>de mañana </def>
+</subSense><subSense><def>mañana del día <lb/></def>
+</subSense><subSense><def>de mañana <lb/></def>
+</subSense><subSense><def>muy de mañana <lb/></def>
+</subSense><subSense><def>muy de mañana <lb/></def>
+</subSense><subSense><def>de mañana <lb/></def>
+</subSense><subSense><def>inconveniente <lb/></def>
+</subSense><subSense><def>barba sin pelos </def>
+</subSense><subSense><def>bezo horadado <lb/></def>
+</subSense><subSense><def>brava cosa <lb/></def>
+</subSense><subSense><def>pájaro <lb/></def>
+</subSense><subSense><def>pájaro solitario <lb/></def>
+</subSense><subSense><def>punta de cosa aguda <lb/></def>
+</subSense><subSense><def>pájaro solitario <lb/></def>
+</subSense><subSense><def>filos tener el cuchillo <lb/></def>
+</subSense><subSense><def>desabrida cosa al gusto <lb/></def>
+</subSense><subSense><def>miembro de mujer <lb/></def>
+</subSense><subSense><def>orina <lb/></def>
+</subSense><subSense><def>vejiga de animal <lb/></def>
+</subSense><subSense><def>aceite </def>
+</subSense><subSense><def>enjundia </def>
+</subSense><subSense><def>gordura </def>
+</subSense><subSense><def>grasa </def>
+</subSense><subSense><def>grosura </def>
+</subSense><subSense><def>lardo 
+de puerco</def> 
+</subSense><subSense><def>manteca </def>
+</subSense><subSense><def>sebo <lb/></def>
+</subSense><subSense><def>embajada </def>
+</subSense><subSense><def>lenguaje propio </def>
+</subSense><subSense><def>palabra del <lb/>señor <lb/></def>
+</subSense><subSense><def>pringue de tocino, o torrezno <lb/></def>
+</subSense><subSense><def>redaño <lb/></def>
+</subSense><subSense><def>romance <lb/></def>
+</subSense><subSense><def>ley generalmente <lb/></def>
+</subSense><subSense><def>riñonada <lb/></def>
+</subSense><subSense><def>aceite de higuerilla <lb/></def>
+</subSense><subSense><def>aceite de higuerilla <lb/></def>
+</subSense><subSense><def>sebo derretido <lb/></def>
+</subSense><subSense><def>riñonada <lb/></def>
+</subSense><subSense><def>aceite de chía <lb/></def>
+</subSense><subSense><def>barniz con que dan lustre <lb/></def>
+</subSense><subSense><def>melena de buey <lb/></def>
+</subSense><subSense><def>melena de buey <lb/></def>
+</subSense></body>
+	</text>
+</tei>

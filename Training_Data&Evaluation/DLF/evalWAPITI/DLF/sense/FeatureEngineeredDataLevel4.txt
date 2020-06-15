@@ -1,0 +1,19 @@
+Dict+DLF+Model+sense+Feature+Engineered+DataLevel+4
+===== Field-level results =====
+
+label                accuracy     precision    recall       f1           support
+
+<pc>                 96.83        95.8         89.06        92.31        128    
+<subSense>           92.15        95.44        93.95        94.69        446    
+
+all (micro avg.)     94.49        95.52        92.86        94.17        574    
+all (macro avg.)     94.49        95.62        91.5         93.5         574    
+
+===== Instance-level results =====
+
+Total expected instances:   324
+Correct instances:          310
+Instance-level recall:      95.68
+
+
+Evaluation for sense model is realized in 2099 ms

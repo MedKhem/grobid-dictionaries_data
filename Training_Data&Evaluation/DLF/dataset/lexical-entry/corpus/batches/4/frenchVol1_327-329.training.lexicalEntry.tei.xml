@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="lexicalEntry.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="lexicalEntry.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><entry><lemma>BÉNÉDICTION (bé-né-di-ksion; en poésie, de cinq <lb/>syllabes),s.f.</lemma>
+<sense>\\l°Action de consacrer, debêniravec <lb/>les cérémoniesdel'église.Labénédictiond'une église</sense>
+<pc>. <lb/>|| </pc>
+<sense>2° Actiond'un prêtre qui bénit les assistants en fai-<lb/>sant le signede la croix. Fêtes sacrées, mariage for-<lb/>tuné, vcSe nuptial, bénédiction, sacrifice, puis-je <lb/>mêleraujourd'hui vos cérémonies et vos pompesavec <lb/>ces pompes funèbres, et le comble'des grandeurs avec <lb/>leursruines?BOSS.Marie-Tliér. Luidonnetoutefois la <lb/>bénédiction, BOIL. Lutr. i. Nous entrâmes dans l'é-<lb/>glise au moment où le prêtre donnait la bénédic-<lb/>tion, ÇHATEAUB. Génie, m, v, 3</sense>
+<pc>. || </pc>
+<sense>3° Action par <lb/>laquelle les pères et les mères bénissent leurs en-<lb/>fants. Elle me donna sa bénédiction, SËV. i&amp;amp;t</sense>
+<pc>. <lb/>|| </pc>
+<sense>4° Grâce et faveurparticulière du Ciel. Les-béné-<lb/>dictions qu'il versa sur les Françaisf BOSS. Unité, 2, <lb/>Et ces bienheureusesprémices ont attiré.une telle <lb/>bénédiction sur la maison Palatine, que nous la <lb/>voyons enfin catholique dans son chef, ID. Anne de <lb/>Gong. Les bénédictions qu'il verse sur ceux qui le <lb/>craignent, FLÉCH. M. de Mont. Courez et servez <lb/>bienleDieudes nations ; Je répands survous tous ses <lb/>bénédictions, M. J. CHÉN. Charles IX, iv, 6. || Fig. <lb/>Maison, pays de bénédiction, maison, pays où tout <lb/>afflue, abonde. Ce précieux levain que Dieu con-<lb/>serve dans ce vaste diocèse non-seulement pour em-<lb/>pêcher toute la masse d'aigrir et de se corrompre, <lb/>mais pour la sanctifier peu à peu, pour l'étendre, <lb/>l'augmenter,et en multiplier la bénédiction, MASS. <lb/>Confér.Retraite.|| C'est une bénédiction, se dit quand <lb/>tout abonde,réussit, comme par une faveur particu-<lb/>lière du Ciel. Les vignes, cette année, sont chargées <lb/>de grappes, c'est une bénédiction.|| Par extension et <lb/>dans le langage familier,c'est une bénédiction, ou, <lb/>que c'est une bénédiction, se dit de tout ce qui sur-<lb/>passe l'attente. Elle engraissait, que c'était une bé-<lb/>nédiction, HAMILT. Gramm. to. Il se laissait enfiler <lb/>[aujeude trictracj,que c'étaitunebénêdiction,m.t6.3. <lb/>11 Enfin, cette locution se dit aussi par antiphrase.Le <lb/>temps était affreux, il pleuvait, que c'était une bé-<lb/>nédiction. || Dans ces exemples, le que ne fait pas <lb/>partie de la locution; c'est une ellipse pour à tel <lb/>point que</sense>
+<pc>. || </pc>
+<sense>5° Sentiments et expressions de grati-<lb/>tude. Sa charité lui attirait les bénédictions des <lb/>pauvres. || Être en bénédiction, être béni, aimé, <lb/>respecté. Dont la mémoire sera en bénédiction dans <lb/>l'Église, BOSS. Exp. Avert. Ce mondeoù sa mémoire <lb/>est en bénédiction, FLÉCH. Mont. La mémoire de <lb/>M. deThou est en bénédiction chez les Français,. <lb/>VOLT. Métaph. 9</sense>
+<pc>. <lb/>-</pc>
+<note>HIST. xi° s. [Il] Levé sa main, fait sa beneîçun,. <lb/>Ch. de Roi. cxx. || xn" s. En paradis aurez benecion, <lb/>Ronc. p. 7&amp;lt;. Tout en plorant [il] leur fit beneïçon, <lb/>»"&amp;amp;. p. 98.11x111" s. Sire rois, grant beneïçon Vos <lb/>doint li fils sainte Marie,Ren. 20090. Biau chier filz, <lb/>je te donne toutes les beneïssons que bon père peut <lb/>donner à fil, JOINV. sot. || xv" s. Et volt le roy <lb/>qu'en chants mélodieux et orgues fussent à Dieu <lb/>chantées laudes et beneyssons, CHRIST, DE PISAN, <lb/>Charles Y, m, ch. 7). || xvr s. Parquoi Dieu fait <lb/>que toute nation, Sans fin te loue en bénédiction, <lb/>MAROT, IV, 286. Et n'est demouré des hommes que <lb/>le renom de leurs faitz de bien en bénédiction et de <lb/>mal en malédiction, Rosier histor. i, 2</note>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Provenç. benedictio, benediccio; es-<lb/>pagn. bendicion;Tportug. bençdo; ital. benedigione, <lb/>de benedictionem,de benedicere (voy. BÉNIR)</etym>
+</entry><entry><lemma>f BÉNÉDICTIONNAIRE, (bé-né-di-ksio-nê-r'), <lb/>s. ra. </lemma>
+<sense>Terme de liturgie. Livre quicontient lesfor-<lb/>mules des bénédictions</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Bénédiction</etym>
+</entry><entry><lemma>BÉNÉFICE(hé-né-fi-s'), s. m. </lemma>
+<pc>|| </pc>
+<sense>1» Service, bien-<lb/>fait. Nous recevons double grâce et bénéficede notre <lb/>Dieu aubaptême, FÉN. II, *T. || Bénéfice de temps, <lb/>l'avantage qu'apporte d'ordinaire le temps à qui sait <lb/>ou peut attendre. Cellamareattendaitdu secours du <lb/>bénéfice du temps ou des inégalités de la Hollande, <lb/>ST-SIM. 600, 62. Jugurtha^ qui attendait tout du bé-<lb/>néfice du temps, ne songeait qu'à amuser le consul <lb/>et à tirer les choses en longueur, VERTOT, Réwl. <lb/>rom. a, p. 386. || Terme de médecine. Bénéfice de <lb/>nature, évacuation spontanéequelconque qui sou-<lb/>lage. Bénéfice de ventre, ou simplement bénéfice, <lb/>àiarrhée spontanée qui soulage. Il [Claude] fut dé-<lb/>livré du premier danger [le poison] par un bénéfice <lb/>de ventre, PERROT D'ABL. Tacite, 398. || Bénéfice de <lb/>ia loi, avantage que la loi présente et dont on peut <lb/>user. Profiter du bénéfice de la loi. Ne leur ôtons <lb/>point la liberté de conscience dont ils jouissent par <lb/>le bénéfice des édite, BALZ. Liv. yi, Utt. 7. Ce con-<lb/>sul soutenait qu'il était impossible de maintenir la <lb/>paix et l'union entre les citoyens d'un Etat libre, <lb/>si, par le bénéfice de la loi, on ne rapprochait la <lb/>condition des pauvres de celle des riches, VERTOT, <lb/>Révol. rom. m, p. 283. || Terme de droit. Bénéfice <lb/>d'inventaire, faveur accordée à l'héritier, par les <lb/>lois, de n'être chargé des dettes du mort, qu'à pro-<lb/>portion de ce qu'il hérite; ce qui se vérifie par l'in-<lb/>ventaire. Accepter une succession sous bénéfice <lb/>d'inventaire. || Fig. Un païen, qui sentait quelque <lb/>peu le fagot, Et qui croyait en Dieu, pour user de <lb/>ce mot, Par bénéfice d'inventaire, LA FONT. Fabl. <lb/>iv, &amp;lt;9. || Bénéfice de cession, grâce qu'on accorde <lb/>aux débiteurs insolvables, par laquelle ils demeu-<lb/>rent libres en cédanttout ce qui leur reste de biens <lb/>à leurs créanciers. || Bénéfice d'âge, dispense qui <lb/>s'obtient pour posséder un office, ou pour régir son <lb/>bien, avant l'âge marqué par les lois</sense>
+<pc>. || </pc>
+<sense>2° Dans <lb/>l'histoire du moyen âge, partie des terres con-<lb/>quises dans les Gaules qui fut distribuée par les <lb/>princes barbares entre les principaux de leurs <lb/>hommes.Le bénéfice était donné à vie, et ainsi <lb/>nommé parce que le donataire le possédait par la <lb/>libéralité et le bienfait du donateur. Le bénéfice, <lb/>étant devenu héréditaire, se transforma en fief</sense>
+<pc>. <lb/>|| </pc>
+<sense>3° Charge spirituelle, accompagnée d'un certain <lb/>revenu, que l'Église donne à un hommequi est ton-<lb/>suré ou dans les ordres, afin de servir Dieu et l'É-<lb/>glise. Les évêchés, abbayes, cures, chanoinies, <lb/>chapelles, prieurés, sont les divers genres de béné-<lb/>fices. J'obtins un petit bénéfice de campagne pour <lb/>mon aumônier, HAMILT. Gramm. 8. Se faisait abbé <lb/>qui pouvait; j'entends abbé à bénéfice, m. t&amp;amp;. 2. <lb/>|| Bénéfice à charge d'âmes, celui qui oblige a être <lb/>prêtre, et où l'on est chargé de la direction des <lb/>âmes. Les évêchés, les cures, les abbayes régu-<lb/>lières, les premières dignités des chapitres sont des <lb/>bénéfices à charge d'âmes. || Fig. Il faut prendre le <lb/>bénéfice avec les charges, c'est-à-dire, quand une <lb/>chose est avantageuse, il ne faut pas, on ne peut <lb/>en laisser les charges ou les inconvénients, et n'en <lb/>prendre que les avantages. || Bénéfice consistorial, <lb/>celui qui, étant à la nomination du roi, devait être <lb/>proposé dans le consistoirede Rome. || Bénéfice <lb/>simple ou à simple tonsure, bénéfice n'ayant pas <lb/>charge d'âme et pouvant être possédé par un <lb/>clerc tonsuré, qui n'a d'autre obligation que de <lb/>dire son bréviaire. || Bénéfice en titre ou en rè-<lb/>gle, celui qui est possédé par un religieux. || Bé-<lb/>néfice manuel, bénéfice dépendant d'une abbaye <lb/>et qu'on envoie desservir par un religieux amo-<lb/>vible au gré du supérieur. || Bénéfice sécularisé, <lb/>bénéfice qui, par dispense du pape, peut être pos-<lb/>sédé en commende par des séculiers. || Fig. Il n'a ni <lb/>office ni bénéfice, se dit d'un hommequi est obligé <lb/>de vivre du travail de ses mains.|| Lieu de résidence <lb/>du titulaire. Que fais-tu cependant seul en ton béné-<lb/>fice? BOIL. Épit. 2</sense>. |J <sense>4° Gain, profit. Bénéfices très-<lb/>considérables.II a réalisé son bien avec bénéfice. <lb/>11 ne faut pas faire du bien pour en tirer béné-<lb/>fice. Rechercher un bénéfice licite. Les bénéficesde <lb/>l'entrepreneur, du banquier. || Représentationà bé-<lb/>néfice, représentation dont le produit est aban-<lb/>donné par le théâtre à un comédien, à un <lb/>auteur, etc</sense>
+<pc>. || </pc>
+<sense>5° Nom que les Juifs d'Amsterdam <lb/>donnent aux diamants de rebut. || Proverbe. Les <lb/>chevaux courent les bénéfices, et les ânes les attra-<lb/>pent, c'est-à-dire il arrive souvent que des gens ob-<lb/>tiennent ce qu'ils ne méritent pas</sense>
+<pc>. <lb/>-</pc>
+<note>HIST. XIII" s. Cil qui de soi estoit mauves out <lb/>tost obliez les bénéfices que li empereres li out faiz, <lb/>Hec. desHist. de France,t. vi, p. &amp;lt;48. Lesbénéfices <lb/>de sainte Esglise donne à bones persones et de nete <lb/>vie, JOINV. 30t. || xiv" s. Quel profit seroit-ced'avoir <lb/>tele bonne fortunequi ne feroit de bénéfice à autre? <lb/>QRESME, Eth. 228. Celui qui reçoit aucun bien ou <lb/>bénéfice, il est mendre [moindre, inférieur] quant <lb/>à celui qui le fait, m. ib. i23. || xvie s. Si les opi-<lb/>nions estrangieres m'estoient présentes par le bé-<lb/>néfice de la mémoire, MONT, I, 34. Celle que je <lb/>doibs au bénéfice de ma cholique, ce n'est ny chas-<lb/>teté ny tempérance, ID. m, 273. Ceulx qui courent <lb/>un bénéfice ou un lièvre ne courent pas,ID. iv, i 60. <lb/>Le sénat ne voulut point que ce personnage re-<lb/>tournast par la grâce et le bénéfice du peuple, <lb/>AMTOT, Cor. 45. Il suffit que nous monstrions avoir <lb/>souvenance de son bénéfice [bienfait], ID. Ci-<lb/>mon, 6</note>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Provenç. benefici; espagn. beneficio; <lb/>ital. benefigio; de beneficium, de bene, bien (voy. <lb/>BIEN, adv.) et facere, iaire</etym>
+</entry><entry><lemma>t BÉNÉFICENCE(bè-né-fi-san-s'), s. f. </lemma>
+<sense>Synonyme <lb/>peu usité de bienfaisance.L'autre, un peu plus fort, <lb/>est un prix de bénéficenGe, 1.1. ROUSS. Hél. vi, io</sense>
+<pc>. <lb/>-</pc>
+<note>HIST. xvi" s. Ce sont erreurs qui esteignen* <lb/>toute beneficence, LANOUE, Ali</note>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Beneficentia, de benefacere (voy. BÉNÉ-<lb/>FICE)</etym>
+</entry><entry><lemma>BÉNÉFICIAIREfbê-nê-fi-si-£-r'), adj. </lemma>
+<pc>|| </pc>
+<sense>i' Terme <lb/>de féodalité. Qui a rapport aux bénéfices. Il ne faut <lb/>pas confondre les comtés bénéficiairesdu temps de <lb/>Charlemagne, avec les comtés héréditaires, FÉN. <lb/>XXI, 234. y Substantivement, celui qui possédait un <lb/>bénéfice. Un nouveau bénéficiairevenaitqui établis-<lb/>sait de nouveaux arrière-vassaux, MONTESQ. Espr. <lb/>xxxi, 26</sense>
+<pc>. y </pc>
+<sense>2° Terme de jurisprudence. L'héritierbé-<lb/>néficiaire, et, substantivement, le bénéficiaire, <lb/>l'héritier sous bénéficed'inventaire</sense>. ||<sense>3°S.m. Celui <lb/>au profit de qui se donne une représentation théâ-<lb/>trale, un concert, etc. La recette a été très-bonne. <lb/>pour le bénéficiaire</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Beneficiarius, de beneficium, bénéfice</etym>
+</entry><entry><lemma>BÉNÈFICIAL, AXE (bé-né-fi-si-al',a-1'), adj. </lemma>
+<sense>Qui <lb/>concerne les bénéficesecclésiastiques. Les revenus <lb/>bénéficiaux. Ce fut lui qui crut que Sênèque dans <lb/>ses livres des bénéficesavait traité à plein fond des <lb/>matières bénéficiales, BALZ. 2» dise. De la cour</sense>
+<pc>. <lb/>-</pc>
+<note>HIST. xvi" s. Il estoit produit pour témoin en <lb/>une matière beneficiale, où il estoit questiond'une <lb/>certaine décision du concile de Latran, DES PÉR. <lb/>Contes, Lxvni</note>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Bas-lat. beneficialis, de beneficium, bé-<lb/>néfice</etym>
+</entry><entry><lemma>t BÉNÉFICIATURE(bé-né-fi-si-a-tu-r'), i. f. </lemma>
+<sense>Nom <lb/>donné aux bénéfices des chantres, des chapelains, <lb/>qui étaient plutôt des offices à gages, que de véri-<lb/>tables bénéfices</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Bénéfice</etym>
+</entry><entry><lemma>i. BÉNÉFICIER (bé-né-fi-sié), s. m. </lemma>
+<sense>Celui qui a <lb/>un bénéfice ecclésiastique.Un richebénéficier. Un <lb/>époux infidèle qui quitte son épouse pour en pren-<lb/>dre une ou plus noble ou plus riche, voilàl'idée que <lb/>je conçois d'un bénéficier qui, par un intérêttem-<lb/>porel et tout humain, quitte son église pour passer <lb/>à une autre, BOURD. Pensées, t. n, p. 359, Il était <lb/>le seul bénéficierqu'on ne fût pas obligé de porter <lb/>dans son lit quand il avait soupe, VOLT. Ingénu, 1</sense>
+<pc>. <lb/>-</pc>
+<note>HIST. xvr s. Si l'officier estsit digne de son <lb/>office, Et le bénéficier digne du bénéfice, DUBELL. <lb/>vin, 36, recto. Soudain que les prestres ëtbenefi-<lb/>ciers entendirent qu'ils detractoyent de leurs co-<lb/>quilles, ils incitèrent les juges de leur courir sus, <lb/>PALISSY, &amp;lt;oo</note>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Bénéfice</etym>
+</entry><entry><lemma>2. BÉNÉFICIER (bé-né-fi-si-ê)</lemma>
+<pc>. |j </pc>
+<sense>1» V, n. Faire <lb/>quelqueprofit. Bénéficier sur une marchandise.|| Il <lb/>se conjugue avec l'auxiliaire oeotr</sense>
+<pc>. || </pc>
+<sense>2° Y. a. Terme <lb/>de mines, quisignifie travaillerfacilement une mine. <lb/>Un métal difficile à bénéficier</sense>
+<pc>. || </pc>
+<sense>3° Se bénéficier, <lb/>v. réfl. Une mine qui se bénéficié aisément</sense>
+<pc>. <lb/>-</pc>
+<note>HIST. xiiie s. L'en dit que clerc ordenezdesain-<lb/>tes ordenes, s'ils sunt bienficiez [s'ils ont un béné-<lb/>fice] en sainte yglise, ne puent estre avoquas en <lb/>cortlaie, Liv. de just. &amp;lt;02. || xiv" s. Bénéficier au-<lb/>tre, est superexcellence; et estre bénéficiéd'autre, <lb/>c'est estre excédé [surpassé], ORESME, Eth. -123. Les <lb/>bienfaiteursaiment plus leurs bénéficiez que les bé-<lb/>néficiez ne ament ceulz qui leur ont bien fait,iD.ib. <lb/>273. IJ xvi" s. Je vien aux séculiers, lesquels en par-<lb/>tie sont bénéficiez, comme il les nomment, CALVIN, <lb/>Instit. 875. Excepté ceux qui sont bénéficiez du roy <lb/>et des princes, et ceux qui es guerres s'aident des <lb/>amplesprivilègesd'icelles, tout le reste se sent in-<lb/>commodé pour les frais continuels qu'il leur con-<lb/>vient faire, LANOUE, &amp;lt;69. Si un soldai, qui a desja <lb/>esté bénéficié, refait encore actes extraordinaires, <lb/>il reçoit nouveau bienfait, ID. 302</note>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Beneficium, bénéfice</etym>
+</entry><entry><lemma>BENÊT (be-nê; le t ne se lie pas dans la conver-<lb/>sation ; au pluriel, l's se lie : les benêts écoutaient; <lb/>dites : lesbe-nê-z écoutaient).\\i°Adj,m. </lemma>
+<sense>Niais, sot, <lb/>Un jeune hommebenêt</sense>
+<pc>. || </pc>
+<sense>2° S. m. Tu deviens'plus <lb/>sot que tous les benêts de Turin, HAMILT. Gramm. 4 <lb/>Tous nos benêts de la cour l'admirent, ID. ib. 9. <lb/>Son grand benêt d'amant ne l'aime guère, SÉV.«4. <lb/>Le bailli pressait le mariage de son grand benêt de <lb/>fils avec la belle St-Tves, VOLT. Ingénu, ts</sense>
+<pc>. <lb/>-</pc>
+<note>HIST. xvi* s. Mais quand j'ai veu ce qui en. est, <lb/>Je trouve que tu es benest, MAROT, ni. iei</note>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM!Prononciation normandede benoît (yoy ^ <lb/>ce mot). Benêt, qui veut dire bénit, a été employ <lb/>pour désigner un niais, à cause de cette opinion <lb/>vulgaire que les simples d'esprit sont favorisésdu <lb/>ciel. Il ne se ditqu'au masculin</etym>
+</entry><entry><lemma>BÉNÉVOLE(bé-né-vo-1'), adj. </lemma>
+<pc>]| </pc>
+<sense>1* Animéde dis-<lb/>positions favorables. Lecteur b£n£yolè. || Auditeui <lb/>bénévole, celui qui vient entendre une leçon sans1 <lb/>être obligé. Ainsi, quoi qu'ordonne le sort, Au cliâ-<lb/>tel enchanté vers six heures je vole; Et vous m'au-<lb/>rez, vif ou mort, Pour spectateur bénévole, CHAU-<lb/>LIEC, à Malezieu</sense>
+<pc>.\\ </pc>
+<sense>2° S. m. Un bénévole, un acte <lb/>par lequel un supérieuraccordait une place monacale <lb/>dans sa maison à un religieux d'un autre ordre</sense>
+<pc>. <lb/>-</pc>
+<note>HIST. xiv° s. Et ceulz qui veulent bien à autre <lb/>en ceste manière, l'en dit que il sont benivoles, <lb/>ORESME, Eth. 232. Citoyens benivoles ou bienvueil-<lb/>lans à la policie. -Corps du ciel benivoles ou de <lb/>bonne influence, ORESME, Thèse de MEUNIER</note>
+<pc>. <lb/>-</pc>
+<etym>ÊTYM. Benevolus, de bene, bien (voy. BIEN, <lb/>adv.), et volo, je veux (voy. VOULOIR)</etym>
+</entry><entry><lemma>BÉNÉVOLEMENT(bé-né-vo-le-man),adv. </lemma>
+<sense>D'une <lb/>manière bénévole</sense>
+</entry><entry><lemma>BENGALE(bin-ga-1'). </lemma>
+<xr>Voy. ROSE</xr>
+</entry><entry><lemma>BENGALI (bin-ga-li), s. m. </lemma>
+<pc>|| </pc>
+<sense>i° Langue qui est <lb/>dérivée du sanscrit et que parlent les peuples du <lb/>Bengale. || Adjectivement.Idiome bengali. Les ca-<lb/>ractères bengalis. L'écriture bengalie</sense>
+<pc>. || </pc>
+<sense>2° Pinson <lb/>originaire du Bengale (fringille du Bengale)</sense>. <lb/><note>-REM. Legoarantdit : a La cinquième éditiondu <lb/>Dictionnaire de l'Académie ne contenait pas ce <lb/>terme,et c'est à tort que l'académicienauquel l'ar-<lb/>ticle est dû s'en esi rapporté au couplet de l'opéra <lb/>du Planteur, où l'on a trouvé commode de faire ri-<lb/>mer chant joli avec bengali. Cet oiseau ne chante <lb/>pas, non plus que beaucoup d'autres de la zone <lb/>torride, où nous exportons différentsoiseaux chan-<lb/>tants, tels que serins, linots, etc. » L'Académie s'est <lb/>laissé induire en erreur, en répétant les poètes qui <lb/>ont donné, à tout hasard, un chant au bengali : <lb/>Écoute si le vent lui porte [à la vierge] Sa voix <lb/>qu'elle préfère au chant du bengali, v. HUGO, Bail. <lb/>4 5. Heureuxle temps où la douce cabane Me tenait <lb/>lieu du palais Rivoli, Où chaque soir, sur la tiède <lb/>savane, Je m'endormais au chant du bengali, MÉRY <lb/>et BARTHÉLÉMY, Congrès des Ministres</note>
+<pc>. <lb/>-</pc>
+<etym>ÊTYM. Bengale</etym>
+</entry><entry><lemma>BÉNI, IE (bé-ni, nie), part, passé,</lemma> <xr>(voy. BÉNIT)</xr>
+</entry><entry><lemma>BÉNIGNEMENT(bé-ni-gne-man), adv. </lemma>
+<sense>D'une ma-<lb/>nière bénigne. En tels procès la reine est très-ex-<lb/>perte ; Bénignementelle vous recevra, VOLT. Ce qui <lb/>plaît aux dames</sense>
+<pc>. <lb/>-</pc>
+<note>HIST. xiie s. Et quant [ils] le requéraient [le <lb/>roi] de vus dous [deux] amaisir [accorder], De con-<lb/>corde e de pais entre vus establir, Alafeiz.[parfois] <lb/>[il] les soleit bénignement oîr, Th. le mart. 82. <lb/>|| xiii* s. Le [la] grâce ne doit pas estre refusée de <lb/>l'une justice à l'autre, quant ele requiertbénigne-<lb/>ment, BEAUM. xi, 4 4. || xiv s. Il les receut bénigne-<lb/>ment, et le prent à gré comme celui qui scet bien.... <lb/>ORESME, Eth. 4 20. || xve s. Et en tous lieus fuiez noise <lb/>ettenson, Â toutes gens parlezbénignement, E. DESCH. <lb/>Conseils aux dames. Et lors le roy bénignement et <lb/>doulcementluy pardonna et faisoit ce qu'on vouloit, <lb/>JUV. DES URSINS. Charles VI, 4407. || xvi"s. Rendant <lb/>droitàcbascun bénignement avec une équitégrande, <lb/>AMYOT, Anton. 20</note>
+<pc>. <lb/>-</pc>
+<etym>ÊTYM. Bénigne, et Je suffixe ment; provenç. <lb/>benignamen; catal. benignament ; espagn. et ital. <lb/>benignamente</etym>
+</entry><entry><lemma>BÉNIGNITÉ (bé-ni-gni-tê), s. f. </lemma>
+<pc>|| </pc>
+<sense>i°Disposilion du <lb/>coeur par laquelle on se plaît à faire du bien à au-<lb/>trui. Nous saluons Créon, dont la bénignité Nous <lb/>promet contre Acaste un lieu de sûreté, CORN. Mè-<lb/>dée, i, 4. Avec quelle bénignité J..C. ne parle-t-il <lb/>pas aux femmes dans l'Evangile! CHATEAUBR. Génie, <lb/>il, n, 12. Mes divins anges, lisez mes remontrances <lb/>avec attention et bénignité, VOLT. Lett. d'Argental, <lb/>21 juin 4761</sense>
+<pc>. || </pc>
+<sense>2° Dans la médecine, ce mot ex-<lb/>prime l'état d'une maladiedont la guérison est facile <lb/>à obtenir</sense>
+<pc>. <lb/>-</pc>
+<xr>SYN. BÉNIGNITÉ, DOUCEUR, HUMANITÉ. La béni-<lb/>gnité est opposée à la malignité;la douceur, à l'ai-<lb/>greur et à la violence; l'humanité, à la dureté et à <lb/>la cruauté. La bénignité porte à faire du bien aux <lb/>autres avec plaisir ; la douceur à les traiter avec des <lb/>égards et des ménagements qui leur plaisent ; l'hu-<lb/>manité, à les secourir en homme et comme des <lb/>hommes</xr>
+<pc>. <lb/>-</pc>
+<note>HIST. XV s. Mais la grant bénignité De ta royal <lb/>majesté, E. DESCHAMPS , <lb/>Lay du roy. Si retourne-<lb/>roient par son bon congé devers les autres citoyens <lb/>de Pise, leurdire la bénignité qu'ils avoient trouvée <lb/>en luy, Bouciq. m, ch. 8. || xvr* s. Il est bien vray <lb/>qu'à son advenementà la couronne, il ensuivit fort <lb/>la bénignité et debonnaireté du premier Artaxer-<lb/>ces, AMYOT, Artax. 4</note>
+<pc>. <lb/>-</pc>
+<etym>ÊTYM. Provenç. benignitat; espagn. benigni-<lb/>dad; ital. benignità;de benignitatem, de benignus <lb/>(voy. BÉNIN)</etym>
+</entry><entry><lemma>BÉNIN, IGNE (bé-nin, ni-gn'), àdj. </lemma>
+<pc>|| </pc>
+<sense>1° Qui a de <lb/>la bénignité. Il n'est pas d'homme plus bénin. Une <lb/>humeur bénigne. Qui ont abondancede ce sang bé-<lb/>nin, PASC. Prov. 9. Ô Seigneur, vous qui donnez <lb/>aux juges ces regards bénins, ces oreilles attentives <lb/>et ce coeur toujours ouvert à la vérité.... BOSS. le <lb/>Tettier. || Par ironie, trop bon, trop facile. On n'est <lb/>pas plusbénin que cet homme-là. Les maris les plus <lb/>bénins du monde, MOL. ÉC, desf.i,o</sense>
+<pc>. \\ </pc>
+<sense>2° Fig. Pro-<lb/>pice, favorable. Ciel bénin. Influence bénigne. Les <lb/>coeurs sont saisis d'une joie soudaine par la grâce <lb/>inespéréed'unbeau jourd'hiver,qui après un temps <lb/>pluvieux vient réjouir tout d'un coup la face du <lb/>monde ; mais on ne laisse pas de lui préférer la con-<lb/>stante sérénité d'une saison plus. bénigne, BOSS. <lb/>Marie-Thér.Un astre plus bénin vient d'éclaircir tes <lb/>jours, CORN. Théod. v, 3. J'ai de voeux parjurés <lb/>trahi les dieux bénins, RÉGNIER. Élèg. iv. Mais si <lb/>d'unoeil bénin vous voyez mes hommages, MOL. <lb/>Tart. iv, 6</sense>
+<pc>. || </pc>
+<sense>3° En termes de médecine, qui n'offre <lb/>rien d'alarmant. Petite vérole bénigne. Remèdebé-<lb/>nin,' remède qui agit doucement</sense>
+<pc>. <lb/>-</pc>
+<note>HIST. xv° s. Avec bénigne entencionDe rendre <lb/>son pouvoirpropice Â cil qui querroit son service, <lb/>LA FONT. 20. Ainsi ne fit mie l'enfant Bouciquaut; <lb/>ains devant elle et entre toutes les damesestoitplus <lb/>doux et bénigne que une pucelle, Bouciq. I, ch. 8. <lb/>Son très beau langaige, doulx, bénin et bien or-<lb/>donné et sans fraude, attire les coeurs de maintes <lb/>gens, ib. iv, ch. IO. || xvr= s. Ils appelaientAnto-<lb/>nius en leurs cantiques Bacchus, père de liesse, <lb/>doulx et bening; aussi l'estoit il à aucuns, mais a <lb/>la plus grande partie estait cruel et inhumain, <lb/>AMYOT, Anton. 27 <lb/>-</note>
+<etym>ÊTYM. Bourguig. bereigne, bénigne; provenç. <lb/>bénigne; espagn. et ital. benigno ; de benignus, dé-<lb/>rivé de bene, bien (voy. BIEN, adv.)</etym>
+</entry><entry><lemma>BÉNIR (bé-nir), ». a. </lemma>
+<pc>|| </pc>
+<sense>1° Consacrer au culte, au <lb/>service divin avec certaines cérémonies.Bénir une <lb/>église, bénir un cierge, bénir des drapeaux, un <lb/>vaisseau, une cloche, une locomotive. || Bénir des <lb/>époux, un mariage, consacrer l'union conjugale <lb/>suivant le rite religieux. || Bénir un abbé, une ab-<lb/>besse, les installer dans leur dignité avec les céré-<lb/>monies ecclésiastiques et en disant certainesprières</sense>
+<pc>. <lb/>|| </pc>
+<sense>2° Bénir les assistants, faire sur eux le signe de <lb/>la croix</sense>
+<pc>. || </pc>
+<sense>3° Appeler sur quelqu'un les bénédictions <lb/>du ciel. Il a béni ses enfants à son lit de mort. Sa <lb/>dernière prière a béni nos tendresses, VOLT. Tan-<lb/>crède, v, 3</sense>
+<pc>. || </pc>
+<sense>4" Donner des bénédictions, appeler <lb/>le bonheur sur, louer. Bénir le Seigneur. Partout, <lb/>en ce moment, on me bénit, on m'aime, RAC. Brit. <lb/>iv,3.Les Parthes à la foule, aux Syriensmêlés, Bé-<lb/>nissent àl'envi le prince et Rodogune, CORN. RO-<lb/>dog.y, 2. Démon nom, s'il se peut, bénissez la <lb/>mémoire, VOLT. AU. v, 7. || Il se dit aussi des <lb/>choses qui causent une profonde satisfaction.Nous <lb/>autres bénissons notre heureuse aventure, CORN. <lb/>Poly. v, 6. De bénir mon trépas quand ils l'ont pro-<lb/>noncé, RAC. Baj. I, 2. Chacun devaitbénir le bon-<lb/>heur de son règne, ID. Brit. in, 8. Trop heureux <lb/>en mon mal, je bénis ma défaite, RÉGNIER, Élêg.v. <lb/></sense>
+<pc>|| </pc>
+<sense>5" Combler de faveurs, en parlant du ciel. Ce ne <lb/>lui est rien [à Louis XIV] d'êtrel'homme que les au-<lb/>tres hommes admirent : il veut être, avec David, <lb/>l'hommeselon le coeur de Dieu ; c'est pourquoi Dieu <lb/>le bénit, BOSS. Marie-Thér. Roi dont le ciel a tou-<lb/>jours béni les armes, PLÊCH. Dauph. Le ciel daigne <lb/>bénir votre sceptre et vos jours, CORN. Héracl. v, 3. <lb/>Ces Juifs dont vous voulez délivrerla nature.... Ont <lb/>vu bénir le cours de leurs destin? prospères, RAC. <lb/>Esth. m, 4. || Dieu vous bénisse! Locution dont on <lb/>se sert quelquefois en s'adressant à un pauvre à qui <lb/>on n'a rien à donner. On le dit aussi ironiquement <lb/>à quelqu'un dont les discours eu la conduite nous <lb/>contrarient. On le dit enfin en s'adressant à une <lb/>personne qui éternue. Eh! parbleu! je dirai à celui <lb/>qui éternue : Dieu vous bénisse, et : va te coucher, <lb/>à celui qui bâille, BEAUMARCH. BarbierdeSév. ni, 5</sense>
+<pc>. <lb/>-</pc>
+<note>REM. Malherbe a dit : Béni les plaisirs de leur <lb/>couche, n, 4; au lieu de bénis, à l'impératif. C'est <lb/>une forme légitime (l's n'appartenant pas étymolo-<lb/>giquement à l'impératif), mais archaïque, qui <lb/>pourtant pourrait être employée en vers pour la <lb/>rime</note>
+<pc>. <lb/>-</pc>
+<note>HIST.xr* s. Et l'arcevesque de Deu les beneïst, <lb/>Ch. de Roi. LXXXVH. [11] Ne laisserat que [il] nous <lb/>ne beneïsse, ib. CXLI. Et li evesque les ewes beneïs-<lb/>sent, i*6. CCLXVIII. || XII° s. Quant vous aurai asous <lb/>[absous] et beneïs, Ronc. p. 66. Beaux fils Mal-<lb/>primes, Mahons vous beneïe, ib. p. 4 26. Cil vous <lb/>beneie qu'en [qui en] la croiz fut penez, ib. p. 203. <lb/>Benoet soit li hardemens Où j'ai pris si bon espoir, <lb/>Couci, xii. E là remest [il demeura] treis meis, e <lb/>nostre sire benesquid Obededoni et sa niaisun, <lb/>Bots, 4 40.E Joab, à ces paroles, chaï à terre e aû-<lb/>rad e benesquidle rei, Rois, 4 70. ||xnr» s.S'en vonl <lb/>vesque et abbé pour le lit beneïr, Berte, xni. [De <lb/>Dieu] Soit vostre ame et la seue [sienne] en cesl <lb/>jour beneîte, ib. LXV. L'eure soit beneoite que je <lb/>onque vous vi, ib. LIX. Et car me secourez, mère <lb/>[de] Dieu beneoite, ib. xxix. De Dieu et de <lb/>saint Beneoist Puissent-il estre beneoist, la Rose, <lb/>14940. Beneoite -soit espérance Qui les amans <lb/>ainsinc avance! ib. 2641. Note que femes qui <lb/>segondes fois se marient, ne devent pas estre be-<lb/>noittes de provoire [prêtre], Liv. de Just.220. Si en <lb/>apelonsle[la] bénitevirge Marie, qui mix [mieux] et <lb/>plus hardiement vient prier son chier filz que nus <lb/>autre, BEAUM. 4 5. L'evesques Pierre de Chaalons, <lb/>que Diex absoille, les chassa touz deux, et beney <lb/>en abbé Mons Jehan de Mymeri, et li dona la croce, <lb/>JOINV. 29-1. Amer Dieu et loer, veoir etbeneïstre, <lb/>C'est l'office des anges qui sont nostre menistre, <lb/>J. DE MEUNG, Test. 4 4 3. || xiv« s. Si me semble que <lb/>nous devons beneyr et louer le roy du ciel qui a <lb/>son peuple pourveu de tel roy terrien, ORESME, <lb/>Prol. Aussi tost qu'aprouchiezfurent de la clergie, <lb/>Descendirent à pié trestuit à une fie; A l'evesque <lb/>s'en vont, qui tous les beneïe, Guescl. 8789. || xve s. <lb/>S'atteiidoient que on portast la croix et l'eau be-<lb/>noiste au-devant, COMM. rv, 6. Il se tenoit près du <lb/>benoitier, et, quand elle fut près, il lui bailla de <lb/>l'eau benoîte, LOUIS XI, Nouv. XLIV. || xvr" s. Ceste <lb/>semence en laquelle toutes gens devoyent estre bé-<lb/>nites, à parler proprement, est Christ, CALV. Inslit. <lb/>250. Vous, messireOudart, ne faillez y comparoistre <lb/>en vostre beau suppelliz et estolle, avecques l'eaue <lb/>beniste, comme pour les fianser, RAB. Panl. iv, 12. <lb/>L'homme tel, Dieu le bénira, MAROT, iv, 265. <lb/>Dont, sans fin, roy tant magnifique, Partout on <lb/>bénira, m. iv, 299. Bacchus alors chappeau de <lb/>treille avoit Et arrivoit pour benistre la vigne, ro. <lb/>11, 352. Et quand jecté eurent de l'eau bénie Sur <lb/>leurs habits en grand cerimonie, n&amp;gt;. iv, 32. Du <lb/>pain benist, du pain d'espice, m. 1, 244. D'où vient <lb/>cette coustume de bénir ceulx qui esternueut? <lb/>MONT, iv, 1. Le Seigneur vous bénie, PALISSY, 4 4 2. <lb/>Messeigneurs d'Orléans et d'Angoulesme, voz très <lb/>heureusement nezenfans, que Dieu bénie, AMYOT, <lb/>Épit. Les femmes alloient chantant des cantiques à <lb/>sa louange, en le bénissant de ce qu'il avoit si ver-<lb/>tueusement vescu, ID. Lyc. 65. Il estait publique-<lb/>ment loué, beneit et honoré de tout le monde, ID. <lb/>P. Mm. 57. De l'eauve [eau] beniste le plus petit <lb/>est assez, GËNIN, Récréât, t. n, p. 237</note>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Provenç. benezir, benesir, bendir; ca-<lb/>tal. beneir ; espagn. bendecir; portug. benzer; ital. <lb/>benedire ; du latin benedicere, de bene, bien (voy. <lb/>BIEN, adv.), etdicere (voy. DIRE)</etym>
+</entry><entry><lemma>t BÉNISSABLE (bé-ni-sa-bl'), ad). </lemma>
+<sense>Qui mérite <lb/>d'être béni</sense>
+<pc>. <lb/>-</pc>
+<etym>ÊTYM. Bénir</etym>
+</entry><entry><lemma>BÉNIT, ITE (bé-ni,bé-ni-tf),BÉNI, IE(bê-ni,nie), <lb/>part, passé
+. 
+De ces deux participes, bénit s'em-<lb/>ploie lorsqu'il s'agit de la bénédiction des prê-<lb/>tres; béni, lorsqu'il s'agit de la bénédiction de <lb/>Dieu ou des hommes</lemma>
+<pc>. || </pc>
+<sense>1° Bénit se dit des cho-<lb/>ses ou des personnes sur lesquelles le prêtre a <lb/>donné la bénédiction avec les cérémoniesprescrites. <lb/>Drapeaux bénits. Chandelles bénites. Pain bénit. Eau <lb/>bénite. Mme de Fontevrault fut bénite hier [instal-<lb/>lée comme abbesse], SÊV. 4 5.11 rendit le pain bénit <lb/>d'une manière solennelle, HAMILTON, Gramm. 1 ). <lb/>|| Familièrement. C'est pain bénit, se dit à propos <lb/>d'une personne qui a bien mérité ce qui lui arrive. <lb/>Mais c'est pain bénit certe à des gens comme vous, <lb/>MOL. Éc. des mar. 1, 3. || Fig. De l'eau bénite de <lb/>cour, de vaines protestationsde service</sense>
+<pc>. || </pc>
+<sense>2° Bé-<lb/>ni, qui a reçu la bénédictionde Dieu ou des hom-<lb/>mes. Marie "était bénie entre toutes les. femmes. <lb/>Enfant béni par son père. Ce roi est béni par son <lb/>peuple.Béni soyez-vous, vous, mon père, qui justi-<lb/>fiez ainsi les gens ! PASC. Prov. 4. Que béni soit le <lb/>ciel qui te rend à mes voeux, RAC. Esth. 1, 4. Ce <lb/>règne, qui commence à l'ombre des autels, Sera béni <lb/>des Dieux et chéri des mortels, VOLT. Olymp. i, 4</sense>. <lb/>-<note>REM. La différence entre béni et bénit est mise <lb/>en lumière dans cette opposition : des armes qui <lb/>ont été bénites par l'Église ne sont pas toujours bé-<lb/>nies du ciel sur le champ de bataille. Mais cette dis-<lb/>tinction est toute récente ; et autrefois on employait <lb/>indifféremment ces deux formes du participe, té-<lb/>moin ces exemples-ci : Dieu promit que toutes ces <lb/>nations seraient bénites, BOSS. Hist. 11, 2. Dieu fait <lb/>voir à Eve son ennemi vaincu et lui montre cette se-<lb/>mence bénite [JésusTChrist] par laquelle....îo.ib.n, 4, <lb/>Vous êtes bénite entre toutes les femmes, ID. IV, <lb/>Annonc. J.Dans ces exemples, il faudrait béni, sui-<lb/>vant l'usage actuel. Vollaire écrivait béni, là où l'on <lb/>exige maintenant bénit : Pourvu qu'ils [les fer-<lb/>miers généraux] donnentbeaucoupd'argent, quand <lb/>ils rendent le pain béni, Viol. 2t. Le fait est qu'il <lb/>n'y a aucune distinction réelle entre les deux for-<lb/>mes. L'ancien participe s'écrivait beneï ou beneïi <lb/>suivant les provinces; dans le français moderne, <lb/>le t aurait dû disparaître comme il a disparude tous <lb/>les participes en i; mais il a été conservé par la lo-<lb/>cution eau bénite; de là proviennent les deux for-<lb/>mes, pour lesquelles les grammairiens ont cherché <lb/>une distinction arbitraire. Le mieux aurait été de <lb/>laisser les deux formes au libre usage de la parole <lb/>et de l'écriture, sauf dans eau bénite, locution fixée <lb/>et pour laquelle on ne peut jamais dire eau bénie</note>
+</entry><entry><lemma>BÉNITIER (bé-ni-tié; IV ne.se lie jamais; au <lb/>plur. Vs se lie : des bénitiers en. marbre, dites : <lb/>des bé-ni-tié-z en niarbre), s. m. </lemma>
+<sense>Vase consacré à <lb/>l'eau bénite. La fièvre.... Un bénitier aux pieds, va <lb/>l'étendre à la porte, BOIL. Éptt. m. || Fig. Se dé-<lb/>mener comme un diable dans un bénitier, s'agiter <lb/>violemment. Bien vite il sut jurer et maugréerMieux <lb/>qu'un vieux diable au fond d'un bénitier, GRESS. <lb/>Vert-Vert,ch. m</sense>
+<pc>. <lb/>-</pc>
+<note>HIST. xvie s. Prenans de l'eaue beniste, ap-<lb/>perceusmes dedans le benoistier ung homme vestu <lb/>d'estolles, RAB. Pant. iv, 45. Je l'attendois au be-<lb/>noistier, Pour lui donner de l'eaubeniste; Mais elle <lb/>s'enfuyoit plus viste.... MAROT, I, 206</note>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Bénit; Berry, bénitier. Benoistier du <lb/>xvi" siècle vient de benoit, équivalentde bénit.Mé-<lb/>nage remarque qu'à Paris on disait bénitier (qui a <lb/>définitivement pris le dessus), mais qu'en province <lb/>on dit beneslier (l's ne se prononce pas) et que c'est <lb/>la meilleure prononciation.Beneslier se trouve dans <lb/>RÉGNIER : Pissent au benestier afin qu'on parle <lb/>d'eux, Sat. n. Benestier est la prononciation nor-<lb/>mande de benoistier</etym>
+</entry><entry><lemma>BENJAMIN (bin-ja-min), s. m. </lemma>
+<sense>Enfant préféré, <lb/>ainsi dit à cause de la prédilection de Jacob pour <lb/>Benjamin, le plus jeune de ses fils.' Le roi s'amu-<lb/>sait beaucoupplus de M. du Maine [que du comte <lb/>de Toulouse], le benjamin de Mme de Maintenon, <lb/>ST-SIM. &amp;lt;77, -H3</sense>
+</entry><entry><lemma>BENJOIN (bin-join),. s. m. </lemma>
+<pc>|| </pc>
+<sense>1° Baume qui dé-<lb/>coule d'incisionsfaites au tronc du styrax benzoin. <lb/>|| Fig. L'on a beau faire bien, et semer ses écrits <lb/>De civette, benjoin.... RÉGNIER,Sat. iv</sense>
+<pc>. || </pc>
+<sense>2° Benjoin <lb/>français, un des noms vulgaires de l'impêratoire, <lb/>dite aussi angélique française</sense>
+<pc>. <lb/>-</pc>
+<etym>ÊTYM.Espagn.benjui, menjui; portug. beijoim; <lb/>ital. belzuino, belgivino; latin des botanistes, benzoe; <lb/>angl. benjamin tree. ' L'Académie espagnole le dé-<lb/>compose en ben-jui, ben juif, parce que le benjoin <lb/>ut trouvé d'abord en Judée; ce qui ne s'accor'de <lb/>guère avec les formes diverses de ce mot. Ben, se <lb/>trouvant dans le nom malabarede plusieurs plantes <lb/>blanchâtres à fleurs blanches, pourrait se trouver <lb/>aussi dans ben-join, selon quelques-uns. Mais la <lb/>véritable étymologie est l'arabe loubbândjaoui, en-<lb/>cens javanais; nom qui se trouve dans lbn Batouta</etym>
+</entry><entry><lemma>f BENNE (bè-n'), s. f. </lemma>
+<sense>Hotte à l'usage des ven-<lb/>dangeurs. || Espace clos pour arrêter le poisson. <lb/>|| Panier garnissant toute l'étendue d'un chariot, et <lb/>servant au transport du charbon</sense>
+<pc>. <lb/>-</pc>
+<etym>ETYM. Le même que banne</etym>
+</entry><entry><lemma>f BENOÎT, OÏTE (be-noi, noi-t'), adj.</lemma> j|i<sense>°Béni</sense>. <lb/>!.
+<pc>.</pc>
+<sense>C'est dans le pourpris Du brillant palais de la <lb/>lune, Non dans le benoît paradis, VOLT. Lelt. vers, <lb/>•104. Vieux et usité seulement dans lestyle maroti-<lb/>que</sense>
+<pc>. || </pc>
+<sense>2° Par ironie, qui affecte une dévotion dou-<lb/>cereuse. Un air benoît. Un benoît personnage</sense>
+<pc>. <lb/>-</pc>
+<note>HIST. xvc s. Par la grâce de Dieu et de la be-<lb/>noîte viergeMarie, FROISS. Prol. Jésus Christ, du-<lb/>quel la benoiste vie a toute esté en ce monde pour <lb/>nostre enseignement, Bouciq. m, ch. &amp;lt;2. || xvi° s. <lb/>Benoist monsieur, distPanurge, vous vous eschauf-<lb/>fez en vostre harnois, à ce que je veoidz, RAB. Pant. <lb/>iv, 7. Jà reluisoit la'benoiste journée Que la nature <lb/>au monde te debvoit, LA BOÉTIE, Poes. franc, xxix. <lb/>Benoiste mort, ainsi te faut nommer; Nulne de-<lb/>vrait souffrir la mort blasmer, MAROT, I, 274</note>
+<pc>. <lb/>-</pc>
+<etym>ÊTYM. Forme ancienne de bénit (voy. BÉNIR)</etym>
+</entry><entry><lemma>BENOÎTE (be-noi-f), s. f. </lemma>
+<sense>Terme de botanique. <lb/>Planteherbacéede la famille des rosacées(geùm ur-<lb/>banum, £.), dont la racine a une odeur analogue à <lb/>celle du girofle</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Benoit</etym>
+</entry><entry><lemma>t BENOÎTEMENT (be-noi-te-n;an), adv. </lemma>
+<sense>D'une <lb/>manière benoîte, papelarde</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Benoite, et le suffixe ment</etym>
+</entry><entry><lemma>f BENZINE(bin-zi-n'), s. f. </lemma>
+<sense>Terme de chimie. Qua-<lb/>dricarbure d'hydrogène, découvert parmi les pro-<lb/>duits de la décomposition, au feu, du benzoate de <lb/>chaux. Elle dissout les corps gras et sert à enlever <lb/>les taches sur toutes les étoffes. Elle est aussi em-<lb/>ployée pour tuer les poux des hommes et ceux des <lb/>animaux</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Bensoe, nom du benjoin (voy. ce mot)</etym>
+</entry><entry><lemma>f BENZOATE(bin-zo-a-t'), s. m. </lemma>
+<sense>Terme de chi-<lb/>mie. Nomgénérique des sels qui résultent de la com-<lb/>binaison de l'acidebenzoïque avec une base</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Benzoe, nom du benjoin (voy. ce mot)</etym>
+</entry><entry><lemma>BENZOÏQUE (bin-zo-i-k'), adj. </lemma>
+<sense>Termede,chimie. <lb/>Acide tiré du benjoin. Il existe dans tous les vérita-<lb/>bles baumes</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Voy. BENJOIN</etym>
+</entry><entry><lemma>| BÉOTARQUE (bè-cvtar-k'), s. m. </lemma>
+<sense>Terme d'his-<lb/>toire grecque. Nom des premiers magistrats chez <lb/>les Béotiens</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM.Boici&amp;gt;Tâpxï)ç,de Botwtè;, béotien, et âp^eiv, <lb/>commander (voy. ARCHONTE)</etym>
+</entry><entry><lemma>+ BÉOTIEN (bé-o-siin), s. m. </lemma>
+<sense>Lourd et peu lettré, <lb/>par allusionaux.Béotiens, qui passaient pour illettrés <lb/>parmi les Grecs. || Il est familier</sense>
+<pc>. <lb/>-</pc>
+<etym>ÊTYM. Béotie, contrée de la Grèce</etym>
+</entry><entry><lemma>t BÉOTISME (bé-o-ti-sm'), s. m. </lemma>
+<sense>Familièrement, <lb/>lourdeur et stupidité illettrée</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Béotien</etym>
+</entry><entry><lemma>tBÈQUE-BOIS (bè-ke-bot), s. m. </lemma>
+<sense>Nom vulgaire de <lb/>lasiltelle, oiseau. || Au plur. Des bèque-bois</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Becquer et bots</etym>
+</entry><entry><lemma>BÉQUÉE (bê-kée), s. f. </lemma>
+<xr>Voy. BECQUÉE</xr>
+</entry><entry><lemma>f BÈQUE-FLEUR (bè-ke-fleur) <lb/>, s. m. </lemma>
+<sense>Nom vul-<lb/>gaire des colibris. \\Âu plur. Des bèque-fleurs</sense>
+</entry><entry><lemma>tBÉQUET(bè-kê),s. m.</lemma> || <sense>i°Petitbec</sense>
+<pc>. || </pc>
+<sense>2° L'undes <lb/>noms vulgaires du brochet</sense>. |l <sense>3° Pièce ajustée à un <lb/>soulier</sense>
+<pc>. || </pc>
+<sense>4° Terme d'imprimerie. Petit morceau de <lb/>papier écrit qu'on ajoute à une épreuve ou à une <lb/>copie</sense>
+<pc>. <lb/>-</pc>
+<note>HIST. xiv* s. En laquele fosse lesdiz Jesson et <lb/>exposantont pris nuitantre [pendant la nuit] envi-<lb/>ron i 3 ou 14 carpes et un bequet [brochet], DU CANGE, <lb/>becchelus. || xv« s. Esquelx fossez le suppliant prist <lb/>furtivement des poissons, c'est assavoirbecquez et <lb/>carpes, ID. ib</note>
+<pc>. <lb/>-</pc>
+<etym>ÊTYM. Diminutifde bec. <lb/>BËQUETER, v. a. Voy. BECQUETER</etym>
+</entry><entry><lemma>j-BËQUETTE(bé-kè-t'), s.f.</lemma>
+<pc>\\ </pc>
+<sense>1° Pince à l'usage du <lb/>ebaînetier, de l'épinglier, du fondeur et du serru-<lb/>rier</sense>
+<pc>. Il </pc>
+<sense>2° Sorte de perche qu'on emploie dans cer-<lb/>tains bateaux, pour mouvoirle gouvernail</sense>
+<pc>. <lb/>-</pc>
+<etym>ÊTYM. Diminutifde bec</etym>
+</entry><entry><lemma>BÉQUILLARD(bé-ki-llar, Il mouillées, etnonbé-<lb/>ki-yar; le d ne se lie pas; au pluriel, l's ne se lie <lb/>pas : des béquillards impotents, dites : des bé-ki-<lb/>llar impotents; cependant d'autres la lient : des <lb/>bé-ki-llar-z impotents), s. m. </lemma>
+<sense>Vieillard qui se sert <lb/>d'une béquille.Alorssortit d'une portière Un béquil-<lb/>lard sec et gris, Voyage de Bachaumont, dans RI-<lb/>CHELET. Un voyageur jeune?-Nenni vraiment; Un <lb/>bêquillard, un vieux ridé sans dent, VOLT. Enf.prod. <lb/>i, s</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Béquille</etym>
+</entry><entry><lemma>BÉQUILLE(bé-ki-11', Il mouillées,et non bé-ki-ye), <lb/>s. f"</lemma>
+<pc>. Il </pc>
+<sense>1° Bâton surmonté d'une petite traverse sur <lb/>lequel on appuie la main ou l'aisselle, et dont les <lb/>gens infirmes se servent pour marcher. || Fig. L'Eu-<lb/>rope quimarche à-béquilles, Riche goutteuse, ne croit <lb/>pas Â la vertu sous des guenilles, BÊRANG. Hâtons-<lb/>nous</sense>
+<pc>. Il </pc>
+<sense>2° Termed'agriculture. Instrument servant à <lb/>donner de légers labours aux plantes</sense>, j] <sense>3° Poignée <lb/>qui s'adapte en dessous au fusil de chasse pour pré-<lb/>venir les accidents</sense>
+<pc>.|| </pc>
+<sense>4° Couteau à béquille, couteau <lb/>à deux lames, dont l'une reste dansle manchequand <lb/>l'autre en est sortie</sense>
+<pc>. || </pc>
+<sense>S" Sorte de bouton qui s'a-<lb/>dapte auxserruresaumoyen d'une tige en fer</sense>. Il <sense>6°S.f. <lb/>plur. Terme de marine. Mâtereaux à l'aide desquels <lb/>on tient droit un bâtiment échoué</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. On le tire de bacillus, petit bâton; mais <lb/>cette étymologie est inapplicable à un mot qui ne <lb/>paraît pas ancien, et la vraie dérivation est celle de <lb/>Diez, qui le tire de bec; Id. béquille étant ainsi dite <lb/>à cause de l'espèce de bec que représente la tra-<lb/>verse</etym>
+</entry><entry><lemma>BÉQUILLER (bé-ki-llé, Il mouillées, et non bé-<lb/>ki-yé)</lemma>. |l<sense> i" V.n. 
+Marcher avec une béquille</sense>
+<pc>.|| </pc>
+<sense>2° V.a. <lb/>Terme d'agriculture. Faire un labour avec la bé-<lb/>quille</sense>
+<pc>. Il </pc>
+<sense>3° Terme de marine. Placer des béquilles <lb/>pour soutenir un bâtiment échoué</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Béquille</etym>
+</entry><entry><lemma>f BÉQTJILLON (bé-ki-llon), s. m. </lemma>
+<sense>Petite béquille <lb/>sur laquelle on s'appuie avec la main</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Diminutifde béquille</etym>
+</entry><entry><lemma>t BÉQUOT (bé-ko), s. m. </lemma>
+<sense>Petit de la bécassine</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Diminutifde bec. On trouve aussiécrit <lb/>bécau</etym>
+</entry><entry><lemma>i.BER(bèr), s. m. </lemma>
+<sense>Il i'Terme de marine.Appareil <lb/>de charpente en forme de berceau pour mettre un <lb/>navire à flot</sense>
+<pc>. || </pc>
+<sense>2" Ber se dit encore pour berceau <lb/>dans quelques provinces et dans ce vieux proverbe : <lb/>Ce qu'on apprend au ber dure jusqu'au ver, c'est-à-<lb/>dire, on conserve jusqu'au tombeau les impres-<lb/>sions et les habitudes de l'enfance</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Voy. BERCEAU; bourguîg. brei. Ber de-<lb/>vrait être écrit avec unes, bers, comme on le verra <lb/>à berceau. <lb/>t 2.BER... Préfixe équivalant à bes, bar, bis, et <lb/>qui a un sens péjoratif</etym>
+</entry><entry><lemma>t BERBER, ÈRE (bèr-bèr,hè-f), s. m. et f. </lemma>
+<sense>Nom <lb/>des habitants primitifs de'l'Afrique du Nord. Les <lb/>berbers portent le nom de Kabyles en Algérie. || Adj. <lb/>La langue berbère ou le berber, langue parlée par <lb/>ces peuples, laquellen'a rien de commun avec l'a-<lb/>rabe</sense>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Les Berberssont les anciens Numides, <lb/>et leur nom paraît avoir fourni aux Grecs, et de là <lb/>aux Latins, le mot de pâpëapo;, barbare</etym>
+</entry><entry><lemma>t BERBÉRIDÉE (bèr-bé-ri-dée), s. f. </lemma>
+<sense>Terme de <lb/>botanique. Les, berbéridées, famille de plantes dont <lb/>répine-violette"(6er&amp;amp;eris«utgaris, L.) est le type</sense>
+</entry><entry><lemma>t BERBOUISSET(bèr-boui-sè), s. m. </lemma>
+<sense>L'un des <lb/>noms vulgairesdu fragon, plante</sense>
+</entry><entry><lemma>BERCAIL (bèr-kall, Il mouillées, et non bèr-<lb/>ka-ye),s. m. </lemma>
+<sense>Ëtable où on loge les moutons. || Fig. <lb/>Ramener au bercail une brebis égarée, retirer quel-<lb/>qu'un de ses erreurs ou de ses désordres. Rentrer <lb/>au bercail, revenir au bien. Exhortait-il ses domes-<lb/>tiques à rentrer dans le bercail de Jésus-Christ.... <lb/>FLÉCH. M. de Mont. Les saints se réjouissentsept fois <lb/>lorsqu'un pécheur retourne au bercail, CHATEAUB. <lb/>Mart. 79. Du bercailil chassait les loups,-Sans abu-<lb/>ser de la houlette, BÉRANG. Petitefée</sense>
+<pc>. <lb/>-</pc>
+<note>HIST. xii" s. Deus vus ad comandê sun berzilà <lb/>guarder; E s'il est vostre oeilie, vus le devez me-<lb/>ner, Th. le mart. 29. || xvie s. Tant n'est la guespa <lb/>ennemie au raisin, Ny au bergeail le molestecusin, <lb/>AM. JAMYN, liv. v, Ep. à Gellia</note>
+<pc>. <lb/>-</pc>
+<etym>ÉTYM. Bas-latin, vervecale; devervex, bas-lat. <lb/>berbex,bélier, mais qui, dans les langues romanes, <lb/>a pris le sens de brebis (voy. BREBIS). Berzil de <lb/>l'historique vient de vervecile</etym>
+</entry><entry><lemma>i. BERCE (bèr-s'),s. f. </lemma>
+<sense>Terme de botanique. Un <lb/>des noms vulgaires de Yheracleum sphondylium <lb/>(ombellifères), dit aussi branche-ursine bâtarde, <lb/>fausse branche-ursine et acanthe d'Allemagne</sense>
+</entry><entry><lemma>t 2. BERCE (bèr-s'), s. m. </lemma>
+<sense>Petit oiseau qui vit dans <lb/>les bois</sense>
+</entry><entry><lemma>BERCÉ, ÉE (bèr-sé, sée), part, passé</lemma>
+<pc>. </pc>
+<sense>L'enfant <lb/>bercé par sa nourrice. || Fig. Bercé par de doux <lb/>songes. Tout dormait : vos amis, bercés par l'espé-<lb/>rance, Bénissaient le sommeil et la paix de retour, <lb/>M. J. CHÉN. Charles IX, v, 2. Par l'espoir gaiment <lb/>bercés, Dansez, chantez, dansez, BÉRANG. Orage. <lb/>Dans mon réduit où l'on voit l'indigence.Sans m'é-<lb/>veiller assise à mon chevet, Grâce aux amours <lb/>bercé par l'espérance, D'un lit plus doux je rêve le <lb/>duvet, ID. le Dieu des bonnes gens</sense>
+</entry><entry><lemma>BERCEAU (bèr-sô), s. m. </lemma>
+<pc>|| </pc>
+<sense>i" Lit des enfants à <lb/>la mamelle, fait d'ordinaire de telle façon qu'on <lb/>peut lui communiquer un mouvement de balance-<lb/>ment. Un enfant couché dans son berceau. Les ber-<lb/>ceaux dans les salles de cet hôpital sont trop rap-<lb/>prochés. Joas, enfant encore au berceau, BOSS. Hist. <lb/>1, 6. Les enfants mêmes dansle berceau sont forts, <lb/>ID. Poliliq. Athalie étouffa l'enfant même au ber-<lb/>ceau, RAC. Athal. 1, 1</sense>
+<pc>. || </pc>
+<sense>2" Par extension, la pre-<lb/>mière enfance. Après avoir été attrapé, comme <lb/>je l'ai été. en ce que j'ai dit de ceux qui ont <lb/>mémoire dé ce qu'ils ont fait au berceau, VOIT. <lb/>Lettr. 57. Il fallait qu'ils fussent tous deux -au <lb/>berceau, CORN. EX. d'Hér. Les enfants apprenaient <lb/>dès le berceauà.... BOSs.Hisl. m, 6.11 passa pour ainsi <lb/>dire du berceau sur le trône, MASS. Louis XIV. Au <lb/>sortir du berceau vous m'avez établi sur le trône, <lb/>ID. Malh. Votre Oreste au berceau va-t-il finir sa <lb/>vie? RAC. Iphig. 1, i. Je sortais du berceau.... VOLT-<lb/>Zaïre, 11, i. Pour moi, des Sarrasinsesclave en mon <lb/>berceau, ID. ib. 1, i. Nous demandonsdes sourires au <lb/>berceau et des pleursà la tombe, CHATEAUB. Génie, <lb/>i,,i. || Etouffer le monstre au berceau,étoufferle <lb/>mal dès sa naissance. Étouffer l'hérésie dans son <lb/>berceau, PATEU, Plaid. 4, dans RICHELET</sense>
+<pc>. || </pc>
+<sense>3° Fig, <lb/>Lieu où l'on est né, où une chose a commencé; nais-<lb/>sance , commencement.La ville qui fut le berceau <lb/>de l'éloquence.Les Romains ont rasé Albe qui était <lb/>leur berceau. Art qui était encore au berceau. Les <lb/></sense>
+</entry></body>
+	</text>
+</tei>

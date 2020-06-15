@@ -1,0 +1,24 @@
+Dict+Fang-Fr+Model+lexical-entry+Feature+Engineered+DataLevel+3
+===== Field-level results =====
+
+label                accuracy     precision    recall       f1           support
+
+<etym>               99.62        95.83        95.83        95.83        48     
+<inflected>          99.43        96.55        96.55        96.55        87     
+<lemma>              98.48        96.15        96.15        96.15        208    
+<pc>                 96.58        95.88        94.9         95.38        392    
+<sense>              98.19        96.03        96.41        96.22        251    
+<usg>                99.81        100          33.33        50           3      
+<xr>                 99.52        95           82.61        88.37        23     
+
+all (micro avg.)     98.8         96.02        95.26        95.63        1012   
+all (macro avg.)     98.8         96.49        85.11        88.36        1012   
+
+===== Instance-level results =====
+
+Total expected instances:   208
+Correct instances:          193
+Instance-level recall:      92.79
+
+
+Evaluation for lexical-entry model is realized in 2097 ms

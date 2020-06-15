@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dictionaryBodySegmentation.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="dictionaryBodySegmentation.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><entry>dzavua dzuhua ama ama : así, así (de enojo) <lb/></entry>
+<entry>dzavua hooca tucu : sobre todo (precediendo <lb/>plática) <lb/></entry>
+<entry>dzavua huitna : a esta hora <lb/></entry>
+<entry>dzavua ino huidzo sindi : obligado ser por profe-<lb/>sión el fraile <lb/></entry>
+<entry>dzavua itnaha iyo : manera o modo <lb/></entry>
+<entry>dzavua iyo : estado de cada cosa ; forma o manera ; <lb/>inclinación ; manera o modo <lb/></entry>
+<entry>dzavua iyo : soler (acostumbrar) <lb/></entry>
+<entry>dzavua iyo inindi : certificado estar, por cierto tener <lb/></entry>
+<entry>dzavua iyo ino sindi : obligado ser por profesión <lb/>el fraile <lb/></entry>
+<entry>dzavua iyo ndatu sindi : obligado ser por profesión <lb/>el fraile <lb/></entry>
+<entry>dzavua iyo ndudzu itnayta : comúnmente se <lb/>dice <lb/></entry>
+<entry>dzavua ndatundi : esta es mi suerte <lb/></entry>
+<entry>dzavua nicaa inindi : aficionado o aplicado natu-<lb/>ralmente ser una cosa más que otra <lb/></entry>
+<entry>dzavua nicacu : condición natural de alguno ; incli-<lb/>nación <lb/></entry>
+<entry>dzavua nicaye : medio quemado <lb/></entry>
+<entry>dzavua nicoo coo inindi : aficionado o aplicado <lb/>naturalmente ser una cosa más que otra <lb/></entry>
+<entry>dzavua nisa coho naha ñuhu sindi : obligado ser <lb/>por profesión el fraile <lb/></entry>
+<entry>dzavua nisa coho quevui sindi : obligado ser por <lb/>profesión el fraile <lb/></entry>
+<entry>dzavua nisa tnaha inindi : aficionado o aplicado <lb/>naturalmente ser una cosa más que otra <lb/></entry>
+<entry>dzavua nisini nitacundi : obligado ser por profe-<lb/>sión el fraile <lb/></entry>
+<entry>dzavua ñuhu indaandi : esta es mi suerte <lb/></entry>
+<entry>dzavua ñuu : a media noche <lb/></entry>
+<entry>dzavua quaha inindi : aficionado o aplicado natu-<lb/>ralmente ser una cosa más que otra <lb/></entry>
+<entry>dzavua quaha ino ndatundi : obligado ser por <lb/>profesión el fraile <lb/></entry>
+<entry>dzavua quaha ndudzu : así se usa <lb/></entry>
+<entry>dzavua quidzata sa naha : costumbre de pueblo <lb/></entry>
+<entry>dzavua saha tniño : acerca de aquel negocio <lb/></entry>
+<entry>dzavua tachi dzavua tnumi yosino saandi : correr <lb/>muy ligeramente <lb/></entry>
+<entry>dzavua tayee dzavua ñaha dzehe : así hombres <lb/>como mujeres <lb/></entry>
+<entry>dzavua tna iyoni : como quiera <lb/></entry>
+<entry>dzavua tnaha : así como ; como comparativo ; según <lb/>(adverbio) <lb/></entry>
+<entry>dzavua tnaha huitna : a esta hora <lb/></entry>
+<entry>dzavua tnaha iyo : estado de cada cosa <lb/></entry>
+<entry>dzavua tnaha iyo sa yonaha sa yonduvui le-<lb/>tra : forma de letra <lb/></entry>
+<entry>dzavua tnaha quevui pascua yoquidzandi, yo-<lb/>cuvui inindi, yotuvui sindi : hacer cuenta que <lb/>es pascua <lb/></entry>
+<entry>dzavua tnaha sa dzavuandi : correr muy ligera-<lb/>mente <lb/></entry>
+<entry>dzavua tnaha sinindo : de cualquiera manera que <lb/>lo hagas <lb/></entry>
+<entry>dzavua tnaha tecoo yee yavui : blanca cosa en gran <lb/>manera <lb/></entry>
+<entry>dzavua tnaha tiyee yavui : blanca cosa en gran <lb/>manera <lb/></entry>
+<entry>dzavua tnaha yocachi S.fee [Santa Fe] : acompa-<lb/>ñar con buenas obras la fe <lb/></entry>
+<entry>dzavua tnaha yocuvui misa : en tanto, o en tanto <lb/>que dicen misa <lb/></entry>
+<entry>dzavua tnaha yuvui cachi : blanca cosa en gran <lb/>manera <lb/></entry>
+<entry>dzavua tucu : también <lb/></entry>
+<entry>dzavua tucuca : sobre todo (precediendo plática) <lb/></entry>
+<entry>dzavua yocachita dzavua yosinita : así se dice o <lb/>se entiende <lb/></entry>
+<entry>dzavua yocuvui dzavuayu sa cuvui dzavuayu <lb/>iyo : acostumbrarse por usarse <lb/></entry>
+<entry>dzavua yocuvui nuu yaha : usarse entre algunos o <lb/>entre todos <lb/></entry>
+<entry>dzavua yocuvui ñuu sa naha : costumbre de <lb/>pueblo <lb/></entry>
+<entry>dzavua yonahata : así se dice o se entiende <lb/></entry>
+<entry>dzavua yonana : semejar o parecerse una cosa a <lb/>otra <lb/></entry>
+<entry>dzavua yoqni inindi : aficionado o aplicado natu-<lb/>ralmente ser una cosa más que otra <lb/></entry>
+<entry>dzavua yosahandita : doblar el precio <lb/></entry>
+<entry>dzavua yosico inindi : aficionado o aplicado natu-<lb/>ralmente ser una cosa más que otra <lb/></entry>
+<entry>dzavua yosii tnahata dzo ndehe dzavua yocaha-<lb/>ta : comúnmente se dice <lb/></entry>
+<entry>dzavua yotacusita : así se dice o se entiende <lb/></entry>
+<entry>dzavua yotusi inindi : aficionado o aplicado natu-<lb/>ralmente ser una cosa más que otra <lb/></entry>
+<entry>dzavua yotuvui : semejar o parecerse una cosa a <lb/>otra <lb/></entry>
+<entry>dzavua yotuvui sindi : parecerme o así me parece <lb/></entry>
+<entry>dzavua yu : certificado estar, por cierto tener <lb/></entry>
+<entry>dzavua yu : usarse entre algunos o entre todos <lb/></entry>
+</body>
+	</text>
+</tei>

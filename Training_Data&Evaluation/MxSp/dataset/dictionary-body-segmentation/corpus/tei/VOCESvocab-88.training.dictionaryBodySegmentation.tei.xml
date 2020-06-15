@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dictionaryBodySegmentation.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="dictionaryBodySegmentation.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><entry>q cahi : ir por algo generalmente [futuro de yosa ca-<lb/>hindi] <lb/></entry>
+<entry>q coho quevui : de cuando en cuando <lb/></entry>
+<entry>q ndehe q tuhu : en fin, en conclusión <lb/></entry>
+<entry>q ndita nde ndita yocuvuindi : columpiarse <lb/></entry>
+<entry>qhu : atabal de palo, teponaztle <lb/></entry>
+<entry>qmi : 4 <lb/></entry>
+<entry>qmi sichi sa niquevui nisiyo saha ndehe ndu sa <lb/>caa sa isi ñuu ñayevui : elementos los cuatro <lb/></entry>
+<entry>qmi sichica : cuatro tantos <lb/></entry>
+<entry>qmi siqui : cuadra cosa <lb/></entry>
+<entry>qni nuu qni : anoche <lb/></entry>
+<entry>qua : infieri <lb/></entry>
+<entry>qua caha [imperativo de yosa quacandi] : ir a <lb/>llamar a alguno <lb/></entry>
+<entry>qua cahi [imperativo de yosa cahindi] : ir por algo <lb/>generalmente <lb/></entry>
+<entry>qua cana ndita : crecer el maíz cuando tiene hojas <lb/>grandes <lb/></entry>
+<entry>qua cana quevui : amaneciendo ir <lb/></entry>
+<entry>qua cana tuvui : amaneciendo ir <lb/></entry>
+<entry>qua cana vuiyu : crecer (el maíz) cuando sale la <lb/>espiga <lb/></entry>
+<entry>qua cana yoco : crecer (el maíz) cuando sale la es-<lb/>piga <lb/></entry>
+<entry>qua casa nama : caer poco a poco, o irse cayendo <lb/></entry>
+<entry>qua casa nino nama : acostarse la pared, que pro-<lb/>mete ruina <lb/></entry>
+<entry>qua cay : pasar como el tiempo (pretérito) <lb/></entry>
+<entry>qua cay ndicandii : a puesta de sol (a las 5/6) <lb/></entry>
+<entry>qua cay nini ñuu coyo : ¿hacia dónde está Mé-<lb/>xico? <lb/></entry>
+<entry>qua cay saha cuchi : pintar la fruta cuando empie-<lb/>za a madurar <lb/></entry>
+<entry>qua caya : irse aumentando algo <lb/></entry>
+<entry>qua coo cuisi sa yocuhuindi : ir mejorando en la <lb/>enfermedad <lb/></entry>
+<entry>qua coo cuvui, qua coo cuisi sa yocuhuindi : me-<lb/>jorar en enfermedad <lb/></entry>
+<entry>qua coo tiquaa : anochecer <lb/></entry>
+<entry>qua cuico ndaha vuiyu : crecer el maíz cuando <lb/>tiene hojas grandes <lb/></entry>
+<entry>qua cuiñe ndaye nama : inclinarse pared <lb/></entry>
+<entry>qua cuiñini : por todas partes <lb/></entry>
+<entry>qua cuisi ndaa : abrirse el entendimiento al niño <lb/>cuando empieza el uso de la razón <lb/></entry>
+<entry>qua cuvui ndeq : anochecer <lb/></entry>
+<entry>qua cuvui ndichi : abrirse el entendimiento al niño <lb/>cuando empieza el uso de la razón <lb/></entry>
+<entry>qua cuisi nini : esclareciendo ir ya el día <lb/></entry>
+<entry>qua cuisi sa yocana cuisi : de día entre dos luces <lb/></entry>
+<entry>qua cuita ndaha sahandi : desfallecer desmayán-<lb/>dose <lb/></entry>
+<entry>qua cuita nini coñondi : desfallecer desmayán-<lb/>dose <lb/></entry>
+<entry>qua cuvui quaa : amarillecerse la fruta que comien-<lb/>za a madurar <lb/></entry>
+<entry>qua cuvui quaha ndaya : pintar la fruta cuando <lb/>empieza a madurar <lb/></entry>
+<entry>qua cuvui quendete : emplumecer el ave cuando <lb/>empieza a echar pluma <lb/></entry>
+<entry>qua cuvui quehui : anochecer <lb/></entry>
+<entry>qua cuvui tecuiñe : pintar la fruta cuando empieza <lb/>a madurar <lb/></entry>
+<entry>qua cuvui tnoo : pintar la fruta cuando empieza a <lb/>madurar <lb/></entry>
+<entry>qua cuvui yatni : allegarse, irse allegando <lb/></entry>
+<entry>qua cuvui yatni quevui : llegarse el tiempo <lb/></entry>
+<entry>qua cuvui yatni sino ee cuiya : andar en un año <lb/>que se hizo tal cosa <lb/></entry>
+<entry>qua cuvui yatni tuvui : modorra, vigilia antes del <lb/>alba <lb/></entry>
+<entry>qua dzii nini coñondi : desfallecer desmayán-<lb/>dose <lb/></entry>
+<entry>qua na cuico tachi : refrescar la tarde <lb/></entry>
+<entry>qua na ndusate : emplumecer el ave que ha sido <lb/>pelada <lb/></entry>
+<entry>qua na tacu ndaa ini : mejorar en enfermedad <lb/></entry>
+</body>
+	</text>
+</tei>

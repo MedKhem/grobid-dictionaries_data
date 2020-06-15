@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="gramGrp.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="gramGrp.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><gramGrp><pos>verb </pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>present </pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>adjective </pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>adjective </pos></gramGrp><gramGrp><pos>abbr </pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>adjective </pos></gramGrp><gramGrp><pos>adjective <lb/></pos></gramGrp><gramGrp><pos>adjective <lb/></pos></gramGrp><gramGrp><pos>adjec-<lb/>tive</pos> </gramGrp><gramGrp><pos>adjec-<lb/>tive</pos> </gramGrp><gramGrp><pos>adjective </pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>ad-<lb/>jective</pos> </gramGrp><gramGrp><pos>adjective <lb/></pos></gramGrp><gramGrp><pos>adjective </pos></gramGrp><gramGrp><pos>adjective </pos></gramGrp><gramGrp><pos>adjective </pos></gramGrp><gramGrp><pos>adjec-<lb/>tive</pos> </gramGrp><gramGrp><pos>preposition </pos></gramGrp><gramGrp><pos>adverb <lb/></pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>verb </pos></gramGrp><gramGrp><pos>preposition <lb/></pos></gramGrp><gramGrp><pos>verb </pos></gramGrp><gramGrp><pos>noun <lb/></pos></gramGrp><gramGrp><pos>adjective <lb/></pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>verb </pos></gramGrp><gramGrp><pos>verb </pos></gramGrp><gramGrp><pos>adjective </pos></gramGrp><gramGrp><pos>adjective </pos></gramGrp><gramGrp><pos>adjective <lb/></pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>adjective </pos></gramGrp><gramGrp><pos>adjective <lb/></pos></gramGrp><gramGrp><pos>ad-<lb/>verb</pos> </gramGrp><gramGrp><pos>adjective </pos></gramGrp><gramGrp><pos>adverb </pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>adjective <lb/></pos></gramGrp><gramGrp><pos>ad-<lb/>verb</pos> </gramGrp><gramGrp><pos>adjective </pos></gramGrp></body>
+	</text>
+</tei>

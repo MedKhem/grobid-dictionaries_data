@@ -1,0 +1,330 @@
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+l l l l l l l l l l 7.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+, , , , , , , , , , 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+ss ss s ss ss ss s ss ss ss 7.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINEEND SAMEFONT 
+
+préfixe préfixe p pr pré préf e xe ixe fixe 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+de de d de de de e de de de 7.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+beaucoup beaucoup b be bea beau p up oup coup 7.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+de de d de de de e de de de 7.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+noms noms n no nom noms s ms oms noms 7.0 false false NOCAPS NOPUNCT LINEEND SAMEFONT 
+( ( ( ( ( ( ( ( ( ( 7.0 false false ALLCAPS OPENBRACKET LINESTART SAMEFONT 
+subst subst s su sub subs t st bst ubst 7.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+verbaux verbaux v ve ver verb x ux aux baux 7.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+) ) ) ) ) ) ) ) ) ) 7.0 false false ALLCAPS ENDBRACKET LINEIN SAMEFONT 
+
+préfixe préfixe p pr pré préf e xe ixe fixe 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+sing sing s si sin sing g ng ing sing 7.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+de de d de de de e de de de 7.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+la la l la la la a la la la 7.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+1ère 1ère 1 1è 1èr 1ère e re ère 1ère 7.0 false false NOCAPS NOPUNCT LINEEND SAMEFONT 
+devant devant d de dev deva t nt ant vant 7.0 false false NOCAPS NOPUNCT LINESTART SAMEFONT 
+une une u un une une e ne une une 7.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+voyelle voyelle v vo voy voye e le lle elle 7.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+
+adj adj a ad adj adj j dj adj adj 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+poss poss p po pos poss s ss oss poss 7.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+1ère 1ère 1 1è 1èr 1ère e re ère 1ère 7.0 false false NOCAPS NOPUNCT LINEEND SAMEFONT 
+sonne sonne s so son sonn e ne nne onne 7.0 false false NOCAPS NOPUNCT LINESTART SAMEFONT 
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+de de d de de de e de de de 7.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+la la l la la la a la la la 7.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+4ème 4ème 4 4è 4èm 4ème e me ème 4ème 7.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+classe classe c cl cla clas e se sse asse 7.0 false false NOCAPS NOPUNCT LINEEND SAMEFONT 
+
+pr pr p pr pr pr r pr pr pr 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+pers pers p pe per pers s rs ers pers 7.0 false false NOCAPS NOPUNCT LINEEND SAMEFONT 
+
+adj adj a ad adj adj j dj adj adj 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+démonstr démonstr d dé dém démo r tr str nstr 7.0 false false NOCAPS NOPUNCT LINEEND SAMEFONT 
+
+pr pr p pr pr pr r pr pr pr 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+connectif connectif c co con conn f if tif ctif 7.0 false false NOCAPS NOPUNCT LINEEND SAMEFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+4 4 4 4 4 4 4 4 4 4 7.0 false false ALLCAPS NOPUNCT LINEIN SAMEFONT 
+, , , , , , , , , , 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+ss ss s ss ss ss s ss ss ss 7.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+sing sing s si sin sing g ng ing sing 7.0 false false NOCAPS NOPUNCT LINEEND SAMEFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+4 4 4 4 4 4 4 4 4 4 7.0 false false ALLCAPS NOPUNCT LINEIN SAMEFONT 
+, , , , , , , , , , 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+ss ss s ss ss ss s ss ss ss 7.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+sing sing s si sin sing g ng ing sing 7.0 false false NOCAPS NOPUNCT LINEEND SAMEFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+l l l l l l l l l l 7.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+, , , , , , , , , , 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+ss ss s ss ss ss s ss ss ss 7.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINEEND SAMEFONT 
+
+vb vb v vb vb vb b vb vb vb 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+, , , , , , , , , , 7.0 false false ALLCAPS PUNCT LINESTART NEWFONT 
+vb vb v vb vb vb b vb vb vb 7.0 false false NOCAPS NOPUNCT LINEEND SAMEFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+l l l l l l l l l l 7.0 false false NOCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+l l l l l l l l l l 7.0 false false NOCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+4 4 4 4 4 4 4 4 4 4 7.0 false false ALLCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+vb vb v vb vb vb b vb vb vb 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+vb vb v vb vb vb b vb vb vb 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+aux aux a au aux aux x ux aux aux 7.0 false false NOCAPS NOPUNCT LINEEND SAMEFONT 
+
+vb vb v vb vb vb b vb vb vb 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+interj interj i in int inte j rj erj terj 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+vb vb v vb vb vb b vb vb vb 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+l l l l l l l l l l 7.0 false false NOCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+4 4 4 4 4 4 4 4 4 4 7.0 false false ALLCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+ss ss s ss ss ss s ss ss ss 7.0 false false NOCAPS NOPUNCT LINEEND SAMEFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+4 4 4 4 4 4 4 4 4 4 7.0 false false ALLCAPS NOPUNCT LINEIN SAMEFONT 
+, , , , , , , , , , 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+ss ss s ss ss ss s ss ss ss 7.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+sing sing s si sin sing g ng ing sing 7.0 false false NOCAPS NOPUNCT LINEEND SAMEFONT 
+
+vb vb v vb vb vb b vb vb vb 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+interj interj i in int inte j rj erj terj 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+l l l l l l l l l l 7.0 false false NOCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+adj adj a ad adj adj j dj adj adj 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+l l l l l l l l l l 7.0 false false NOCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+2 2 2 2 2 2 2 2 2 2 7.0 false false ALLCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+2 2 2 2 2 2 2 2 2 2 7.0 false false ALLCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+l l l l l l l l l l 7.0 false false NOCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+2 2 2 2 2 2 2 2 2 2 7.0 false false ALLCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+2 2 2 2 2 2 2 2 2 2 7.0 false false ALLCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+2 2 2 2 2 2 2 2 2 2 7.0 false false ALLCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+2 2 2 2 2 2 2 2 2 2 7.0 false false ALLCAPS NOPUNCT LINEEND SAMEFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+l l l l l l l l l l 7.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+, , , , , , , , , , 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+ou ou o ou ou ou u ou ou ou 7.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+2 2 2 2 2 2 2 2 2 2 7.0 false false ALLCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+2 2 2 2 2 2 2 2 2 2 7.0 false false ALLCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+2 2 2 2 2 2 2 2 2 2 7.0 false false ALLCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+2 2 2 2 2 2 2 2 2 2 7.0 false false ALLCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+l l l l l l l l l l 7.0 false false NOCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+2 2 2 2 2 2 2 2 2 2 7.0 false false ALLCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+2 2 2 2 2 2 2 2 2 2 7.0 false false ALLCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+2 2 2 2 2 2 2 2 2 2 7.0 false false ALLCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+l l l l l l l l l l 7.0 false false NOCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 true false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 true false ALLCAPS PUNCT LINEIN SAMEFONT 
+l l l l l l l l l l 7.0 true false NOCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+2 2 2 2 2 2 2 2 2 2 7.0 false false ALLCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+2 2 2 2 2 2 2 2 2 2 7.0 false false ALLCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+2 2 2 2 2 2 2 2 2 2 7.0 false false ALLCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+2 2 2 2 2 2 2 2 2 2 7.0 false false ALLCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+2 2 2 2 2 2 2 2 2 2 7.0 false false ALLCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+2 2 2 2 2 2 2 2 2 2 7.0 false false ALLCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+2 2 2 2 2 2 2 2 2 2 7.0 false false ALLCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+l l l l l l l l l l 7.0 false false NOCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+2 2 2 2 2 2 2 2 2 2 7.0 false false ALLCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+l l l l l l l l l l 7.0 false false NOCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+l l l l l l l l l l 7.0 false false NOCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+
+n n n n n n n n n n 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 7.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+l l l l l l l l l l 7.0 false false NOCAPS NOPUNCT LINEEND SAMEFONT 
+
+pl pl p pl pl pl l pl pl pl 7.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+

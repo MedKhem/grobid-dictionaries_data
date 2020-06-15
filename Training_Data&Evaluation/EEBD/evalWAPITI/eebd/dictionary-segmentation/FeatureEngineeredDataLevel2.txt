@@ -1,0 +1,19 @@
+Dict+Eebd+Model+dictionary-segmentation+Feature+Engineered+DataLevel+2
+===== Field-level results =====
+
+label                accuracy     precision    recall       f1           support
+
+<body>               100          100          100          100          9      
+<headnote>           100          100          100          100          9      
+
+all (micro avg.)     100          100          100          100          18     
+all (macro avg.)     100          100          100          100          18     
+
+===== Instance-level results =====
+
+Total expected instances:   3
+Correct instances:          3
+Instance-level recall:      100
+
+
+Evaluation for dictionary-segmentation model is realized in 433 ms

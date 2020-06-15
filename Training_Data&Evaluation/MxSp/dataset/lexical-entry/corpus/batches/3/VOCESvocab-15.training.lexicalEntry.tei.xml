@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="lexicalEntry.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="lexicalEntry.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><entry><lemma>dzavua dzuhua ama ama </lemma>
+<pc>: </pc>
+<sense>así, así (de enojo) <lb/></sense>
+</entry><entry><lemma>dzavua hooca tucu </lemma>
+<pc>: </pc>
+<sense>sobre todo (precediendo <lb/>plática) <lb/></sense>
+</entry><entry><lemma>dzavua huitna </lemma>
+<pc>: </pc>
+<sense>a esta hora <lb/></sense>
+</entry><entry><lemma>dzavua ino huidzo sindi </lemma>
+<pc>: </pc>
+<sense>obligado ser por profe-<lb/>sión el fraile <lb/></sense>
+</entry><entry><lemma>dzavua itnaha iyo </lemma>
+<pc>: </pc>
+<sense>manera o modo <lb/></sense>
+</entry><entry><lemma>dzavua iyo </lemma>
+<pc>: </pc>
+<sense>estado de cada cosa ; forma o manera ; <lb/>inclinación ; manera o modo <lb/></sense>
+</entry><entry><lemma>dzavua iyo </lemma>
+<pc>: </pc>
+<sense>soler (acostumbrar) <lb/></sense>
+</entry><entry><lemma>dzavua iyo inindi </lemma>
+<pc>: </pc>
+<sense>certificado estar, por cierto tener <lb/></sense>
+</entry><entry><lemma>dzavua iyo ino sindi </lemma>
+<pc>: </pc>
+<sense>obligado ser por profesión <lb/>el fraile <lb/></sense>
+</entry><entry><lemma>dzavua iyo ndatu sindi </lemma>
+<pc>: </pc>
+<sense>obligado ser por profesión <lb/>el fraile <lb/></sense>
+</entry><entry><lemma>dzavua iyo ndudzu itnayta </lemma>
+<pc>: </pc>
+<sense>comúnmente se <lb/>dice <lb/></sense>
+</entry><entry><lemma>dzavua ndatundi </lemma>
+<pc>: </pc>
+<sense>esta es mi suerte <lb/></sense>
+</entry><entry><lemma>dzavua nicaa inindi </lemma>
+<pc>: </pc>
+<sense>aficionado o aplicado natu-<lb/>ralmente ser una cosa más que otra <lb/></sense>
+</entry><entry><lemma>dzavua nicacu </lemma>
+<pc>: </pc>
+<sense>condición natural de alguno ; incli-<lb/>nación <lb/></sense>
+</entry><entry><lemma>dzavua nicaye </lemma>
+<pc>: </pc>
+<sense>medio quemado <lb/></sense>
+</entry><entry><lemma>dzavua nicoo coo inindi </lemma>
+<pc>: </pc>
+<sense>aficionado o aplicado <lb/>naturalmente ser una cosa más que otra <lb/></sense>
+</entry><entry><lemma>dzavua nisa coho naha ñuhu sindi </lemma>
+<pc>: </pc>
+<sense>obligado ser <lb/>por profesión el fraile <lb/></sense>
+</entry><entry><lemma>dzavua nisa coho quevui sindi </lemma>
+<pc>: </pc>
+<sense>obligado ser por <lb/>profesión el fraile <lb/></sense>
+</entry><entry><lemma>dzavua nisa tnaha inindi </lemma>
+<pc>: </pc>
+<sense>aficionado o aplicado <lb/>naturalmente ser una cosa más que otra <lb/></sense>
+</entry><entry><lemma>dzavua nisini nitacundi </lemma>
+<pc>: </pc>
+<sense>obligado ser por profe-<lb/>sión el fraile <lb/></sense>
+</entry><entry><lemma>dzavua ñuhu indaandi </lemma>
+<pc>: </pc>
+<sense>esta es mi suerte <lb/></sense>
+</entry><entry><lemma>dzavua ñuu </lemma>
+<pc>: </pc>
+<sense>a media noche <lb/></sense>
+</entry><entry><lemma>dzavua quaha inindi </lemma>
+<pc>: </pc>
+<sense>aficionado o aplicado natu-<lb/>ralmente ser una cosa más que otra <lb/></sense>
+</entry><entry><lemma>dzavua quaha ino ndatundi </lemma>
+<pc>: </pc>
+<sense>obligado ser por <lb/>profesión el fraile <lb/></sense>
+</entry><entry><lemma>dzavua quaha ndudzu </lemma>
+<pc>: </pc>
+<sense>así se usa <lb/></sense>
+</entry><entry><lemma>dzavua quidzata sa naha </lemma>
+<pc>: </pc>
+<sense>costumbre de pueblo <lb/></sense>
+</entry><entry><lemma>dzavua saha tniño </lemma>
+<pc>: </pc>
+<sense>acerca de aquel negocio <lb/></sense>
+</entry><entry><lemma>dzavua tachi dzavua tnumi yosino saandi </lemma>
+<pc>: </pc>
+<sense>correr <lb/>muy ligeramente <lb/></sense>
+</entry><entry><lemma>dzavua tayee dzavua ñaha dzehe </lemma>
+<pc>: </pc>
+<sense>así hombres <lb/>como mujeres <lb/></sense>
+</entry><entry><lemma>dzavua tna iyoni </lemma>
+<pc>: </pc>
+<sense>como quiera <lb/></sense>
+</entry><entry><lemma>dzavua tnaha </lemma>
+<pc>: </pc>
+<sense>así como ; como comparativo ; según <lb/>(adverbio) <lb/></sense>
+</entry><entry><lemma>dzavua tnaha huitna </lemma>
+<pc>: </pc>
+<sense>a esta hora <lb/></sense>
+</entry><entry><lemma>dzavua tnaha iyo </lemma>
+<pc>: </pc>
+<sense>estado de cada cosa <lb/></sense>
+</entry><entry><lemma>dzavua tnaha iyo sa yonaha sa yonduvui le-<lb/>tra </lemma>
+<pc>: </pc>
+<sense>forma de letra <lb/></sense>
+</entry><entry><lemma>dzavua tnaha quevui pascua yoquidzandi</lemma>, <re>yo-<lb/>cuvui inindi, yotuvui sindi</re> 
+<pc>: </pc>
+<sense>hacer cuenta que <lb/>es pascua <lb/></sense>
+</entry><entry><lemma>dzavua tnaha sa dzavuandi </lemma>
+<pc>: </pc>
+<sense>correr muy ligera-<lb/>mente <lb/></sense>
+</entry><entry><lemma>dzavua tnaha sinindo </lemma>
+<pc>: </pc>
+<sense>de cualquiera manera que <lb/>lo hagas <lb/></sense>
+</entry><entry><lemma>dzavua tnaha tecoo yee yavui </lemma>
+<pc>: </pc>
+<sense>blanca cosa en gran <lb/>manera <lb/></sense>
+</entry><entry><lemma>dzavua tnaha tiyee yavui </lemma>
+<pc>: </pc>
+<sense>blanca cosa en gran <lb/>manera <lb/></sense>
+</entry><entry><lemma>dzavua tnaha yocachi S.fee</lemma> [<re>Santa Fe</re>] 
+<pc>: </pc>
+<sense>acompa-<lb/>ñar con buenas obras la fe <lb/></sense>
+</entry><entry><lemma>dzavua tnaha yocuvui misa </lemma>
+<pc>: </pc>
+<sense>en tanto, o en tanto <lb/>que dicen misa <lb/></sense>
+</entry><entry><lemma>dzavua tnaha yuvui cachi </lemma>
+<pc>: </pc>
+<sense>blanca cosa en gran <lb/>manera <lb/></sense>
+</entry><entry><lemma>dzavua tucu </lemma>
+<pc>: </pc>
+<sense>también <lb/></sense>
+</entry><entry><lemma>dzavua tucuca </lemma>
+<pc>: </pc>
+<sense>sobre todo (precediendo plática) <lb/></sense>
+</entry><entry><lemma>dzavua yocachita dzavua yosinita </lemma>
+<pc>: </pc>
+<sense>así se dice o <lb/>se entiende <lb/></sense>
+</entry><entry><lemma>dzavua yocuvui dzavuayu sa cuvui dzavuayu <lb/>iyo </lemma>
+<pc>: </pc>
+<sense>acostumbrarse por usarse <lb/></sense>
+</entry><entry><lemma>dzavua yocuvui nuu yaha </lemma>
+<pc>: </pc>
+<sense>usarse entre algunos o <lb/>entre todos <lb/></sense>
+</entry><entry><lemma>dzavua yocuvui ñuu sa naha </lemma>
+<pc>: </pc>
+<sense>costumbre de <lb/>pueblo <lb/></sense>
+</entry><entry><lemma>dzavua yonahata </lemma>
+<pc>: </pc>
+<sense>así se dice o se entiende <lb/></sense>
+</entry><entry><lemma>dzavua yonana </lemma>
+<pc>: </pc>
+<sense>semejar o parecerse una cosa a <lb/>otra <lb/></sense>
+</entry><entry><lemma>dzavua yoqni inindi </lemma>
+<pc>: </pc>
+<sense>aficionado o aplicado natu-<lb/>ralmente ser una cosa más que otra <lb/></sense>
+</entry><entry><lemma>dzavua yosahandita </lemma>
+<pc>: </pc>
+<sense>doblar el precio <lb/></sense>
+</entry><entry><lemma>dzavua yosico inindi </lemma>
+<pc>: </pc>
+<sense>aficionado o aplicado natu-<lb/>ralmente ser una cosa más que otra <lb/></sense>
+</entry><entry><lemma>dzavua yosii tnahata dzo ndehe dzavua yocaha-<lb/>ta </lemma>
+<pc>: </pc>
+<sense>comúnmente se dice <lb/></sense>
+</entry><entry><lemma>dzavua yotacusita </lemma>
+<pc>: </pc>
+<sense>así se dice o se entiende <lb/></sense>
+</entry><entry><lemma>dzavua yotusi inindi </lemma>
+<pc>: </pc>
+<sense>aficionado o aplicado natu-<lb/>ralmente ser una cosa más que otra <lb/></sense>
+</entry><entry><lemma>dzavua yotuvui </lemma>
+<pc>: </pc>
+<sense>semejar o parecerse una cosa a <lb/>otra <lb/></sense>
+</entry><entry><lemma>dzavua yotuvui sindi </lemma>
+<pc>: </pc>
+<sense>parecerme o así me parece <lb/></sense>
+</entry><entry><lemma>dzavua yu </lemma>
+<pc>: </pc>
+<sense>certificado estar, por cierto tener <lb/></sense>
+</entry><entry><lemma>dzavua yu </lemma>
+<pc>: </pc>
+<sense>usarse entre algunos o entre todos <lb/></sense>
+</entry></body>
+	</text>
+</tei>

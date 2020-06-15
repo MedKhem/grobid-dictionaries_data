@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="form.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="form.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><form><orth>NOUVELLE </orth></form><form><orth>NOYAU </orth></form><form><orth>NOYER </orth></form><form><orth>NOYER (se) </orth></form><form><orth>NTOUME </orth></form><form><orth>NU </orth></form><form><orth>NUAGE </orth></form><form><orth>NUBILE </orth></form><form><orth>NUIT </orth></form><form><orth>NULLEMENT </orth></form><form><orth>NUQUE </orth></form><form><orth>NZAMANE </orth></form><form><orth>OBÉIR </orth></form><form><orth>OBÈSE </orth></form><form><orth>OBJET </orth></form><form><orth>OBLIGER </orth></form><form><orth>OBSCUR </orth></form><form><orth>OBSTACLE </orth></form><form><orth>OBSTINER (s') </orth></form><form><orth>OCCASION </orth></form><form><orth>OCCIPUT </orth></form><form><orth>OCCLUSION </orth></form><form><orth>ODEUR </orth></form><form><orth>OEIL </orth></form><form><orth>^&amp;gt;OESOPHAGE </orth></form><form><orth>OEUF </orth></form><form><orth>OGOOUÉ </orth></form><form><orth>OGRE </orth></form><form><orth>OH </orth></form><form><orth>OIGNON </orth></form><form><orth>OINDRE </orth></form><form><orth>OISEAU </orth></form><form><orth>OISELET </orth></form><form><orth>OKANDÉ </orth></form><form><orth>OKANO </orth></form><form><orth>OKOUMÉ </orth></form><form><orth>OMBRAGE </orth></form><form><orth>OMBRE </orth></form><form><orth>OMOPLATE </orth></form><form><orth>ONCLE </orth></form><form><orth>ONCTUEUX </orth></form><form><orth>ONDOYER <lb/></orth></form><form><orth>ONDULATION </orth></form><form><orth>ONGLE </orth></form><form><orth>ONZE </orth></form><form><orth>OPHTALMIE </orth></form><form><orth>OPPOSER (s') </orth></form><form><orth>OPPRESSION </orth></form><form><orth>OPPRIMER </orth></form><form><orth>OR </orth></form><form><orth>ORAGE </orth></form><form><orth>ORCHITE </orth></form><form><orth>ORDALIES </orth></form><form><orth>ORDONNER </orth></form><form><orth>ORDRE </orth></form><form><orth>OREILLE </orth></form></body>
+	</text>
+</tei>

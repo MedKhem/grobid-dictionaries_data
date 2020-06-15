@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="sense.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="sense.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><sense><subSense>cerrojo <lb/></subSense>
+</sense><sense><subSense>lograr de alguna cosa gozando de <lb/>ella <lb/></subSense>
+</sense><sense><subSense>distar (estando en pie) uno de <lb/>otro <lb/></subSense>
+</sense><sense><subSense>distar (sentados) uno de otro <lb/></subSense>
+</sense><sense><subSense>estar de cuesta con otro <lb/></subSense>
+</sense><sense><subSense>rellanada cosa <lb/></subSense>
+</sense><sense><subSense>corchete <lb/></subSense>
+</sense><sense><subSense>piezas de casas bajas a un lado <lb/></subSense>
+</sense><sense><subSense>echado estar <lb/></subSense>
+</sense><sense><subSense>cepillo <lb/></subSense>
+</sense><sense><subSense>martillo <lb/></subSense>
+</sense><sense><subSense>lima de hierro <lb/></subSense>
+</sense><sense><subSense>manta <lb/>traer al revés <lb/></subSense>
+</sense><sense><subSense>doblar manta hacia <lb/>dentro <lb/></subSense>
+</sense><sense><subSense>boca abajo estar echa­ <lb/>do </subSense>
+<pc>; </pc>
+<subSense>echado estar de bruces <lb/></subSense>
+</sense><sense><subSense>desocupado lugar <lb/></subSense>
+</sense><sense><subSense>corchete <lb/></subSense>
+</sense><sense><subSense>fingir <lb/></subSense>
+</sense><sense><subSense>acostado estar </subSense>
+<pc>; </pc>
+<subSense>echado estar sobre <lb/>petate <lb/></subSense>
+</sense><sense><subSense>echado estar <lb/></subSense>
+</sense><sense><subSense>a puesta de sol <lb/></subSense>
+</sense><sense><subSense>acostado estar <lb/></subSense>
+</sense><sense><subSense>atravesado estar algo (puesto de través) <lb/></subSense>
+</sense><sense><subSense>de través <lb/></subSense>
+</sense><sense><subSense>arar cruzando <lb/></subSense>
+</sense><sense><subSense>siniestra cosa <lb/></subSense>
+</sense><sense><subSense>siniestra cosa <lb/></subSense>
+</sense><sense><subSense>encubierto estar defecto de <lb/>otro <lb/></subSense>
+</sense><sense><subSense>estar encima de algo, si echado </subSense>
+<pc>; </pc>
+<subSense>carga­ <lb/>do estar (al cuello o a los hombros) <lb/></subSense>
+</sense><sense><subSense>llevar algo al pescuezo <lb/></subSense>
+</sense><sense><subSense>estar de <lb/>pechos sobre la mesa <lb/></subSense>
+</sense><sense><subSense>echado estar <lb/>de pechos (sobre una mesa) <lb/></subSense>
+</sense><sense><subSense>echado estar (en <lb/>la cama) <lb/></subSense>
+</sense><sense><subSense>jeringa <lb/></subSense>
+</sense><sense><subSense>acostado estar <lb/></subSense>
+</sense><sense><subSense>echado <lb/>estar (en la cama) <lb/></subSense>
+</sense><sense><subSense>fingir <lb/></subSense>
+</sense><sense><subSense>echarse el ave sobre sus <lb/>huevos <lb/></subSense>
+</sense><sense><subSense>cuadrada cosa <lb/></subSense>
+</sense><sense><subSense>imprenta <lb/></subSense>
+</sense><sense><subSense>estar las milpas llenas de yerba <lb/></subSense>
+</sense><sense><subSense>manta traer al de­ <lb/>recho <lb/></subSense>
+</sense><sense><subSense>nadar de <lb/>espaldas <lb/></subSense>
+</sense><sense><subSense>dar de llano con la <lb/>espalda <lb/></subSense>
+</sense><sense><subSense>boca arriba estar <lb/>echado </subSense>
+<pc>; </pc>
+<subSense>de espaldas estar echado <lb/></subSense>
+</sense><sense><subSense>hablar llana­ <lb/>mente sin mezcla <lb/></subSense>
+</sense><sense><subSense>escoda para labrar <lb/></subSense>
+</sense><sense><subSense>montosa, cosa alta <lb/></subSense>
+</sense><sense><subSense>batido <lb/></subSense>
+</sense><sense><subSense>batido <lb/></subSense>
+</sense><sense><subSense>arco de pipa <lb/></subSense>
+</sense><sense><subSense>escondido estar algo debajo de la <lb/>hoja caída <lb/></subSense>
+</sense><sense><subSense>estar <lb/>de cuesta con otro <lb/></subSense>
+</sense><sense><subSense>escondido estar algo debajo de la <lb/>hoja caída <lb/></subSense>
+</sense><sense><subSense>extenderse la enfer­ <lb/>medad <lb/></subSense>
+</sense><sense><subSense>agallas enfermedad <lb/></subSense>
+</sense><sense><subSense>escondido estar algo debajo de la <lb/>hoja caída <lb/></subSense>
+</sense><sense><subSense>entre dobleces <lb/></subSense>
+</sense><sense><subSense>entre dobleces <lb/></subSense>
+</sense><sense><subSense>escondido estar algo debajo de la <lb/>hoja caída <lb/></subSense>
+</sense><sense><subSense>estar metido en algún lugar <lb/>hondo <lb/></subSense>
+</sense><sense><subSense>atravesado estar algo <lb/>(puesto de través) <lb/></subSense>
+</sense><sense><subSense>atravesado llevar algo en <lb/>la boca <lb/></subSense>
+</sense><sense><subSense>dejar algunos días de <lb/>venir <lb/></subSense>
+</sense><sense><subSense>estar metido <lb/>en algún lugar hondo <lb/></subSense>
+</sense><sense><subSense>pocas veces <lb/></subSense>
+</sense><sense><subSense>hilo de alambre <lb/></subSense>
+</sense><sense><subSense>hoja de lata <lb/></subSense>
+</sense><sense><subSense>perdiz <lb/></subSense>
+</sense><sense><subSense>echado estar con otra <lb/>abrazado <lb/></subSense>
+</sense><sense><subSense>echado estar con otra abrazado <lb/></subSense>
+</sense><sense><subSense>desocupado lugar <lb/></subSense>
+</sense><sense><subSense>yunque <lb/></subSense>
+</sense><sense><subSense>barrenar <lb/></subSense>
+</sense><sense><subSense>espesa o tupida tela o manta <lb/></subSense>
+</sense><sense><subSense>púa de hierro <lb/></subSense>
+</sense><sense><subSense>púa de hierro <lb/></subSense>
+</sense><sense><subSense>escoda para labrar <lb/></subSense>
+</sense><sense><subSense>yunque <lb/></subSense>
+</sense><sense><subSense>azada o azadón <lb/></subSense>
+</sense><sense><subSense>anzuelo <lb/></subSense>
+</sense><sense><subSense>garfio <lb/></subSense>
+</sense><sense><subSense>compás de hierro <lb/></subSense>
+</sense><sense><subSense>garfio <lb/></subSense>
+</sense><sense><subSense>cepillo <lb/></subSense>
+</sense><sense><subSense>cepillo <lb/></subSense>
+</sense><sense><subSense>ganzúa <lb/></subSense>
+</sense><sense><subSense>grillos, prisión <lb/></subSense>
+</sense><sense><subSense>eslabón de cadena <lb/></subSense>
+</sense><sense><subSense>codorniz <lb/></subSense>
+</sense><sense><subSense>tórtola <lb/></subSense>
+</sense><sense><subSense>agujón de hierro </subSense>
+<pc>; </pc>
+<subSense>daga <lb/></subSense>
+</sense><sense><subSense>azufre </subSense>
+<pc>; </pc>
+<subSense>arambre </subSense>
+<pc>; </pc>
+<subSense>cobre </subSense>
+<pc>; </pc>
+<subSense>latón <lb/></subSense>
+</sense><sense><subSense>dobla hablar <lb/></subSense>
+</sense><sense><subSense>dedal <lb/></subSense>
+</sense><sense><subSense>malla suelta <lb/></subSense>
+</sense><sense><subSense>casquillo de saeta <lb/></subSense>
+</sense><sense><subSense>capacete de hierro </subSense>
+<pc>; </pc>
+<subSense>casco de <lb/>hierro <lb/></subSense>
+</sense><sense><subSense>collera <lb/></subSense>
+</sense><sense><subSense>esposas </subSense>
+<pc>; </pc>
+<subSense>prisión <lb/></subSense>
+</sense><sense><subSense>grillos </subSense>
+<pc>; </pc>
+<subSense>prisión <lb/></subSense>
+</sense><sense><subSense>freno para caballo <lb/></subSense>
+</sense><sense><subSense>lima de hierro <lb/></subSense>
+</sense><sense><subSense>corazas <lb/></subSense>
+</sense><sense><subSense>manopla <lb/></subSense>
+</sense><sense><subSense>casquillo de saeta <lb/></subSense>
+</sense><sense><subSense>yunque <lb/></subSense>
+</sense><sense><subSense>pujavante <lb/></subSense>
+</sense><sense><subSense>podadera <lb/></subSense>
+</sense><sense><subSense>pujavante <lb/></subSense>
+</sense><sense><subSense>estribo de silla <lb/></subSense>
+</sense><sense><subSense>lima de hierro <lb/></subSense>
+</sense><sense><subSense>herramienta <lb/></subSense>
+</sense><sense><subSense>espuela <lb/></subSense>
+</sense><sense><subSense>espuela <lb/></subSense>
+</sense><sense><subSense>freno para caballo <lb/></subSense>
+</sense><sense><subSense>herramienta <lb/></subSense>
+</sense><sense><subSense>escoda para labrar <lb/></subSense>
+</sense><sense><subSense>escoda para labrar <lb/></subSense>
+</sense><sense><subSense>esposas </subSense>
+<pc>; </pc>
+<subSense>prisión <lb/></subSense>
+</sense><sense><subSense>esposas </subSense>
+<pc>; </pc>
+<subSense>prisión <lb/></subSense>
+</sense><sense><subSense>casco de hierro</subSense>
+<pc>; </pc>
+<subSense>sombrero <lb/></subSense>
+</sense><sense><subSense>sello <lb/></subSense>
+</sense><sense><subSense>jeringa para echar agua <lb/></subSense>
+</sense><sense><subSense>sello <lb/></subSense>
+</sense><sense><subSense>almirez <lb/></subSense>
+</sense><sense><subSense>embudo <lb/></subSense>
+</sense><sense><subSense>hoz para cegar <lb/></subSense>
+</sense><sense><subSense>hoz para cegar <lb/></subSense>
+</sense><sense><subSense>destral para cortar madera </subSense>
+<pc>; </pc>
+<subSense>hacha <lb/>para cortar leña </subSense>
+<pc>; </pc>
+<subSense>sierra de hierro <lb/></subSense>
+</sense><sense><subSense>yunque <lb/></subSense>
+</sense><sense><subSense>rebosar <lb/></subSense>
+</sense><sense><subSense>hoz para cegar <lb/></subSense>
+</sense><sense><subSense>aldaba de puerta <lb/>para llamar <lb/></subSense>
+</sense><sense><subSense>hoz para cegar <lb/></subSense>
+</sense><sense><subSense>desocupado lugar </subSense>
+<pc>; </pc>
+<subSense>tiempo tener <lb/></subSense>
+</sense><sense><subSense>desenfadarse <lb/></subSense>
+</sense><sense><subSense>desocupado estar sin negocios <lb/></subSense>
+</sense><sense><subSense>desocupado estar el lugar <lb/></subSense>
+</sense><sense><subSense>herramienta <lb/></subSense>
+</sense><sense><subSense>haber lugar de hacer algo <lb/></subSense>
+</sense><sense><subSense>vacar el oficio <lb/></subSense>
+</sense><sense><subSense>cuadrada cosa <lb/></subSense>
+</sense><sense><subSense>reja para arar <lb/></subSense>
+</sense><sense><subSense>azada o azadón <lb/></subSense>
+</sense><sense><subSense>encubierto estar (defecto de <lb/>otro) <lb/></subSense>
+</sense><sense><subSense>siniestra cosa <lb/></subSense>
+</sense><sense><subSense>sello <lb/></subSense>
+</sense><sense><subSense>hierro para herrar </subSense>
+<pc>; </pc>
+<subSense>sello <lb/></subSense>
+</sense><sense><subSense>destral para cortar madera </subSense>
+<pc>; </pc>
+<subSense>hacha <lb/>para cortar leña <lb/></subSense>
+</sense><sense><subSense>anzuelo <lb/></subSense>
+</sense><sense><subSense>asador <lb/></subSense>
+</sense><sense><subSense>yunque </subSense>
+<pc>; </pc>
+<subSense>tenazas <lb/></subSense>
+</sense><sense><subSense>plana de albañir <lb/></subSense>
+</sense><sense><subSense>jeringa <lb/></subSense>
+</sense><sense><subSense>parrilla para asar <lb/></subSense>
+</sense><sense><subSense>garabato <lb/></subSense>
+</sense><sense><subSense>jeringa para echar agua <lb/></subSense>
+</sense><sense><subSense>sierra de hierro <lb/></subSense>
+</sense><sense><subSense>encubierto estar (defecto de <lb/>otro) <lb/></subSense>
+</sense><sense><subSense>embudo <lb/></subSense>
+</sense><sense><subSense>botón de fuego <lb/></subSense>
+</sense><sense><subSense>garfio <lb/></subSense>
+</sense><sense><subSense>paleta de hierro <lb/></subSense>
+</sense><sense><subSense>lanterna <lb/></subSense>
+</sense><sense><subSense>lanterna <lb/></subSense>
+</sense><sense><subSense>alindar una heredad con <lb/>otra <lb/></subSense>
+</sense><sense><subSense>hablar llanamente sin mezcla <lb/></subSense>
+</sense><sense><subSense>doblado estar <lb/></subSense>
+</sense><sense><subSense>doblada estar igualmente <lb/></subSense>
+</sense><sense><subSense>doblada estar, desigual <lb/></subSense>
+</sense><sense><subSense>doblada estar, desigual <lb/></subSense>
+</sense><sense><subSense>compás de hierro <lb/></subSense>
+</sense><sense><subSense>candelero cirial <lb/></subSense>
+</sense><sense><subSense>parrilla para asar </subSense>
+<pc>; </pc>
+<subSense>reja <lb/></subSense>
+</sense><sense><subSense>embudo </subSense>
+<pc>; </pc>
+<subSense>jeringa <lb/></subSense>
+</sense><sense><subSense>hablar llanamente sin mezcla <lb/></subSense>
+</sense><sense><subSense>escoda para labrar <lb/></subSense>
+</sense><sense><subSense>agujón de hierro </subSense>
+<pc>; </pc>
+<subSense>daga <lb/></subSense>
+</sense><sense><subSense>acostado estar </subSense>
+<pc>; </pc>
+<subSense>echado <lb/>estar <lb/></subSense>
+</sense><sense><subSense>hoja de lata <lb/></subSense>
+</sense><sense><subSense>chapa de metal </subSense>
+<pc>; </pc>
+<subSense>hoja de lata <lb/></subSense>
+</sense><sense><subSense>desparramado estar <lb/></subSense>
+</sense><sense><subSense>casco de hierro <lb/></subSense>
+</sense><sense><subSense>sencilla <lb/></subSense>
+</sense><sense><subSense>siniestra cosa <lb/></subSense>
+</sense><sense><subSense>reja para arar <lb/></subSense>
+</sense><sense><subSense>corazas <lb/></subSense>
+</sense><sense><subSense>corazas <lb/></subSense>
+</sense><sense><subSense>corazas <lb/></subSense>
+</sense><sense><subSense>estarse secando la <lb/>ropa colgada, si está tendida <lb/></subSense>
+</sense><sense><subSense>goznes <lb/></subSense>
+</sense><sense><subSense>escalera llana <lb/></subSense>
+</sense><sense><subSense>sierra de hierro <lb/></subSense>
+</sense><sense><subSense>recatón <lb/></subSense>
+</sense><sense><subSense>cuña de hierro <lb/></subSense>
+</sense><sense><subSense>trébedes sobre que ponen la olla <lb/></subSense>
+</sense><sense><subSense>sonajas <lb/></subSense>
+</sense><sense><subSense>campana <lb/></subSense>
+</sense><sense><subSense>martillo <lb/></subSense>
+</sense><sense><subSense>badil de hierro <lb/></subSense>
+</sense><sense><subSense>alambique o alquitara <lb/></subSense>
+</sense><sense><subSense>aserrar madera <lb/></subSense>
+</sense><sense><subSense>siniestra cosa <lb/></subSense>
+</sense><sense><subSense>aldaba para cerrar <lb/></subSense>
+</sense><sense><subSense>estribo de silla <lb/></subSense>
+</sense><sense><subSense>estribo de silla <lb/></subSense>
+</sense><sense><subSense>estribo de silla <lb/></subSense>
+</sense><sense><subSense>candado <lb/></subSense>
+</sense><sense><subSense>candado <lb/></subSense>
+</sense><sense><subSense>cerradura <lb/></subSense>
+</sense><sense><subSense>goznes <lb/></subSense>
+</sense><sense><subSense>peine de cardador <lb/></subSense>
+</sense><sense><subSense>sonajas <lb/></subSense>
+</sense><sense><subSense>yunque <lb/></subSense>
+</sense><sense><subSense>taladro <lb/></subSense>
+</sense><sense><subSense>alambique o alquitara <lb/></subSense>
+</sense><sense><subSense>encubierto estar (defecto de <lb/>otro) <lb/></subSense>
+</sense><sense><subSense>en algún tiempo <lb/></subSense>
+</sense><sense><subSense>acostado estar <lb/></subSense>
+</sense><sense><subSense>algunas veces <lb/></subSense>
+</sense><sense><subSense>muslo <lb/></subSense>
+</sense><sense><subSense>cal <lb/></subSense>
+</sense><sense><subSense>cal por cernir <lb/></subSense>
+</sense><sense><subSense>cal por cernir <lb/></subSense>
+</sense><sense><subSense>cal por cernir <lb/></subSense>
+</sense><sense><subSense>cal cernida <lb/></subSense>
+</sense><sense><subSense>pernil de tocino <lb/></subSense>
+</sense><sense><subSense>ve presto <lb/></subSense>
+</sense><sense><subSense>cal cernida <lb/></subSense>
+</sense><sense><subSense>cuarto trasero <lb/></subSense>
+</sense><sense><subSense>ven presto (llamando) <lb/></subSense>
+</sense><sense><subSense>a las 2 (día) <lb/></subSense>
+</sense><sense><subSense>algodón </subSense>
+<pc>; </pc>
+<subSense>estopa <lb/></subSense>
+</sense><sense><subSense>quebrarse <lb/></subSense>
+</sense><sense><subSense>fino algodón <lb/></subSense>
+</sense><sense><subSense>terrones deshacerse <lb/></subSense>
+</sense><sense><subSense>fino algodón <lb/></subSense>
+</sense><sense><subSense>fino algodón <lb/></subSense>
+</sense><sense><subSense>yesca <lb/></subSense>
+</sense><sense><subSense>a una hacerse todos <lb/></subSense>
+</sense><sense><subSense>capullo de algodón <lb/></subSense>
+</sense><sense><subSense>yesca <lb/></subSense>
+</sense><sense><subSense>fino algodón <lb/></subSense>
+</sense><sense><subSense>copo de algodón si está revuel­ <lb/>to en la rueca <lb/></subSense>
+</sense><sense><subSense>yesca <lb/></subSense>
+</sense><sense><subSense>cuñado, marido de hermana <lb/></subSense>
+</sense><sense><subSense>yerno <lb/></subSense>
+</sense><sense><subSense>echarse el ave sobre sus huevos <lb/></subSense>
+</sense><sense><subSense>anca, nalga <lb/></subSense>
+</sense><sense><subSense>tortero de huso <lb/></subSense>
+</sense><sense><subSense>celebro </subSense>
+<pc>; </pc>
+<subSense>nuca de la cabeza <lb/></subSense>
+</sense><sense><subSense>soberbio en el hablar <lb/></subSense>
+</sense></body>
+	</text>
+</tei>

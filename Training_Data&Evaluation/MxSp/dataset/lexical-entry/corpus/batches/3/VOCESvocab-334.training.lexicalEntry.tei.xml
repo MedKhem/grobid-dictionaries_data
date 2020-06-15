@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="lexicalEntry.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="lexicalEntry.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><entry><lemma>yosico coo ndahandi </lemma>
+<pc>: </pc>
+<sense>dar lugar al que viene para <lb/>que se siente <lb/></sense>
+</entry><entry><lemma>yosico coo ndicandii </lemma>
+<pc>: </pc>
+<sense>a la 1 (tarde) <lb/></sense>
+</entry><entry><lemma>yosico coondi </lemma>
+<pc>: </pc>
+<sense>volverse del bando contrario ; des-<lb/>ocupar lugar quitándome de donde estoy senta-<lb/>do ; desviarse ; mudarse de un casa a otro <lb/></sense>
+</entry><entry><lemma>yosico coo yosico cuiñe </lemma>
+<pc>: </pc>
+<sense>dividirse una cosa como <lb/>se dividió el mar bermejo en el tránsito de los <lb/>hijos de Israel <lb/></sense>
+</entry><entry><lemma>yosico coto dziñendi </lemma>
+<pc>: </pc>
+<sense>volver la cabeza mirando de <lb/>propósito <lb/></sense>
+</entry><entry><lemma>yosico coto iyondi</lemma> / <re>dzaa</re> 
+/ 
+<re>dzichi</re> / <re>satu</re> 
+<pc>: </pc>
+<sense>rostro <lb/>volver mirando enojado <lb/></sense>
+</entry><entry><lemma>yosico coto ndahui ñahandi </lemma>
+<pc>: </pc>
+<sense>rostro volver miran-<lb/>do con piedad <lb/></sense>
+</entry><entry><lemma>yosico coto sata</lemma>
+<pc>, </pc>
+<inflected>futuro cuico </inflected>
+<pc>: </pc>
+<sense>mirar atrás <lb/></sense>
+</entry><entry><lemma>yosico coto yaquandi </lemma>
+<pc>: </pc>
+<sense>volver la cabeza mirando <lb/>de propósito <lb/></sense>
+</entry><entry><lemma>yosico cotondi</lemma>
+<pc>, </pc>
+<inflected>futuro cuico </inflected>
+<pc>: </pc>
+<sense>rostro volver a un <lb/>lado ; volver a mirar <lb/></sense>
+</entry><entry><lemma>yosico coyo chisindi </lemma>
+<pc>: </pc>
+<sense>crujir o rugir las tripas <lb/></sense>
+</entry><entry><lemma>yosico coyo nduta</lemma>
+<pc>, </pc>
+<inflected>futuro cuico </inflected>
+<pc>: </pc>
+<sense>hervir el agua <lb/>cuando cuece <lb/></sense>
+</entry><entry><lemma>yosico coyondi </lemma>
+<pc>: </pc>
+<sense>volver lo de dentro afuera como <lb/>vestidura ; echar cosas líquidas de una vasija en <lb/>otra <lb/></sense>
+</entry><entry><lemma>yosico coyondi nuni </lemma>
+<pc>: </pc>
+<sense>traspalar el trigo volviéndo-<lb/>lo de arriba abajo <lb/></sense>
+</entry><entry><lemma>yosico cuiñe </lemma>
+<pc>: </pc>
+<sense>remolinarse <lb/></sense>
+</entry><entry><lemma>yosico cuiñe dzahuindi </lemma>
+<pc>: </pc>
+<sense>ampararse detrás de algo <lb/></sense>
+</entry><entry><lemma>yosico cuiñe dziñe </lemma>
+<pc>: </pc>
+<sense>ladearse algo <lb/></sense>
+</entry><entry><lemma>yosico cuiñe yeque </lemma>
+<pc>: </pc>
+<sense>desencasarse los huesos <lb/></sense>
+</entry><entry><lemma>yosico cuiñe yequendi </lemma>
+<pc>: </pc>
+<sense>desconcertarse los huesos <lb/></sense>
+</entry><entry><lemma>yosico cuiñe yequeta yoquidzandi </lemma>
+<pc>: </pc>
+<sense>desco yuntar <lb/></sense>
+</entry><entry><lemma>yosico cuiñendi</lemma>
+<pc>, </pc>
+<inflected>futuro co </inflected>
+<pc>: </pc>
+<sense>abrir camino apartán-<lb/>dome yo ; allegarse hacia allá o hacia acá apartán-<lb/>dose de donde está ; desocupar lugar quitándome <lb/>de donde estoy sentado ; desviarse ; hacerse a un <lb/>cabo apartándose ; retraerse, apartarse ; volverse <lb/>del bando contrario <lb/></sense>
+</entry><entry><lemma>yosico cuiñendi sacate / cate </lemma>
+<pc>: </pc>
+<sense>ampararse a la <lb/>sombra <lb/></sense>
+</entry><entry><lemma>yosico cuisi </lemma>
+<pc>: </pc>
+<sense>digerir la comida <lb/></sense>
+</entry><entry><lemma>yosico cuisi inindi </lemma>
+<pc>: </pc>
+<sense>enmendarme de la vida mala ; <lb/>mudar el corazón <lb/></sense>
+</entry><entry><lemma>yosico cuisindi </lemma>
+<pc>: </pc>
+<sense>vuelcos dar ; revolcarme <lb/></sense>
+</entry><entry><lemma>yosico cuisindi nu ndii nde ndiindi </lemma>
+<pc>: </pc>
+<sense>desasosega-<lb/>do estar por algún dolor corporal <lb/></sense>
+</entry><entry><lemma>yosico cuita ndodzo yutnu </lemma>
+<pc>: </pc>
+<sense>deshollejarse el árbol <lb/></sense>
+</entry><entry><lemma>yosico cuita ñee </lemma>
+<pc>: </pc>
+<sense>desollarse como la mano <lb/></sense>
+</entry><entry><lemma>yosico cuita ñeendi </lemma>
+<pc>: </pc>
+<sense>desollarse con golpe o he-<lb/>rida <lb/></sense>
+</entry><entry><lemma>yosico cuitendi</lemma>
+<pc>, </pc>
+<inflected>futuro cuico </inflected>
+<pc>: </pc>
+<sense>acertar a lo que se <lb/>tira ; certero tirar <lb/></sense>
+</entry><entry><lemma>yosico cuta </lemma>
+<pc>: </pc>
+<sense>volar alrededor ; estar alrededor senta-<lb/>dos ; remolinarse <lb/></sense>
+</entry><entry><lemma>yosico cuta nduta </lemma>
+<pc>: </pc>
+<sense>remolino hacerse en el agua <lb/></sense>
+</entry><entry><lemma>yosico cutandi</lemma>
+<pc>, </pc>
+<inflected>futuro cuico </inflected>
+<pc>: </pc>
+<sense>a la redonda andar ; <lb/>andar en rededor ; vuelta dar, yendo rodeando <lb/>alguna parte ; vueltas dar en rededor estando en <lb/>pie ; dar vueltas alrededor <lb/></sense>
+</entry><entry><lemma>yosico cuvui ñahandi</lemma>
+<pc>, </pc>
+<inflected>futuro cuico </inflected>
+<pc>: </pc>
+<sense>mandar a <lb/>otro que le habían mandado <lb/></sense>
+</entry><entry><lemma>yosico cuvuindita </lemma>
+<pc>: </pc>
+<sense>encomendar a otro el oficio <lb/>que le encomiendan <lb/></sense>
+</entry><entry><lemma>yosico chidzondi </lemma>
+<pc>: </pc>
+<sense>pasar una cosa de una parte a <lb/>otra <lb/></sense>
+</entry><entry><lemma>yosico chihi nuundi </lemma>
+<pc>: </pc>
+<sense>volver la cabeza mirando de <lb/>propósito <lb/></sense>
+</entry><entry><lemma>yosico chihi site ndahandita </lemma>
+<pc>: </pc>
+<sense>dar del codo a otro <lb/></sense>
+</entry><entry><lemma>yosico dzitandi </lemma>
+<pc>: </pc>
+<sense>estribar haciendo fuerza con las <lb/>manos <lb/></sense>
+</entry><entry><lemma>yosico dzitandi</lemma>
+<pc>, </pc>
+<inflected>futuro cuico </inflected>
+<pc>: </pc>
+<sense>morir penando <lb/>mucho tiempo <lb/></sense>
+</entry><entry><lemma>yosico huatandi</lemma>
+<pc>, </pc>
+<inflected>futuro caca </inflected>
+<pc>: </pc>
+<sense>aderezarme com-<lb/>poniéndome <lb/></sense>
+</entry><entry><lemma>yosico ini tnahandi</lemma>
+<pc>, </pc>
+<inflected>futuro cuico </inflected>
+<pc>: </pc>
+<sense>aficionados <lb/>estar dos <lb/></sense>
+</entry><entry><lemma>yosico inindi</lemma>
+<pc>, </pc>
+<inflected>futuro cuico </inflected>
+<pc>: </pc>
+<sense>avezarme ; habituar-<lb/>me ; aficionarse o aplicarse a algo ; allegarse a Dios <lb/>con el corazón ; deprender de otro bueno o malo ; <lb/>enamorarse ; inclinarse el corazón (por afec-<lb/>ción) <lb/></sense>
+</entry><entry><lemma>yosico inindi si stoho ndios </lemma>
+<pc>: </pc>
+<sense>conforme con la <lb/>voluntad de Dios <lb/></sense>
+</entry><entry><lemma>yosico inindita</lemma>
+<pc>, </pc>
+<inflected>futuro cuico </inflected>
+<pc>: </pc>
+<sense>hallarse bien con <lb/>alguno <lb/></sense>
+</entry><entry><lemma>yosico nahandi</lemma>
+<pc>, </pc>
+<inflected>futuro cuico </inflected>
+<pc>: </pc>
+<sense>volver lo de dentro <lb/>afuera como vestidura <lb/></sense>
+</entry><entry><lemma>yosico nahi</lemma>
+<pc>, </pc>
+<inflected>futuro cuico </inflected>
+<pc>: </pc>
+<sense>al revés volver la ca-<lb/>misa <lb/></sense>
+</entry><entry><lemma>yosico nahi dzinindi </lemma>
+<pc>: </pc>
+<sense>volver el rostro enojado <lb/></sense>
+</entry><entry><lemma>yosico nahindi </lemma>
+<pc>: </pc>
+<sense>poner al revés algo <lb/></sense>
+</entry><entry><lemma>yosico nahindi calzas </lemma>
+<pc>: </pc>
+<sense>descalzar calzas al rodo pelo <lb/>[rodapelo, redopelo, redropelo] <lb/></sense>
+</entry><entry><lemma>yosico nahindi dzoo </lemma>
+<pc>: </pc>
+<sense>alzar antepuerta <lb/></sense>
+</entry><entry><lemma>yosico nahindi ndudzu </lemma>
+<pc>: </pc>
+<sense>romancear o romanzar <lb/></sense>
+</entry><entry><lemma>yosico nahindi yuhu </lemma>
+<pc>: </pc>
+<sense>romancear o romanzar <lb/></sense>
+</entry></body>
+	</text>
+</tei>

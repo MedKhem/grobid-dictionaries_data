@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="lexicalEntry.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="lexicalEntry.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><entry><lemma>yondico dzamandi </lemma>
+<pc>: </pc>
+<sense>mudar a veces la carga <lb/></sense>
+</entry><entry><lemma>yondico inindi </lemma>
+<pc>: </pc>
+<sense>amansarse el airado ; aplacarse ; <lb/>desembravecerse ; desencapotarse, desenojarse <lb/></sense>
+</entry><entry><lemma>yondico nahindi yuu </lemma>
+<pc>: </pc>
+<sense>revolver alguna cosa como <lb/>piedra <lb/></sense>
+</entry><entry><lemma>yondico ndahui inindi </lemma>
+<pc>: </pc>
+<sense>amansarse el airado <lb/></sense>
+</entry><entry><lemma>yondico ndahui inindi sita </lemma>
+<pc>: </pc>
+<sense>mancilla tener de <lb/>quien primero estaba enojado <lb/></sense>
+</entry><entry><lemma>yondico ndaq ndayendi </lemma>
+<pc>: </pc>
+<sense>adobar ropa vieja <lb/></sense>
+</entry><entry><lemma>yondico ndidzondi </lemma>
+<pc>: </pc>
+<sense>adobar ropa vieja <lb/></sense>
+</entry><entry><lemma>yondico ndodzo tniño nicoo coondi </lemma>
+<pc>: </pc>
+<sense>suceder a <lb/>otro en oficio <lb/></sense>
+</entry><entry><lemma>yondico ñahandi </lemma>
+<pc>: </pc>
+<sense>seguir acompañando <lb/></sense>
+</entry><entry><lemma>yondico quaa </lemma>
+<pc>: </pc>
+<sense>tornar a pecar <lb/></sense>
+</entry><entry><lemma>yondico quay </lemma>
+<pc>: </pc>
+<sense>repetir <lb/></sense>
+</entry><entry><lemma>yondico sica ñahandi </lemma>
+<pc>: </pc>
+<sense>seguir de lejos <lb/></sense>
+</entry><entry><lemma>yondico siyo </lemma>
+<pc>: </pc>
+<sense>digerir la comida <lb/></sense>
+</entry><entry><lemma>yondico siyo qua ñuhu </lemma>
+<pc>: </pc>
+<sense>enconarse la llaga <lb/></sense>
+</entry><entry><lemma>yondico tasi inindi </lemma>
+<pc>: </pc>
+<sense>mudar el corazón ; pena tener, <lb/>arrepintiéndose de algo <lb/></sense>
+</entry><entry><lemma>yondico tasindi </lemma>
+<pc>: </pc>
+<sense>mover algo quitándolo de un <lb/>lugar para otro ; revender ; vender como regatón <lb/></sense>
+</entry><entry><lemma>yondico tasindi huahi </lemma>
+<pc>: </pc>
+<sense>mudar casa <lb/></sense>
+</entry><entry><lemma>yondico tnahandi </lemma>
+<pc>: </pc>
+<sense>proceder <lb/></sense>
+</entry><entry><lemma>yondico tneendi </lemma>
+<pc>: </pc>
+<sense>estribar haciendo fuerza con las <lb/>manos <lb/></sense>
+</entry><entry><lemma>yondico tniño naandi </lemma>
+<pc>: </pc>
+<sense>volver prestado en espe-<lb/>cie <lb/></sense>
+</entry><entry><lemma>yondico tniñondi </lemma>
+<pc>: </pc>
+<sense>trasegar vino <lb/></sense>
+</entry><entry><lemma>yondico tnundoo </lemma>
+<pc>: </pc>
+<sense>arribar los navíos volver al <lb/>puerto <lb/></sense>
+</entry><entry><lemma>yondicondi </lemma>
+<pc>: </pc>
+<sense>volverse de donde había ido ; huir para <lb/>atrás ; retraerse o retirarse en batalla ; tornar de <lb/>donde fui <lb/></sense>
+</entry><entry><lemma>yondicondi </lemma>
+<pc>: </pc>
+<sense>moler <lb/></sense>
+</entry><entry><lemma>yondicondi </lemma>
+<pc>: </pc>
+<sense>refrescarse ; resfriarse <lb/></sense>
+</entry><entry><lemma>yondicondita</lemma>
+<pc>, </pc>
+<inflected>futuro ca ndico </inflected>
+<pc>: </pc>
+<sense>acompañar a otro <lb/>andando con él <lb/></sense>
+</entry><entry><lemma>yondicote </lemma>
+<pc>: </pc>
+<sense>atados estar animales <lb/></sense>
+</entry><entry><lemma>yondichi </lemma>
+<pc>: </pc>
+<sense>estar manchado <lb/></sense>
+</entry><entry><lemma>yondichi yondaa vuisi </lemma>
+<pc>: </pc>
+<sense>hojosa cosa de hojas <lb/></sense>
+</entry><entry><lemma>yondidzi ndaa </lemma>
+<pc>: </pc>
+<sense>extenderse por la tierra, como <lb/>hojas de calabaza <lb/></sense>
+</entry><entry><lemma>yondidzo ñaha idzu </lemma>
+<pc>: </pc>
+<sense>caminar a caballo <lb/></sense>
+</entry><entry><lemma>yondidzo yecandi</lemma>
+<pc>, </pc>
+<inflected>futuro ca ndidzo </inflected>
+<pc>: </pc>
+<sense>prestados <lb/>tener tomines ; deudas tener, deberlas <lb/></sense>
+</entry><entry><lemma>yondidzo yecandita nday ndaa cata nitavui</lemma>
+<pc>, </pc>
+<inflected>fu
+-<lb/>
+turo ca ndidzo</inflected> 
+<pc>: </pc>
+<sense>adeudado estar sin pagarlo que <lb/>debe <lb/></sense>
+</entry><entry><lemma>yondidzo yotavuindi quachi </lemma>
+<pc>: </pc>
+<sense>dejar de enmendar-<lb/>se perseverando en el pecado <lb/></sense>
+</entry><entry><lemma>yondidzo yotavuindi quachi</lemma>
+<pc>, </pc>
+<inflected>futuro candidzo, <lb/></inflected>
+</entry><entry><lemma>futuro ca tavui </lemma>
+<pc>: </pc>
+<sense>estar siempre en pecados <lb/></sense>
+</entry><entry><lemma>yondidzondi</lemma>
+<pc>, </pc>
+<inflected>futuro ca ndidzo </inflected>
+<pc>: </pc>
+<sense>llevar a cuestas <lb/></sense>
+</entry><entry><lemma>yondidzondi dzidzo </lemma>
+<pc>: </pc>
+<sense>cargado estar <lb/></sense>
+</entry><entry><lemma>yondihi tnahandi </lemma>
+<pc>: </pc>
+<sense>apretarse atropellándose <lb/></sense>
+</entry><entry><lemma>yondihi yonañundi quachi </lemma>
+<pc>: </pc>
+<sense>dejar de enmendarse <lb/>perseverando en el pecado <lb/></sense>
+</entry><entry><lemma>yondihindi tayu </lemma>
+<pc>: </pc>
+<sense>estar sentado en escaño <lb/></sense>
+</entry><entry><lemma>yondihindi yonañundi quachi</lemma>
+<pc>, </pc>
+<inflected>futuro co ndi-<lb/>hi </inflected>
+<pc>: </pc>
+<sense>estar siempre en pecados <lb/></sense>
+</entry><entry><lemma>yondihindi yonañundi quachi idzi mihi </lemma>
+<pc>: </pc>
+<sense>vivir <lb/>en pecados (por metáfora) <lb/></sense>
+</entry><entry><lemma>yondii </lemma>
+<pc>: </pc>
+<sense>relumbrar por relucir <lb/></sense>
+</entry><entry><lemma>yondii </lemma>
+<pc>: </pc>
+<sense>rodar como la bola <lb/></sense>
+</entry><entry><lemma>yondii idza </lemma>
+<pc>: </pc>
+<sense>urdir <lb/></sense>
+</entry><entry><lemma>yondii ndaa </lemma>
+<pc>: </pc>
+<sense>reverberar <lb/></sense>
+</entry><entry><lemma>yondii ndaandi </lemma>
+<pc>: </pc>
+<sense>calentarse al sol <lb/></sense>
+</entry><entry><lemma>yondii ndicandii </lemma>
+<pc>: </pc>
+<sense>hacer sol <lb/></sense>
+</entry><entry><lemma>yondii ndodzo </lemma>
+<pc>: </pc>
+<sense>abochornarse las mieses (no quie-<lb/>re decir abochonarse, sino abochornar las mieses, <lb/>que significa por modo activo) <lb/></sense>
+</entry><entry><lemma>yondii ndodzo </lemma>
+<pc>: </pc>
+<sense>abrasar el sol <lb/></sense>
+</entry><entry><lemma>yondii ndodzo </lemma>
+<pc>: </pc>
+<sense>asolearse algo ; herir el sol en algu-<lb/>na parte <lb/></sense>
+</entry><entry><lemma>yondii ndodzo quaha </lemma>
+<pc>: </pc>
+<sense>rodar como la bola <lb/></sense>
+</entry><entry><lemma>yondii nini </lemma>
+<pc>: </pc>
+<sense>resplandecer ; reverberar ; traslucirse <lb/></sense>
+</entry><entry><lemma>yondii ninindi </lemma>
+<pc>: </pc>
+<sense>echar rayos de sí resplandeciendo <lb/></sense>
+</entry><entry><lemma>yondii yoo </lemma>
+<pc>: </pc>
+<sense>luna hacer <lb/></sense>
+</entry><entry><lemma>yondii yosaya ñuu </lemma>
+<pc>: </pc>
+<sense>carestía haber de manteni-<lb/>mientos (esa negra sequedad) <lb/></sense>
+</entry><entry><lemma>yondii yotnoo yosicandi </lemma>
+<pc>: </pc>
+<sense>andar de día claro <lb/></sense>
+</entry><entry><lemma>yondii yotuvuisi yosacusi </lemma>
+<pc>: </pc>
+<sense>llorar mucha el niño <lb/>con coraje <lb/></sense>
+</entry><entry><lemma>yondiindi </lemma>
+<pc>: </pc>
+<sense>devanar con aspa ; lucir o resplandecer <lb/>persona <lb/></sense>
+</entry><entry><lemma>yondiindi idza </lemma>
+<pc>: </pc>
+<sense>tela urdir <lb/></sense>
+</entry><entry><lemma>yondisi huatundi </lemma>
+<pc>: </pc>
+<sense>aderezados galanamente según <lb/>su estado <lb/></sense>
+</entry><entry><lemma>yondisindi ndayu saha ndeye </lemma>
+<pc>: </pc>
+<sense>enlutarse, ponerse <lb/>luto <lb/></sense>
+</entry><entry><lemma>yondisindi sa saa </lemma>
+<pc>: </pc>
+<sense>estrenar vestidura <lb/></sense>
+</entry><entry><lemma>yondito cuiindi </lemma>
+<pc>: </pc>
+<sense>vivir para siempre <lb/></sense>
+</entry><entry><lemma>yondito cutundi </lemma>
+<pc>: </pc>
+<sense>cuidado tener mirando por al-<lb/>guno <lb/></sense>
+</entry><entry><lemma>yondito cutundita </lemma>
+<pc>: </pc>
+<sense>tener cuidado de alguno <lb/></sense>
+</entry><entry><lemma>yondito huahandi </lemma>
+<pc>: </pc>
+<sense>pesar algún negocio, conside-<lb/>rarlo bien <lb/></sense>
+</entry></body>
+	</text>
+</tei>

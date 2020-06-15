@@ -1,0 +1,22 @@
+Dict+Fang-Fr+Model+form+Feature+Engineered+DataLevel+1
+===== Field-level results =====
+
+label                accuracy     precision    recall       f1           support
+
+<gramGrp>            99.63        99.26        98.89        99.08        271    
+<lbl>                99.93        0            0            0            1      
+<orth>               99.93        99.66        100          99.83        296    
+<pc>                 99.93        100          99.82        99.91        545    
+<pron>               99.85        99.56        99.56        99.56        229    
+
+all (micro avg.)     99.85        99.7         99.55        99.63        1342   
+all (macro avg.)     99.85        79.7         79.65        79.68        1342   
+
+===== Instance-level results =====
+
+Total expected instances:   296
+Correct instances:          294
+Instance-level recall:      99.32
+
+
+Evaluation for form model is realized in 694 ms

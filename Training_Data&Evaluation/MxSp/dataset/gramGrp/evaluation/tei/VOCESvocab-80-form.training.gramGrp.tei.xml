@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="gramGrp.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="gramGrp.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><gramGrp><gram>futuro </gram>
+</gramGrp><gramGrp><gram>futuro </gram>
+</gramGrp><gramGrp><gram>futuro </gram>
+</gramGrp></body>
+	</text>
+</tei>

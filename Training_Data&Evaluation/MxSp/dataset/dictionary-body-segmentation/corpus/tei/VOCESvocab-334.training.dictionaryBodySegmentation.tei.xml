@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dictionaryBodySegmentation.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="dictionaryBodySegmentation.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><entry>yosico coo ndahandi : dar lugar al que viene para <lb/>que se siente <lb/></entry>
+<entry>yosico coo ndicandii : a la 1 (tarde) <lb/></entry>
+<entry>yosico coondi : volverse del bando contrario ; des-<lb/>ocupar lugar quitándome de donde estoy senta-<lb/>do ; desviarse ; mudarse de un casa a otro <lb/></entry>
+<entry>yosico coo yosico cuiñe : dividirse una cosa como <lb/>se dividió el mar bermejo en el tránsito de los <lb/>hijos de Israel <lb/></entry>
+<entry>yosico coto dziñendi : volver la cabeza mirando de <lb/>propósito <lb/></entry>
+<entry>yosico coto iyondi / dzaa / dzichi / satu : rostro <lb/>volver mirando enojado <lb/></entry>
+<entry>yosico coto ndahui ñahandi : rostro volver miran-<lb/>do con piedad <lb/></entry>
+<entry>yosico coto sata, futuro cuico : mirar atrás <lb/></entry>
+<entry>yosico coto yaquandi : volver la cabeza mirando <lb/>de propósito <lb/></entry>
+<entry>yosico cotondi, futuro cuico : rostro volver a un <lb/>lado ; volver a mirar <lb/></entry>
+<entry>yosico coyo chisindi : crujir o rugir las tripas <lb/></entry>
+<entry>yosico coyo nduta, futuro cuico : hervir el agua <lb/>cuando cuece <lb/></entry>
+<entry>yosico coyondi : volver lo de dentro afuera como <lb/>vestidura ; echar cosas líquidas de una vasija en <lb/>otra <lb/></entry>
+<entry>yosico coyondi nuni : traspalar el trigo volviéndo-<lb/>lo de arriba abajo <lb/></entry>
+<entry>yosico cuiñe : remolinarse <lb/></entry>
+<entry>yosico cuiñe dzahuindi : ampararse detrás de algo <lb/></entry>
+<entry>yosico cuiñe dziñe : ladearse algo <lb/></entry>
+<entry>yosico cuiñe yeque : desencasarse los huesos <lb/></entry>
+<entry>yosico cuiñe yequendi : desconcertarse los huesos <lb/></entry>
+<entry>yosico cuiñe yequeta yoquidzandi : desco yuntar <lb/></entry>
+<entry>yosico cuiñendi, futuro co : abrir camino apartán-<lb/>dome yo ; allegarse hacia allá o hacia acá apartán-<lb/>dose de donde está ; desocupar lugar quitándome <lb/>de donde estoy sentado ; desviarse ; hacerse a un <lb/>cabo apartándose ; retraerse, apartarse ; volverse <lb/>del bando contrario <lb/></entry>
+<entry>yosico cuiñendi sacate / cate : ampararse a la <lb/>sombra <lb/></entry>
+<entry>yosico cuisi : digerir la comida <lb/></entry>
+<entry>yosico cuisi inindi : enmendarme de la vida mala ; <lb/>mudar el corazón <lb/></entry>
+<entry>yosico cuisindi : vuelcos dar ; revolcarme <lb/></entry>
+<entry>yosico cuisindi nu ndii nde ndiindi : desasosega-<lb/>do estar por algún dolor corporal <lb/></entry>
+<entry>yosico cuita ndodzo yutnu : deshollejarse el árbol <lb/></entry>
+<entry>yosico cuita ñee : desollarse como la mano <lb/></entry>
+<entry>yosico cuita ñeendi : desollarse con golpe o he-<lb/>rida <lb/></entry>
+<entry>yosico cuitendi, futuro cuico : acertar a lo que se <lb/>tira ; certero tirar <lb/></entry>
+<entry>yosico cuta : volar alrededor ; estar alrededor senta-<lb/>dos ; remolinarse <lb/></entry>
+<entry>yosico cuta nduta : remolino hacerse en el agua <lb/></entry>
+<entry>yosico cutandi, futuro cuico : a la redonda andar ; <lb/>andar en rededor ; vuelta dar, yendo rodeando <lb/>alguna parte ; vueltas dar en rededor estando en <lb/>pie ; dar vueltas alrededor <lb/></entry>
+<entry>yosico cuvui ñahandi, futuro cuico : mandar a <lb/>otro que le habían mandado <lb/></entry>
+<entry>yosico cuvuindita : encomendar a otro el oficio <lb/>que le encomiendan <lb/></entry>
+<entry>yosico chidzondi : pasar una cosa de una parte a <lb/>otra <lb/></entry>
+<entry>yosico chihi nuundi : volver la cabeza mirando de <lb/>propósito <lb/></entry>
+<entry>yosico chihi site ndahandita : dar del codo a otro <lb/></entry>
+<entry>yosico dzitandi : estribar haciendo fuerza con las <lb/>manos <lb/></entry>
+<entry>yosico dzitandi, futuro cuico : morir penando <lb/>mucho tiempo <lb/></entry>
+<entry>yosico huatandi, futuro caca : aderezarme com-<lb/>poniéndome <lb/></entry>
+<entry>yosico ini tnahandi, futuro cuico : aficionados <lb/>estar dos <lb/></entry>
+<entry>yosico inindi, futuro cuico : avezarme ; habituar-<lb/>me ; aficionarse o aplicarse a algo ; allegarse a Dios <lb/>con el corazón ; deprender de otro bueno o malo ; <lb/>enamorarse ; inclinarse el corazón (por afec-<lb/>ción) <lb/></entry>
+<entry>yosico inindi si stoho ndios : conforme con la <lb/>voluntad de Dios <lb/></entry>
+<entry>yosico inindita, futuro cuico : hallarse bien con <lb/>alguno <lb/></entry>
+<entry>yosico nahandi, futuro cuico : volver lo de dentro <lb/>afuera como vestidura <lb/></entry>
+<entry>yosico nahi, futuro cuico : al revés volver la ca-<lb/>misa <lb/></entry>
+<entry>yosico nahi dzinindi : volver el rostro enojado <lb/></entry>
+<entry>yosico nahindi : poner al revés algo <lb/></entry>
+<entry>yosico nahindi calzas : descalzar calzas al rodo pelo <lb/>[rodapelo, redopelo, redropelo] <lb/></entry>
+<entry>yosico nahindi dzoo : alzar antepuerta <lb/></entry>
+<entry>yosico nahindi ndudzu : romancear o romanzar <lb/></entry>
+<entry>yosico nahindi yuhu : romancear o romanzar <lb/></entry>
+</body>
+	</text>
+</tei>

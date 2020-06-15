@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="subSense.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="subSense.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><subSense><def>a </def>
+<pc>(</pc>
+<usg>del que halla a otro en maleficio</usg>) <lb/>
+</subSense><subSense><def>a </def>
+<pc>(</pc>
+<gramGrp>interiectio admirantis</gramGrp>) <lb/>
+</subSense><subSense><def>poco más o menos <lb/></def>
+</subSense><subSense><def>poco más o menos <lb/></def>
+</subSense><subSense><def>poco más o menos <lb/></def>
+</subSense><subSense><def>o no <lb/></def>
+</subSense><subSense><def>pues no <lb/></def>
+</subSense><subSense><def>poco más o menos <lb/></def>
+</subSense><subSense><def>ahora poco <lb/></def>
+</subSense><subSense><def>o bienaventurado, <lb/>o dichoso <lb/></def>
+</subSense><subSense><def>o no </def>
+</subSense><subSense><def>pues no <lb/></def>
+</subSense><subSense><def>pues no <lb/></def>
+</subSense><subSense><def>por ventura alguno <lb/></def>
+</subSense><subSense><def>por ventura alguno de voso­ <lb/>tros <lb/></def>
+</subSense><subSense><def>de manera que <lb/></def>
+</subSense><subSense><def>ya, acordándoseme lo que se me había olvi­ <lb/>dado <lb/></def>
+</subSense><subSense><def>así, así </def>(<usg>sonriéndose</usg>) <lb/>
+</subSense><subSense><def>ya</def> (<usg>acordándoseme lo que se me <lb/>había olvidado</usg>) <lb/>
+</subSense><subSense><def>o</def> (<gramGrp>disyuntiva</gramGrp>) 
+</subSense><subSense><def>por ventura </def>
+</subSense><subSense><def>quizás <lb/></def>
+</subSense><subSense><def>suave cosa <lb/></def>
+</subSense><subSense><def>o</def> (<gramGrp>disyuntiva</gramGrp>) 
+</subSense><subSense><def>por ventura </def>
+</subSense><subSense><def>quizás <lb/></def>
+</subSense><subSense><def>por ventura <lb/></def>
+</subSense><subSense><def>por ventura alguno <lb/></def>
+</subSense><subSense><def>por ventura alguno de vo­ <lb/>sotros <lb/></def>
+</subSense><subSense><def>ay, quejándose la mujer <lb/></def>
+</subSense><subSense><def>así <lb/></def>
+</subSense><subSense><def>bien está</def> (<usg>otorgando</usg>) 
+</subSense><subSense><def>sí <lb/></def>
+</subSense><subSense><def>¿cuándo? </def>
+<pc>(</pc>
+<gramGrp>adverbio interrogativo</gramGrp>), 
+<def>¿en qué <lb/>tiempo? <lb/></def>
+</subSense><subSense><def>en algún tiempo <lb/></def>
+</subSense><subSense><def>cuandoquiera que <lb/>quisieres <lb/></def>
+</subSense><subSense><def>¿cuándo has <lb/>de despertar? <lb/></def>
+</subSense><subSense><def>¿cuándo has de despertar? <lb/></def>
+</subSense><subSense><def>¿cuándo has de volver en <lb/>ti? </def>
+</subSense><subSense><def>¿cuándo has de despertar? <lb/></def>
+</subSense><subSense><def>en algún tiempo <lb/></def>
+</subSense><subSense><def>cuandoquiera <lb/>que quisieres <lb/></def>
+</subSense><subSense><def>¿cuándo, en qué tiempo? <lb/></def>
+</subSense><subSense><def>de tarde en tarde o raras veces <lb/></def>
+</subSense><subSense><def>infierno, lugar de dañados <lb/></def>
+</subSense><subSense><def>cielo <lb/></def>
+</subSense><subSense><def>cielo estrellado <lb/></def>
+</subSense><subSense><def>ángel de mi guarda <lb/></def>
+</subSense><subSense><def>ángel de mi guarda <lb/></def>
+</subSense><subSense><def>palacio <lb/></def>
+</subSense><subSense><def>abismo </def>
+</subSense><subSense><def>centro de la tierra </def>
+</subSense><subSense><def>infierno, lugar <lb/>de dañados <lb/></def>
+</subSense><subSense><def>profundo <lb/></def>
+</subSense><subSense><def>profundo <lb/></def>
+</subSense><subSense><def>infierno, lugar de dañados <lb/></def>
+</subSense><subSense><def>infierno, lugar de dañados <lb/></def>
+</subSense><subSense><def>ojalá <lb/></def>
+</subSense><subSense><def>amarga cosa </def>
+</subSense><subSense><def>áspero al gusto <lb/></def>
+</subSense><subSense><def>amarga cosa </def>
+</subSense><subSense><def>áspero al gusto <lb/></def>
+</subSense><subSense><def>lo que está por venir <lb/></def>
+</subSense><subSense><def>tiempo por venir <lb/></def>
+</subSense><subSense><def>llevar alguna cosa</def> (<gramGrp>futuro</gramGrp>) <lb/>
+</subSense><subSense><def>llevar alguna cosa </def>
+<pc>(</pc>
+<gramGrp>imperativo</gramGrp>), <lb/><def>traerlo</def> <lb/>
+</subSense><subSense><def>llevar alguna cosa</def> 
+<pc>(</pc>
+<gramGrp>im­ <lb/>
+perativo
+: 
+llevarás esto</gramGrp>) <lb/>
+</subSense><subSense><def>flocadura tener la manta <lb/></def>
+</subSense><subSense><def>lo que está por venir <lb/></def>
+</subSense><subSense><def>lo que está por venir <lb/></def>
+</subSense><subSense><def>presto</def> (<usg>ir</usg>) <lb/>
+</subSense><subSense><def>ir presto <lb/></def>
+</subSense><subSense><def>anda</def> (<usg>mandando</usg>) <lb/>
+</subSense><subSense><def>almádena <lb/></def>
+</subSense><subSense><def>tiempo por venir <lb/></def>
+</subSense><subSense><def>para siempre <lb/></def>
+</subSense><subSense><def>para siempre <lb/></def>
+</subSense><subSense><def>hierro, metal <lb/></def>
+</subSense><subSense><def>rellanada cosa <lb/></def>
+</subSense><subSense><def>candil <lb/></def>
+</subSense><subSense><def>pestillo de cerradura <lb/></def>
+</subSense><subSense><def>volar hacia abajo <lb/></def>
+</subSense><subSense><def>volar hacia arriba <lb/></def>
+</subSense><subSense><def>esquilón <lb/></def>
+</subSense><subSense><def>esquilonada campana <lb/></def>
+</subSense><subSense><def>esquilonada campana <lb/></def>
+</subSense><subSense><def>cardas </def>
+</subSense><subSense><def>peine de cardador <lb/></def>
+</subSense><subSense><def>reloj <lb/></def>
+</subSense><subSense><def>podadera <lb/></def>
+</subSense><subSense><def>acero <lb/></def>
+</subSense><subSense><def>azuela <lb/></def>
+</subSense><subSense><def>un poco más <lb/></def>
+</subSense><subSense><def>celada, armadura de la cabeza <lb/></def>
+</subSense><subSense><def>plana de albañir <lb/></def>
+</subSense><subSense><def>dar de llano con la espalda <lb/></def>
+</subSense><subSense><def>barrena <lb/></def>
+</subSense><subSense><def>reloj <lb/></def>
+</subSense><subSense><def>ganzúa <lb/></def>
+</subSense><subSense><def>fiel de balanza <lb/></def>
+</subSense><subSense><def>candelero en que se pone la <lb/>candela <lb/></def>
+</subSense><subSense><def>hebilleta <lb/></def>
+</subSense><subSense><def>argolla para el pie o <lb/>garganta <lb/></def>
+</subSense><subSense><def>reja para arar <lb/></def>
+</subSense><subSense><def>martillo <lb/></def>
+</subSense><subSense><def>compás de hierro <lb/></def>
+</subSense><subSense><def>pujavante <lb/></def>
+</subSense><subSense><def>jeringa para echar agua <lb/></def>
+</subSense><subSense><def>eslabón de pedernal <lb/></def>
+</subSense><subSense><def>hoz podadera <lb/></def>
+</subSense><subSense><def>pujavante <lb/></def>
+</subSense><subSense><def>encubierto estar </def>
+<pc>(</pc>
+<usg>defecto <lb/>de otro</usg>) <lb/>
+</subSense><subSense><def>podadera <lb/></def>
+</subSense><subSense><def>contrahacer letra <lb/></def>
+</subSense><subSense><def>desparramado estar <lb/></def>
+</subSense><subSense><def>sierra de hierro <lb/></def>
+</subSense><subSense><def>pueblo rico <lb/></def>
+</subSense><subSense><def>tenazas <lb/></def>
+</subSense><subSense><def>dar de agudo <lb/></def>
+</subSense><subSense><def>echado estar de lado <lb/></def>
+</subSense><subSense><def>azada o azadón </def>
+</subSense><subSense><def>badil de hierro <lb/></def>
+</subSense><subSense><def>ganzúa <lb/></def>
+</subSense><subSense><def>sencilla <lb/></def>
+</subSense><subSense><def>dobla hablar <lb/></def>
+</subSense><subSense><def>ganzúa <lb/></def>
+</subSense><subSense><def>sencilla <lb/></def>
+</subSense><subSense><def>armella <lb/></def>
+</subSense><subSense><def>estribo de silla <lb/></def>
+</subSense><subSense><def>casquillo de saeta <lb/></def>
+</subSense><subSense><def>jeringa <lb/></def>
+</subSense><subSense><def>manopla <lb/></def>
+</subSense><subSense><def>hoz podadera <lb/></def>
+</subSense><subSense><def>almohaza <lb/></def>
+</subSense><subSense><def>llave <lb/></def>
+</subSense><subSense><def>corchete <lb/></def>
+</subSense><subSense><def>cerrojo <lb/></def>
+</subSense></body>
+	</text>
+</tei>

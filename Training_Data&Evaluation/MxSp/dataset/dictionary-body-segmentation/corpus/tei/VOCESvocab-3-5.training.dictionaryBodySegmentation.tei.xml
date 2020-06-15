@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dictionaryBodySegmentation.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="dictionaryBodySegmentation.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><entry>caa nacono nini yuhu yahi : cerrojo <lb/></entry>
+<entry>caa naha sindi : lograr de alguna cosa gozando de <lb/>ella <lb/></entry>
+<entry>caa naho iñendi : distar (estando en pie) uno de <lb/>otro <lb/></entry>
+<entry>caa naho iyondi : distar (sentados) uno de otro <lb/></entry>
+<entry>caa ndaa : estar de cuesta con otro <lb/></entry>
+<entry>caa ndaa : rellanada cosa <lb/></entry>
+<entry>caa ndaa chihi : corchete <lb/></entry>
+<entry>caa ndaa dziñe : piezas de casas bajas a un lado <lb/></entry>
+<entry>caa ndaandi : echado estar <lb/></entry>
+<entry>caa ndadza huii yutnu : cepillo <lb/></entry>
+<entry>caa ndaha : martillo <lb/></entry>
+<entry>caa ndaye : lima de hierro <lb/></entry>
+<entry>caa ndaye dzoo yondisindi / sa ndisindi : manta <lb/>traer al revés <lb/></entry>
+<entry>caa ndaye yona canundi : doblar manta hacia <lb/>dentro <lb/></entry>
+<entry>caa ndayendi, futuro cavua : boca abajo estar echa­ <lb/>do ; echado estar de bruces <lb/></entry>
+<entry>caa ndeca caa nuna : desocupado lugar <lb/></entry>
+<entry>caa ndevui nuu tnaha : corchete <lb/></entry>
+<entry>caa ndidzonica yocahandi : fingir <lb/></entry>
+<entry>caa ndihindi : acostado estar ; echado estar sobre <lb/>petate <lb/></entry>
+<entry>caa ndii : echado estar <lb/></entry>
+<entry>caa ndii quaaca : a puesta de sol <lb/></entry>
+<entry>caa ndiindi : acostado estar <lb/></entry>
+<entry>caa ndisi : atravesado estar algo (puesto de través) <lb/></entry>
+<entry>caa ndisi : de través <lb/></entry>
+<entry>caa ndisi yositute : arar cruzando <lb/></entry>
+<entry>caa ndiyeca : siniestra cosa <lb/></entry>
+<entry>caa ndiyoca : siniestra cosa <lb/></entry>
+<entry>caa ndiyu quachita : encubierto estar defecto de <lb/>otro <lb/></entry>
+<entry>caa ndodzo : estar encima de algo, si echado ; carga­ <lb/>do estar (al cuello o a los hombros) <lb/></entry>
+<entry>caa ndodzo dzuq : llevar algo al pescuezo <lb/></entry>
+<entry>caa ndodzo ndayendi, futuro cavua : estar de <lb/>pechos sobre la mesa <lb/></entry>
+<entry>caa ndodzo ndayendi (nuu mesa) : echado estar <lb/>de pechos (sobre una mesa) <lb/></entry>
+<entry>caa ndodzo ninondi (nuu sito) : echado estar (en <lb/>la cama) <lb/></entry>
+<entry>caa ndodzo yucu : jeringa <lb/></entry>
+<entry>caa ndodzondi : acostado estar <lb/></entry>
+<entry>caa ndodzondi (nuu sito), futuro cavua : echado <lb/>estar (en la cama) <lb/></entry>
+<entry>caa ndodzonica yocahandi : fingir <lb/></entry>
+<entry>caa ndodzote ndevui : echarse el ave sobre sus <lb/>huevos <lb/></entry>
+<entry>caa nduq : cuadrada cosa <lb/></entry>
+<entry>caa ndusa tacu : imprenta <lb/></entry>
+<entry>caa ndusi itu : estar las milpas llenas de yerba <lb/></entry>
+<entry>caa nduvua dzoo yondisindi : manta traer al de­ <lb/>recho <lb/></entry>
+<entry>caa nduvua ndodzo nduta yodzutandi : nadar de <lb/>espaldas <lb/></entry>
+<entry>caa nduvua tatnu yocanindi : dar de llano con la <lb/>espalda <lb/></entry>
+<entry>caa nduvuandi, futuro cavua : boca arriba estar <lb/>echado ; de espaldas estar echado <lb/></entry>
+<entry>caa nduvui caa tnaha yocahandi : hablar llana­ <lb/>mente sin mezcla <lb/></entry>
+<entry>caa nduvui siyo nuu : escoda para labrar <lb/></entry>
+<entry>caa neni : montosa, cosa alta <lb/></entry>
+<entry>caa nicay : batido <lb/></entry>
+<entry>caa nicuvui yadzi : batido <lb/></entry>
+<entry>caa nidzucu yutnu ñuu : arco de pipa <lb/></entry>
+<entry>caa nini huisi : escondido estar algo debajo de la <lb/>hoja caída <lb/></entry>
+<entry>caa nini ndita dzuma dzeque iyondi sihita : estar <lb/>de cuesta con otro <lb/></entry>
+<entry>caa nini ndoyo : escondido estar algo debajo de la <lb/>hoja caída <lb/></entry>
+<entry>caa nini ndudzu quahi : extenderse la enfer­ <lb/>medad <lb/></entry>
+<entry>caa nini ndudzu tedzehe : agallas enfermedad <lb/></entry>
+<entry>caa nini quayo : escondido estar algo debajo de la <lb/>hoja caída <lb/></entry>
+<entry>caa nini sa ninatnu dzoo : entre dobleces <lb/></entry>
+<entry>caa nini sa yototo yotavui dzoo : entre dobleces <lb/></entry>
+<entry>caa nini yuhu : escondido estar algo debajo de la <lb/>hoja caída <lb/></entry>
+<entry>caa nino cono : estar metido en algún lugar <lb/>hondo <lb/></entry>
+<entry>caa nino ndisi, futuro cavua : atravesado estar algo <lb/>(puesto de través) <lb/></entry>
+<entry>caa nino ndisi yuhundi : atravesado llevar algo en <lb/>la boca <lb/></entry>
+<entry>caa nino quevui yoquesita : dejar algunos días de <lb/>venir <lb/></entry>
+<entry>caa nino yavui yende, futuro cavua : estar metido <lb/>en algún lugar hondo <lb/></entry>
+<entry>caa ninoca quevui : pocas veces <lb/></entry>
+<entry>caa niñe : hilo de alambre <lb/></entry>
+<entry>caa nitusi yadzi : hoja de lata <lb/></entry>
+<entry>caa nuhu : perdiz <lb/></entry>
+<entry>caa numi tnahandi sihiña : echado estar con otra <lb/>abrazado <lb/></entry>
+<entry>caa numindiña : echado estar con otra abrazado <lb/></entry>
+<entry>caa nuna : desocupado lugar <lb/></entry>
+<entry>caa nuu cono : yunque <lb/></entry>
+<entry>caa nuu cuiyo : barrenar <lb/></entry>
+<entry>caa nuu dzoo : espesa o tupida tela o manta <lb/></entry>
+<entry>caa nuu iño : púa de hierro <lb/></entry>
+<entry>caa nuu ndico : púa de hierro <lb/></entry>
+<entry>caa nuu nduvui siyo : escoda para labrar <lb/></entry>
+<entry>caa nuu si : yunque <lb/></entry>
+<entry>caa nuu siyo : azada o azadón <lb/></entry>
+<entry>caa nuu tecuiye : anzuelo <lb/></entry>
+<entry>caa nuu tiquiye dzeñe nuu yaqua : garfio <lb/></entry>
+<entry>caa nuu uvui chihi cuhua : compás de hierro <lb/></entry>
+<entry>caa nuu yaqua : garfio <lb/></entry>
+<entry>caa ñahi ndodzo nuu yutnu : cepillo <lb/></entry>
+<entry>caa ñahi yutnu : cepillo <lb/></entry>
+<entry>caa ñena : ganzúa <lb/></entry>
+<entry>caa ñoho saha : grillos, prisión <lb/></entry>
+<entry>caa ñoho tnaha yoho caa : eslabón de cadena <lb/></entry>
+<entry>caa ñuhu : codorniz <lb/></entry>
+<entry>caa ñuhu cuiya : tórtola <lb/></entry>
+<entry>caa qni ñaha : agujón de hierro ; daga <lb/></entry>
+<entry>caa quaa : azufre ; arambre ; cobre ; latón <lb/></entry>
+<entry>caa quaha caa huadza tnuhu yocaha : dobla hablar <lb/></entry>
+<entry>caa quicuta : dedal <lb/></entry>
+<entry>caa quu : malla suelta <lb/></entry>
+<entry>caa sa codzo nuu nduvua : casquillo de saeta <lb/></entry>
+<entry>caa sa coho dzini : capacete de hierro ; casco de <lb/>hierro <lb/></entry>
+<entry>caa sa coho dzuq : collera <lb/></entry>
+<entry>caa sa coho ndaha : esposas ; prisión <lb/></entry>
+<entry>caa sa coho saha : grillos ; prisión <lb/></entry>
+<entry>caa sa coho yuhute : freno para caballo <lb/></entry>
+<entry>caa sa cuhu caa : lima de hierro <lb/></entry>
+<entry>caa sa cuino : corazas <lb/></entry>
+<entry>caa sa cuino ndaha : manopla <lb/></entry>
+<entry>caa sa cuiñe ndodzo nduvua : casquillo de saeta <lb/></entry>
+<entry>caa sa cusi ndodzo : yunque <lb/></entry>
+<entry>caa sa chihi tnee cavallo : pujavante <lb/></entry>
+<entry>caa sa dzavuii yutnu : podadera <lb/></entry>
+<entry>caa sa indodzo tnee cavallo : pujavante <lb/></entry>
+<entry>caa sa nañu ndaata : estribo de silla <lb/></entry>
+<entry>caa sa q caa : lima de hierro <lb/></entry>
+<entry>caa sa quay tniño tay huisi : herramienta <lb/></entry>
+<entry>caa sa quehe dzeve : espuela <lb/></entry>
+<entry>caa sa quehe saha : espuela <lb/></entry>
+<entry>caa sa quehe yuhu idzo : freno para caballo <lb/></entry>
+<entry>caa sa say tniño tay huisi : herramienta <lb/></entry>
+<entry>caa sa si yuu : escoda para labrar <lb/></entry>
+<entry>caa sa sinda yuu : escoda para labrar <lb/></entry>
+<entry>caa saco dzuq ndaha : esposas ; prisión <lb/></entry>
+<entry>caa saco nuni ndaha : esposas ; prisión <lb/></entry>
+<entry>caa sacu iño dzini : casco de hierro; sombrero <lb/></entry>
+<entry>caa sadzi ndusa : sello <lb/></entry>
+<entry>caa sadzi nduta : jeringa para echar agua <lb/></entry>
+<entry>caa sadzi tutu : sello <lb/></entry>
+<entry>caa sadzi yaha : almirez <lb/></entry>
+<entry>caa saha ndico : embudo <lb/></entry>
+<entry>caa sanda ita : hoz para cegar <lb/></entry>
+<entry>caa sanda ndodzo ita : hoz para cegar <lb/></entry>
+<entry>caa sanda yutnu : destral para cortar madera ; hacha <lb/>para cortar leña ; sierra de hierro <lb/></entry>
+<entry>caa sasa ndodzo caa : yunque <lb/></entry>
+<entry>caa sate yocana coyo : rebosar <lb/></entry>
+<entry>caa say ndodzo ita : hoz para cegar <lb/></entry>
+<entry>caa si dzaca sasata yuhu yahi : aldaba de puerta <lb/>para llamar <lb/></entry>
+<entry>caa sidzo ita : hoz para cegar <lb/></entry>
+<entry>caa sina : desocupado lugar ; tiempo tener <lb/></entry>
+<entry>caa sina inindi : desenfadarse <lb/></entry>
+<entry>caa sina sindi : desocupado estar sin negocios <lb/></entry>
+<entry>caa sina yosina : desocupado estar el lugar <lb/></entry>
+<entry>caa sini ñuhu si tay huisi : herramienta <lb/></entry>
+<entry>caa siña sindi : haber lugar de hacer algo <lb/></entry>
+<entry>caa siña tniño yoo yeheca tniño : vacar el oficio <lb/></entry>
+<entry>caa siqui : cuadrada cosa <lb/></entry>
+<entry>caa situ : reja para arar <lb/></entry>
+<entry>caa situ itu : azada o azadón <lb/></entry>
+<entry>caa siyo (quachita) : encubierto estar (defecto de <lb/>otro) <lb/></entry>
+<entry>caa siyoca : siniestra cosa <lb/></entry>
+<entry>caa taa ndusa : sello <lb/></entry>
+<entry>caa taa tnuni : hierro para herrar ; sello <lb/></entry>
+<entry>caa tahui yutnu : destral para cortar madera ; hacha <lb/>para cortar leña <lb/></entry>
+<entry>caa tavua tiyaca : anzuelo <lb/></entry>
+<entry>caa tavui quete : asador <lb/></entry>
+<entry>caa tayu : yunque ; tenazas <lb/></entry>
+<entry>caa tecadzi : plana de albañir <lb/></entry>
+<entry>caa tecoo saa ndodzo yucu : jeringa <lb/></entry>
+<entry>caa tecucua : parrilla para asar <lb/></entry>
+<entry>caa tecuiye : garabato <lb/></entry>
+<entry>caa tehui nduta : jeringa para echar agua <lb/></entry>
+<entry>caa tequeque : sierra de hierro <lb/></entry>
+<entry>caa tete (quachita) : encubierto estar (defecto de <lb/>otro) <lb/></entry>
+<entry>caa teyaha : embudo <lb/></entry>
+<entry>caa tinduu : botón de fuego <lb/></entry>
+<entry>caa tiquiye : garfio <lb/></entry>
+<entry>caa tiyechi : paleta de hierro <lb/></entry>
+<entry>caa tiyehui sa cuino ñuhu : lanterna <lb/></entry>
+<entry>caa tiyehui sa cuiñe nini ñuhu : lanterna <lb/></entry>
+<entry>caa tnaha itundi sihita : alindar una heredad con <lb/>otra <lb/></entry>
+<entry>caa tnaha yocahandi : hablar llanamente sin mezcla <lb/></entry>
+<entry>caa tnanu : doblado estar <lb/></entry>
+<entry>caa tnanu dzavua dzoo : doblada estar igualmente <lb/></entry>
+<entry>caa tnanu nañu : doblada estar, desigual <lb/></entry>
+<entry>caa tnanu ndaa : doblada estar, desigual <lb/></entry>
+<entry>caa tniño cuhua : compás de hierro <lb/></entry>
+<entry>caa tnoo ite ñuma : candelero cirial <lb/></entry>
+<entry>caa tnucucua : parrilla para asar ; reja <lb/></entry>
+<entry>caa tnuquu : embudo ; jeringa <lb/></entry>
+<entry>caa toto yocahandi : hablar llanamente sin mezcla <lb/></entry>
+<entry>caa tusi yuu : escoda para labrar <lb/></entry>
+<entry>caa tuvui ñaha : agujón de hierro ; daga <lb/></entry>
+<entry>caa tuvuindi, futuro cavua : acostado estar ; echado <lb/>estar <lb/></entry>
+<entry>caa vuisi : hoja de lata <lb/></entry>
+<entry>caa yadzi : chapa de metal ; hoja de lata <lb/></entry>
+<entry>caa yadzi nuni : desparramado estar <lb/></entry>
+<entry>caa yadzi ñoho tnaha : casco de hierro <lb/></entry>
+<entry>caa yadzini : sencilla <lb/></entry>
+<entry>caa yaqua : siniestra cosa <lb/></entry>
+<entry>caa yata : reja para arar <lb/></entry>
+<entry>caa yecu sa ndevui nuuta : corazas <lb/></entry>
+<entry>caa yecu sa nu cuinota : corazas <lb/></entry>
+<entry>caa yecu sa nu cuiñe ninota : corazas <lb/></entry>
+<entry>caa yechi dzoo, futuro cavua : estarse secando la <lb/>ropa colgada, si está tendida <lb/></entry>
+<entry>caa yehe ndico tnaha : goznes <lb/></entry>
+<entry>caa yehe ndiyo : escalera llana <lb/></entry>
+<entry>caa yehe noho : sierra de hierro <lb/></entry>
+<entry>caa yehe saha tatnu : recatón <lb/></entry>
+<entry>caa yeque : cuña de hierro <lb/></entry>
+<entry>caa yeye : trébedes sobre que ponen la olla <lb/></entry>
+<entry>caa yocadzi : sonajas <lb/></entry>
+<entry>caa yocanda : campana <lb/></entry>
+<entry>caa yocani ndodzo : martillo <lb/></entry>
+<entry>caa yocay ñuhu : badil de hierro <lb/></entry>
+<entry>caa yodza nuni ita : alambique o alquitara <lb/></entry>
+<entry>caa yoho : aserrar madera <lb/></entry>
+<entry>caa yohoca : siniestra cosa <lb/></entry>
+<entry>caa yona ndiyu ini huahi : aldaba para cerrar <lb/></entry>
+<entry>caa yonañu ndaata dziñe : estribo de silla <lb/></entry>
+<entry>caa yonañu ndodzota dziñe : estribo de silla <lb/></entry>
+<entry>caa yonañu ninota : estribo de silla <lb/></entry>
+<entry>caa yondadzi : candado <lb/></entry>
+<entry>caa yondiyu : candado <lb/></entry>
+<entry>caa yondiyu satnu : cerradura <lb/></entry>
+<entry>caa yonu coho tnaha : goznes <lb/></entry>
+<entry>caa yoo ñahi idzi : peine de cardador <lb/></entry>
+<entry>caa yoquidzita caa ndadzi : sonajas <lb/></entry>
+<entry>caa yosasi ndodzo : yunque <lb/></entry>
+<entry>caa yosico : taladro <lb/></entry>
+<entry>caa yotoo nduta : alambique o alquitara <lb/></entry>
+<entry>caa yuhu (quachita) : encubierto estar (defecto de <lb/>otro) <lb/></entry>
+<entry>caaca quevui : en algún tiempo <lb/></entry>
+<entry>caandi : acostado estar <lb/></entry>
+<entry>caani nonica quevui : algunas veces <lb/></entry>
+<entry>caca : muslo <lb/></entry>
+<entry>caca : cal <lb/></entry>
+<entry>caca dzayu : cal por cernir <lb/></entry>
+<entry>caca dzo nee : cal por cernir <lb/></entry>
+<entry>caca ndaye : cal por cernir <lb/></entry>
+<entry>caca ndihi : cal cernida <lb/></entry>
+<entry>caca quene yechi : pernil de tocino <lb/></entry>
+<entry>caca queye : ve presto <lb/></entry>
+<entry>caca yuchi : cal cernida <lb/></entry>
+<entry>cacate : cuarto trasero <lb/></entry>
+<entry>cacu cono : ven presto (llamando) <lb/></entry>
+<entry>cacu noo ndicandii : a las 2 (día) <lb/></entry>
+<entry>cachi : algodón ; estopa <lb/></entry>
+<entry>cachi : quebrarse <lb/></entry>
+<entry>cachi cuisi : fino algodón <lb/></entry>
+<entry>cachi ndaa ñuhu tehui : terrones deshacerse <lb/></entry>
+<entry>cachi ndoo : fino algodón <lb/></entry>
+<entry>cachi queye : fino algodón <lb/></entry>
+<entry>cachi taa ndico ñuhu : yesca <lb/></entry>
+<entry>cachi taca : a una hacerse todos <lb/></entry>
+<entry>cachi ticaha : capullo de algodón <lb/></entry>
+<entry>cachi tnuquu : yesca <lb/></entry>
+<entry>cachi yaa : fino algodón <lb/></entry>
+<entry>cachi yodzo yutnu : copo de algodón si está revuel­ <lb/>to en la rueca <lb/></entry>
+<entry>cachi yosico ñuhu, futuro cuico : yesca <lb/></entry>
+<entry>cadzandi : cuñado, marido de hermana <lb/></entry>
+<entry>cadzandi : yerno <lb/></entry>
+<entry>cadzote ndevui : echarse el ave sobre sus huevos <lb/></entry>
+<entry>caha : anca, nalga <lb/></entry>
+<entry>caha cata : tortero de huso <lb/></entry>
+<entry>caha dzeque : celebro ; nuca de la cabeza <lb/></entry>
+<entry>caha dzico : soberbio en el hablar <lb/></entry>
+</body>
+	</text>
+</tei>

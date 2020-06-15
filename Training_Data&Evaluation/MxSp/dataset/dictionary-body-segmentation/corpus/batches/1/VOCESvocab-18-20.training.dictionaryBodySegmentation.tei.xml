@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dictionaryBodySegmentation.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="dictionaryBodySegmentation.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><entry>dzehe ninumi ñaha quevui ninihi nduta : madri-<lb/>na de bautismo <lb/></entry>
+<entry>dzehe nisa ndaca ñaha nitnaha ndaha : madrina <lb/>de boda <lb/></entry>
+<entry>dzehe nisay dzaya ninihi nduta : madrina de bau-<lb/>tismo <lb/></entry>
+<entry>dzehe nuu : lagrimal del ojo <lb/></entry>
+<entry>dzehe quene : pernil de tocino <lb/></entry>
+<entry>dzehe sahu ñuhundi : madrina de bautismo <lb/></entry>
+<entry>dzehe yotanda uvui : pata hendida <lb/></entry>
+<entry>dzehua : cacao <lb/></entry>
+<entry>dzehua castilla : almendra <lb/></entry>
+<entry>dzehua nano : cacao grande <lb/></entry>
+<entry>dzehua ndoo : cacao grande <lb/></entry>
+<entry>dzehua nina ndico : bebida de cacao <lb/></entry>
+<entry>dzehua ñaña : cacao ancho y blanco <lb/></entry>
+<entry>dzehua tendica : piñón <lb/></entry>
+<entry>dzehua ticoo : bebida de cacao <lb/></entry>
+<entry>dzehui : borra de tinta ; escoria de metal <lb/></entry>
+<entry>dzehui ñuhu cuisi : estaño para dorar <lb/></entry>
+<entry>dzehui ñuhu tnusii caa tinduu : bala, pelota <lb/></entry>
+<entry>dzehui yoo : cometa errática pequeña que parece <lb/>caer <lb/></entry>
+<entry>dzemi : incordio <lb/></entry>
+<entry>dzemi canu : incordio grande <lb/></entry>
+<entry>dzemi coo taha nuni : incordio pequeño <lb/></entry>
+<entry>dzeñe : garabato <lb/></entry>
+<entry>dzeñe caa : garabato <lb/></entry>
+<entry>dzeque : cabeza ; colodrillo de la cabeza ; (en) la <lb/>cumbre <lb/></entry>
+<entry>dzeque caa nduhua : sartal de cuentas <lb/></entry>
+<entry>dzeque co ndaa ndaha : ajorcas <lb/></entry>
+<entry>dzeque co ndaa dzuq ndaha : manilla <lb/></entry>
+<entry>dzeque dzeque nisiyo saha : burla burlando pa-<lb/>rarse peor algo <lb/></entry>
+<entry>dzeque dzeque yocachindi : burlando hacer o <lb/>decir algo <lb/></entry>
+<entry>dzeque dzequeni nisiyo saha : empeorarse, burla <lb/>burlando la llaga <lb/></entry>
+<entry>dzeque dzequeni nisiyo saha : empeorarse, burla <lb/>burlando la llaga <lb/></entry>
+<entry>dzeque dzichi : espinilla de la pierna <lb/></entry>
+<entry>dzeque dziñuhu : joya <lb/></entry>
+<entry>dzeque dziñuhu quaa : collar de oro <lb/></entry>
+<entry>dzeque dziñuhu taa ndaha : manilla <lb/></entry>
+<entry>dzeque dzuma : rabadilla de ave <lb/></entry>
+<entry>dzeque indita ndadzi : campanilla de zarcillo o joya <lb/></entry>
+<entry>dzeque indita tende : campanilla de zarcillo o <lb/>joya <lb/></entry>
+<entry>dzeque na cahui : cuenta para rezar <lb/></entry>
+<entry>dzeque na quatu : cuenta para rezar <lb/></entry>
+<entry>dzeque quevui : después de cualquiera fiesta <lb/></entry>
+<entry>dzeque si : de lo alto ; encima de lo alto <lb/></entry>
+<entry>dzeque site : rodilla <lb/></entry>
+<entry>dzeque taa ndaha : ajorcas <lb/></entry>
+<entry>dzeque tutu : título de libro <lb/></entry>
+<entry>dzeque yocahandi : hablar burlando <lb/></entry>
+<entry>dzeque yoho dziñuhu quaa : cadena de oro <lb/></entry>
+<entry>dzete : tiara <lb/></entry>
+<entry>dzevua tendaya : corazón, lo de dentro de la pe-<lb/>pita <lb/></entry>
+<entry>dzevui : él, ella, ello <lb/></entry>
+<entry>dzevui : heces <lb/></entry>
+<entry>dzevui : renombre <lb/></entry>
+<entry>dzevui dzavua cuhua : de la misma medida <lb/></entry>
+<entry>dzevui dzevuini : buenamente <lb/></entry>
+<entry>dzevui dzevuini nicuvui dzuchi huaha : buena-<lb/>mente <lb/></entry>
+<entry>dzevui ndu dzavua ndehe nduvui caa / cuvui : <lb/>iguales en vicio o en virtud <lb/></entry>
+<entry>dzevui ñuhu : plomo <lb/></entry>
+<entry>dzevui sa : de ahí ; ese, esa, eso <lb/></entry>
+<entry>dzevui sa iyota : helo allí <lb/></entry>
+<entry>dzevui tutu : título de libro <lb/></entry>
+<entry>dzevuita yona qnita : apellido de nombre particular <lb/></entry>
+<entry>dzevuito : bien está, que dice el menor al mayor ; sí, <lb/>para con los señores <lb/></entry>
+<entry>dzeye : carcañal <lb/></entry>
+<entry>dzi : a (adverbio de llamar) <lb/></entry>
+<entry>dzi : hao <lb/></entry>
+<entry>dzi dzi : o (para llamar) <lb/></entry>
+<entry>dzi (nahadzi, nahacadzi) : a (adverbio para llamar <lb/>cuando se me ha olvidado algo) <lb/></entry>
+<entry>dzi ndoho dzi : aha [ahó] o para llamar <lb/></entry>
+<entry>dzi saco ye saco : cornudo llamar a otro <lb/></entry>
+<entry>dzi tnoo quay casa : relampaguear de noche sin <lb/>truenos <lb/></entry>
+<entry>dzi tnoo quayca ticuiye : relampaguear de noche <lb/>sin truenos <lb/></entry>
+<entry>dzica : pecado <lb/></entry>
+<entry>dzica quachi : culpa ; defecto <lb/></entry>
+<entry>dzico : camisa que usan las indias que llaman huipil <lb/></entry>
+<entry>dzico ana yosico yosivuindi, futuro cuico, que-<lb/>vui : engrasarse como en las minas <lb/></entry>
+<entry>dzico ayo yosivuindi : engrasarse como en las <lb/>minas <lb/></entry>
+<entry>dzico coo : ponzoña de víbora <lb/></entry>
+<entry>dzico huatu : bien (nombre) <lb/></entry>
+<entry>dzico ini yocanandita yosaha huahi : inficionarse <lb/>lugar <lb/></entry>
+<entry>dzico quahi yocanandita : inficionarse lugar <lb/></entry>
+<entry>dzico sa casi : olor de comida <lb/></entry>
+<entry>dzico yosayndi, futuro quay : gustar de lo que se <lb/>come <lb/></entry>
+<entry>dzicu : sobrina <lb/></entry>
+<entry>dzichi : buba <lb/></entry>
+<entry>dzichi : espinilla de la pierna <lb/></entry>
+<entry>dzichi : pitahaya, fruta [tuna] <lb/></entry>
+<entry>dzichi cuine : zanca <lb/></entry>
+<entry>dzichi ndaha : tabla del brazo <lb/></entry>
+<entry>dzidzi sa ee toto ee dzini : hermana de mi abuela <lb/></entry>
+<entry>dzidzindi : hermana de mi padre o madre <lb/></entry>
+<entry>dzidzindi : tía <lb/></entry>
+<entry>dzidzo : carga <lb/></entry>
+<entry>dzidzondi : cuñado, hermano de mi mujer <lb/></entry>
+<entry>dzihi : pierna de animal <lb/></entry>
+<entry>dzii : así <lb/></entry>
+<entry>dzii : dura ave de comer o carne por mal cocida <lb/></entry>
+<entry>dzii cutu : recio como cuero <lb/></entry>
+<entry>dzii nuu vino : flor de vino, la lapa <lb/></entry>
+<entry>dzii tuchi nicuvuite : dura ave por ser vieja <lb/></entry>
+<entry>dzii yutnu : recia cosa como madero casi <lb/></entry>
+<entry>dzina : primeramente <lb/></entry>
+<entry>dzina, dzinaca : lo primero, o cuanto a lo primero <lb/></entry>
+<entry>dzina huaa : primeramente <lb/></entry>
+<entry>dzina huii : primeramente <lb/></entry>
+<entry>dzina huii, dzina ñuhu : lo primero, o cuanto a lo <lb/>primero <lb/></entry>
+<entry>dzina nuu : primeramente <lb/></entry>
+<entry>dzina nuuca : principalmente <lb/></entry>
+<entry>dzina ñahu dzina huii : antes o primeramente <lb/></entry>
+<entry>dzina ñuhu : primeramente <lb/></entry>
+<entry>dzina ñuhuca : principalmente <lb/></entry>
+<entry>dzina tay iyo nuu : primero <lb/></entry>
+<entry>dzina yuca : principalmente <lb/></entry>
+<entry>dzinaca : primeramente ; principalmente <lb/></entry>
+<entry>dzinaca ndii ndodzo nuundi sita, futuro cuindo-<lb/>dzo : adelantar o antevenir a otro en honra <lb/></entry>
+<entry>dzinaca yosahandi : ganar por la mano <lb/></entry>
+<entry>dzinaca yosahandi, futuro qh : adelantarse en ca-<lb/>mino <lb/></entry>
+<entry>dzinañu : sombra de hombre <lb/></entry>
+<entry>dzindiqui : tuétano <lb/></entry>
+<entry>dzindiqui yeque : meollo o tuétano <lb/></entry>
+<entry>dzinduhua : telaraña <lb/></entry>
+<entry>dzini : cabeza ; arriba en lo alto <lb/></entry>
+<entry>dzini : cautivos sacrificados ante los ídolos <lb/></entry>
+<entry>dzini : chimenea lo alto <lb/></entry>
+<entry>dzini cusi : empulgueras de arco <lb/></entry>
+<entry>dzini dzitu : en la cumbre <lb/></entry>
+<entry>dzini huahi : azutea o azotea <lb/></entry>
+<entry>dzini mesa : cabecera de mesa <lb/></entry>
+<entry>dzini ndee : calva cabeza <lb/></entry>
+<entry>dzini nicoo cavua : cabeza cortada <lb/></entry>
+<entry>dzini nidzata ninota : corona de clérigo <lb/></entry>
+<entry>dzini nisaa cavua : cabeza cortada <lb/></entry>
+<entry>dzini ñaha : cautivos sacrificados ante los ídolos <lb/></entry>
+<entry>dzini ñu dzavui : Mixteca alta <lb/></entry>
+<entry>dzini ñuu : cabecera de pueblo <lb/></entry>
+<entry>dzini qua saa nini tnaa, yanda tnaa tasi : calva <lb/>entradas de las sienes <lb/></entry>
+<entry>dzini si : de lo alto ; de punta ; encima de lo alto <lb/></entry>
+<entry>dzini sito : cabecera de cama <lb/></entry>
+<entry>dzini tecuite : mocha cosa sin cuernos <lb/></entry>
+<entry>dzini tniindi : padrastro de los dedos <lb/></entry>
+<entry>dzini yanda : calva cabeza <lb/></entry>
+<entry>dzini yecu nicuvuita : cautivos sacrificados ante los <lb/>ídolos <lb/></entry>
+<entry>dzini yucu : alto, la cumbre de la sierra <lb/></entry>
+<entry>dzini yutnu : copa de árbol ; entre el mismo árbol <lb/></entry>
+<entry>dzinisi : extremidad ; cabeza de clavo <lb/></entry>
+<entry>dzino ñuhu : arras, presentes que se dan entre ma-<lb/>cehuales ; don, preseas tales entre macehuales ; <lb/>prenda lo que se da <lb/></entry>
+<entry>dzinuhu : calentura enfermedad ; fiebre <lb/></entry>
+<entry>dzinuhu : ciclones <lb/></entry>
+<entry>dzinuhu na tuvui uni quevui : terciana, calentura <lb/></entry>
+<entry>dzinuhu yona tuvui idza : terciana, calentura <lb/></entry>
+<entry>dziña : gavilán <lb/></entry>
+<entry>dziña coco : gerifalte <lb/></entry>
+<entry>dziñe : lado ; sienes <lb/></entry>
+<entry>dziñe cono : sienes <lb/></entry>
+<entry>dziñe chisi : costado ; ijares <lb/></entry>
+<entry>dziñe chisi yocana nini : enfermo estar de la ijada <lb/></entry>
+<entry>dziñe dzatni : lado izquierdo <lb/></entry>
+<entry>dziñe dziñe : a los lados <lb/></entry>
+<entry>dziñe itni : lado izquierdo <lb/></entry>
+<entry>dziñe ndica : costado <lb/></entry>
+<entry>dziñe nuu : lagrimal del ojo <lb/></entry>
+<entry>dziñe quaha : lado derecho <lb/></entry>
+<entry>dziñe si : a los lados <lb/></entry>
+<entry>dziñe tnaandi : entradas de la frente <lb/></entry>
+<entry>dziñete : espolón de gallo <lb/></entry>
+<entry>dziñuhu : arras, las que se dan por mano del sacer-<lb/>dote <lb/></entry>
+<entry>dziñuhu cuisi : plata <lb/></entry>
+<entry>dziñuhu cuisi nisa coo ndaa tnuni : marcada <lb/>plata <lb/></entry>
+<entry>dziñuhu cuisi nitevuita : cendrada plata <lb/></entry>
+<entry>dziñuhu cuisi yondaa ndusa tnuni : plata mar-<lb/>cada <lb/></entry>
+<entry>dziñuhu cusi nicuvui ndoo : plata cendrada <lb/></entry>
+<entry>dziñuhu dzee : real, un tomín <lb/></entry>
+<entry>dziñuhu iñe siña : tesoro <lb/></entry>
+<entry>dziñuhu ndusa : dinero ; moneda <lb/></entry>
+<entry>dziñuhu nidza cay nduuta : moneda falsa <lb/></entry>
+<entry>dziñuhu nidzaca nino : moneda falsa <lb/></entry>
+<entry>dziñuhu niqui tnaha ndaa : juntarse, ut pecunia <lb/>[juntarse cosas en compañía y contratación] <lb/></entry>
+<entry>dziñuhu nisa coho satnu : tesoro <lb/></entry>
+<entry>dziñuhu nisina : tesoro <lb/></entry>
+<entry>dziñuhu nisivui tnaha : moneda falsa <lb/></entry>
+<entry>dziñuhu ña ndoo : moneda falsa <lb/></entry>
+<entry>dziñuhu quaa : oro <lb/></entry>
+<entry>dziñuhu sa coho chiyo : brazalete de oro <lb/></entry>
+<entry>dziñuhu yehe dzevui ñuhu : moneda falsa <lb/></entry>
+<entry>dziñuhu yotasindi : arras estas dar (las que se dan <lb/>por mano del sacerdote) <lb/></entry>
+<entry>dzita : nalga <lb/></entry>
+<entry>dzita : pan <lb/></entry>
+<entry>dzita cadzu : biscocho <lb/></entry>
+<entry>dzita coho : bollos que hacían en las fiestas de los <lb/>demonios <lb/></entry>
+<entry>dzita cuta : rosca <lb/></entry>
+<entry>dzita cuta quachi : rosquilla <lb/></entry>
+<entry>dzita dzatnu : panzuelos que suelen hacer los niños <lb/>de sobras de la masa <lb/></entry>
+<entry>dzita dzayu : acemita, pan de afrechos <lb/></entry>
+<entry>dzita huidzi : rosquilla <lb/></entry>
+<entry>dzita huidzi nichiyo dzaha : fruta de sartén <lb/></entry>
+<entry>dzita huita : mollete ; reciente pan <lb/></entry>
+<entry>dzita indii yavui : rosca <lb/></entry>
+<entry>dzita indodzo dziya, futuro cuindodzo : edad <lb/>tener más de 52 años <lb/></entry>
+<entry>dzita nahi : cosa grande y ancha <lb/></entry>
+<entry>dzita nahi : torta <lb/></entry>
+<entry>dzita ndadzu : biscocho ; pan tostado <lb/></entry>
+<entry>dzita nicachi : zatico de pan <lb/></entry>
+<entry>dzita nicadzu : pan tostado <lb/></entry>
+<entry>dzita nicaye, nisisi : pan quemado <lb/></entry>
+<entry>dzita nicudzi, nicana cachi : mohoso pan <lb/></entry>
+<entry>dzita nicuvui nu ñuhu : pan quemado <lb/></entry>
+<entry>dzita nihi dzecui : mamantón <lb/></entry>
+<entry>dzita nindoyo nino : migas de pan <lb/></entry>
+<entry>dzita ninucoho yoco : avahadas sopas <lb/></entry>
+<entry>dzita nisa coho ndevui : hornazo <lb/></entry>
+<entry>dzita nisiñe ndaa dzuqndi : ahogarse con bo-<lb/>cado <lb/></entry>
+<entry>dzita nitahay : zatico de pan <lb/></entry>
+<entry>dzita nitahui, nicachi : mendrugo de pan <lb/></entry>
+<entry>dzita nitayu : mohoso pan <lb/></entry>
+<entry>dzita niyatna : pan tostado <lb/></entry>
+<entry>dzita ña yehe yusa iya : cenceño pan <lb/></entry>
+<entry>dzita ña yusa iya : cenceño pan <lb/></entry>
+<entry>dzita ñañu : zatico de pan ; mendrugo de pan <lb/></entry>
+<entry>dzita ñoho coño : pastel de comer <lb/></entry>
+<entry>dzita ñoho ndevui : hornazo <lb/></entry>
+<entry>dzita ñoho ndoyo : sopa <lb/></entry>
+<entry>dzita sadzi : torta <lb/></entry>
+<entry>dzita saha : hígado <lb/></entry>
+<entry>dzita sahi : zatico de pan <lb/></entry>
+<entry>dzita sañe : acemita, pan de afrechos <lb/></entry>
+<entry>dzita site tiyaca : empanada de pescado <lb/></entry>
+<entry>dzita ticoo : pan rollizo <lb/></entry>
+<entry>dzita ticoo niyatna nuu ñuhu cayu : bollo cocido <lb/>en las brasas <lb/></entry>
+<entry>dzita vuidzi yadzi : hojuela <lb/></entry>
+<entry>dzita yutnu : ñudo de árbol <lb/></entry>
+<entry>dzitaca : más pan u otra cosa <lb/></entry>
+<entry>dzite : coroza ; mitra de obispo <lb/></entry>
+<entry>dzite toniñe : corona <lb/></entry>
+<entry>dzite toniñe obispo : mitra de obispo <lb/></entry>
+<entry>dzitne : carrillo de la cara <lb/></entry>
+<entry>dzitni : nariz <lb/></entry>
+<entry>dzitni cachi tindeye, futuro quay : algodón lim-<lb/>piar <lb/></entry>
+<entry>dzitni cuihi : pezón de fruta <lb/></entry>
+<entry>dzitni cuiñe : nariz aguileña <lb/></entry>
+<entry>dzitni cuta : hocico de puerco <lb/></entry>
+<entry>dzitni huiyu : pie de maizal <lb/></entry>
+<entry>dzitni ndanda : mocos de narices <lb/></entry>
+<entry>dzitni ndico : lima (la fruta) <lb/></entry>
+<entry>dzitni ndodzo : pezón de teta <lb/></entry>
+<entry>dzitni nduta : mocos de narices <lb/></entry>
+<entry>dzitni quene : hocico de puerco <lb/></entry>
+<entry>dzitni quete : mocos de narices <lb/></entry>
+<entry>dzitni ticoo : nariz aguileña <lb/></entry>
+<entry>dzitni tinduu tiquaa : lima (la fruta) <lb/></entry>
+<entry>dzitni tnama : nariz roma <lb/></entry>
+<entry>dzitni tnusii : brújula o puente de arcabuz <lb/></entry>
+<entry>dzitni too : mocos de narices <lb/></entry>
+<entry>dzitni tuu : nariz pequeña <lb/></entry>
+<entry>dzitnu : ova que nace en el agua <lb/></entry>
+<entry>dzitnu yutnu : marojo de los árboles <lb/></entry>
+</body>
+	</text>
+</tei>

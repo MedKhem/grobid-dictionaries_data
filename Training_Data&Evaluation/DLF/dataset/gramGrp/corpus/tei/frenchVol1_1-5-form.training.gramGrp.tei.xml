@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="gramGrp.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="gramGrp.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><gramGrp><number>s</number><pc>. </pc><gen>m</gen><pc>. </pc></gramGrp><gramGrp><pos>3» pers. sing. ind</pos></gramGrp><gramGrp><pos>prép</pos><pc>. </pc></gramGrp><gramGrp><pos>ad)</pos><pc>. <lb/></pc></gramGrp><gramGrp><number>s</number><pc>. </pc><gen>f</gen><pc>. </pc></gramGrp><gramGrp><pos>part</pos>, <lbl>et</lbl> <pos>adj</pos><pc>. <lb/></pc></gramGrp><gramGrp><number>s</number><pc>.</pc><gen>m</gen><pc>.</pc></gramGrp><gramGrp><pos>v. a</pos><pc>. </pc></gramGrp></body>
+	</text>
+</tei>

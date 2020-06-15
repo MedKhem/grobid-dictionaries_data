@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="gramGrp.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="gramGrp.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><gramGrp><pos>adv</pos><pc>. </pc></gramGrp><gramGrp><pos>adj</pos><pc>. </pc></gramGrp><gramGrp><number>s</number><pc>.</pc><dictScrap>'</dictScrap><gen>f</gen></gramGrp><gramGrp><pos>part, passé</pos></gramGrp><gramGrp><number>s</number><pc>. </pc><gen>m</gen><pc>. </pc></gramGrp><gramGrp><pos>v. a</pos><pc>. </pc></gramGrp><gramGrp><number>s</number><pc>. </pc><gen>m</gen><pc>. </pc></gramGrp><gramGrp><pos>v. a</pos><pc>. </pc></gramGrp><gramGrp><pos>part, passé</pos></gramGrp><gramGrp><pos>v, a</pos><pc>. </pc></gramGrp><gramGrp><number>s</number><pc>. </pc><gen>m</gen><pc>. </pc></gramGrp><gramGrp><number>s</number><pc>. </pc><gen>f</gen><pc>. </pc></gramGrp><gramGrp><pos>part, passé</pos></gramGrp><gramGrp><pos>v. a</pos><pc>. </pc></gramGrp><gramGrp><pos>port, passé</pos><pc>. <lb/></pc></gramGrp><gramGrp><pos>v. a</pos><pc>. </pc></gramGrp><gramGrp><pos>part, passé</pos></gramGrp><gramGrp><number>s</number><pc>. </pc><gen>m</gen><pc>. </pc></gramGrp><gramGrp><pos>v. a</pos><pc>. <lb/></pc></gramGrp><gramGrp><number>s</number><pc>.</pc><gen>m <lb/></gen></gramGrp><gramGrp><pos>adj</pos><pc>. </pc></gramGrp><gramGrp><number>s</number><pc>. </pc><gen>f</gen><pc>. <lb/></pc></gramGrp><gramGrp><pos>adv</pos><pc>. </pc></gramGrp><gramGrp><number>s</number><pc>. </pc><gen>m</gen><pc>. </pc></gramGrp><gramGrp><number>s</number><pc>. </pc><gen>m</gen><pc>. </pc></gramGrp><gramGrp><pos>part, passé</pos></gramGrp><gramGrp><pos>v. a</pos><pc>. </pc></gramGrp><gramGrp><number>s</number><pc>. </pc><gen>f</gen><pc>. </pc></gramGrp><gramGrp><number>s</number><pc>. </pc><gen>m</gen><pc>. </pc></gramGrp><gramGrp><pos>adj</pos><pc>. </pc></gramGrp></body>
+	</text>
+</tei>

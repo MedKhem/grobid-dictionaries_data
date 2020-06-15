@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="lexicalEntry.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="lexicalEntry.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><entry><lemma>dzehe ninumi ñaha quevui ninihi nduta </lemma>
+<pc>: </pc>
+<sense>madri-<lb/>na de bautismo <lb/></sense>
+</entry><entry><lemma>dzehe nisa ndaca ñaha nitnaha ndaha </lemma>
+<pc>: </pc>
+<sense>madrina <lb/>de boda <lb/></sense>
+</entry><entry><lemma>dzehe nisay dzaya ninihi nduta </lemma>
+<pc>: </pc>
+<sense>madrina de bau-<lb/>tismo <lb/></sense>
+</entry><entry><lemma>dzehe nuu </lemma>
+<pc>: </pc>
+<sense>lagrimal del ojo <lb/></sense>
+</entry><entry><lemma>dzehe quene </lemma>
+<pc>: </pc>
+<sense>pernil de tocino <lb/></sense>
+</entry><entry><lemma>dzehe sahu ñuhundi </lemma>
+<pc>: </pc>
+<sense>madrina de bautismo <lb/></sense>
+</entry><entry><lemma>dzehe yotanda uvui </lemma>
+<pc>: </pc>
+<sense>pata hendida <lb/></sense>
+</entry><entry><lemma>dzehua </lemma>
+<pc>: </pc>
+<sense>cacao <lb/></sense>
+</entry><entry><lemma>dzehua castilla </lemma>
+<pc>: </pc>
+<sense>almendra <lb/></sense>
+</entry><entry><lemma>dzehua nano </lemma>
+<pc>: </pc>
+<sense>cacao grande <lb/></sense>
+</entry><entry><lemma>dzehua ndoo </lemma>
+<pc>: </pc>
+<sense>cacao grande <lb/></sense>
+</entry><entry><lemma>dzehua nina ndico </lemma>
+<pc>: </pc>
+<sense>bebida de cacao <lb/></sense>
+</entry><entry><lemma>dzehua ñaña </lemma>
+<pc>: </pc>
+<sense>cacao ancho y blanco <lb/></sense>
+</entry><entry><lemma>dzehua tendica </lemma>
+<pc>: </pc>
+<sense>piñón <lb/></sense>
+</entry><entry><lemma>dzehua ticoo </lemma>
+<pc>: </pc>
+<sense>bebida de cacao <lb/></sense>
+</entry><entry><lemma>dzehui </lemma>
+<pc>: </pc>
+<sense>borra de tinta ; escoria de metal <lb/></sense>
+</entry><entry><lemma>dzehui ñuhu cuisi </lemma>
+<pc>: </pc>
+<sense>estaño para dorar <lb/></sense>
+</entry><entry><lemma>dzehui ñuhu tnusii caa tinduu </lemma>
+<pc>: </pc>
+<sense>bala, pelota <lb/></sense>
+</entry><entry><lemma>dzehui yoo </lemma>
+<pc>: </pc>
+<sense>cometa errática pequeña que parece <lb/>caer <lb/></sense>
+</entry><entry><lemma>dzemi </lemma>
+<pc>: </pc>
+<sense>incordio <lb/></sense>
+</entry><entry><lemma>dzemi canu </lemma>
+<pc>: </pc>
+<sense>incordio grande <lb/></sense>
+</entry><entry><lemma>dzemi coo taha nuni </lemma>
+<pc>: </pc>
+<sense>incordio pequeño <lb/></sense>
+</entry><entry><lemma>dzeñe </lemma>
+<pc>: </pc>
+<sense>garabato <lb/></sense>
+</entry><entry><lemma>dzeñe caa </lemma>
+<pc>: </pc>
+<sense>garabato <lb/></sense>
+</entry><entry><lemma>dzeque </lemma>
+<pc>: </pc>
+<sense>cabeza ; colodrillo de la cabeza ; (en) la <lb/>cumbre <lb/></sense>
+</entry><entry><lemma>dzeque caa nduhua </lemma>
+<pc>: </pc>
+<sense>sartal de cuentas <lb/></sense>
+</entry><entry><lemma>dzeque co ndaa ndaha </lemma>
+<pc>: </pc>
+<sense>ajorcas <lb/></sense>
+</entry><entry><lemma>dzeque co ndaa dzuq ndaha </lemma>
+<pc>: </pc>
+<sense>manilla <lb/></sense>
+</entry><entry><lemma>dzeque dzeque nisiyo saha </lemma>
+<pc>: </pc>
+<sense>burla burlando pa-<lb/>rarse peor algo <lb/></sense>
+</entry><entry><lemma>dzeque dzeque yocachindi </lemma>
+<pc>: </pc>
+<sense>burlando hacer o <lb/>decir algo <lb/></sense>
+</entry><entry><lemma>dzeque dzequeni nisiyo saha </lemma>
+<pc>: </pc>
+<sense>empeorarse, burla <lb/>burlando la llaga <lb/></sense>
+</entry><entry><lemma>dzeque dzequeni nisiyo saha </lemma>
+<pc>: </pc>
+<sense>empeorarse, burla <lb/>burlando la llaga <lb/></sense>
+</entry><entry><lemma>dzeque dzichi </lemma>
+<pc>: </pc>
+<sense>espinilla de la pierna <lb/></sense>
+</entry><entry><lemma>dzeque dziñuhu </lemma>
+<pc>: </pc>
+<sense>joya <lb/></sense>
+</entry><entry><lemma>dzeque dziñuhu quaa </lemma>
+<pc>: </pc>
+<sense>collar de oro <lb/></sense>
+</entry><entry><lemma>dzeque dziñuhu taa ndaha </lemma>
+<pc>: </pc>
+<sense>manilla <lb/></sense>
+</entry><entry><lemma>dzeque dzuma </lemma>
+<pc>: </pc>
+<sense>rabadilla de ave <lb/></sense>
+</entry><entry><lemma>dzeque indita ndadzi </lemma>
+<pc>: </pc>
+<sense>campanilla de zarcillo o joya <lb/></sense>
+</entry><entry><lemma>dzeque indita tende </lemma>
+<pc>: </pc>
+<sense>campanilla de zarcillo o <lb/>joya <lb/></sense>
+</entry><entry><lemma>dzeque na cahui </lemma>
+<pc>: </pc>
+<sense>cuenta para rezar <lb/></sense>
+</entry><entry><lemma>dzeque na quatu </lemma>
+<pc>: </pc>
+<sense>cuenta para rezar <lb/></sense>
+</entry><entry><lemma>dzeque quevui </lemma>
+<pc>: </pc>
+<sense>después de cualquiera fiesta <lb/></sense>
+</entry><entry><lemma>dzeque si </lemma>
+<pc>: </pc>
+<sense>de lo alto ; encima de lo alto <lb/></sense>
+</entry><entry><lemma>dzeque site </lemma>
+<pc>: </pc>
+<sense>rodilla <lb/></sense>
+</entry><entry><lemma>dzeque taa ndaha </lemma>
+<pc>: </pc>
+<sense>ajorcas <lb/></sense>
+</entry><entry><lemma>dzeque tutu </lemma>
+<pc>: </pc>
+<sense>título de libro <lb/></sense>
+</entry><entry><lemma>dzeque yocahandi </lemma>
+<pc>: </pc>
+<sense>hablar burlando <lb/></sense>
+</entry><entry><lemma>dzeque yoho dziñuhu quaa </lemma>
+<pc>: </pc>
+<sense>cadena de oro <lb/></sense>
+</entry><entry><lemma>dzete </lemma>
+<pc>: </pc>
+<sense>tiara <lb/></sense>
+</entry><entry><lemma>dzevua tendaya </lemma>
+<pc>: </pc>
+<sense>corazón, lo de dentro de la pe-<lb/>pita <lb/></sense>
+</entry><entry><lemma>dzevui </lemma>
+<pc>: </pc>
+<sense>él, ella, ello <lb/></sense>
+</entry><entry><lemma>dzevui </lemma>
+<pc>: </pc>
+<sense>heces <lb/></sense>
+</entry><entry><lemma>dzevui </lemma>
+<pc>: </pc>
+<sense>renombre <lb/></sense>
+</entry><entry><lemma>dzevui dzavua cuhua </lemma>
+<pc>: </pc>
+<sense>de la misma medida <lb/></sense>
+</entry><entry><lemma>dzevui dzevuini </lemma>
+<pc>: </pc>
+<sense>buenamente <lb/></sense>
+</entry><entry><lemma>dzevui dzevuini nicuvui dzuchi huaha </lemma>
+<pc>: </pc>
+<sense>buena-<lb/>mente <lb/></sense>
+</entry><entry><lemma>dzevui ndu dzavua ndehe nduvui caa</lemma> / <re>cuvui</re> 
+<pc>: <lb/></pc>
+<sense>iguales en vicio o en virtud <lb/></sense>
+</entry><entry><lemma>dzevui ñuhu </lemma>
+<pc>: </pc>
+<sense>plomo <lb/></sense>
+</entry><entry><lemma>dzevui sa </lemma>
+<pc>: </pc>
+<sense>de ahí ; ese, esa, eso <lb/></sense>
+</entry><entry><lemma>dzevui sa iyota </lemma>
+<pc>: </pc>
+<sense>helo allí <lb/></sense>
+</entry><entry><lemma>dzevui tutu </lemma>
+<pc>: </pc>
+<sense>título de libro <lb/></sense>
+</entry><entry><lemma>dzevuita yona qnita </lemma>
+<pc>: </pc>
+<sense>apellido de nombre particular <lb/></sense>
+</entry><entry><lemma>dzevuito </lemma>
+<pc>: </pc>
+<sense>bien está, que dice el menor al mayor ; sí, <lb/>para con los señores <lb/></sense>
+</entry><entry><lemma>dzeye </lemma>
+<pc>: </pc>
+<sense>carcañal <lb/></sense>
+</entry><entry><lemma>dzi </lemma>
+<pc>: </pc>
+<sense>a (adverbio de llamar) <lb/></sense>
+</entry><entry><lemma>dzi </lemma>
+<pc>: </pc>
+<sense>hao <lb/></sense>
+</entry><entry><lemma>dzi dzi </lemma>
+<pc>: </pc>
+<sense>o (para llamar) <lb/></sense>
+</entry><entry><lemma>dzi</lemma> (<re>nahadzi, nahacadzi</re>) 
+<pc>: </pc>
+<sense>a (adverbio para llamar <lb/>cuando se me ha olvidado algo) <lb/></sense>
+</entry><entry><lemma>dzi ndoho dzi </lemma>
+<pc>: </pc>
+<sense>aha [ahó] o para llamar <lb/></sense>
+</entry><entry><lemma>dzi saco ye saco </lemma>
+<pc>: </pc>
+<sense>cornudo llamar a otro <lb/></sense>
+</entry><entry><lemma>dzi tnoo quay casa </lemma>
+<pc>: </pc>
+<sense>relampaguear de noche sin <lb/>truenos <lb/></sense>
+</entry><entry><lemma>dzi tnoo quayca ticuiye </lemma>
+<pc>: </pc>
+<sense>relampaguear de noche <lb/>sin truenos <lb/></sense>
+</entry><entry><lemma>dzica </lemma>
+<pc>: </pc>
+<sense>pecado <lb/></sense>
+</entry><entry><lemma>dzica quachi </lemma>
+<pc>: </pc>
+<sense>culpa ; defecto <lb/></sense>
+</entry><entry><lemma>dzico </lemma>
+<pc>: </pc>
+<sense>camisa que usan las indias que llaman huipil <lb/></sense>
+</entry><entry><lemma>dzico ana yosico yosivuindi</lemma>
+<pc>, </pc>
+<inflected>futuro cuico</inflected>
+, <re>que-<lb/>vui </re>
+<pc>: </pc>
+<sense>engrasarse como en las minas <lb/></sense>
+</entry><entry><lemma>dzico ayo yosivuindi </lemma>
+<pc>: </pc>
+<sense>engrasarse como en las <lb/>minas <lb/></sense>
+</entry><entry><lemma>dzico coo </lemma>
+<pc>: </pc>
+<sense>ponzoña de víbora <lb/></sense>
+</entry><entry><lemma>dzico huatu </lemma>
+<pc>: </pc>
+<sense>bien (nombre) <lb/></sense>
+</entry><entry><lemma>dzico ini yocanandita yosaha huahi </lemma>
+<pc>: </pc>
+<sense>inficionarse <lb/>lugar <lb/></sense>
+</entry><entry><lemma>dzico quahi yocanandita </lemma>
+<pc>: </pc>
+<sense>inficionarse lugar <lb/></sense>
+</entry><entry><lemma>dzico sa casi </lemma>
+<pc>: </pc>
+<sense>olor de comida <lb/></sense>
+</entry><entry><lemma>dzico yosayndi</lemma>
+<pc>, </pc>
+<inflected>futuro quay </inflected>
+<pc>: </pc>
+<sense>gustar de lo que se <lb/>come <lb/></sense>
+</entry><entry><lemma>dzicu </lemma>
+<pc>: </pc>
+<sense>sobrina <lb/></sense>
+</entry><entry><lemma>dzichi </lemma>
+<pc>: </pc>
+<sense>buba <lb/></sense>
+</entry><entry><lemma>dzichi </lemma>
+<pc>: </pc>
+<sense>espinilla de la pierna <lb/></sense>
+</entry><entry><lemma>dzichi </lemma>
+<pc>: </pc>
+<sense>pitahaya, fruta [tuna] <lb/></sense>
+</entry><entry><lemma>dzichi cuine </lemma>
+<pc>: </pc>
+<sense>zanca <lb/></sense>
+</entry><entry><lemma>dzichi ndaha </lemma>
+<pc>: </pc>
+<sense>tabla del brazo <lb/></sense>
+</entry><entry><lemma>dzidzi sa ee toto ee dzini </lemma>
+<pc>: </pc>
+<sense>hermana de mi abuela <lb/></sense>
+</entry><entry><lemma>dzidzindi </lemma>
+<pc>: </pc>
+<sense>hermana de mi padre o madre <lb/></sense>
+</entry><entry><lemma>dzidzindi </lemma>
+<pc>: </pc>
+<sense>tía <lb/></sense>
+</entry><entry><lemma>dzidzo </lemma>
+<pc>: </pc>
+<sense>carga <lb/></sense>
+</entry><entry><lemma>dzidzondi </lemma>
+<pc>: </pc>
+<sense>cuñado, hermano de mi mujer <lb/></sense>
+</entry><entry><lemma>dzihi </lemma>
+<pc>: </pc>
+<sense>pierna de animal <lb/></sense>
+</entry><entry><lemma>dzii </lemma>
+<pc>: </pc>
+<sense>así <lb/></sense>
+</entry><entry><lemma>dzii </lemma>
+<pc>: </pc>
+<sense>dura ave de comer o carne por mal cocida <lb/></sense>
+</entry><entry><lemma>dzii cutu </lemma>
+<pc>: </pc>
+<sense>recio como cuero <lb/></sense>
+</entry><entry><lemma>dzii nuu vino </lemma>
+<pc>: </pc>
+<sense>flor de vino, la lapa <lb/></sense>
+</entry><entry><lemma>dzii tuchi nicuvuite </lemma>
+<pc>: </pc>
+<sense>dura ave por ser vieja <lb/></sense>
+</entry><entry><lemma>dzii yutnu </lemma>
+<pc>: </pc>
+<sense>recia cosa como madero casi <lb/></sense>
+</entry><entry><lemma>dzina </lemma>
+<pc>: </pc>
+<sense>primeramente <lb/></sense>
+</entry><entry><lemma>dzina, dzinaca </lemma>
+<pc>: </pc>
+<sense>lo primero, o cuanto a lo primero <lb/></sense>
+</entry><entry><lemma>dzina huaa </lemma>
+<pc>: </pc>
+<sense>primeramente <lb/></sense>
+</entry><entry><lemma>dzina huii </lemma>
+<pc>: </pc>
+<sense>primeramente <lb/></sense>
+</entry><entry><lemma>dzina huii, dzina ñuhu </lemma>
+<pc>: </pc>
+<sense>lo primero, o cuanto a lo <lb/>primero <lb/></sense>
+</entry><entry><lemma>dzina nuu </lemma>
+<pc>: </pc>
+<sense>primeramente <lb/></sense>
+</entry><entry><lemma>dzina nuuca </lemma>
+<pc>: </pc>
+<sense>principalmente <lb/></sense>
+</entry><entry><lemma>dzina ñahu dzina huii </lemma>
+<pc>: </pc>
+<sense>antes o primeramente <lb/></sense>
+</entry><entry><lemma>dzina ñuhu </lemma>
+<pc>: </pc>
+<sense>primeramente <lb/></sense>
+</entry><entry><lemma>dzina ñuhuca </lemma>
+<pc>: </pc>
+<sense>principalmente <lb/></sense>
+</entry><entry><lemma>dzina tay iyo nuu </lemma>
+<pc>: </pc>
+<sense>primero <lb/></sense>
+</entry><entry><lemma>dzina yuca </lemma>
+<pc>: </pc>
+<sense>principalmente <lb/></sense>
+</entry><entry><lemma>dzinaca </lemma>
+<pc>: </pc>
+<sense>primeramente ; principalmente <lb/></sense>
+</entry><entry><lemma>dzinaca ndii ndodzo nuundi sita</lemma>
+<pc>, </pc><inflected>
+futuro cuindo
+-<lb/>dzo </inflected>
+<pc>: </pc>
+<sense>adelantar o antevenir a otro en honra <lb/></sense>
+</entry><entry><lemma>dzinaca yosahandi </lemma>
+<pc>: </pc>
+<sense>ganar por la mano <lb/></sense>
+</entry><entry><lemma>dzinaca yosahandi</lemma>
+<pc>, </pc>
+<inflected>futuro qh </inflected>
+<pc>: </pc>
+<sense>adelantarse en ca-<lb/>mino <lb/></sense>
+</entry><entry><lemma>dzinañu </lemma>
+<pc>: </pc>
+<sense>sombra de hombre <lb/></sense>
+</entry><entry><lemma>dzindiqui </lemma>
+<pc>: </pc>
+<sense>tuétano <lb/></sense>
+</entry><entry><lemma>dzindiqui yeque </lemma>
+<pc>: </pc>
+<sense>meollo o tuétano <lb/></sense>
+</entry><entry><lemma>dzinduhua </lemma>
+<pc>: </pc>
+<sense>telaraña <lb/></sense>
+</entry><entry><lemma>dzini </lemma>
+<pc>: </pc>
+<sense>cabeza ; arriba en lo alto <lb/></sense>
+</entry><entry><lemma>dzini </lemma>
+<pc>: </pc>
+<sense>cautivos sacrificados ante los ídolos <lb/></sense>
+</entry><entry><lemma>dzini </lemma>
+<pc>: </pc>
+<sense>chimenea lo alto <lb/></sense>
+</entry><entry><lemma>dzini cusi </lemma>
+<pc>: </pc>
+<sense>empulgueras de arco <lb/></sense>
+</entry><entry><lemma>dzini dzitu </lemma>
+<pc>: </pc>
+<sense>en la cumbre <lb/></sense>
+</entry><entry><lemma>dzini huahi </lemma>
+<pc>: </pc>
+<sense>azutea o azotea <lb/></sense>
+</entry><entry><lemma>dzini mesa </lemma>
+<pc>: </pc>
+<sense>cabecera de mesa <lb/></sense>
+</entry><entry><lemma>dzini ndee </lemma>
+<pc>: </pc>
+<sense>calva cabeza <lb/></sense>
+</entry><entry><lemma>dzini nicoo cavua </lemma>
+<pc>: </pc>
+<sense>cabeza cortada <lb/></sense>
+</entry><entry><lemma>dzini nidzata ninota </lemma>
+<pc>: </pc>
+<sense>corona de clérigo <lb/></sense>
+</entry><entry><lemma>dzini nisaa cavua </lemma>
+<pc>: </pc>
+<sense>cabeza cortada <lb/></sense>
+</entry><entry><lemma>dzini ñaha </lemma>
+<pc>: </pc>
+<sense>cautivos sacrificados ante los ídolos <lb/></sense>
+</entry><entry><lemma>dzini ñu dzavui </lemma>
+<pc>: </pc>
+<sense>Mixteca alta <lb/></sense>
+</entry><entry><lemma>dzini ñuu </lemma>
+<pc>: </pc>
+<sense>cabecera de pueblo <lb/></sense>
+</entry><entry><lemma>dzini qua saa nini tnaa, yanda tnaa tasi </lemma>
+<pc>: </pc>
+<sense>calva <lb/>entradas de las sienes <lb/></sense>
+</entry><entry><lemma>dzini si </lemma>
+<pc>: </pc>
+<sense>de lo alto ; de punta ; encima de lo alto <lb/></sense>
+</entry><entry><lemma>dzini sito </lemma>
+<pc>: </pc>
+<sense>cabecera de cama <lb/></sense>
+</entry><entry><lemma>dzini tecuite </lemma>
+<pc>: </pc>
+<sense>mocha cosa sin cuernos <lb/></sense>
+</entry><entry><lemma>dzini tniindi </lemma>
+<pc>: </pc>
+<sense>padrastro de los dedos <lb/></sense>
+</entry><entry><lemma>dzini yanda </lemma>
+<pc>: </pc>
+<sense>calva cabeza <lb/></sense>
+</entry><entry><lemma>dzini yecu nicuvuita </lemma>
+<pc>: </pc>
+<sense>cautivos sacrificados ante los <lb/>ídolos <lb/></sense>
+</entry><entry><lemma>dzini yucu </lemma>
+<pc>: </pc>
+<sense>alto, la cumbre de la sierra <lb/></sense>
+</entry><entry><lemma>dzini yutnu </lemma>
+<pc>: </pc>
+<sense>copa de árbol ; entre el mismo árbol <lb/></sense>
+</entry><entry><lemma>dzinisi </lemma>
+<pc>: </pc>
+<sense>extremidad ; cabeza de clavo <lb/></sense>
+</entry><entry><lemma>dzino ñuhu </lemma>
+<pc>: </pc>
+<sense>arras, presentes que se dan entre ma-<lb/>cehuales ; don, preseas tales entre macehuales ; <lb/>prenda lo que se da <lb/></sense>
+</entry><entry><lemma>dzinuhu </lemma>
+<pc>: </pc>
+<sense>calentura enfermedad ; fiebre <lb/></sense>
+</entry><entry><lemma>dzinuhu </lemma>
+<pc>: </pc>
+<sense>ciclones <lb/></sense>
+</entry><entry><lemma>dzinuhu na tuvui uni quevui </lemma>
+<pc>: </pc>
+<sense>terciana, calentura <lb/></sense>
+</entry><entry><lemma>dzinuhu yona tuvui idza </lemma>
+<pc>: </pc>
+<sense>terciana, calentura <lb/></sense>
+</entry><entry><lemma>dziña </lemma>
+<pc>: </pc>
+<sense>gavilán <lb/></sense>
+</entry><entry><lemma>dziña coco </lemma>
+<pc>: </pc>
+<sense>gerifalte <lb/></sense>
+</entry><entry><lemma>dziñe </lemma>
+<pc>: </pc>
+<sense>lado ; sienes <lb/></sense>
+</entry><entry><lemma>dziñe cono </lemma>
+<pc>: </pc>
+<sense>sienes <lb/></sense>
+</entry><entry><lemma>dziñe chisi </lemma>
+<pc>: </pc>
+<sense>costado ; ijares <lb/></sense>
+</entry><entry><lemma>dziñe chisi yocana nini </lemma>
+<pc>: </pc>
+<sense>enfermo estar de la ijada <lb/></sense>
+</entry><entry><lemma>dziñe dzatni </lemma>
+<pc>: </pc>
+<sense>lado izquierdo <lb/></sense>
+</entry><entry><lemma>dziñe dziñe </lemma>
+<pc>: </pc>
+<sense>a los lados <lb/></sense>
+</entry><entry><lemma>dziñe itni </lemma>
+<pc>: </pc>
+<sense>lado izquierdo <lb/></sense>
+</entry><entry><lemma>dziñe ndica </lemma>
+<pc>: </pc>
+<sense>costado <lb/></sense>
+</entry><entry><lemma>dziñe nuu </lemma>
+<pc>: </pc>
+<sense>lagrimal del ojo <lb/></sense>
+</entry><entry><lemma>dziñe quaha </lemma>
+<pc>: </pc>
+<sense>lado derecho <lb/></sense>
+</entry><entry><lemma>dziñe si </lemma>
+<pc>: </pc>
+<sense>a los lados <lb/></sense>
+</entry><entry><lemma>dziñe tnaandi </lemma>
+<pc>: </pc>
+<sense>entradas de la frente <lb/></sense>
+</entry><entry><lemma>dziñete </lemma>
+<pc>: </pc>
+<sense>espolón de gallo <lb/></sense>
+</entry><entry><lemma>dziñuhu </lemma>
+<pc>: </pc>
+<sense>arras, las que se dan por mano del sacer-<lb/>dote <lb/></sense>
+</entry><entry><lemma>dziñuhu cuisi </lemma>
+<pc>: </pc>
+<sense>plata <lb/></sense>
+</entry><entry><lemma>dziñuhu cuisi nisa coo ndaa tnuni </lemma>
+<pc>: </pc>
+<sense>marcada <lb/>plata <lb/></sense>
+</entry><entry><lemma>dziñuhu cuisi nitevuita </lemma>
+<pc>: </pc>
+<sense>cendrada plata <lb/></sense>
+</entry><entry><lemma>dziñuhu cuisi yondaa ndusa tnuni </lemma>
+<pc>: </pc>
+<sense>plata mar-<lb/>cada <lb/></sense>
+</entry><entry><lemma>dziñuhu cusi nicuvui ndoo </lemma>
+<pc>: </pc>
+<sense>plata cendrada <lb/></sense>
+</entry><entry><lemma>dziñuhu dzee </lemma>
+<pc>: </pc>
+<sense>real, un tomín <lb/></sense>
+</entry><entry><lemma>dziñuhu iñe siña </lemma>
+<pc>: </pc>
+<sense>tesoro <lb/></sense>
+</entry><entry><lemma>dziñuhu ndusa </lemma>
+<pc>: </pc>
+<sense>dinero ; moneda <lb/></sense>
+</entry><entry><lemma>dziñuhu nidza cay nduuta </lemma>
+<pc>: </pc>
+<sense>moneda falsa <lb/></sense>
+</entry><entry><lemma>dziñuhu nidzaca nino </lemma>
+<pc>: </pc>
+<sense>moneda falsa <lb/></sense>
+</entry><entry><lemma>dziñuhu niqui tnaha ndaa </lemma>
+<pc>: </pc>
+<sense>juntarse, ut pecunia <lb/>[juntarse cosas en compañía y contratación] <lb/></sense>
+</entry><entry><lemma>dziñuhu nisa coho satnu </lemma>
+<pc>: </pc>
+<sense>tesoro <lb/></sense>
+</entry><entry><lemma>dziñuhu nisina </lemma>
+<pc>: </pc>
+<sense>tesoro <lb/></sense>
+</entry><entry><lemma>dziñuhu nisivui tnaha </lemma>
+<pc>: </pc>
+<sense>moneda falsa <lb/></sense>
+</entry><entry><lemma>dziñuhu ña ndoo </lemma>
+<pc>: </pc>
+<sense>moneda falsa <lb/></sense>
+</entry><entry><lemma>dziñuhu quaa </lemma>
+<pc>: </pc>
+<sense>oro <lb/></sense>
+</entry><entry><lemma>dziñuhu sa coho chiyo </lemma>
+<pc>: </pc>
+<sense>brazalete de oro <lb/></sense>
+</entry><entry><lemma>dziñuhu yehe dzevui ñuhu </lemma>
+<pc>: </pc>
+<sense>moneda falsa <lb/></sense>
+</entry><entry><lemma>dziñuhu yotasindi </lemma>
+<pc>: </pc>
+<sense>arras estas dar (las que se dan <lb/>por mano del sacerdote) <lb/></sense>
+</entry><entry><lemma>dzita </lemma>
+<pc>: </pc>
+<sense>nalga <lb/></sense>
+</entry><entry><lemma>dzita </lemma>
+<pc>: </pc>
+<sense>pan <lb/></sense>
+</entry><entry><lemma>dzita cadzu </lemma>
+<pc>: </pc>
+<sense>biscocho <lb/></sense>
+</entry><entry><lemma>dzita coho </lemma>
+<pc>: </pc>
+<sense>bollos que hacían en las fiestas de los <lb/>demonios <lb/></sense>
+</entry><entry><lemma>dzita cuta </lemma>
+<pc>: </pc>
+<sense>rosca <lb/></sense>
+</entry><entry><lemma>dzita cuta quachi </lemma>
+<pc>: </pc>
+<sense>rosquilla <lb/></sense>
+</entry><entry><lemma>dzita dzatnu </lemma>
+<pc>: </pc>
+<sense>panzuelos que suelen hacer los niños <lb/>de sobras de la masa <lb/></sense>
+</entry><entry><lemma>dzita dzayu </lemma>
+<pc>: </pc>
+<sense>acemita, pan de afrechos <lb/></sense>
+</entry><entry><lemma>dzita huidzi </lemma>
+<pc>: </pc>
+<sense>rosquilla <lb/></sense>
+</entry><entry><lemma>dzita huidzi nichiyo dzaha </lemma>
+<pc>: </pc>
+<sense>fruta de sartén <lb/></sense>
+</entry><entry><lemma>dzita huita </lemma>
+<pc>: </pc>
+<sense>mollete ; reciente pan <lb/></sense>
+</entry><entry><lemma>dzita indii yavui </lemma>
+<pc>: </pc>
+<sense>rosca <lb/></sense>
+</entry><entry><lemma>dzita indodzo dziya</lemma>
+<pc>, </pc>
+<inflected>futuro cuindodzo </inflected>
+<pc>: </pc>
+<sense>edad <lb/>tener más de 52 años <lb/></sense>
+</entry><entry><lemma>dzita nahi </lemma>
+<pc>: </pc>
+<sense>cosa grande y ancha <lb/></sense>
+</entry><entry><lemma>dzita nahi </lemma>
+<pc>: </pc>
+<sense>torta <lb/></sense>
+</entry><entry><lemma>dzita ndadzu </lemma>
+<pc>: </pc>
+<sense>biscocho ; pan tostado <lb/></sense>
+</entry><entry><lemma>dzita nicachi </lemma>
+<pc>: </pc>
+<sense>zatico de pan <lb/></sense>
+</entry><entry><lemma>dzita nicadzu </lemma>
+<pc>: </pc>
+<sense>pan tostado <lb/></sense>
+</entry><entry><lemma>dzita nicaye, nisisi </lemma>
+<pc>: </pc>
+<sense>pan quemado <lb/></sense>
+</entry><entry><lemma>dzita nicudzi, nicana cachi </lemma>
+<pc>: </pc>
+<sense>mohoso pan <lb/></sense>
+</entry><entry><lemma>dzita nicuvui nu ñuhu </lemma>
+<pc>: </pc>
+<sense>pan quemado <lb/></sense>
+</entry><entry><lemma>dzita nihi dzecui </lemma>
+<pc>: </pc>
+<sense>mamantón <lb/></sense>
+</entry><entry><lemma>dzita nindoyo nino </lemma>
+<pc>: </pc>
+<sense>migas de pan <lb/></sense>
+</entry><entry><lemma>dzita ninucoho yoco </lemma>
+<pc>: </pc>
+<sense>avahadas sopas <lb/></sense>
+</entry><entry><lemma>dzita nisa coho ndevui </lemma>
+<pc>: </pc>
+<sense>hornazo <lb/></sense>
+</entry><entry><lemma>dzita nisiñe ndaa dzuqndi </lemma>
+<pc>: </pc>
+<sense>ahogarse con bo-<lb/>cado <lb/></sense>
+</entry><entry><lemma>dzita nitahay </lemma>
+<pc>: </pc>
+<sense>zatico de pan <lb/></sense>
+</entry><entry><lemma>dzita nitahui, nicachi </lemma>
+<pc>: </pc>
+<sense>mendrugo de pan <lb/></sense>
+</entry><entry><lemma>dzita nitayu </lemma>
+<pc>: </pc>
+<sense>mohoso pan <lb/></sense>
+</entry><entry><lemma>dzita niyatna </lemma>
+<pc>: </pc>
+<sense>pan tostado <lb/></sense>
+</entry><entry><lemma>dzita ña yehe yusa iya </lemma>
+<pc>: </pc>
+<sense>cenceño pan <lb/></sense>
+</entry><entry><lemma>dzita ña yusa iya </lemma>
+<pc>: </pc>
+<sense>cenceño pan <lb/></sense>
+</entry><entry><lemma>dzita ñañu </lemma>
+<pc>: </pc>
+<sense>zatico de pan ; mendrugo de pan <lb/></sense>
+</entry><entry><lemma>dzita ñoho coño </lemma>
+<pc>: </pc>
+<sense>pastel de comer <lb/></sense>
+</entry><entry><lemma>dzita ñoho ndevui </lemma>
+<pc>: </pc>
+<sense>hornazo <lb/></sense>
+</entry><entry><lemma>dzita ñoho ndoyo </lemma>
+<pc>: </pc>
+<sense>sopa <lb/></sense>
+</entry><entry><lemma>dzita sadzi </lemma>
+<pc>: </pc>
+<sense>torta <lb/></sense>
+</entry><entry><lemma>dzita saha </lemma>
+<pc>: </pc>
+<sense>hígado <lb/></sense>
+</entry><entry><lemma>dzita sahi </lemma>
+<pc>: </pc>
+<sense>zatico de pan <lb/></sense>
+</entry><entry><lemma>dzita sañe </lemma>
+<pc>: </pc>
+<sense>acemita, pan de afrechos <lb/></sense>
+</entry><entry><lemma>dzita site tiyaca </lemma>
+<pc>: </pc>
+<sense>empanada de pescado <lb/></sense>
+</entry><entry><lemma>dzita ticoo </lemma>
+<pc>: </pc>
+<sense>pan rollizo <lb/></sense>
+</entry><entry><lemma>dzita ticoo niyatna nuu ñuhu cayu </lemma>
+<pc>: </pc>
+<sense>bollo cocido <lb/>en las brasas <lb/></sense>
+</entry><entry><lemma>dzita vuidzi yadzi </lemma>
+<pc>: </pc>
+<sense>hojuela <lb/></sense>
+</entry><entry><lemma>dzita yutnu </lemma>
+<pc>: </pc>
+<sense>ñudo de árbol <lb/></sense>
+</entry><entry><lemma>dzitaca </lemma>
+<pc>: </pc>
+<sense>más pan u otra cosa <lb/></sense>
+</entry><entry><lemma>dzite </lemma>
+<pc>: </pc>
+<sense>coroza ; mitra de obispo <lb/></sense>
+</entry><entry><lemma>dzite toniñe </lemma>
+<pc>: </pc>
+<sense>corona <lb/></sense>
+</entry><entry><lemma>dzite toniñe obispo </lemma>
+<pc>: </pc>
+<sense>mitra de obispo <lb/></sense>
+</entry><entry><lemma>dzitne </lemma>
+<pc>: </pc>
+<sense>carrillo de la cara <lb/></sense>
+</entry><entry><lemma>dzitni </lemma>
+<pc>: </pc>
+<sense>nariz <lb/></sense>
+</entry><entry><lemma>dzitni cachi tindeye</lemma>
+<pc>, </pc>
+<inflected>futuro quay </inflected>
+<pc>: </pc>
+<sense>algodón lim-<lb/>piar <lb/></sense>
+</entry><entry><lemma>dzitni cuihi </lemma>
+<pc>: </pc>
+<sense>pezón de fruta <lb/></sense>
+</entry><entry><lemma>dzitni cuiñe </lemma>
+<pc>: </pc>
+<sense>nariz aguileña <lb/></sense>
+</entry><entry><lemma>dzitni cuta </lemma>
+<pc>: </pc>
+<sense>hocico de puerco <lb/></sense>
+</entry><entry><lemma>dzitni huiyu </lemma>
+<pc>: </pc>
+<sense>pie de maizal <lb/></sense>
+</entry><entry><lemma>dzitni ndanda </lemma>
+<pc>: </pc>
+<sense>mocos de narices <lb/></sense>
+</entry><entry><lemma>dzitni ndico </lemma>
+<pc>: </pc>
+<sense>lima (la fruta) <lb/></sense>
+</entry><entry><lemma>dzitni ndodzo </lemma>
+<pc>: </pc>
+<sense>pezón de teta <lb/></sense>
+</entry><entry><lemma>dzitni nduta </lemma>
+<pc>: </pc>
+<sense>mocos de narices <lb/></sense>
+</entry><entry><lemma>dzitni quene </lemma>
+<pc>: </pc>
+<sense>hocico de puerco <lb/></sense>
+</entry><entry><lemma>dzitni quete </lemma>
+<pc>: </pc>
+<sense>mocos de narices <lb/></sense>
+</entry><entry><lemma>dzitni ticoo </lemma>
+<pc>: </pc>
+<sense>nariz aguileña <lb/></sense>
+</entry><entry><lemma>dzitni tinduu tiquaa </lemma>
+<pc>: </pc>
+<sense>lima (la fruta) <lb/></sense>
+</entry><entry><lemma>dzitni tnama </lemma>
+<pc>: </pc>
+<sense>nariz roma <lb/></sense>
+</entry><entry><lemma>dzitni tnusii </lemma>
+<pc>: </pc>
+<sense>brújula o puente de arcabuz <lb/></sense>
+</entry><entry><lemma>dzitni too </lemma>
+<pc>: </pc>
+<sense>mocos de narices <lb/></sense>
+</entry><entry><lemma>dzitni tuu </lemma>
+<pc>: </pc>
+<sense>nariz pequeña <lb/></sense>
+</entry><entry><lemma>dzitnu </lemma>
+<pc>: </pc>
+<sense>ova que nace en el agua <lb/></sense>
+</entry><entry><lemma>dzitnu yutnu </lemma>
+<pc>: </pc>
+<sense>marojo de los árboles <lb/></sense>
+</entry></body>
+	</text>
+</tei>

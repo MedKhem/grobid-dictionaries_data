@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="form.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="form.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><form><orth>q cahi </orth>
+</form><form><orth>q coho quevui </orth>
+</form><form><orth>q ndehe q tuhu </orth>
+</form><form><orth>q ndita nde ndita yocuvuindi </orth>
+</form><form><orth>qhu </orth>
+</form><form><orth>qmi </orth>
+</form><form><orth>qmi sichi sa niquevui nisiyo saha ndehe ndu sa <lb/>caa sa isi ñuu ñayevui </orth>
+</form><form><orth>qmi sichica </orth>
+</form><form><orth>qmi siqui </orth>
+</form><form><orth>qni nuu qni </orth>
+</form><form><orth>qua </orth>
+</form><form><orth>qua caha </orth>
+</form><form><gramGrp>imperativo</gramGrp> <part>de yosa quacandi</part>] 
+</form><form><orth>qua cahi </orth>
+</form><form><gramGrp>imperativo</gramGrp> <part>de yosa cahindi</part>] 
+</form><form><orth>qua cana ndita </orth>
+</form><form><orth>qua cana quevui </orth>
+</form><form><orth>qua cana tuvui </orth>
+</form><form><orth>qua cana vuiyu </orth>
+</form><form><orth>qua cana yoco </orth>
+</form><form><orth>qua casa nama </orth>
+</form><form><orth>qua casa nino nama </orth>
+</form><form><orth>qua cay </orth>
+</form><form><orth>qua cay ndicandii </orth>
+</form><form><orth>qua cay nini ñuu coyo </orth>
+</form><form><orth>qua cay saha cuchi </orth>
+</form><form><orth>qua caya </orth>
+</form><form><orth>qua coo cuisi sa yocuhuindi </orth>
+</form><form><orth>qua coo cuvui, qua coo cuisi sa yocuhuindi </orth>
+</form><form><orth>qua coo tiquaa </orth>
+</form><form><orth>qua cuico ndaha vuiyu </orth>
+</form><form><orth>qua cuiñe ndaye nama </orth>
+</form><form><orth>qua cuiñini </orth>
+</form><form><orth>qua cuisi ndaa </orth>
+</form><form><orth>qua cuvui ndeq </orth>
+</form><form><orth>qua cuvui ndichi </orth>
+</form><form><orth>qua cuisi nini </orth>
+</form><form><orth>qua cuisi sa yocana cuisi </orth>
+</form><form><orth>qua cuita ndaha sahandi </orth>
+</form><form><orth>qua cuita nini coñondi </orth>
+</form><form><orth>qua cuvui quaa </orth>
+</form><form><orth>qua cuvui quaha ndaya </orth>
+</form><form><orth>qua cuvui quendete </orth>
+</form><form><orth>qua cuvui quehui </orth>
+</form><form><orth>qua cuvui tecuiñe </orth>
+</form><form><orth>qua cuvui tnoo </orth>
+</form><form><orth>qua cuvui yatni </orth>
+</form><form><orth>qua cuvui yatni quevui </orth>
+</form><form><orth>qua cuvui yatni sino ee cuiya </orth>
+</form><form><orth>qua cuvui yatni tuvui </orth>
+</form><form><orth>qua dzii nini coñondi </orth>
+</form><form><orth>qua na cuico tachi </orth>
+</form><form><orth>qua na ndusate </orth>
+</form><form><orth>qua na tacu ndaa ini </orth>
+</form></body>
+	</text>
+</tei>

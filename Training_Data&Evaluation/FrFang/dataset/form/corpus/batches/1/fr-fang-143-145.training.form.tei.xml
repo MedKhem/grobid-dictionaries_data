@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="form.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="form.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><form><orth>VIGOUREUX </orth></form><form><orth>VILLAGE </orth></form><form><orth>VIN </orth></form><form><orth>VINGT </orth></form><form><orth>VIOLENCE </orth></form><form><orth>VIOLER </orth></form><form><orth>VIPÈRE </orth></form><form><orth>VIS </orth></form><form><orth>VISAGE </orth></form><form><orth>VIS-Â-VIS </orth></form><form><orth>VISER </orth></form><form><orth>VISIÈRE </orth></form><form><orth>VISION </orth></form><form><orth>VISITE </orth></form><form><orth>VISITER </orth></form><form><orth>VISSER </orth></form><form><orth>VITE </orth></form><form><orth>VITRE </orth></form><form><orth>VIVANT </orth></form><form><orth>VIVEUR </orth></form><form><orth>VIVRE </orth></form><form><orth>VIVRES </orth></form><form><orth>VOICI </orth></form><form><orth>VOILE </orth></form><form><orth>VOIR </orth></form><form><orth>VOISINAGE </orth></form><form><orth>VOIX </orth></form><form><orth>VOL </orth></form><form><orth>VOLAGE </orth></form><form><orth>VOLAILLE </orth></form><form><orth>VOLER </orth></form><form><orth>VOLONTÉ </orth></form><form><orth>VOLUME </orth></form><form><orth>VOMIR </orth></form><form><orth>VOMISSEMENT </orth></form><form><orth>VOMITIF </orth></form><form><orth>VORACITÉ </orth></form><form><orth>VOS </orth></form><form><orth>VOTRE </orth></form><form><orth>VOULOIR </orth></form><form><orth>VOUS </orth></form><form><orth>VOYAGE </orth></form><form><orth>VRAI </orth></form><form><orth>VRAIMENT </orth></form><form><orth>VRILLE </orth></form><form><orth>VUE </orth></form><form><orth>VULVE </orth></form><form><orth>WA </orth></form><form><orth>WOLOF </orth></form><form><orth>XYLOPHONE </orth></form><form><orth>YEUX </orth></form><form><orth>ZÉBRURE </orth></form><form><orth>ZÈLE </orth></form><form><orth>ZIGZAGS </orth></form></body>
+	</text>
+</tei>

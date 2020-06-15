@@ -1,0 +1,19 @@
+Dict+DLF+Model+dictionary-body-segmentation+Feature+Unigram+DataLevel+1
+===== Field-level results =====
+
+label                accuracy     precision    recall       f1           support
+
+<entry>              91.12        91.36        89.73        90.54        224    
+<pc>                 94.71        95.79        92.76        94.25        221    
+
+all (micro avg.)     92.92        93.55        91.24        92.38        445    
+all (macro avg.)     92.92        93.58        91.25        92.4         445    
+
+===== Instance-level results =====
+
+Total expected instances:   3
+Correct instances:          1
+Instance-level recall:      33.33
+
+
+Evaluation for dictionary-body-segmentation model is realized in 2661 ms

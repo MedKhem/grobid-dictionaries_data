@@ -1,0 +1,18 @@
+Dict+Mix-Sp+Model+gramGrp+Feature+Unigram+DataLevel+1
+===== Field-level results =====
+
+label                accuracy     precision    recall       f1           support
+
+<gram>               100          100          100          100          13     
+
+all (micro avg.)     100          100          100          100          13     
+all (macro avg.)     100          100          100          100          13     
+
+===== Instance-level results =====
+
+Total expected instances:   11
+Correct instances:          11
+Instance-level recall:      100
+
+
+Evaluation for gramGrp model is realized in 182 ms

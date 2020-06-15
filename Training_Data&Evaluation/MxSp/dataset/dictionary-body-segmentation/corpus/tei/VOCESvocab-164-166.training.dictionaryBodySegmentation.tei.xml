@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dictionaryBodySegmentation.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="dictionaryBodySegmentation.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><entry>tnundoo dza cono nini yuhua idza : lanzadera de <lb/>tejedor <lb/></entry>
+<entry>tnundoo dziyo : lanzadera de tejedor <lb/></entry>
+<entry>tnundoo dzuchi : batel o canoa <lb/></entry>
+<entry>tnundoo dzuchi dza quini dziyo : lanzadera de <lb/>tejedor <lb/></entry>
+<entry>tnundoo huasi taca : flota de naos que navegan <lb/></entry>
+<entry>tnundoo indita yuu cuhua : nivel <lb/></entry>
+<entry>tnundoo quachi : almud <lb/></entry>
+<entry>tnundoo quachi : celemín <lb/></entry>
+<entry>tnundoo sa q ndaa cuhua : nivel <lb/></entry>
+<entry>tnundoo si ñoho tay ndudzu tiyaca : barca de <lb/>pescador <lb/></entry>
+<entry>tnundoo sica tniño : barca de pasaje <lb/></entry>
+<entry>tnundoo sica yecu : galera <lb/></entry>
+<entry>tnundoo yodza sisi ñaha : nave de pasaje <lb/></entry>
+<entry>tnuni : raya ; señal <lb/></entry>
+<entry>tnuni dzavui : insignias de honra <lb/></entry>
+<entry>tnuni dzequendi : firma de escritura <lb/></entry>
+<entry>tnuni dzevuindi : firma de escritura <lb/></entry>
+<entry>tnuni dzico : insignias de honra <lb/></entry>
+<entry>tnuni huaha : insignias de honra <lb/></entry>
+<entry>tnuni huii : insignias de honra <lb/></entry>
+<entry>tnuni ndodzo : insignias de vencimiento <lb/></entry>
+<entry>tnuni quevuindi : firma de escritura <lb/></entry>
+<entry>tnuni sa nanindi : firma de escritura <lb/></entry>
+<entry>tnuni tayu : armas de ciudades <lb/></entry>
+<entry>tnuni toho : armas de linaje <lb/></entry>
+<entry>tnuni yecu : divisa <lb/></entry>
+<entry>tnuni yondaa ini ndaha : rayas de la mano <lb/></entry>
+<entry>tnusii : cerbatana <lb/></entry>
+<entry>tnusii caa : arcabuz <lb/></entry>
+<entry>tnusii caa canu : lombarda <lb/></entry>
+<entry>tnusii caa nanu : artillería <lb/></entry>
+<entry>tnusii caa nisa coho ñuhu sii caa : cargado ar-<lb/>cabuz <lb/></entry>
+<entry>tnusii caa sa noho ñuhu sii caa / ñuhu cande : <lb/>cargado arcabuz <lb/></entry>
+<entry>tnuu : tesar, poner tieso <lb/></entry>
+<entry>tnuu : teso <lb/></entry>
+<entry>toco : pedregal <lb/></entry>
+<entry>toco chisi : bajo del vientre <lb/></entry>
+<entry>todzo : choza <lb/></entry>
+<entry>todzo teyee : cabaña <lb/></entry>
+<entry>todzo yay : buhiyo [bohío] <lb/></entry>
+<entry>toho : generoso, de buen linaje <lb/></entry>
+<entry>toho dzehe : ama de siervos ; dueña ; matrona, mu-<lb/>jer honrada <lb/></entry>
+<entry>toho dzehe caa huayu : dama gentil, hermosa <lb/></entry>
+<entry>toho dzehe caa huii : dama gentil, hermosa <lb/></entry>
+<entry>toho dzehe iya : dama <lb/></entry>
+<entry>toho ndaa : generoso, de buen linaje <lb/></entry>
+<entry>toho saha : planta del pie, fuente del pie ; puente <lb/>del pie <lb/></entry>
+<entry>toho yondiyu nana iya : cortesano <lb/></entry>
+<entry>toni ndeye : historia de linajes <lb/></entry>
+<entry>toniño : crisol <lb/></entry>
+<entry>too : palmo <lb/></entry>
+<entry>too dzuchi : jeme medida <lb/></entry>
+<entry>toto : peña <lb/></entry>
+<entry>toto canu : peñasco <lb/></entry>
+<entry>toto inino yuta canu : roca en la mar <lb/></entry>
+<entry>toto nanu : risco de peña <lb/></entry>
+<entry>toto nanu cavua : peña <lb/></entry>
+<entry>toto ñoho yutu : guijarro <lb/></entry>
+<entry>toto yondiyu nino yuta canu : roca en la mar <lb/></entry>
+<entry>toto yuta canu : roca en la mar <lb/></entry>
+<entry>tucu : y (conjunción copulativa) ; también <lb/></entry>
+<entry>tucu dzaha yocahandi : hablar en otro lenguaje <lb/></entry>
+<entry>tucu iyo : diferir en hechura ; enojarse sin razón, en <lb/>otra manera <lb/></entry>
+<entry>tucu sichi : de otra manera ; particular cosa <lb/></entry>
+<entry>tucu sichi iyo : diferir en hechura ; enojarse sin ra-<lb/>zón, en otra manera <lb/></entry>
+<entry>tucu sichica : otras cosas <lb/></entry>
+<entry>tucu tay : otro, no ese <lb/></entry>
+<entry>tuchi : cuerdas, nervios ; nervio ; pulso <lb/></entry>
+<entry>tuchi neñe : vena <lb/></entry>
+<entry>tuhu canda tnuhu si yoquidzandi, futuro cad-<lb/>za : a fama hacer algo <lb/></entry>
+<entry>tuhu casi dzita : después de comer <lb/></entry>
+<entry>tuhua : papagayo (ave) <lb/></entry>
+<entry>tuq : matalotaje <lb/></entry>
+<entry>tuq ichi : matalotaje <lb/></entry>
+<entry>tuq tecu : vituallas para hueste <lb/></entry>
+<entry>tuta : puchas <lb/></entry>
+<entry>tuta caya : bebida de maíz morada <lb/></entry>
+<entry>tuta dzita : papas para niños <lb/></entry>
+<entry>tuta saha : poleadas <lb/></entry>
+<entry>tuta saha : puchas <lb/></entry>
+<entry>tutnu : leña <lb/></entry>
+<entry>tutnu : oído, oreja <lb/></entry>
+<entry>tutnu indaa yuhu dzoo : orilla de la manta, la fran-<lb/>juela <lb/></entry>
+<entry>tutnu nañu : moral <lb/></entry>
+<entry>tutnu nicoto : leña hacinada <lb/></entry>
+<entry>tutnu nisani cuite : leña hacinada <lb/></entry>
+<entry>tutnu nisani toto : leña hacinada <lb/></entry>
+<entry>tutnu nisani yucu : leña hacinada <lb/></entry>
+<entry>tutnu quedze : asa de olla <lb/></entry>
+<entry>tutnuta yocaha ninondi : a la oreja decir algo <lb/></entry>
+<entry>tutu : carta ; papel blanco <lb/></entry>
+<entry>tutu caa canu : mano de papel <lb/></entry>
+<entry>tutu caa oco hoho tutu : mano de papel <lb/></entry>
+<entry>tutu catne : naipes <lb/></entry>
+<entry>tutu cuisi : papel blanco <lb/></entry>
+<entry>tutu dzo ee caa tnanu : pliego de papel <lb/></entry>
+<entry>tutu dzuchi : cédula <lb/></entry>
+<entry>tutu nicuvui ndehe nuu yuhu si : jaspeado libro <lb/></entry>
+<entry>tutu nidza canata caa : impreso libro <lb/></entry>
+<entry>tutu nisa cavua dzaha : envoltorio de cartas <lb/></entry>
+<entry>tutu nisa cuvua dzequendi : firmada escritura <lb/></entry>
+<entry>tutu nisaco ndaa dzevuindi : firmada escritura <lb/></entry>
+<entry>tutu nisaco nuu yuhu si : jaspeado libro <lb/></entry>
+<entry>tutu nisaq dzahata : envoltorio de cartas <lb/></entry>
+<entry>tutu nisasi ndusa caa : impreso libro <lb/></entry>
+<entry>tutu nitaata ndusa caa : impreso libro <lb/></entry>
+<entry>tutu nitavua ndusa caa : impreso libro <lb/></entry>
+<entry>tutu ñoho dzaha : envoltorio de cartas <lb/></entry>
+<entry>tutu ñoho dzucu : envoltorio de cartas <lb/></entry>
+<entry>tutu ñudzavui : papel de estraza, o de la tierra <lb/></entry>
+<entry>tutu ñuhu : papel de estraza, o de la tierra <lb/></entry>
+<entry>tutu ñuu dzuma : papel de estraza, o de la tierra <lb/></entry>
+<entry>tutu sa nisaco ndaa ndusa : impreso libro <lb/></entry>
+<entry>tutu yehe ndahui quevui : calendario ; marti ro logio <lb/></entry>
+<entry>tutu yehe ndahui sa iyo : copia o memorial <lb/></entry>
+<entry>tutu yehe ndahui sa yocuvui quachi : libro de <lb/>cuentas <lb/></entry>
+<entry>tutu yodzo dzaha iya : mandamiento de cualquier <lb/>superior <lb/></entry>
+<entry>tutu yondaa dzaha iya : mandamiento de cualquier <lb/>superior <lb/></entry>
+<entry>tutu yondaa ndudzu nitnay : proceso de pleito <lb/></entry>
+<entry>tutu yondaa quevui : calendario <lb/></entry>
+<entry>tutu yondaa quevui cuiya : calendario <lb/></entry>
+<entry>tutu yondaa sa iyo : copia o memorial <lb/></entry>
+<entry>tutu yondaa sa nanindi : firmada escritura <lb/></entry>
+<entry>tutu yondaa sa yehe ndahui quevui : calendario <lb/></entry>
+<entry>tutu yondaa sa yocuvui quachi : libro de cuentas <lb/></entry>
+<entry>tutu yondaa tniño : proceso de pleito <lb/></entry>
+<entry>tutu yondaa tnuni sa iyo : copia o memorial <lb/></entry>
+<entry>tutu yondaa yaa : cancionero <lb/></entry>
+<entry>tutu yondecu : cartapacio <lb/></entry>
+<entry>tutu yotnaha canu : mano de papel <lb/></entry>
+<entry>tuu : estrecha cosa <lb/></entry>
+<entry>tuu nihi : angosta cosa como camisa <lb/></entry>
+<entry>tuvui ndaa : blanquear de lejos como edificio <lb/></entry>
+<entry>tuvui ndaa cuite : enfrente <lb/></entry>
+<entry>tuvui ñaha : dardo <lb/></entry>
+<entry>tuvui yaa : blanquear de lejos como edificio <lb/></entry>
+<entry>tuvuita : tropel de gente <lb/></entry>
+<entry>uhua : acije para tinta <lb/></entry>
+<entry>uhua : espesa cosa, de potaje ; salada cosa como <lb/>potaje <lb/></entry>
+<entry>uhui : cosa que duele mucho como azote <lb/></entry>
+<entry>uhui ndahui nicuvui : desgracia acontecer <lb/></entry>
+<entry>uhui nicuvui : guay (interjección) <lb/></entry>
+<entry>uhui yosinindi : sentir dolor <lb/></entry>
+<entry>una : 8 <lb/></entry>
+<entry>una tetne yodzo saho tuvui : 70 000 <lb/></entry>
+<entry>uni : 3 <lb/></entry>
+<entry>uni dzico : 60 <lb/></entry>
+<entry>uni dzico ee : 61 <lb/></entry>
+<entry>uni dzico ee : 69 <lb/></entry>
+<entry>uni dzico hoho : 65 <lb/></entry>
+<entry>uni dzico iño : 66 <lb/></entry>
+<entry>uni dzico qmi : 64 <lb/></entry>
+<entry>uni dzico una : 68 <lb/></entry>
+<entry>uni dzico uni : 63 <lb/></entry>
+<entry>uni dzico usa : 67 <lb/></entry>
+<entry>uni dzico usi : 70 <lb/></entry>
+<entry>uni dzico uvui : 62 <lb/></entry>
+<entry>uni tetne yodzo saho tuvui : 30 000 <lb/></entry>
+<entry>usa : 7 <lb/></entry>
+<entry>usa tetne yodzo usi tuvui : 60 000 <lb/></entry>
+<entry>usi : 10 <lb/></entry>
+<entry>usi dzico : 200 <lb/></entry>
+<entry>usi ee : 11 <lb/></entry>
+<entry>usi ee tetne yodzo hoho tuvui : 90 000 <lb/></entry>
+<entry>usi qmi : 14 <lb/></entry>
+<entry>usi sichica usi uvui tetne yodzo usi tuvui : <lb/>1 000 000 (millón o cuento) <lb/></entry>
+<entry>usi tetne : 80 000 <lb/></entry>
+<entry>usi uni : 13 <lb/></entry>
+<entry>usi uvui : 12 <lb/></entry>
+<entry>usi uvui tetne yodzo usi tuvui : 100 000 <lb/></entry>
+<entry>uvua : amarga cosa <lb/></entry>
+<entry>uvua yosinindi, futuro qni : amargarme algo <lb/></entry>
+<entry>uvua yotuvui sindi : amargarme algo <lb/></entry>
+<entry>uvuani aya : amargar demasiadamente <lb/></entry>
+<entry>uvui : 2 <lb/></entry>
+<entry>uvui dzico : 40 <lb/></entry>
+<entry>uvui dzico ee : 41 <lb/></entry>
+<entry>uvui dzico ee : 49 <lb/></entry>
+<entry>uvui dzico hoho : 45 <lb/></entry>
+<entry>uvui dzico iño : 46 <lb/></entry>
+<entry>uvui dzico qmi : 44 <lb/></entry>
+<entry>uvui dzico saho : 55 <lb/></entry>
+<entry>uvui dzico saho ee : 56 <lb/></entry>
+<entry>uvui dzico saho qmi : 59 <lb/></entry>
+<entry>uvui dzico saho uni : 58 <lb/></entry>
+<entry>uvui dzico saho uvui : 57 <lb/></entry>
+<entry>uvui dzico usi : 50 <lb/></entry>
+<entry>uvui dzico usi ee : 51 <lb/></entry>
+<entry>uvui dzico usi qmi : 54 <lb/></entry>
+<entry>uvui dzico usi uni : 53 <lb/></entry>
+<entry>uvui dzico usi uvui : 52 <lb/></entry>
+<entry>uvui dzico uvui : 42 <lb/></entry>
+<entry>uvui dzico una : 48 <lb/></entry>
+<entry>uvui dzico uni : 43 <lb/></entry>
+<entry>uvui dzico usa : 47 <lb/></entry>
+<entry>uvui ndico : 40 (cuenta de los días) (et sic de singulis) <lb/></entry>
+<entry>uvui nduvui quevui : cada dos días <lb/></entry>
+<entry>uvui nuu iyo sa quidza huaha : formada cosa en <lb/>dos maneras <lb/></entry>
+<entry>uvui nuu yonaha : formada cosa en dos maneras <lb/></entry>
+<entry>uvui quevui ca dza qui tnaha : dos días después <lb/></entry>
+<entry>uvui quevui yodzo dzavua : dos días y medio <lb/></entry>
+<entry>uvui sichi dzuhuani : solas dos veces <lb/></entry>
+<entry>uvui tetne yodzo usi tuvui : 20 000 <lb/></entry>
+<entry>uvui tnaha : a pares de dos en dos <lb/></entry>
+<entry>uvui tuvui : 800 <lb/></entry>
+<entry>uvui tuvui hoho : 900 <lb/></entry>
+<entry>uvui tuvui usi : 1 000 <lb/></entry>
+<entry>uvui uvui : de dos en dos <lb/></entry>
+<entry>uvui uvui ee eeta : cada uno dos <lb/></entry>
+<entry>uvui uvui quevui : cada dos días <lb/></entry>
+<entry>uvui uvui yosaha : de dos en dos ir <lb/></entry>
+<entry>uvui uvui yosahandi, futuro qhu : de dos en dos ir; <lb/></entry>
+</body>
+	</text>
+</tei>

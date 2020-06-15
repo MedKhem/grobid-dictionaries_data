@@ -1,0 +1,21 @@
+Dict+Fang-Fr+Model+sense+Feature+Unigram+DataLevel+3
+===== Field-level results =====
+
+label                accuracy     precision    recall       f1           support
+
+<gramGrp>            99.85        77.78        87.5         82.35        8      
+<num>                100          100          100          100          349    
+<pc>                 99.95        100          99.73        99.86        366    
+<subSense>           99.59        99.6         99.76        99.68        1235   
+
+all (micro avg.)     99.85        99.64        99.74        99.69        1958   
+all (macro avg.)     99.85        94.34        96.75        95.47        1958   
+
+===== Instance-level results =====
+
+Total expected instances:   1236
+Correct instances:          1234
+Instance-level recall:      99.84
+
+
+Evaluation for sense model is realized in 1751 ms

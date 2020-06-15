@@ -1,0 +1,22 @@
+Dict+Fang-Fr+Model+gramGrp+Feature+Bigram+DataLevel+1
+===== Field-level results =====
+
+label                accuracy     precision    recall       f1           support
+
+<lbl>                99.66        0            0            0            1      
+<note>               100          100          100          100          9      
+<number>             99.66        98.86        100          99.43        87     
+<pc>                 99.66        90           100          94.74        9      
+<pos>                98.31        98.91        98.38        98.64        185    
+
+all (micro avg.)     99.46        98.63        98.63        98.63        291    
+all (macro avg.)     99.46        77.56        79.68        78.56        291    
+
+===== Instance-level results =====
+
+Total expected instances:   271
+Correct instances:          269
+Instance-level recall:      99.26
+
+
+Evaluation for gramGrp model is realized in 410 ms

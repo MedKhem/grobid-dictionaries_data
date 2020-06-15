@@ -1,0 +1,22 @@
+Dict+Mix-Sp+Model+sub-sense+Feature+Bigram+DataLevel+4
+===== Field-level results =====
+
+label                accuracy     precision    recall       f1           support
+
+<def>                90.87        91.87        95.61        93.7         319    
+<gramGrp>            98.66        100          25           40           8      
+<pc>                 94.88        76.06        90           82.44        60     
+<translation>        100          100          100          100          2      
+<usg>                98.44        60           90           72           10     
+
+all (micro avg.)     96.57        88.15        93.23        90.62        399    
+all (macro avg.)     96.57        85.58        80.12        77.63        399    
+
+===== Instance-level results =====
+
+Total expected instances:   302
+Correct instances:          282
+Instance-level recall:      93.38
+
+
+Evaluation for sub-sense model is realized in 640 ms

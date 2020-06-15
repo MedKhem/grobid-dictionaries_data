@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="sense.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="sense.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><sense><subSense>dar lugar al que viene para <lb/>que se siente <lb/></subSense>
+</sense><sense><subSense>a la 1 (tarde) <lb/></subSense>
+</sense><sense><subSense>volverse del bando contrario </subSense>
+<pc>; </pc>
+<subSense>des-<lb/>ocupar lugar quitándome de donde estoy senta-<lb/>do </subSense>
+<pc>; </pc>
+<subSense>desviarse </subSense>
+<pc>; </pc>
+<subSense>mudarse de un casa a otro <lb/></subSense>
+</sense><sense><subSense>dividirse una cosa como <lb/>se dividió el mar bermejo en el tránsito de los <lb/>hijos de Israel <lb/></subSense>
+</sense><sense><subSense>volver la cabeza mirando de <lb/>propósito <lb/></subSense>
+</sense><sense><subSense>rostro <lb/>volver mirando enojado <lb/></subSense>
+</sense><sense><subSense>rostro volver miran-<lb/>do con piedad <lb/></subSense>
+</sense><sense><subSense>mirar atrás <lb/></subSense>
+</sense><sense><subSense>volver la cabeza mirando <lb/>de propósito <lb/></subSense>
+</sense><sense><subSense>rostro volver a un <lb/>lado </subSense>
+<pc>; </pc>
+<subSense>volver a mirar <lb/></subSense>
+</sense><sense><subSense>crujir o rugir las tripas <lb/></subSense>
+</sense><sense><subSense>hervir el agua <lb/>cuando cuece <lb/></subSense>
+</sense><sense><subSense>volver lo de dentro afuera como <lb/>vestidura </subSense>
+<pc>; </pc>
+<subSense>echar cosas líquidas de una vasija en <lb/>otra <lb/></subSense>
+</sense><sense><subSense>traspalar el trigo volviéndo-<lb/>lo de arriba abajo <lb/></subSense>
+</sense><sense><subSense>remolinarse <lb/></subSense>
+</sense><sense><subSense>ampararse detrás de algo <lb/></subSense>
+</sense><sense><subSense>ladearse algo <lb/></subSense>
+</sense><sense><subSense>desencasarse los huesos <lb/></subSense>
+</sense><sense><subSense>desconcertarse los huesos <lb/></subSense>
+</sense><sense><subSense>desco yuntar <lb/></subSense>
+</sense><sense><subSense>abrir camino apartán-<lb/>dome yo </subSense>
+<pc>; </pc>
+<subSense>allegarse hacia allá o hacia acá apartán-<lb/>dose de donde está </subSense>
+<pc>; </pc>
+<subSense>desocupar lugar quitándome <lb/>de donde estoy sentado </subSense>
+<pc>; </pc>
+<subSense>desviarse </subSense>
+<pc>; </pc>
+<subSense>hacerse a un <lb/>cabo apartándose </subSense>
+<pc>; </pc>
+<subSense>retraerse, apartarse </subSense>
+<pc>; </pc>
+<subSense>volverse <lb/>del bando contrario <lb/></subSense>
+</sense><sense><subSense>ampararse a la <lb/>sombra <lb/></subSense>
+</sense><sense><subSense>digerir la comida <lb/></subSense>
+</sense><sense><subSense>enmendarme de la vida mala </subSense>
+<pc>; <lb/></pc>
+<subSense>mudar el corazón <lb/></subSense>
+</sense><sense><subSense>vuelcos dar </subSense>
+<pc>; </pc>
+<subSense>revolcarme <lb/></subSense>
+</sense><sense><subSense>desasosega-<lb/>do estar por algún dolor corporal <lb/></subSense>
+</sense><sense><subSense>deshollejarse el árbol <lb/></subSense>
+</sense><sense><subSense>desollarse como la mano <lb/></subSense>
+</sense><sense><subSense>desollarse con golpe o he-<lb/>rida <lb/></subSense>
+</sense><sense><subSense>acertar a lo que se <lb/>tira </subSense>
+<pc>; </pc>
+<subSense>certero tirar <lb/></subSense>
+</sense><sense><subSense>volar alrededor </subSense>
+<pc>; </pc>
+<subSense>estar alrededor senta-<lb/>dos </subSense>
+<pc>; </pc>
+<subSense>remolinarse <lb/></subSense>
+</sense><sense><subSense>remolino hacerse en el agua <lb/></subSense>
+</sense><sense><subSense>a la redonda andar </subSense>
+<pc>; <lb/></pc>
+<subSense>andar en rededor </subSense>
+<pc>; </pc>
+<subSense>vuelta dar, yendo rodeando <lb/>alguna parte </subSense>
+<pc>; </pc>
+<subSense>vueltas dar en rededor estando en <lb/>pie </subSense>
+<pc>; </pc>
+<subSense>dar vueltas alrededor <lb/></subSense>
+</sense><sense><subSense>mandar a <lb/>otro que le habían mandado <lb/></subSense>
+</sense><sense><subSense>encomendar a otro el oficio <lb/>que le encomiendan <lb/></subSense>
+</sense><sense><subSense>pasar una cosa de una parte a <lb/>otra <lb/></subSense>
+</sense><sense><subSense>volver la cabeza mirando de <lb/>propósito <lb/></subSense>
+</sense><sense><subSense>dar del codo a otro <lb/></subSense>
+</sense><sense><subSense>estribar haciendo fuerza con las <lb/>manos <lb/></subSense>
+</sense><sense><subSense>morir penando <lb/>mucho tiempo <lb/></subSense>
+</sense><sense><subSense>aderezarme com-<lb/>poniéndome <lb/></subSense>
+</sense><sense><subSense>aficionados <lb/>estar dos <lb/></subSense>
+</sense><sense><subSense>avezarme </subSense>
+<pc>; </pc>
+<subSense>habituar-<lb/>me </subSense>
+<pc>; </pc>
+<subSense>aficionarse o aplicarse a algo </subSense>
+<pc>; </pc>
+<subSense>allegarse a Dios <lb/>con el corazón </subSense>
+<pc>; </pc>
+<subSense>deprender de otro bueno o malo </subSense>
+<pc>; <lb/></pc>
+<subSense>enamorarse </subSense>
+<pc>; </pc>
+<subSense>inclinarse el corazón (por afec-<lb/>ción) <lb/></subSense>
+</sense><sense><subSense>conforme con la <lb/>voluntad de Dios <lb/></subSense>
+</sense><sense><subSense>hallarse bien con <lb/>alguno <lb/></subSense>
+</sense><sense><subSense>volver lo de dentro <lb/>afuera como vestidura <lb/></subSense>
+</sense><sense><subSense>al revés volver la ca-<lb/>misa <lb/></subSense>
+</sense><sense><subSense>volver el rostro enojado <lb/></subSense>
+</sense><sense><subSense>poner al revés algo <lb/></subSense>
+</sense><sense><subSense>descalzar calzas al rodo pelo <lb/>[rodapelo, redopelo, redropelo] <lb/></subSense>
+</sense><sense><subSense>alzar antepuerta <lb/></subSense>
+</sense><sense><subSense>romancear o romanzar <lb/></subSense>
+</sense><sense><subSense>romancear o romanzar <lb/></subSense>
+</sense></body>
+	</text>
+</tei>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="gramGrp.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="gramGrp.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><gramGrp><pos>verb </pos></gramGrp><gramGrp><pos>verb </pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>adjective </pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>verb </pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>adjective </pos></gramGrp><gramGrp><pos>past </pos></gramGrp><gramGrp><pos>adjective </pos></gramGrp><gramGrp><pos>adverb </pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>verb </pos></gramGrp><gramGrp><pos>interjection </pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>verb </pos></gramGrp><gramGrp><pos>adjective </pos></gramGrp><gramGrp><pos>adverb </pos></gramGrp><gramGrp><pos>adverb</pos><pc>, </pc><pos>noun </pos></gramGrp><gramGrp><pos>adverb </pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>pronoun </pos></gramGrp><gramGrp><pos>adjective </pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>adjective </pos></gramGrp><gramGrp><pos>pronoun </pos></gramGrp><gramGrp><pos>pronoun </pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>verb </pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>adjective </pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>noun </pos></gramGrp><gramGrp><pos>verb </pos></gramGrp></body>
+	</text>
+</tei>

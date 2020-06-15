@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="form.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="form.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><form><orth>caa nacono nini yuhu yahi </orth>
+</form><form><orth>caa naha sindi </orth>
+</form><form><orth>caa naho iñendi </orth>
+</form><form><orth>caa naho iyondi </orth>
+</form><form><orth>caa ndaa </orth>
+</form><form><orth>caa ndaa </orth>
+</form><form><orth>caa ndaa chihi </orth>
+</form><form><orth>caa ndaa dziñe </orth>
+</form><form><orth>caa ndaandi </orth>
+</form><form><orth>caa ndadza huii yutnu </orth>
+</form><form><orth>caa ndaha </orth>
+</form><form><orth>caa ndaye </orth>
+</form><form><orth>caa ndaye dzoo yondisindi / sa ndisindi </orth>
+</form><form><orth>caa ndaye yona canundi </orth>
+</form><form><orth>caa ndayendi</orth>
+</form><form><gramGrp>futuro </gramGrp>
+<part>cavua </part>
+</form><form><orth>caa ndeca caa nuna </orth>
+</form><form><orth>caa ndevui nuu tnaha </orth>
+</form><form><orth>caa ndidzonica yocahandi </orth>
+</form><form><orth>caa ndihindi </orth>
+</form><form><orth>caa ndii </orth>
+</form><form><orth>caa ndii quaaca </orth>
+</form><form><orth>caa ndiindi </orth>
+</form><form><orth>caa ndisi </orth>
+</form><form><orth>caa ndisi </orth>
+</form><form><orth>caa ndisi yositute </orth>
+</form><form><orth>caa ndiyeca </orth>
+</form><form><orth>caa ndiyoca </orth>
+</form><form><orth>caa ndiyu quachita </orth>
+</form><form><orth>caa ndodzo </orth>
+</form><form><orth>caa ndodzo dzuq </orth>
+</form><form><orth>caa ndodzo ndayendi</orth>
+</form><form><gramGrp>futuro </gramGrp>
+<part>cavua </part>
+</form><form><orth>caa ndodzo ndayendi (nuu mesa) </orth>
+</form><form><orth>caa ndodzo ninondi (nuu sito) </orth>
+</form><form><orth>caa ndodzo yucu </orth>
+</form><form><orth>caa ndodzondi </orth>
+</form><form><orth>caa ndodzondi (nuu sito)</orth>
+</form><form><gramGrp>futuro </gramGrp>
+<part>cavua </part>
+</form><form><orth>caa ndodzonica yocahandi </orth>
+</form><form><orth>caa ndodzote ndevui </orth>
+</form><form><orth>caa nduq </orth>
+</form><form><orth>caa ndusa tacu </orth>
+</form><form><orth>caa ndusi itu </orth>
+</form><form><orth>caa nduvua dzoo yondisindi </orth>
+</form><form><orth>caa nduvua ndodzo nduta yodzutandi </orth>
+</form><form><orth>caa nduvua tatnu yocanindi </orth>
+</form><form><orth>caa nduvuandi</orth>
+</form><form><gramGrp>futuro </gramGrp>
+<part>cavua </part>
+</form><form><orth>caa nduvui caa tnaha yocahandi </orth>
+</form><form><orth>caa nduvui siyo nuu </orth>
+</form><form><orth>caa neni </orth>
+</form><form><orth>caa nicay </orth>
+</form><form><orth>caa nicuvui yadzi </orth>
+</form><form><orth>caa nidzucu yutnu ñuu </orth>
+</form><form><orth>caa nini huisi </orth>
+</form><form><orth>caa nini ndita dzuma dzeque iyondi sihita </orth>
+</form><form><orth>caa nini ndoyo </orth>
+</form><form><orth>caa nini ndudzu quahi </orth>
+</form><form><orth>caa nini ndudzu tedzehe </orth>
+</form><form><orth>caa nini quayo </orth>
+</form><form><orth>caa nini sa ninatnu dzoo </orth>
+</form><form><orth>caa nini sa yototo yotavui dzoo </orth>
+</form><form><orth>caa nini yuhu </orth>
+</form><form><orth>caa nino cono </orth>
+</form><form><orth>caa nino ndisi</orth>
+</form><form><gramGrp>futuro </gramGrp>
+<part>cavua </part>
+</form><form><orth>caa nino ndisi yuhundi </orth>
+</form><form><orth>caa nino quevui yoquesita </orth>
+</form><form><orth>caa nino yavui yende</orth>
+</form><form><gramGrp>futuro </gramGrp>
+<part>cavua </part>
+</form><form><orth>caa ninoca quevui </orth>
+</form><form><orth>caa niñe </orth>
+</form><form><orth>caa nitusi yadzi </orth>
+</form><form><orth>caa nuhu </orth>
+</form><form><orth>caa numi tnahandi sihiña </orth>
+</form><form><orth>caa numindiña </orth>
+</form><form><orth>caa nuna </orth>
+</form><form><orth>caa nuu cono </orth>
+</form><form><orth>caa nuu cuiyo </orth>
+</form><form><orth>caa nuu dzoo </orth>
+</form><form><orth>caa nuu iño </orth>
+</form><form><orth>caa nuu ndico </orth>
+</form><form><orth>caa nuu nduvui siyo </orth>
+</form><form><orth>caa nuu si </orth>
+</form><form><orth>caa nuu siyo </orth>
+</form><form><orth>caa nuu tecuiye </orth>
+</form><form><orth>caa nuu tiquiye dzeñe nuu yaqua </orth>
+</form><form><orth>caa nuu uvui chihi cuhua </orth>
+</form><form><orth>caa nuu yaqua </orth>
+</form><form><orth>caa ñahi ndodzo nuu yutnu </orth>
+</form><form><orth>caa ñahi yutnu </orth>
+</form><form><orth>caa ñena </orth>
+</form><form><orth>caa ñoho saha </orth>
+</form><form><orth>caa ñoho tnaha yoho caa </orth>
+</form><form><orth>caa ñuhu </orth>
+</form><form><orth>caa ñuhu cuiya </orth>
+</form><form><orth>caa qni ñaha </orth>
+</form><form><orth>caa quaa </orth>
+</form><form><orth>caa quaha caa huadza tnuhu yocaha </orth>
+</form><form><orth>caa quicuta </orth>
+</form><form><orth>caa quu </orth>
+</form><form><orth>caa sa codzo nuu nduvua </orth>
+</form><form><orth>caa sa coho dzini </orth>
+</form><form><orth>caa sa coho dzuq </orth>
+</form><form><orth>caa sa coho ndaha </orth>
+</form><form><orth>caa sa coho saha </orth>
+</form><form><orth>caa sa coho yuhute </orth>
+</form><form><orth>caa sa cuhu caa </orth>
+</form><form><orth>caa sa cuino </orth>
+</form><form><orth>caa sa cuino ndaha </orth>
+</form><form><orth>caa sa cuiñe ndodzo nduvua </orth>
+</form><form><orth>caa sa cusi ndodzo </orth>
+</form><form><orth>caa sa chihi tnee cavallo </orth>
+</form><form><orth>caa sa dzavuii yutnu </orth>
+</form><form><orth>caa sa indodzo tnee cavallo </orth>
+</form><form><orth>caa sa nañu ndaata </orth>
+</form><form><orth>caa sa q caa </orth>
+</form><form><orth>caa sa quay tniño tay huisi </orth>
+</form><form><orth>caa sa quehe dzeve </orth>
+</form><form><orth>caa sa quehe saha </orth>
+</form><form><orth>caa sa quehe yuhu idzo </orth>
+</form><form><orth>caa sa say tniño tay huisi </orth>
+</form><form><orth>caa sa si yuu </orth>
+</form><form><orth>caa sa sinda yuu </orth>
+</form><form><orth>caa saco dzuq ndaha </orth>
+</form><form><orth>caa saco nuni ndaha </orth>
+</form><form><orth>caa sacu iño dzini </orth>
+</form><form><orth>caa sadzi ndusa </orth>
+</form><form><orth>caa sadzi nduta </orth>
+</form><form><orth>caa sadzi tutu </orth>
+</form><form><orth>caa sadzi yaha </orth>
+</form><form><orth>caa saha ndico </orth>
+</form><form><orth>caa sanda ita </orth>
+</form><form><orth>caa sanda ndodzo ita </orth>
+</form><form><orth>caa sanda yutnu </orth>
+</form><form><orth>caa sasa ndodzo caa </orth>
+</form><form><orth>caa sate yocana coyo </orth>
+</form><form><orth>caa say ndodzo ita </orth>
+</form><form><orth>caa si dzaca sasata yuhu yahi </orth>
+</form><form><orth>caa sidzo ita </orth>
+</form><form><orth>caa sina </orth>
+</form><form><orth>caa sina inindi </orth>
+</form><form><orth>caa sina sindi </orth>
+</form><form><orth>caa sina yosina </orth>
+</form><form><orth>caa sini ñuhu si tay huisi </orth>
+</form><form><orth>caa siña sindi </orth>
+</form><form><orth>caa siña tniño yoo yeheca tniño </orth>
+</form><form><orth>caa siqui </orth>
+</form><form><orth>caa situ </orth>
+</form><form><orth>caa situ itu </orth>
+</form><form><orth>caa siyo (quachita) </orth>
+</form><form><orth>caa siyoca </orth>
+</form><form><orth>caa taa ndusa </orth>
+</form><form><orth>caa taa tnuni </orth>
+</form><form><orth>caa tahui yutnu </orth>
+</form><form><orth>caa tavua tiyaca </orth>
+</form><form><orth>caa tavui quete </orth>
+</form><form><orth>caa tayu </orth>
+</form><form><orth>caa tecadzi </orth>
+</form><form><orth>caa tecoo saa ndodzo yucu </orth>
+</form><form><orth>caa tecucua </orth>
+</form><form><orth>caa tecuiye </orth>
+</form><form><orth>caa tehui nduta </orth>
+</form><form><orth>caa tequeque </orth>
+</form><form><orth>caa tete (quachita) </orth>
+</form><form><orth>caa teyaha </orth>
+</form><form><orth>caa tinduu </orth>
+</form><form><orth>caa tiquiye </orth>
+</form><form><orth>caa tiyechi </orth>
+</form><form><orth>caa tiyehui sa cuino ñuhu </orth>
+</form><form><orth>caa tiyehui sa cuiñe nini ñuhu </orth>
+</form><form><orth>caa tnaha itundi sihita </orth>
+</form><form><orth>caa tnaha yocahandi </orth>
+</form><form><orth>caa tnanu </orth>
+</form><form><orth>caa tnanu dzavua dzoo </orth>
+</form><form><orth>caa tnanu nañu </orth>
+</form><form><orth>caa tnanu ndaa </orth>
+</form><form><orth>caa tniño cuhua </orth>
+</form><form><orth>caa tnoo ite ñuma </orth>
+</form><form><orth>caa tnucucua </orth>
+</form><form><orth>caa tnuquu </orth>
+</form><form><orth>caa toto yocahandi </orth>
+</form><form><orth>caa tusi yuu </orth>
+</form><form><orth>caa tuvui ñaha </orth>
+</form><form><orth>caa tuvuindi</orth>
+</form><form><gramGrp>futuro </gramGrp>
+<part>cavua </part>
+</form><form><orth>caa vuisi </orth>
+</form><form><orth>caa yadzi </orth>
+</form><form><orth>caa yadzi nuni </orth>
+</form><form><orth>caa yadzi ñoho tnaha </orth>
+</form><form><orth>caa yadzini </orth>
+</form><form><orth>caa yaqua </orth>
+</form><form><orth>caa yata </orth>
+</form><form><orth>caa yecu sa ndevui nuuta </orth>
+</form><form><orth>caa yecu sa nu cuinota </orth>
+</form><form><orth>caa yecu sa nu cuiñe ninota </orth>
+</form><form><orth>caa yechi dzoo</orth>
+</form><form><gramGrp>futuro </gramGrp>
+<part>cavua </part>
+</form><form><orth>caa yehe ndico tnaha </orth>
+</form><form><orth>caa yehe ndiyo </orth>
+</form><form><orth>caa yehe noho </orth>
+</form><form><orth>caa yehe saha tatnu </orth>
+</form><form><orth>caa yeque </orth>
+</form><form><orth>caa yeye </orth>
+</form><form><orth>caa yocadzi </orth>
+</form><form><orth>caa yocanda </orth>
+</form><form><orth>caa yocani ndodzo </orth>
+</form><form><orth>caa yocay ñuhu </orth>
+</form><form><orth>caa yodza nuni ita </orth>
+</form><form><orth>caa yoho </orth>
+</form><form><orth>caa yohoca </orth>
+</form><form><orth>caa yona ndiyu ini huahi </orth>
+</form><form><orth>caa yonañu ndaata dziñe </orth>
+</form><form><orth>caa yonañu ndodzota dziñe </orth>
+</form><form><orth>caa yonañu ninota </orth>
+</form><form><orth>caa yondadzi </orth>
+</form><form><orth>caa yondiyu </orth>
+</form><form><orth>caa yondiyu satnu </orth>
+</form><form><orth>caa yonu coho tnaha </orth>
+</form><form><orth>caa yoo ñahi idzi </orth>
+</form><form><orth>caa yoquidzita caa ndadzi </orth>
+</form><form><orth>caa yosasi ndodzo </orth>
+</form><form><orth>caa yosico </orth>
+</form><form><orth>caa yotoo nduta </orth>
+</form><form><orth>caa yuhu (quachita) </orth>
+</form><form><orth>caaca quevui </orth>
+</form><form><orth>caandi </orth>
+</form><form><orth>caani nonica quevui </orth>
+</form><form><orth>caca </orth>
+</form><form><orth>caca </orth>
+</form><form><orth>caca dzayu </orth>
+</form><form><orth>caca dzo nee </orth>
+</form><form><orth>caca ndaye </orth>
+</form><form><orth>caca ndihi </orth>
+</form><form><orth>caca quene yechi </orth>
+</form><form><orth>caca queye </orth>
+</form><form><orth>caca yuchi </orth>
+</form><form><orth>cacate </orth>
+</form><form><orth>cacu cono </orth>
+</form><form><orth>cacu noo ndicandii </orth>
+</form><form><orth>cachi </orth>
+</form><form><orth>cachi </orth>
+</form><form><orth>cachi cuisi </orth>
+</form><form><orth>cachi ndaa ñuhu tehui </orth>
+</form><form><orth>cachi ndoo </orth>
+</form><form><orth>cachi queye </orth>
+</form><form><orth>cachi taa ndico ñuhu </orth>
+</form><form><orth>cachi taca </orth>
+</form><form><orth>cachi ticaha </orth>
+</form><form><orth>cachi tnuquu </orth>
+</form><form><orth>cachi yaa </orth>
+</form><form><orth>cachi yodzo yutnu </orth>
+</form><form><orth>cachi yosico ñuhu</orth>
+</form><form><gramGrp>futuro </gramGrp>
+<part>cuico </part>
+</form><form><orth>cadzandi </orth>
+</form><form><orth>cadzandi </orth>
+</form><form><orth>cadzote ndevui </orth>
+</form><form><orth>caha </orth>
+</form><form><orth>caha cata </orth>
+</form><form><orth>caha dzeque </orth>
+</form><form><orth>caha dzico </orth>
+</form></body>
+	</text>
+</tei>

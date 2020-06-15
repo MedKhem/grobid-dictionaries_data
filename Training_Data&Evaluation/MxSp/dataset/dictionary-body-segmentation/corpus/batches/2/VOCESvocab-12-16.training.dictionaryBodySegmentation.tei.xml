@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dictionaryBodySegmentation.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="dictionaryBodySegmentation.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><entry>da caa naa nuhuca ñuu : ab eterno <lb/></entry>
+<entry>da caa ñaa nuhuca ñuu : antes que hubiese mundo <lb/></entry>
+<entry>da cayndi qhundi : predicar de pasada <lb/></entry>
+<entry>da cuvui da cuvui : casi casi o por poco <lb/></entry>
+<entry>da dzavua : desde entonces ; en otro tiempo pa-<lb/>sado <lb/></entry>
+<entry>da dzavua qua nda : hasta (preposición) <lb/></entry>
+<entry>da dzavua tnaha ica : como hasta tal parte <lb/></entry>
+<entry>da dzavua tucu : sobre todo (precediendo plá-<lb/>tica) <lb/></entry>
+<entry>da dzavuaca : tanto cuanto <lb/></entry>
+<entry>da dzinaca yona chihi tnuni inindi : pensar antes <lb/></entry>
+<entry>da hoo da hooca qua cuvui : crecer en bien o <lb/>en mal <lb/></entry>
+<entry>da hooca cahui yocuhui yoquidzandi sita, futu-<lb/>ro cadza : empeorar a otro queriéndole corregir <lb/>con alguna reprehensión <lb/></entry>
+<entry>da hooca yonduvui dzana : empeorar cada día más <lb/>en la vida <lb/></entry>
+<entry>da hooca yoquidza cahui : empeorar a otro que-<lb/>riéndole corregir con alguna reprehensión <lb/></entry>
+<entry>da hooca yoquidza cana : empeorar a otro que-<lb/>riéndole corregir con alguna reprehensión <lb/></entry>
+<entry>da hooca yoquidza neni : empeorar a otro que-<lb/>riéndole corregir con alguna reprehensión <lb/></entry>
+<entry>da hooca yoquidzando : y aún (conjunción adver-<lb/>sativa), ut ¿y aún haces eso todavía? <lb/></entry>
+<entry>da hooca yosa cotondi : ir a ver otra vez <lb/></entry>
+<entry>da huahi : denantes ; rato ha <lb/></entry>
+<entry>da huihi da huihica dzana yocuvui : empeorar <lb/>cada día más en la vida <lb/></entry>
+<entry>da huihica yonduvui dzanandi : empeorar cada <lb/>día más en la vida <lb/></entry>
+<entry>da huitna ñuhuni : ahora luego <lb/></entry>
+<entry>da huitnani : luego a la hora <lb/></entry>
+<entry>da huitnani nisihi : morir de repente <lb/></entry>
+<entry>da ica : de allí ; desde entonces acá <lb/></entry>
+<entry>da icu : desde ayer <lb/></entry>
+<entry>da icu ñuu : desde antier <lb/></entry>
+<entry>da itani nina tuvui : hallar algo de presto <lb/></entry>
+<entry>da itani yona nihindi : hallar algo de presto <lb/></entry>
+<entry>da itani yona quayndi : hallar algo de presto <lb/></entry>
+<entry>da itani yona quindi : hallar algo de presto <lb/></entry>
+<entry>da itani yosihindi : morir cayéndose de su estado <lb/></entry>
+<entry>da ita siyo sihindi : caerse muerto <lb/></entry>
+<entry>da maa inindi : hasta dentro en el corazón <lb/></entry>
+<entry>da maa : de dentro <lb/></entry>
+<entry>da mañu qua cay : de medio abajo <lb/></entry>
+<entry>da mañu qua saa : de medio arriba <lb/></entry>
+<entry>da nahani : incontinenti [luego] ; luego a la hora ; <lb/>presto ; temprano <lb/></entry>
+<entry>da nahani qhu : presto <lb/></entry>
+<entry>da nahani qhu caca queyendo : ir presto <lb/></entry>
+<entry>da nahani yachi : aína por presto <lb/></entry>
+<entry>da ndehendi yotnana yondayu : gemir al gemido <lb/>de otro <lb/></entry>
+<entry>da nditandu : y luego a la hora <lb/></entry>
+<entry>da nditani : y luego a la hora <lb/></entry>
+<entry>da ndu nisa coho saha ñuu ñayevui : desde que <lb/>el mundo es mundo <lb/></entry>
+<entry>da ndusa quachi sa ndeq ñuyaca yosinindi : ver <lb/>clara o distintamente <lb/></entry>
+<entry>da nduvui da ñuu : de día y de noche ; siempre ; <lb/>todos los días y noches <lb/></entry>
+<entry>da nduvui da ñuu yoquidzi dzama : dormir día y <lb/>noche <lb/></entry>
+<entry>da nindico inindi : quebrar el enojo en otro <lb/></entry>
+<entry>da nino : origen o principio <lb/></entry>
+<entry>da ninoca : antes de ahora <lb/></entry>
+<entry>da ninoca yona tadzi inindi : pensar antes <lb/></entry>
+<entry>da niquevui niquitu ñuu ñayevui : principio del <lb/>mundo <lb/></entry>
+<entry>da numi da naha qhu : presto <lb/></entry>
+<entry>da numi da naha qhundo : ir presto <lb/></entry>
+<entry>da qhu nitasa nicay cuiñe qhuta : punto de la <lb/>partida <lb/></entry>
+<entry>da qmi nica quevui : de allí a cuatro días <lb/></entry>
+<entry>da quaha dzuhua : hacia mano derecha <lb/></entry>
+<entry>da quaha nani : como hasta tal parte <lb/></entry>
+<entry>da quevui dzavua : desde entonces <lb/></entry>
+<entry>da quevui niquivui niquitu ñuu ñayevui : al prin-<lb/>cipio del mundo <lb/></entry>
+<entry>da quevui nituvui ñuu ñayevui : principio del <lb/>mundo <lb/></entry>
+<entry>da queyeni : aprisa ; incontinenti [luego] ; y luego ; <lb/>luego a la hora ; temprano <lb/></entry>
+<entry>da queyeni nda nditani nina quindi : hallar algo <lb/>de presto <lb/></entry>
+<entry>da saha : de antes <lb/></entry>
+<entry>da saha : origen o principio <lb/></entry>
+<entry>da saha da nino : al principio <lb/></entry>
+<entry>da saha da nino, da ndu nisiyo saha ñuu ñaye-<lb/>vui : principio del mundo <lb/></entry>
+<entry>da saha da nino nisiyo saha ñuu ñayevui : al <lb/>principio del mundo <lb/></entry>
+<entry>da saha si yona tadzi inindi : pensar antes <lb/></entry>
+<entry>da sandu si : origen o principio <lb/></entry>
+<entry>da sani siyo saha : origen o principio <lb/></entry>
+<entry>da sihindi yotnana : gemir al gemido de otro <lb/></entry>
+<entry>da tucu ñoho maa inindi : agradecer con palabras <lb/>solamente <lb/></entry>
+<entry>da vuitna da vuitnani : incontinenti [luego] <lb/></entry>
+<entry>da vuitna ñuhuni : incontinenti [luego] <lb/></entry>
+<entry>da yaha : hasta aquí (señalando) <lb/></entry>
+<entry>da yaha yuca : aquende más cerca <lb/></entry>
+<entry>da yodzoca yonduvui dzanandi : empeorar cada <lb/>día más en la vida <lb/></entry>
+<entry>da yoho si : origen o principio <lb/></entry>
+<entry>da yoquidzacando : y aún (conjunción adversativa), <lb/>ut ¿y aún haces eso todavía? <lb/></entry>
+<entry>da yosihindi : caerse muerto <lb/></entry>
+<entry>da yuqua : de allí ; hasta acullá <lb/></entry>
+<entry>da yutnaa : hasta mañana <lb/></entry>
+<entry>daa ndu vuitna nee ndu caa qhu, nee ndu chihi <lb/>taa qhu, ca toto ca dziya qhu : desde ahora <lb/>para siempre jamás <lb/></entry>
+<entry>damaa : centro de la tierra <lb/></entry>
+<entry>dau sa cavua nduta : cisterna aljibe <lb/></entry>
+<entry>dedziyu : chivo o cabrón <lb/></entry>
+<entry>dedziyu nindaa nini yuute : chivato capado <lb/></entry>
+<entry>deq dziini : átomos del sol <lb/></entry>
+<entry>dza : que (adverbio de comparación) <lb/></entry>
+<entry>dza caa : barniz amarillo para jícaras <lb/></entry>
+<entry>dza dzavua : tanto cuanto <lb/></entry>
+<entry>dza dzuchi canu ndicandii : a las 11 (día) <lb/></entry>
+<entry>dza ee cuhua : iguales cosas parejas ; justa en medi-<lb/>da, pro diversis supositis <lb/></entry>
+<entry>dza ee nicacundi sihi : amigo entrañable <lb/></entry>
+<entry>dza ee quevuindi sihita : amigo entrañable <lb/></entry>
+<entry>dza may nino dzini : cofia de mujer <lb/></entry>
+<entry>dza ndacundi dziñuhu : recabar, o recaudar <lb/></entry>
+<entry>dza ndaha : eco voz que resuena <lb/></entry>
+<entry>dza ndahui ñaha : duende ; fantasma <lb/></entry>
+<entry>dza ndatunica cacuta : duda hay si escapara <lb/></entry>
+<entry>dza noo cuvuita yahui : monipodio hacer <lb/></entry>
+<entry>dza ñee : mazorca, el corazón de ella <lb/></entry>
+<entry>dza ñee nicay coo : espiga de trigo mocha <lb/></entry>
+<entry>dza ñee nuni castilla : espiga de trigo mocha <lb/></entry>
+<entry>dza (pedro dza ioan ): que (adverbio de compara-<lb/>ción) <lb/></entry>
+<entry>dza q tnaha : poco más o menos <lb/></entry>
+<entry>dza quini dziyo : lanzadera de tejedor <lb/></entry>
+<entry>dza tnaa : de mañana ; mañana del día <lb/></entry>
+<entry>dza tnaa huaa nica : de mañana <lb/></entry>
+<entry>dza tnaa ñuhuca nituvuini : muy de mañana <lb/></entry>
+<entry>dza tnaa ñuhundi : muy de mañana <lb/></entry>
+<entry>dza tnaani dzo tuvuini : de mañana <lb/></entry>
+<entry>dza tuhu nino : inconveniente <lb/></entry>
+<entry>dzaa : barba sin pelos ; bezo horadado <lb/></entry>
+<entry>dzaa : brava cosa <lb/></entry>
+<entry>dzaa : pájaro <lb/></entry>
+<entry>dzaa ñuchi : pájaro solitario <lb/></entry>
+<entry>dzaa si : punta de cosa aguda <lb/></entry>
+<entry>dzaa toto : pájaro solitario <lb/></entry>
+<entry>dzaa yuchi caa : filos tener el cuchillo <lb/></entry>
+<entry>dzaca tica : desabrida cosa al gusto <lb/></entry>
+<entry>dzachi : miembro de mujer <lb/></entry>
+<entry>dzadza : orina <lb/></entry>
+<entry>dzadzate : vejiga de animal <lb/></entry>
+<entry>dzaha : aceite ; enjundia ; gordura ; grasa ; grosura ; <lb/>lardo de puerco ; manteca ; sebo <lb/></entry>
+<entry>dzaha : embajada ; lenguaje propio ; palabra del <lb/>señor <lb/></entry>
+<entry>dzaha : pringue de tocino, o torrezno <lb/></entry>
+<entry>dzaha : redaño <lb/></entry>
+<entry>dzaha castilla : romance <lb/></entry>
+<entry>dzaha huidzo : ley generalmente <lb/></entry>
+<entry>dzaha nduchi : riñonada <lb/></entry>
+<entry>dzaha nduchi niqui : aceite de higuerilla <lb/></entry>
+<entry>dzaha nduchi tenama : aceite de higuerilla <lb/></entry>
+<entry>dzaha ninduta : sebo derretido <lb/></entry>
+<entry>dzaha ñoho : riñonada <lb/></entry>
+<entry>dzaha quende : aceite de chía <lb/></entry>
+<entry>dzaha quende ndaha : barniz con que dan lustre <lb/></entry>
+<entry>dzaha sa yodzo tnaate : melena de buey <lb/></entry>
+<entry>dzaha si cavua tnaate : melena de buey <lb/></entry>
+<entry>dzaha yecu : presa de enemigos <lb/></entry>
+<entry>dzaha yehe ndatu : prometida cosa <lb/></entry>
+<entry>dzaha yosaq ndaa tnaate : melena de buey <lb/></entry>
+<entry>dzaha yucu cavua : presa de enemigos <lb/></entry>
+<entry>dzaha yuhuni : breve sermón <lb/></entry>
+<entry>dzaha yuhuni yocahandi : corto hablar <lb/></entry>
+<entry>dzahani quevui : algunas veces ; pocas veces <lb/></entry>
+<entry>dzahanita : pocos hombres <lb/></entry>
+<entry>dzahi : anillo <lb/></entry>
+<entry>dzahi : sobaco, debajo del brazo <lb/></entry>
+<entry>dzahi ndusa sadzi tutu : anillo con sello para se-<lb/>llar <lb/></entry>
+<entry>dzahi quicuta : dedal <lb/></entry>
+<entry>dzahua : abarrancadero ; barranca <lb/></entry>
+<entry>dzahua cavua : caverna <lb/></entry>
+<entry>dzahua ñuhu sindi : esta es mi suerte <lb/></entry>
+<entry>dzahua sa indii yavui : caverna <lb/></entry>
+<entry>dzama co dzahui dzini : paño para cubrir la cabeza, <lb/>que es cobija <lb/></entry>
+<entry>dzama co dzucu dzini : paño de cabeza <lb/></entry>
+<entry>dzama coco : cañamazo <lb/></entry>
+<entry>dzama coho dzini : paño de cabeza <lb/></entry>
+<entry>dzama coho dzucu ndeye : mortaja <lb/></entry>
+<entry>dzama cuino dzini : paño de cabeza <lb/></entry>
+<entry>dzama na cuhua ndaha : tobajas [toallas] <lb/></entry>
+<entry>dzama na cuhua yuhu dzitni : pañizuelo de <lb/>mesa <lb/></entry>
+<entry>dzama ndaa : anjeo <lb/></entry>
+<entry>dzama ndaa : cañamazo ; estropajo <lb/></entry>
+<entry>dzama ndevui nuu dzini : paño de cabeza <lb/></entry>
+<entry>dzama nicoo nama : tapicería <lb/></entry>
+<entry>dzama nichihi teye : polaina <lb/></entry>
+<entry>dzama nino yoquidza tniño : trocarse los que <lb/>trabajan <lb/></entry>
+<entry>dzama nisa qhe : polaina <lb/></entry>
+<entry>dzama numi nino sa quachi : pañales <lb/></entry>
+<entry>dzama sa coho dzucu sa quachi : pañales <lb/></entry>
+<entry>dzama taa : trapo <lb/></entry>
+<entry>dzama tete dzini : toca de mujer <lb/></entry>
+<entry>dzama tete dzoo ndate : paño para cubrir la cabe-<lb/>za, que es cobija <lb/></entry>
+<entry>dzama ticandu : cañamazo <lb/></entry>
+<entry>dzama titaca : manta rota <lb/></entry>
+<entry>dzama yotuvui sa quehe dzini : cabecera que <lb/>ponen en lugar de almohada <lb/></entry>
+<entry>dzama yuhu cuta dziyo : saya de mujer <lb/></entry>
+<entry>dzami : garza blanca <lb/></entry>
+<entry>dzami cuinda : garza parda <lb/></entry>
+<entry>dzami tnoo : cigüeña <lb/></entry>
+<entry>dzana : legua <lb/></entry>
+<entry>dzana nica sa sica : desaprovechado <lb/></entry>
+<entry>dzanda : muslo <lb/></entry>
+<entry>dzanda dzuchi : pantorrilla <lb/></entry>
+<entry>dzanda quene : pernil de tocino <lb/></entry>
+<entry>dzanda saha : planta del pie <lb/></entry>
+<entry>dzandate : cuarto trasero <lb/></entry>
+<entry>dzanu yoo : caña de poquiete <lb/></entry>
+<entry>dzañu : linde entre heredades ; mojón ; término por <lb/>linde <lb/></entry>
+<entry>dzañu caa sico : término por linde <lb/></entry>
+<entry>dzasi : sobrino <lb/></entry>
+<entry>dzasi noho : doler los dientes <lb/></entry>
+<entry>dzata : paloma, ave <lb/></entry>
+<entry>dzata cudzi : corvejón, ave del agua <lb/></entry>
+<entry>dzata cuisi : paloma, ave <lb/></entry>
+<entry>dzata nano : ganso <lb/></entry>
+<entry>dzata nanu : ánsar <lb/></entry>
+<entry>dzata nduta : ánsar <lb/></entry>
+<entry>dzata quachi : palomino <lb/></entry>
+<entry>dzata tata : ánade casera <lb/></entry>
+<entry>dzata tindoho : pico de jarro <lb/></entry>
+<entry>dzata yeq : anadino ; palomino <lb/></entry>
+<entry>dzata yucu : torcaza <lb/></entry>
+<entry>dzata yuta : ánade de agua <lb/></entry>
+<entry>dzatni dzo caa itnica yoquidza : al revés hacer lo <lb/>que me dicen <lb/></entry>
+<entry>dzatnu : panzuelos que suelen hacer los niños de <lb/>sobras de la masa <lb/></entry>
+<entry>dzavua : así (adverbio) ; bien está (otorgando) ; casi <lb/>así como ; y también <lb/></entry>
+<entry>dzavua : medio, la mitad ; mitad de lo entero <lb/></entry>
+<entry>dzavua : si <lb/></entry>
+<entry>dzavua : tal cosa ; tamaño ; tanto <lb/></entry>
+<entry>dzavua caa : estilo o costumbre de la tierra ; inclina-<lb/>ción <lb/></entry>
+<entry>dzavua caa ñuu : costumbre de pueblo <lb/></entry>
+<entry>dzavua caa ñuu ñayevui : así es el mundo <lb/></entry>
+<entry>dzavua caa sindi : esta es mi suerte <lb/></entry>
+<entry>dzavua caa tayu : costumbre de pueblo <lb/></entry>
+<entry>dzavua caayu ndatu sindi : esta es mi suerte <lb/></entry>
+<entry>dzavua coo dzavua cadzata : atado que no sabe <lb/>hacer nada ni se amaña <lb/></entry>
+<entry>dzavua cuhua : media libra <lb/></entry>
+<entry>dzavua cuiya : medio año <lb/></entry>
+<entry>dzavua cuvui yecu : ejercicio en armas <lb/></entry>
+<entry>dzavua dzavua tuca : más (conjunción copulativa) <lb/></entry>
+<entry>dzavua dzavuani huaha : razonable cosa, algún <lb/>tanto buena <lb/></entry>
+<entry>dzavua dzuhua ama ama : así, así (de enojo) <lb/></entry>
+<entry>dzavua hooca tucu : sobre todo (precediendo <lb/>plática) <lb/></entry>
+<entry>dzavua huitna : a esta hora <lb/></entry>
+<entry>dzavua ino huidzo sindi : obligado ser por profe-<lb/>sión el fraile <lb/></entry>
+<entry>dzavua itnaha iyo : manera o modo <lb/></entry>
+<entry>dzavua iyo : estado de cada cosa ; forma o manera ; <lb/>inclinación ; manera o modo <lb/></entry>
+<entry>dzavua iyo : soler (acostumbrar) <lb/></entry>
+<entry>dzavua iyo inindi : certificado estar, por cierto tener <lb/></entry>
+<entry>dzavua iyo ino sindi : obligado ser por profesión <lb/>el fraile <lb/></entry>
+<entry>dzavua iyo ndatu sindi : obligado ser por profesión <lb/>el fraile <lb/></entry>
+<entry>dzavua iyo ndudzu itnayta : comúnmente se <lb/>dice <lb/></entry>
+<entry>dzavua ndatundi : esta es mi suerte <lb/></entry>
+<entry>dzavua nicaa inindi : aficionado o aplicado natu-<lb/>ralmente ser una cosa más que otra <lb/></entry>
+<entry>dzavua nicacu : condición natural de alguno ; incli-<lb/>nación <lb/></entry>
+<entry>dzavua nicaye : medio quemado <lb/></entry>
+<entry>dzavua nicoo coo inindi : aficionado o aplicado <lb/>naturalmente ser una cosa más que otra <lb/></entry>
+<entry>dzavua nisa coho naha ñuhu sindi : obligado ser <lb/>por profesión el fraile <lb/></entry>
+<entry>dzavua nisa coho quevui sindi : obligado ser por <lb/>profesión el fraile <lb/></entry>
+<entry>dzavua nisa tnaha inindi : aficionado o aplicado <lb/>naturalmente ser una cosa más que otra <lb/></entry>
+<entry>dzavua nisini nitacundi : obligado ser por profe-<lb/>sión el fraile <lb/></entry>
+<entry>dzavua ñuhu indaandi : esta es mi suerte <lb/></entry>
+<entry>dzavua ñuu : a media noche <lb/></entry>
+<entry>dzavua quaha inindi : aficionado o aplicado natu-<lb/>ralmente ser una cosa más que otra <lb/></entry>
+<entry>dzavua quaha ino ndatundi : obligado ser por <lb/>profesión el fraile <lb/></entry>
+<entry>dzavua quaha ndudzu : así se usa <lb/></entry>
+<entry>dzavua quidzata sa naha : costumbre de pueblo <lb/></entry>
+<entry>dzavua saha tniño : acerca de aquel negocio <lb/></entry>
+<entry>dzavua tachi dzavua tnumi yosino saandi : correr <lb/>muy ligeramente <lb/></entry>
+<entry>dzavua tayee dzavua ñaha dzehe : así hombres <lb/>como mujeres <lb/></entry>
+<entry>dzavua tna iyoni : como quiera <lb/></entry>
+<entry>dzavua tnaha : así como ; como comparativo ; según <lb/>(adverbio) <lb/></entry>
+<entry>dzavua tnaha huitna : a esta hora <lb/></entry>
+<entry>dzavua tnaha iyo : estado de cada cosa <lb/></entry>
+<entry>dzavua tnaha iyo sa yonaha sa yonduvui le-<lb/>tra : forma de letra <lb/></entry>
+<entry>dzavua tnaha quevui pascua yoquidzandi, yo-<lb/>cuvui inindi, yotuvui sindi : hacer cuenta que <lb/>es pascua <lb/></entry>
+<entry>dzavua tnaha sa dzavuandi : correr muy ligera-<lb/>mente <lb/></entry>
+<entry>dzavua tnaha sinindo : de cualquiera manera que <lb/>lo hagas <lb/></entry>
+<entry>dzavua tnaha tecoo yee yavui : blanca cosa en gran <lb/>manera <lb/></entry>
+<entry>dzavua tnaha tiyee yavui : blanca cosa en gran <lb/>manera <lb/></entry>
+<entry>dzavua tnaha yocachi S.fee [Santa Fe] : acompa-<lb/>ñar con buenas obras la fe <lb/></entry>
+<entry>dzavua tnaha yocuvui misa : en tanto, o en tanto <lb/>que dicen misa <lb/></entry>
+<entry>dzavua tnaha yuvui cachi : blanca cosa en gran <lb/>manera <lb/></entry>
+<entry>dzavua tucu : también <lb/></entry>
+<entry>dzavua tucuca : sobre todo (precediendo plática) <lb/></entry>
+<entry>dzavua yocachita dzavua yosinita : así se dice o <lb/>se entiende <lb/></entry>
+<entry>dzavua yocuvui dzavuayu sa cuvui dzavuayu <lb/>iyo : acostumbrarse por usarse <lb/></entry>
+<entry>dzavua yocuvui nuu yaha : usarse entre algunos o <lb/>entre todos <lb/></entry>
+<entry>dzavua yocuvui ñuu sa naha : costumbre de <lb/>pueblo <lb/></entry>
+<entry>dzavua yonahata : así se dice o se entiende <lb/></entry>
+<entry>dzavua yonana : semejar o parecerse una cosa a <lb/>otra <lb/></entry>
+<entry>dzavua yoqni inindi : aficionado o aplicado natu-<lb/>ralmente ser una cosa más que otra <lb/></entry>
+<entry>dzavua yosahandita : doblar el precio <lb/></entry>
+<entry>dzavua yosico inindi : aficionado o aplicado natu-<lb/>ralmente ser una cosa más que otra <lb/></entry>
+<entry>dzavua yosii tnahata dzo ndehe dzavua yocaha-<lb/>ta : comúnmente se dice <lb/></entry>
+<entry>dzavua yotacusita : así se dice o se entiende <lb/></entry>
+<entry>dzavua yotusi inindi : aficionado o aplicado natu-<lb/>ralmente ser una cosa más que otra <lb/></entry>
+<entry>dzavua yotuvui : semejar o parecerse una cosa a <lb/>otra <lb/></entry>
+<entry>dzavua yotuvui sindi : parecerme o así me parece <lb/></entry>
+<entry>dzavua yu : certificado estar, por cierto tener <lb/></entry>
+<entry>dzavua yu : usarse entre algunos o entre todos <lb/></entry>
+<entry>dzavua yu caa : natural cosa <lb/></entry>
+<entry>dzavua yu caa ñuu yaha : usarse entre algunos o <lb/>entre todos <lb/></entry>
+<entry>dzavua yu caata : condición natural de alguno <lb/></entry>
+<entry>dzavua yu coo inindi : certificado estar, por cierto <lb/>tener <lb/></entry>
+<entry>dzavua yu iyo : así se usa <lb/></entry>
+<entry>dzavua yu iyo : usarse entre algunos o entre todos ; <lb/>estilo o costumbre de la tierra <lb/></entry>
+<entry>dzavua yu iyo inindi : creer o tener por cierto <lb/></entry>
+<entry>dzavua yu iyo sa naha : costumbre de pueblo <lb/></entry>
+<entry>dzavua yu iyota : condición natural de alguno <lb/></entry>
+<entry>dzavua yu nisiyo cadza : soler (acostumbrar) <lb/></entry>
+<entry>dzavua yu ndudzu yocahata : estilo de hablar <lb/></entry>
+<entry>dzavua yu nicacu : natura o naturaleza ; natural <lb/>cosa <lb/></entry>
+<entry>dzavua yu ñoho inindi : creer o tener por cierto <lb/></entry>
+<entry>dzavua yu sicaca / quaha : natura o naturaleza <lb/></entry>
+<entry>dzavua yu sicoo : natura o naturaleza <lb/></entry>
+<entry>dzavua yu yonahandi : certificado estar, por cierto <lb/>tener <lb/></entry>
+<entry>dzavua yu yoquidza : soler (acostumbrar) <lb/></entry>
+<entry>dzavua yu yosini ndisandi : tener por cierto <lb/></entry>
+<entry>dzavua yu yosino inindi : creer o tener por cierto <lb/></entry>
+<entry>dzavua yu yotuvui nuundi : tener por cierto <lb/></entry>
+<entry>dzavuaca : otro tanto <lb/></entry>
+<entry>dzavuaca yochidzondi sita tniño : doblar el tra-<lb/>bajo <lb/></entry>
+<entry>dzavuaca yodza ndohondita : doblar la pena y el <lb/>castigo <lb/></entry>
+<entry>dzavuaca yosaa chidzondi sita tniño : doblar el <lb/>trabajo <lb/></entry>
+<entry>dzavuacata : otros tantos <lb/></entry>
+<entry>dzavuani : abasta (adverbio) ; bien está, basta <lb/></entry>
+<entry>dzavuani iyo : propiamente <lb/></entry>
+<entry>dzavuata : entre algunos <lb/></entry>
+<entry>dzavuatna tnaha casi nicuvui ini : endurecerse, <lb/>obstinarse <lb/></entry>
+<entry>dzavuatna tnaha toto nicuvui ini : endurecerse, <lb/>obstinarse <lb/></entry>
+<entry>dzavuatna tnaha yuu casi nicuvui ini : endure-<lb/>cerse, obstinarse <lb/></entry>
+<entry>dzavuatna tnaha yuu nicuvui ini : endurecerse, <lb/>obstinarse <lb/></entry>
+<entry>dzavua yu yocahata : estilo de hablar <lb/></entry>
+<entry>dzavui : lluvia ; ídolo <lb/></entry>
+<entry>dzavui cama : aguacero grande ; lluvia grande <lb/></entry>
+<entry>dzavui huahi ñuhu : recaudo de iglesia <lb/></entry>
+<entry>dzavui iyo : llover mucho <lb/></entry>
+<entry>dzavui iyo nidzahui ñuu ñayevui : diluvio ge-<lb/>neral <lb/></entry>
+<entry>dzavui iyo nidzahui yucu siqui ninaa nindi-<lb/>yu : diluvio general <lb/></entry>
+<entry>dzavui nicani : morir de rayo <lb/></entry>
+<entry>dzavui nicani ñaha : rayo matar a alguno <lb/></entry>
+<entry>dzavui ña tacu caha : aguacero mayor que viene <lb/>con tempestad ; llover mucho <lb/></entry>
+<entry>dzavui ñeñe : lluvia con granizo <lb/></entry>
+<entry>dzavui ñuhu : aguacero mayor que viene con tem-<lb/>pestad ; lluvia grande <lb/></entry>
+<entry>dzavui ñuhu : ornamento sacerdotal <lb/></entry>
+<entry>dzavui ñuhu : recaudo de iglesia <lb/></entry>
+<entry>dzavui quachi : aguacero de agua menuda ; lluvia <lb/>menuda <lb/></entry>
+<entry>dzavui quivua : brazalete para bailar <lb/></entry>
+<entry>dzavui sa coho chiyo quivua yodzo cuii : braza-<lb/>lete para bailar <lb/></entry>
+<entry>dzavui tiyaa : aguacero de agua menuda ; llover agua <lb/>menuda ; lluvia menuda <lb/></entry>
+<entry>dzavui tniño dza chiyo quivua : brazalete para <lb/>bailar <lb/></entry>
+<entry>dzavui tnuni yuvui tayu : armas de ciudades <lb/></entry>
+<entry>dzavui toho : armas de linaje <lb/></entry>
+<entry>dzavui yahua : aguacero de agua menuda ; llover <lb/>agua menuda ; lluvia menuda <lb/></entry>
+<entry>dzavui yehe catne : aguacero mayor que viene con <lb/>tempestad ; aguacero grande <lb/></entry>
+<entry>dzavui yehe cayu : aguacero mayor que viene con <lb/>tempestad ; llover mucho <lb/></entry>
+<entry>dzavui yehe nehe : aguacero grande ; llover <lb/>mucho <lb/></entry>
+<entry>dzavui yucu nduta : armas de ciudades <lb/></entry>
+<entry>dzaya : hijo <lb/></entry>
+<entry>dzaya cadzandi : yerno <lb/></entry>
+<entry>dzaya cay : hijo único <lb/></entry>
+<entry>dzaya cayndi : entenado dice el varón a sus ente-<lb/>nados <lb/></entry>
+<entry>dzaya cuitendi : legítimo hijo <lb/></entry>
+<entry>dzaya cuvui uvui : hijo segundo <lb/></entry>
+<entry>dzaya dzaca : bastardo hijo ; hijo adulterino ; horne-<lb/>rizo, hijo de puta <lb/></entry>
+<entry>dzaya dzana : esclavo nacido en casa ; siervo nacido <lb/>en casa <lb/></entry>
+<entry>dzaya dzanandi ñani tnahandi : criado desde niño <lb/>en casa <lb/></entry>
+<entry>dzaya dzatnu : hijo postrero <lb/></entry>
+<entry>dzaya dzayu : hijos que nacieron en un mismo día <lb/>pero en diversos años <lb/></entry>
+</body>
+	</text>
+</tei>

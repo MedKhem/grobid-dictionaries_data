@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="form.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="form.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><form><orth>ORFÈVRE </orth></form><form><orth>ORGANE </orth></form><form><orth>ORGUEIL </orth></form><form><orth>ORIGINAIRE </orth></form><form><orth>ORIGINE </orth></form><form><orth>ORION </orth></form><form><orth>ORNEMENTS </orth></form><form><orth>ORNER </orth></form><form><orth>ORPHELIN </orth></form><form><orth>ORTEIL </orth></form><form><orth>ORTIE </orth></form><form><orth>ORYCTÉROPE </orth></form><form><orth>OS </orth></form><form><orth>OSCILLER </orth></form><form><orth>OSEILLE </orth></form><form><orth>OTAGE </orth></form><form><orth>ÔTER </orth></form><form><orth>OU </orth></form><form><orth>OÙ </orth></form><form><orth>OUBLIER </orth></form><form><orth>OUI </orth></form><form><orth>OUIE </orth></form><form><orth>OURAGAN </orth></form><form><orth>OUTIL </orth></form><form><orth>OUVERT </orth></form><form><orth>OUVERTURE <lb/></orth></form><form><orth>OUVRAGE </orth></form><form><orth>OUVRIER </orth></form><form><orth>OUVRIR </orth></form><form><orth>PACIFICATEUR </orth></form><form><orth>PADOUK </orth></form><form><orth>PAGAIE </orth></form><form><orth>PAGAYAGE </orth></form><form><orth>PAGAYER </orth></form><form><orth>PAGNE </orth></form><form><orth>PAIE </orth></form><form><orth>PAILLE </orth></form><form><orth>PAIN </orth></form><form><orth>PAIRE </orth></form><form><orth>PAISIBLE </orth></form><form><orth>PAIX </orth></form><form><orth>PALABRE </orth></form><form><orth>PALABRER </orth></form><form><orth>PALAIS </orth></form><form><orth>PÂLE </orth></form><form><orth>PALÉTUVIER </orth></form><form><orth>PALMERAIE </orth></form><form><orth>PALMIER </orth></form><form><orth>PALMURE </orth></form><form><orth>PALPITATION <lb/></orth></form><form><orth>PALPITER </orth></form><form><orth>PAN </orth></form><form><orth>PANARIS </orth></form><form><orth>PANIQUE </orth></form><form><orth>PANTALON </orth></form><form><orth>PAPA </orth></form><form><orth>PAPAYER </orth></form><form><orth>PAPEAU </orth></form></body>
+	</text>
+</tei>

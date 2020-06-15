@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dictionaryBodySegmentation.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="dictionaryBodySegmentation.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><entry>a a : a (del que halla a otro en maleficio) <lb/></entry>
+<entry>a a a : a (interiectio admirantis) <lb/></entry>
+<entry>a dzuchica añandaa : poco más o menos <lb/></entry>
+<entry>a dzuchica caa cuvui : poco más o menos <lb/></entry>
+<entry>a dzuchica coo cuvui : poco más o menos <lb/></entry>
+<entry>a hua dzevui : o no <lb/></entry>
+<entry>a hua dzevui dzavua : pues no <lb/></entry>
+<entry>a huihica añandaa : poco más o menos <lb/></entry>
+<entry>a huitnani : ahora poco <lb/></entry>
+<entry>a na ndehe cuvui ndatu nicay : o bienaventurado, <lb/>o dichoso <lb/></entry>
+<entry>a ñaha : o no ; pues no <lb/></entry>
+<entry>a sa dzevui : pues no <lb/></entry>
+<entry>a yoo : por ventura alguno <lb/></entry>
+<entry>a yoo ee ñahando : por ventura alguno de voso­ <lb/>tros <lb/></entry>
+<entry>aa : de manera que <lb/></entry>
+<entry>aa : ya, acordándoseme lo que se me había olvi­ <lb/>dado <lb/></entry>
+<entry>aa dzuhua huii : así, así (sonriéndose) <lb/></entry>
+<entry>aa ndica huii : ya (acordándoseme lo que se me <lb/>había olvidado) <lb/></entry>
+<entry>adzi : o (disyuntiva) ; por ventura ; quizás <lb/></entry>
+<entry>adzi : suave cosa <lb/></entry>
+<entry>adzi cuvui : o (disyuntiva) ; por ventura ; quizás <lb/></entry>
+<entry>adzi q cuvui : por ventura <lb/></entry>
+<entry>adzi yoo : por ventura alguno <lb/></entry>
+<entry>adzi yoo ee ñahando : por ventura alguno de vo­ <lb/>sotros <lb/></entry>
+<entry>ahua : ay, quejándose la mujer <lb/></entry>
+<entry>ama : así <lb/></entry>
+<entry>ama : bien está (otorgando) ; sí <lb/></entry>
+<entry>amana : ¿cuándo? (adverbio interrogativo), ¿en qué <lb/>tiempo? <lb/></entry>
+<entry>amana cuiya : en algún tiempo <lb/></entry>
+<entry>amana cuvui huatu inindo : cuandoquiera que <lb/>quisieres <lb/></entry>
+<entry>amana na ndita ñumana nuundo : ¿cuándo has <lb/>de despertar? <lb/></entry>
+<entry>amana na ndotondo : ¿cuándo has de despertar? <lb/></entry>
+<entry>amana na tahui inindo : ¿cuándo has de volver en <lb/>ti? ; ¿cuándo has de despertar? <lb/></entry>
+<entry>amana quevui : en algún tiempo <lb/></entry>
+<entry>amana quevui sa cuvui inindo : cuandoquiera <lb/>que quisieres <lb/></entry>
+<entry>amanaca : ¿cuándo, en qué tiempo? <lb/></entry>
+<entry>amani : de tarde en tarde o raras veces <lb/></entry>
+<entry>andaya : infierno, lugar de dañados <lb/></entry>
+<entry>andevui : cielo <lb/></entry>
+<entry>andevui isi ndaa tiñoo : cielo estrellado <lb/></entry>
+<entry>angel nicoo coo ndaa ndita ña : ángel de mi guarda <lb/></entry>
+<entry>angel yondaca ñaha : ángel de mi guarda <lb/></entry>
+<entry>aniñe : palacio <lb/></entry>
+<entry>anuhu : abismo ; centro de la tierra ; infierno, lugar <lb/>de dañados <lb/></entry>
+<entry>anuhu : profundo <lb/></entry>
+<entry>anuhu maa : profundo <lb/></entry>
+<entry>anuhu naa : infierno, lugar de dañados <lb/></entry>
+<entry>anuhu ndahui : infierno, lugar de dañados <lb/></entry>
+<entry>atana : ojalá <lb/></entry>
+<entry>atu : amarga cosa ; áspero al gusto <lb/></entry>
+<entry>aya : amarga cosa ; áspero al gusto <lb/></entry>
+<entry>ca chihi ca taa qhu : lo que está por venir <lb/></entry>
+<entry>ca chihi taa qhu : tiempo por venir <lb/></entry>
+<entry>ca nay : llevar alguna cosa (futuro) <lb/></entry>
+<entry>ca nayndo quesi : llevar alguna cosa (imperativo), <lb/>traerlo <lb/></entry>
+<entry>ca nayndo saha qhundo : llevar alguna cosa (im­ <lb/>perativo: llevarás esto) <lb/></entry>
+<entry>ca ndaa huatu dzoo : flocadura tener la manta <lb/></entry>
+<entry>ca ndaca qhu : lo que está por venir <lb/></entry>
+<entry>ca ndidzo ca tavui : lo que está por venir <lb/></entry>
+<entry>ca numi ca naha qhundo : presto (ir) <lb/></entry>
+<entry>ca numi ca nahando qhundo : ir presto <lb/></entry>
+<entry>ca siñu : anda (mandando) <lb/></entry>
+<entry>ca taa hui yuu : almádena <lb/></entry>
+<entry>ca tniño ca ndaca qhu : tiempo por venir <lb/></entry>
+<entry>ca tniño ca ndaca qhu : para siempre <lb/></entry>
+<entry>ca toto ca dzii a qhu : para siempre <lb/></entry>
+<entry>caa : hierro, metal <lb/></entry>
+<entry>caa : rellanada cosa <lb/></entry>
+<entry>caa ca tnoo ñuhu : candil <lb/></entry>
+<entry>caa caa nini : pestillo de cerradura <lb/></entry>
+<entry>caa caa sa ndavuate yocoo : volar hacia abajo <lb/></entry>
+<entry>caa caa yondavuate : volar hacia arriba <lb/></entry>
+<entry>caa campana dzuchi : esquilón <lb/></entry>
+<entry>caa campana iñe cani : esquilonada campana <lb/></entry>
+<entry>caa campana iñe yoo : esquilonada campana <lb/></entry>
+<entry>caa cana idzi : cardas ; peine de cardador <lb/></entry>
+<entry>caa canda maa : reloj <lb/></entry>
+<entry>caa canda yutnu : podadera <lb/></entry>
+<entry>caa casi : acero <lb/></entry>
+<entry>caa codzo : azuela <lb/></entry>
+<entry>caa codzonica : un poco más <lb/></entry>
+<entry>caa coho dzini : celada, armadura de la cabeza <lb/></entry>
+<entry>caa cono dza cuii ndayu : plana de albañir <lb/></entry>
+<entry>caa cono yocanindi : dar de llano con la espalda <lb/></entry>
+<entry>caa coyo : barrena <lb/></entry>
+<entry>caa cuhua : reloj <lb/></entry>
+<entry>caa cuina : ganzúa <lb/></entry>
+<entry>caa cuiñe inino mañu caa cuhua : fiel de balanza <lb/></entry>
+<entry>caa cuiñe ndodzo ite : candelero en que se pone la <lb/>candela <lb/></entry>
+<entry>caa cuta indii yavui : hebilleta <lb/></entry>
+<entry>caa cuta sa coho dzuq saha : argolla para el pie o <lb/>garganta <lb/></entry>
+<entry>caa cutu itu : reja para arar <lb/></entry>
+<entry>caa chidzo : martillo <lb/></entry>
+<entry>caa chihi cuhua : compás de hierro <lb/></entry>
+<entry>caa dza cay ndodzo tnee cavallo : pujavante <lb/></entry>
+<entry>caa dza cay nduta : jeringa para echar agua <lb/></entry>
+<entry>caa dza cay ñuhu : eslabón de pedernal <lb/></entry>
+<entry>caa dza ndaa yutnu : hoz podadera <lb/></entry>
+<entry>caa dza q cavua tnee cavallo : pujavante <lb/></entry>
+<entry>caa dzahui (quachita) : encubierto estar (defecto <lb/>de otro) <lb/></entry>
+<entry>caa dzanda yutnu : podadera <lb/></entry>
+<entry>caa dzavua yona taandi : contrahacer letra <lb/></entry>
+<entry>caa dzee : desparramado estar <lb/></entry>
+<entry>caa dzee yutnu : sierra de hierro <lb/></entry>
+<entry>caa dzico : pueblo rico <lb/></entry>
+<entry>caa dzinda : tenazas <lb/></entry>
+<entry>caa dziñe yocanindi : dar de agudo <lb/></entry>
+<entry>caa dziñendi, futuro cavua : echado estar de lado <lb/></entry>
+<entry>caa dzita ñuhu : azada o azadón ; badil de hierro <lb/></entry>
+<entry>caa dzuhu : ganzúa <lb/></entry>
+<entry>caa eeni : sencilla <lb/></entry>
+<entry>caa huadza tnuhu yocaha : dobla hablar <lb/></entry>
+<entry>caa huisi : ganzúa <lb/></entry>
+<entry>caa huisini : sencilla <lb/></entry>
+<entry>caa indii yavui : armella <lb/></entry>
+<entry>caa indita dziñe idzu : estribo de silla <lb/></entry>
+<entry>caa indodzo nuu nduvua : casquillo de saeta <lb/></entry>
+<entry>caa ini yotnaha tnuquu : jeringa <lb/></entry>
+<entry>caa inino ndaha : manopla <lb/></entry>
+<entry>caa na canda yutnu : hoz podadera <lb/></entry>
+<entry>caa na cuhua idzu caa : almohaza <lb/></entry>
+<entry>caa na qna : llave <lb/></entry>
+<entry>caa na tniño tnaha : corchete <lb/></entry>
+<entry>caa nacono nini sa yondiyu sa co ndadzi : cerrojo <lb/></entry>
+</body>
+	</text>
+</tei>

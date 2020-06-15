@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="subSense.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="subSense.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><subSense><def>ir por algo generalmente [futuro de yosa ca-<lb/>hindi] <lb/></def>
+</subSense><subSense><def>de cuando en cuando <lb/></def>
+</subSense><subSense><def>en fin</def>
+<pc>, </pc>
+<def>en conclusión <lb/></def>
+</subSense><subSense><def>columpiarse <lb/></def>
+</subSense><subSense><def>atabal de palo</def>, <def>teponaztle</def> <lb/>
+</subSense><subSense><def>4 <lb/></def>
+</subSense><subSense><def>elementos los cuatro <lb/></def>
+</subSense><subSense><def>cuatro tantos <lb/></def>
+</subSense><subSense><def>cuadra cosa <lb/></def>
+</subSense><subSense><def>anoche <lb/></def>
+</subSense><subSense><def>infieri <lb/></def>
+</subSense><subSense><def>ir a <lb/>llamar a alguno <lb/></def>
+</subSense><subSense><def>ir por algo <lb/>generalmente <lb/></def>
+</subSense><subSense><def>crecer el maíz cuando tiene hojas <lb/>grandes <lb/></def>
+</subSense><subSense><def>amaneciendo ir <lb/></def>
+</subSense><subSense><def>amaneciendo ir <lb/></def>
+</subSense><subSense><def>crecer </def>
+<pc>(</pc>
+<usg>el maíz</usg>) <def>cuando sale la <lb/>espiga</def> <lb/>
+</subSense><subSense><def>crecer </def>
+<pc>(</pc>
+<usg>el maíz</usg>
+<pc>) </pc>
+<def>cuando sale la es-<lb/>piga <lb/></def>
+</subSense><subSense><def>caer poco a poco</def>, <def>o irse cayendo</def> <lb/>
+</subSense><subSense><def>acostarse la pared</def>
+<pc>, </pc>
+<def>que pro-<lb/>mete ruina <lb/></def>
+</subSense><subSense><def>pasar como el tiempo </def>
+<pc>(</pc>
+<gramGrp>pretérito</gramGrp>
+<pc>) <lb/></pc>
+</subSense><subSense><def>a puesta de sol </def>
+<pc>(</pc>
+<usg>a las 5/6</usg>
+<pc>) <lb/></pc>
+</subSense><subSense><def>¿hacia dónde está Mé-<lb/>xico? <lb/></def>
+</subSense><subSense><def>pintar la fruta cuando empie-<lb/>za a madurar <lb/></def>
+</subSense><subSense><def>irse aumentando algo <lb/></def>
+</subSense><subSense><def>ir mejorando en la <lb/>enfermedad <lb/></def>
+</subSense><subSense><def>me-<lb/>jorar en enfermedad <lb/></def>
+</subSense><subSense><def>anochecer <lb/></def>
+</subSense><subSense><def>crecer el maíz cuando <lb/>tiene hojas grandes <lb/></def>
+</subSense><subSense><def>inclinarse pared <lb/></def>
+</subSense><subSense><def>por todas partes <lb/></def>
+</subSense><subSense><def>abrirse el entendimiento al niño <lb/>cuando empieza el uso de la razón <lb/></def>
+</subSense><subSense><def>anochecer <lb/></def>
+</subSense><subSense><def>abrirse el entendimiento al niño <lb/>cuando empieza el uso de la razón <lb/></def>
+</subSense><subSense><def>esclareciendo ir ya el día <lb/></def>
+</subSense><subSense><def>de día entre dos luces <lb/></def>
+</subSense><subSense><def>desfallecer desmayán-<lb/>dose <lb/></def>
+</subSense><subSense><def>desfallecer desmayán-<lb/>dose <lb/></def>
+</subSense><subSense><def>amarillecerse la fruta que comien-<lb/>za a madurar <lb/></def>
+</subSense><subSense><def>pintar la fruta cuando <lb/>empieza a madurar <lb/></def>
+</subSense><subSense><def>emplumecer el ave cuando <lb/>empieza a echar pluma <lb/></def>
+</subSense><subSense><def>anochecer <lb/></def>
+</subSense><subSense><def>pintar la fruta cuando empieza <lb/>a madurar <lb/></def>
+</subSense><subSense><def>pintar la fruta cuando empieza a <lb/>madurar <lb/></def>
+</subSense><subSense><def>allegarse</def>, <def>irse allegando </def><lb/>
+</subSense><subSense><def>llegarse el tiempo <lb/></def>
+</subSense><subSense><def>andar en un año <lb/>que se hizo tal cosa <lb/></def>
+</subSense><subSense><def>modorra</def>
+<pc>, </pc>
+<def>vigilia antes del <lb/>alba <lb/></def>
+</subSense><subSense><def>desfallecer desmayán-<lb/>dose <lb/></def>
+</subSense><subSense><def>refrescar la tarde <lb/></def>
+</subSense><subSense><def>emplumecer el ave que ha sido <lb/>pelada <lb/></def>
+</subSense><subSense><def>mejorar en enfermedad <lb/></def>
+</subSense></body>
+	</text>
+</tei>

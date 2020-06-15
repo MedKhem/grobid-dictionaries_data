@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="sense.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="sense.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><sense><subSense>Terme de botanique.Dont les feuilles ressem-<lb/>blent à celles du cyprès</subSense>
+</sense><sense><subSense>Terme de botanique. Qui ressemble au cyprès</subSense>
+</sense><sense><subSense>Terme de botanique. Qui ressemble au cyprès</subSense>
+<pc>. |] </pc>
+<subSense>S. <lb/>f. plur. Les cupressinées, tribu de conifères ayant <lb/>pour type le genre cyprès</subSense>
+</sense><sense><subSense>Nom donné à <lb/>des végétauxfossiles analogues au cyprès</subSense>
+</sense><sense><subSense>Terme d'en-<lb/>tomologie. Qui a le cou ou le corselet de couleur <lb/>cuivreuse</subSense>
+</sense><sense><subSense>Terme de <lb/>minéralogie. Famille qui renferme le cuivre</subSense>
+</sense><sense><subSense>Terme de miné-<lb/>ralogie. Qui renferme du cuivre. Minerai cuprifère</subSense>
+</sense><sense><subSense>Terme de <lb/>zoologie. Qui a les ailes ou les élytres couleur de <lb/>cuivre</subSense>
+</sense><sense><subSense>Terme de chimie. <lb/>Acide cuprique, acide métallique produit par la <lb/>transformationde l'oxyde de cuivre sous l'influence <lb/>de la potasse chlorée</subSense>
+</sense><sense><subSense>Terme de <lb/>zoologie. Qui a le bec ou la trompe couleurde cuivre</subSense>
+</sense><sense><subSense>Terme de chimie. Fulminate de cuivre</subSense>
+</sense><sense><subSense>Terme de <lb/>minéralogie. Oxyde de cuivre</subSense>
+</sense><sense><subSense>Terme d'histoire <lb/>naturelle. Qui a la forme d'une cupule</subSense>
+<pc>. || </pc>
+<subSense>Bractées <lb/>cupulaires, celles qui forment une cupule ovale et <lb/>membraneuse sous la baie</subSense>
+</sense><sense><subSense>Terme de botanique. <lb/>Assemblage de petites bractées, soudées entre elles <lb/>par la base, tormant une espèce de coupe ou godet <lb/>qui entoure les fleurs et persiste autour du fruit. Le <lb/>gland, la noisette, la fève, la châtaigne, se déve-<lb/>loppentdans une cupule</subSense>
+</sense><sense><subSense>Terme de <lb/>botanique. Qui est muni d'une cupule</subSense>
+</sense><sense><subSense>Terme de bo-<lb/>tanique. Qui porte une cupule</subSense>
+<pc>. || </pc>
+<subSense>S. f. plur. Les cu-<lb/>pulifères, famille de plantes distraites des amenta-<lb/>cées, dont le caractère essentiel consiste en ce que <lb/>chaque fleur femelle est recouverte, en partie ou en <lb/>totalité, par une cupule écailleuse</subSense>
+</sense><sense><subSense>Terme <lb/>de botanique. Qui a la forme d'une cupule</subSense>
+</sense><sense><subSense>Qualité de ce <lb/>qui est curable</subSense>
+</sense><sense><subSense>Qui peut être guéri. <lb/>Ce mal est curable</subSense>
+</sense><sense><subSense>Liqueur qui est <lb/>faite avec de l'eau-de-vie, de l'écorce d'oranges <lb/>amères et du sucre</subSense>
+</sense><sense><subSense>Terme de botanique. <lb/>Nom vulgaire du polygonum poivre d'eau, dont <lb/>la saveur est acre et brûlante, dit aussi poivred'eau, <lb/>persicaire acre, persicaire brûlante</subSense>
+</sense><sense><subSense>Métier du <lb/>curandier. Us se transporteront dans les blanchisse-<lb/>ries ou curanderies, à l'effet de vérifier si les toiles <lb/>que les blanchisseurs ou curandiers ont entre les <lb/>mains sont revêtuesdes marques prescrites,Instruc-<lb/>tion Necker, impr. du cabinet du roi, &amp;lt; 781</subSense>
+</sense><sense><subSense>Ancien nom <lb/>de ceux qui blanchissent les toiles. Les curandiers <lb/>ou blanchisseurs ne pourront recevoir aucunes piè-<lb/>ces de toiles qu'elles ne soient revêtues de la mar-<lb/>que, Lett. pat. 28 juin 4780, art. -H</subSense>
+</sense><sense><subSense>Poison avec lequelles <lb/>indigènes de l'Amérique méridionaleempoisonnent <lb/>leurs flèches et qui est d'une extrêmeénergie</subSense>
+</sense><sense><subSense>Terme de chimie. <lb/>Principe extrait du curare</subSense>
+</sense><sense><subSense>Terme de droit. <lb/>Charge de curateur. La curatelled'un mineur, d'une <lb/>succession vacante. Même ses parents, à ce que dit <lb/>M. Perrault, agirent pour obtenir qu'il fût mis en <lb/>curatelle, D'OLIVET, Hist. Acad. t. n, p. 4 94, dans <lb/>POUGENS</subSense>
+</sense><sense><subSense>i°Celui qui est <lb/>chargé d'assister un incapable, de régir des biens <lb/>par autorité de justice. Curateur d'un mineur éman-<lb/>cipé, d'un contumax, d'une succession vacante. <lb/>Établir, nommer un curateur</subSense>
+<pc>. || </pc>
+<subSense>Curateur au ventre, <lb/>celui que le conseil de famille nomme pour veiller <lb/>aux intérêts de l'enfant dont une_ femme est grosse <lb/>lors du décès de son mari</subSense>
+<pc>. || </pc>
+<subSense>Curateur au mort, cu-<lb/>rateur du mort, autrefoiscelui que le juge nommait <lb/>d'office pour défendre un homme accusé de s'être <lb/>donné la mort</subSense>
+<pc>. [| </pc>
+<subSense>Curateur à la mémoire, celui qui <lb/>est chargé de poursuivre la réhabilitation d'un con-<lb/>damné</subSense>
+<pc>. || </pc>
+<subSense>Fig. Il faudrait lui donner un curateur, se <lb/>dit d'un homme qui fait des dépenses excessives</subSense>
+</sense><sense><subSense>2°Membre du conseil d'une université en Hollande <lb/>et dans quelques pays du nord. Le succès de ses le-<lb/>çons [de Boerhave] fut tel que, sur un bruit qui <lb/>courut qu'il devait passer ailleurs, les curateurs de <lb/>l'université de Leyde lui augmentèrent considéra-<lb/>blement ses appointements,à condition qu'il ne les <lb/>quitterait point, FONTEN. Boerhave</subSense>
+</sense><sense><subSense>3°Terme d'his-<lb/>toire romaine. Officier municipalpréposé à diverses <lb/>fonctions de police ou d'administration</subSense>
+</sense><sense><subSense>Qui a rap-<lb/>port à la cure d'une maladie. Moyens curatifs. In-<lb/>dications curatives, celles qui font connaître le trai-<lb/>tement à employer. Traitement curatif, celui qui <lb/>est employé pour obtenir la guérison, par opposition <lb/>à traitementpréservatif</subSense>
+<pc>.|| </pc>
+<subSense>Substantivement,au mas-<lb/>culin. Employerles curatifs</subSense>
+</sense><sense><subSense>Terme de méde-<lb/>cine. Ensemble des moyens employés pour obtenir <lb/>la guérison d'une maladie</subSense>
+</sense><sense><subSense>Cellequi est char-<lb/>gée d'une curatelle. Elle est curatrice de son mari, <lb/>de ses enfants</subSense>
+</sense><sense><subSense>Terme <lb/>d'histoire naturelle. Les curculionides, la famille <lb/>des charançons</subSense>
+</sense><sense><subSense>Terme de botani-<lb/>que. Plante dont la racine est appelée dans le com-<lb/>merce safran des Indes et curcuma, dite terre-mé-<lb/>rite, quand elle est réduite en poudre, et donnant <lb/>une matière colorantejaune que les alcalis changent <lb/>en rouge de sang et qui dévient par là un réactif <lb/>chimique</subSense>
+</sense><sense><subSense>Terme de <lb/>chimie. Matière colorantejaune du curcuma. <lb/>t. CURE (ku-r'), s. f</subSense>
+<pc>. || </pc>
+<subSense>i°Soin, souci. Ce mot ne <lb/>se dit guère qu'avecle verbe arotr et sans article. Il <lb/>n'a cure de rien. L'âne, qui goûtait fort l'autre façon <lb/>d'aller, Se plaint en son patois; le meunier n'en a <lb/>cure, LA FONT. Fabl. in, 4. Les Biron le sucèrent <lb/>[Noyer] si parfaitementqu'il est mort sur un fumier, <lb/>sans que pas un d'eux en ait eu souci ni cure, ST-<lb/>SIM. 479,492. Sa femmelanguit et meurt; le mari <lb/>n'en a cure, et c'est là, dit-on, ce qui l'a tuée, p. <lb/>L. COUR. Lett. n,95</subSense>
+<pc>. || </pc>
+<subSense>Proverbes. On a beau prêcher <lb/>à qui n'a cure de bien faire, se dit de ceux qui n'ont <lb/>aucun soin de profiter des instructions qu'on leur <lb/>donne</subSense>
+<pc>. || </pc>
+<subSense>A beau parler qui n'a cure de bien faire, <lb/>les belles parolesde celui qui se conduit mal ne per-<lb/>suadent pas</subSense>
+</sense><sense><subSense>2°Terme de médecine. Traitement <lb/>d'une maladie, d'une blessure, qui en produitla gué-<lb/>rison. Il a entrepris cette cure. Cure difficile. Il en <lb/>fit prendre soin, la cure fut complète, CORN. Poly. <lb/>I, 4. Un médecin d'importance qui fait des cures <lb/>merveilleuses, MOL. Am. médecin, m, 4. S'il fait <lb/>cette cure, il ne sera pas mal à la cour, SÉV. 422. <lb/>Votre prieur a fait là une be.lle cure, ID. 444. Ce qui <lb/>arriva de cela [une saignée de pied], c'est que ma <lb/>difficulté de respirer ne diminua point, et que, le <lb/>lendemain, ayant marché mal à propos, le pied <lb/>m'enflade telle sorte que j'en fus trois semainesdans <lb/>le lit; c'est là toute la cure qu'il [Perrault le méde-<lb/>cin] m'a jamais faite, que je prie Dieu de lui par-<lb/>donner en l'autre .monde, BOIL. Longin, Subi, ré-<lb/>flex. I. Tous deux [ les médecins] s'étant trouvés <lb/>différents pour la cure, Leur malade paya le tribut à <lb/>nature, LA FONT. Fabl. v, 42. Par là, le plus dif-<lb/>ficile étant fait, il formait en lui-même le plan <lb/>de la cure et le suivait avec une constance iné-<lb/>branlable.... FONTEN. Chirac. Cette cure coûta à <lb/>M. Littre quatre mois de soins les plus assidus et <lb/>les plus fatigants, m. Éloges. Littre. Chaque mé-<lb/>decin [en Egypte], si l'on en croit Hérodote, se ren-<lb/>fermait dans la cure d'une seule espèce de mala-<lb/>die, les uns pour les yeux, d'autres pour les dents, <lb/>et ainsi du reste, ROLLIN, Hist. anc. OEuvres, t. i, <lb/>p. 94, dans POUGENS</subSense>
+<pc>. || </pc>
+<subSense>Cure radicale, celle qui con-<lb/>siste à faire disparaître complètement une affection <lb/>interne ou chirurgicale. Cure palliative, celle qui <lb/>ne fait qu'enlever quelques-uns des symptômes <lb/>d'une maladie et qui en laisse subsister le fond. <lb/>Il Cure d'eaux minérales, cure de bainsde mer, sai-<lb/>I son passée aux eaux, afin d'enfaire un emploi mé-<lb/>thodique pour un but déterminé</subSense>
+<pc>. [| </pc>
+<subSense>On dit de même: <lb/>cure de petit-lait, cure de raisin, usage du petit-<lb/>lait, du raisin pendant un certain tempset en grande <lb/>quantitéchaquejour</subSense>
+</sense><sense><subSense>3" Termede fauconnerie.Pe-<lb/>loton de chanvre, de coton ou de plume qu'on fait <lb/>avaler à un oiseau de chasse pour dessécher son <lb/>flegme, tes oiseauxseportent mieux quand ils ont <lb/>rendu leur curé. Ce faucon tient sa cure. Armerles <lb/>curés, les préparer pour les faire </subSense>
+<pc>avaler || </pc>
+<subSense>Se dit aussi <lb/>desexcrémentsdes oiseauxde proie</subSense>
+<pc>. || </pc>
+<subSense>4°Revêtement <lb/>des moules à laiton avec de la bouse de vache</subSense>
+</sense><sense><subSense>1" Terme du culte catho-<lb/>lique. Anciennementbénéfice, aujourd'hui charge <lb/>ecclésiastiquedont le titulaire a soin de la conduite <lb/>des âmes dans une certaine étendue de pays qu'on <lb/>nomme une paroisse. Si j'avais quelque pauvre <lb/>cure de bonnes gens à desservir, j. i. ROUSS. Ém. <lb/>iv</subSense>
+<pc>. || </pc>
+<subSense>Dans le langage ordinaire, cure signifie aussi <lb/>succursale</subSense>
+</sense><sense><subSense>2°Le presbytère, l'habitation du curé. <lb/>Aller à là cure</subSense>
+</sense><sense><subSense>1°Prêtre placé à la tête <lb/>d'une paroisse, et soumisdansl'exercicede ses fonc-<lb/>tions à l'évêque du diocèse. On ne peut pas faire <lb/>une loi qui obligeât les curés à dire la messe, <lb/>PASC. Prov. 6. Ce que je trouvai de plus ferme a <lb/>Paris dans la consternation, furent les curés; ils <lb/>travaillèrent dans ces sept ou huit jours-là parmi <lb/>le peuple avec un zèle incroyable, RETZ, Uém. liv. <lb/>m, p. 405, dans POUGENS. Feu M. le duc de Bour-<lb/>gogne avait la plus grande estime pour les curés <lb/>de Paris ; il était persuadé qu'il fallait leur faire l'ac-<lb/>cueil le plus favorable à la cour, et leur accorder, <lb/>autant qu'il était possible,les petites grâces qu'ils <lb/>demandaient pour des familles; SAINT-FOIX, ESS. <lb/>Paris, OEuvres, t. iv, p. 244, dans POUGENS. Mon <lb/>bon ami, je ne trouve rien de si beau que d'ê-<lb/>tre curé; un bon curé est un ministre de bonté, <lb/>comme un bon magistratest un ministrede justice, <lb/>j. J. ROUSS. Ém. IV-De bons curés seront, quand <lb/>on le voudra bien, dans lesvilles et dans les campa-' <lb/>gnes, des missionnairesperpétuels, et de plus des <lb/>arbitres, des conciliateurs, de fidèles dépositaires <lb/>de la confiance des familles, des liens de concorde, <lb/>de zélés surveillants de la tranquillité publique, <lb/>MARMONT. Élém. litt. t. vi, p. 70, dans POUGENS. Le <lb/>curé ne doit connaître ni saisons, ni distance, ni <lb/>contagion, ni soleil, ni neige, s'il s'agit de porter <lb/>l'huile au blessé, le pardon au coupable, ou son <lb/>Dieu au mourant, LAMART. dans le Dict. de DOCHEZ. <lb/>Coupable ou malheureux, vous n'avez rien à taire; <lb/>Pardonner, soulager, c'est tout mon ministère; Je <lb/>suis l'oeil et la main et l'oreille de Dieu, Sa provi-<lb/>denceà tous, le curé de ce lieu, ID. ib. Un mort s'en <lb/>allait tristement S'emparer de son dernier gtte; Un <lb/>curé s'en allait gaiement Enterrer ce mort au plus <lb/>vite, LA FONT. Fabl. vu, 4 1</subSense>
+<pc>. || </pc>
+<subSense>Spécialement, en <lb/>termes d'administration, le curé d'une église pa-<lb/>roissiale, par opposition à la succursale</subSense>
+<pc>. || </pc>
+<subSense>Dans le <lb/>langage ordinaire, par politesse, on donne le nom <lb/>de curé au simple succursaliste</subSense>
+<pc>. || </pc>
+<subSense>Familièrement. <lb/>G'est Gros-Jean qui remontre à son curé, se dit <lb/>d'un ignorant qui prétend conseiller un plus habile <lb/>que lui</subSense>
+<pc>. || </pc>
+<subSense>Curé primitif, titre porté par certaines <lb/>communautésrégulières qui avaient jadis possédé <lb/>des cures et qui en avaient gardé quelques droits</subSense>
+<pc>. <lb/>|| </pc>
+<subSense>Monsieur le curé n'aime pas les os, que lui don-<lb/>nez-vous à manger? Jeu d'enfants ou attrape fon-<lb/>dée sur l'homophonied'os et de la voyelle o. Il faut <lb/>répondre par un mot dans le nom duquel la voyelle <lb/>o n'entre pas : des navets, du veau, un canard, etc. <lb/>Mais si l'on dit des carottes, des abricots, etc. on <lb/>donne ungage</subSense>
+</sense><sense><subSense>2°Morceau de chapeaudont le cou-<lb/>telier se sert pour tenir les pointesdes pièces sur le <lb/>pdlissoir</subSense>
+</sense><sense><subSense>3" Variété de tulipe d'un gris de lin fort <lb/>pâle</subSense>
+<pc>. || </pc>
+<subSense>Proverbes.Il faut faire carême-prenant avec <lb/>sa femme et Pâques avec son curé</subSense>
+<pc>. || </pc>
+<subSense>Vous allez trop <lb/>vite à l'offrande, vous ferez choir M. le curé, se dit <lb/>à ceux qui s'empressent trop de faire quelque chose</subSense>
+<pc>. <lb/>|| </pc>
+<subSense>Il a affaire au curé et aux paroissiens, se dit de <lb/>celui qui a affaire à plusieurspartiesensemble</subSense>
+<pc>. || </pc>
+<subSense>Qui <lb/>croit sa femme et son curé est en danger d'être <lb/>damné, c'est-à-dire une femme est capable de faire <lb/>damner un homme nonobstant les bonnes instruc-<lb/>tions de son curé</subSense>
+</sense><sense><subSense>Instrument du tondeur <lb/>de draps</subSense>
+</sense><sense><subSense>Instrument étroit <lb/>et pointu dont on se sert pour ôter des dents ce qui <lb/>s'y est engagé</subSense>
+<pc>. || </pc>
+<subSense>Cure-dent d'Espagne,sorte de ca-<lb/>rottes</subSense>
+<pc>. || </pc>
+<subSense>Au plur. Des cure-dents</subSense>
+</sense><sense><subSense>1°Terme de vénerie.Por-<lb/>tion de la bête que l'on donne aux chiensaprès qu'elle <lb/>est prise. Curée chaude, morceau de la bête qu'on <lb/>donne aux chiens aussitôt qu'ils l'ont prise. Curée <lb/>froide, celle qu'on leur prépare ailleurs et qui se <lb/>fait de morceaux de pain trempés au sang de la bête, <lb/>qu'on met sur sa peau avec quelques morceaux de <lb/>chair tels que la cervelle et le col. Témoin les chiens <lb/>dont on anime le courage pour la chasse d'un ani-<lb/>mal en leur donnant curée, BOSS. Conn. de Dieu, <lb/>v, 4</subSense>
+<pc>. || </pc>
+<subSense>Sonnerla curée, sonner du cor pour appeler <lb/>les chiens à la curée. L'âme plus altéréeQue ne l'au-<lb/>rait un chien au son de la curée, RÉGNIER, Sot. x</subSense>
+<pc>. <lb/>|| </pc>
+<subSense>Mettre les chiens en curée, augmenter leur ardeur <lb/>par la curée qu'on leur donne. On dit aussi que les <lb/>chiens sont en curée, quand ils sont animés par <lb/>l'attente de la curée</subSense>
+<pc>. || </pc>
+<subSense>Fig. Mettre en curée, exciter <lb/>par l'appât de quelque avantage ; être en curée, être <lb/>excité par quelque appât. M. le duc, en curée de <lb/>l'usurpationdu service seul de la communiondu roi, <lb/>ST-SIM. 489, 26</subSense>
+<pc>. || </pc>
+<subSense>Faire curée, se dit des chiens qui <lb/>dévorent la bête avant l'arrivée du veneur. II tombe <lb/>en ce moment, La meute en fait curée; il lui fut inu-<lb/>tile De pleurer aux veneurs à sa mort arrivés, LA <lb/>FONT. Fabl. v, 4 5</subSense>. |j <subSense>Fig. Et ce sont vrais Satans <lb/>dont la gueule altérée De l'honneur féminincherche <lb/>à faire curée, MOL. ÉC. des f. m, 4</subSense>
+<pc>. || </pc>
+<subSense>Défendre la <lb/>curée, empêcher à coups de fouet que les chiens <lb/>n'approchent trop tôt de la curée</subSense>
+</sense><sense><subSense>2°Par extension, <lb/>toute espèce de pitance. Ehl qu'importe quel ani-<lb/>mal? Dit l'un de ces mâtins, voilà toujours curée, <lb/>LA FONT. Fabl. vm, 25. [La grenouille] Prétend <lb/>qu'elle en fera gorge chaude et curée, ID. Fabl. <lb/>iv, 4 4. [le Sénat] Dont plus de la moitié piteuse-<lb/>ment étale Une indigne curée aux vautours de Phar-<lb/>sale, CORN. Pomp. I, 4</subSense>
+<pc>. || </pc>
+<subSense>Fig. Pour recueillir les <lb/>restes de Moscou, dont l'incendie n'a que trop légi-<lb/>timé le pillage, et pour arracherles soldatsà cette <lb/>grande curée, SÉGUR, Hist. de Napol. vui, 7. Cette <lb/>convoitise des offices et états (curée autrefois réser-<lb/>vée aux nobles limiers) est devenueplus âpre depuis <lb/>que tous y peuvent prétendre, p. L. COUR, I, 468</subSense>
+<pc>. <lb/>|| </pc>
+<subSense>Être âpre à la curée, être très-avide de butin, de <lb/>lucre. Le ministre se mit à rire en me voyant si <lb/>âpre à la curée, LESAGE, Gil Bios, nu, 9</subSense>
+<pc>. || </pc>
+<subSense>Curée <lb/>des places, la poursuitedes places, particulièrement <lb/>après un changement de régime qui fait beaucoup <lb/>de vacances. La curée quisuivit larévolutionde 4 830. <lb/>La Curée, titre d'une pièce des ïambes de BARBIER</subSense>
+</sense><sense><subSense>Instrument pour <lb/>ôter le mâchefer du fourneau</subSense>
+<pc>. || </pc>
+<subSense>Au plur. Des cure-<lb/>feux</subSense>
+</sense><sense><subSense>Lame <lb/>d'ivoire, d'écaillé, de corne, dont on se sert pour <lb/>racler la langue</subSense>
+<pc>. || </pc>
+<subSense>Au plur. Des cure-langues</subSense>
+</sense><sense><subSense>Action de curer <lb/>les puits, les fossés, etc</subSense>
+</sense><sense><subSense>Machine ser-<lb/>vant à curer un port</subSense>
+<pc>. \\ </pc>
+<subSense>Au plur. Des cure-môles</subSense>
+</sense><sense><subSense>Petit instrumentdont on se sert pour se nettoyer <lb/>les oreilles</subSense>
+<pc>. || </pc>
+<subSense>Au plur. Des cure-oreilles</subSense>
+</sense><sense>I<subSense>nstrument de <lb/>palefrenier pour nettoyer le dedans du pied des <lb/>chevaux</subSense>. \\<subSense>Ati plur. Des cure-pieds</subSense>
+</sense><sense><subSense>l°Enlever des immondices <lb/>accumulées. Curer un puits, un fossé, un port</subSense>
+<pc>. <lb/>|| </pc>
+<subSense>Curer la charrue, la débarrasser de la terre qui <lb/>s'y attache</subSense>
+<pc>. || </pc>
+<subSense>Curer une vigne en pied, ôter du cep <lb/>des vignes tout le bois inutile</subSense>
+<pc>. || </pc>
+<subSense>Se curer les dents, <lb/>les oreilles, se nettoyer les dents, les oreilles avec <lb/>lin cure-dent, un cure-oreille</subSense>
+<pc>. || </pc>
+<subSense>Terme d'eaux et <lb/>forêts. Enlever les branches mortes, les chicots, les <lb/>souches mal venues</subSense>
+</sense><sense><subSense>2°Terme de fauconnerie. <lb/>Donner une cure à un oiseau</subSense>
+<pc>. || </pc>
+<subSense>Y. n. Rendrela cure, <lb/>en parlant de l'oiseau. Le faucon a curé</subSense>
+</sense><sense><subSense>Peau de buffle ou d'autre <lb/>animal servant, dans la dorure de quelque pièce, à <lb/>frotterles pierres sanguines avec de la potéed'étain</subSense>
+</sense><sense><subSense>Terme d'antiquité. <lb/>Prêtre de Cybèle</subSense>
+</sense><sense><subSense>Terme de chirurgie. <lb/>Instrument, en forme de cuiller, qui sert à extraire <lb/>les corps étrangers,etparticulièrement de petits cal-<lb/>culs de la vessie, après l'opération de la taille</subSense>
+<pc>. <lb/>|| </pc>
+<subSense>Terme de couverturier. Petit instrument qui a un <lb/>manchede bois et des dents de fer, dont on se sert <lb/>pour curer les chardons qui sont remplis de laine</subSense>
+<pc>. <lb/>|| </pc>
+<subSense>Terme de marine. Sortede gratte servantànettoyer <lb/>l'intérieurdes pompes</subSense>
+<pc>. || </pc>
+<subSense>Terme de métiers. Instru-<lb/>ment pour nettoyer un trou de mine</subSense>
+<pc>. || </pc>
+<subSense>Outil pour <lb/>nettoyer le coutre de la charrue</subSense>
+<pc>. || </pc>
+<subSense>Outil de bois pro-<lb/>pre à nettoyer le métal des armes</subSense>
+<pc>. || </pc>
+<subSense>Terme de bota-<lb/>nique. Nom de plusieurs champignons</subSense>
+</sense><sense><subSense>Celui qui cure et net-<lb/>toie les puits, etc</subSense>
+</sense><sense><subSense>Qui concerne <lb/>une cure ecclésiastique. Fonctioncuriale.Droits cu-<lb/>riaux. La maison curiale, le presbytère</subSense>
+</sense><sense><subSense>Terme d'histoire <lb/>romaine. Membre de la classeappelée aux honneurs <lb/>et aux charges des cités sous l'Empire. La seconde <lb/>classe des citoyens était celle des curiales ou dé-<lb/>curions, c'est-à-dire des propriétaires aisés, mem-<lb/>bres, non du sénat romain, maisde la curie ou corps <lb/>municipal de leur cité, GUIZOT, Hist. de la civilis. <lb/>en France, 2°l eçon. Aucun curiale ne pouvait, par <lb/>un acte personnel et volontaire, sortir de sa con-<lb/>dition; il leur était interdit d'habiter la campagne, <lb/>d'entrer dans l'armée, d'occuperdes emplois qui les <lb/>auraient affranchisdes fonctionsmunicipales,avant <lb/>d'avoir passé par toutes ces fonctions, depuis celle <lb/>de simple membre de la curie jusqu'aux premières <lb/>magistratures delà cité, ID. ib. Les curiales ainsi en-<lb/>fermés de gré ou de force dans la curie, ID. ib. Ils <lb/>administraientlesatfaires du municipe, ses dépenses <lb/>et ses revenus, soit en en délibérant dans la curie, <lb/>soit en occupant les magistratures municipales;dans <lb/>cette double situation, les curiales répondaient non-<lb/>seulement de leur gestion individuelle, mais des <lb/>besoins de la ville, auxquels ils étaient tenus de <lb/>pourvoir eux-mêmes, en cas d'insuffisancedes re-<lb/>venus, ID. ib</subSense>
+</sense><sense><subSense>Terme d'histoire ro-<lb/>maine. Qui se compose de la réunion des curies.Co-<lb/>mices curiates</subSense>
+<pc>. || </pc>
+<subSense>Qui est voté par les curies assem-<lb/>blées. Loi curiate</subSense>
+</sense><sense><subSense>i°Terme d'antiquité ro-<lb/>maine. Division de la tribu chez les Romains. Ro-<lb/>mulus partagea le-peuple romain en trois tribus, et <lb/>chaquetribu en dix curies; mais il n'y avait de cu-<lb/>ries que pour le peuple de l'enceinte de Rome ; et <lb/>voter par curies, c'était voter en appelantseulement <lb/>au vote les gens de la ville. Le peuple chercha tou-<lb/>jours à faire par curies les assemblées qu'on avait <lb/>coutume de faire par centuries, et à faire par tribus <lb/>les assemblées qui se faisaient par curies, MONTESQ. <lb/>Esp. xi, 14</subSense>
+<pc>. || </pc>
+<subSense>Comices par curie, l'assemblée des <lb/>patriciens,AMPÈRE,Hist. rom. àRome, t. n, p. 332. <lb/>Les curies n'étaient composées que de gentes [ fa-<lb/>milles] patriciennes; elles se rassemblaientdans le <lb/>Comitium ,ïn. ib. Chaque curie avait une voix qui ex-<lb/>primait l'opinion de la majorité de ses membres, <lb/>ID. ib</subSense>
+<pc>. || </pc>
+<subSense>Le lieu où s'assemblaitle sénat</subSense>
+</sense><sense><subSense>2°Par ex-<lb/>tension, le sénat des villes municipales</subSense>
+<pc>.|| </pc>
+<subSense>La classe <lb/>des curiales</subSense>
+</sense><sense><subSense>3°Ensembledes diversesadministra-<lb/>tions qui constituent le gouvernement papal</subSense>
+</sense><sense><subSense>i°Avec <lb/>soin. Aussi bien, que sert-ilde regretter des plaisirs <lb/>absents et de chercher curieusement tous les défauts <lb/>de sa condition? BALZ. Liv. vu, lett. 26. Les Egyp-<lb/>tiens conservaient curieusement les corps morts, <lb/>BOSS. Hist. m, 3. Un autre décrit curieusement et <lb/>fort au long les petites choses, et passe légèrement <lb/>sur les grandes, RAC. Extrait du Traité de Lucien : <lb/>Comment il faut écrire l'histoire. Ceux de ses audi-<lb/>teurs qui auraient le mieuxentendu finesse, auraient <lb/>jugé, non sans fondement, que cette manière de <lb/>s'exprimer, si curieusementéloignée de la forme or-<lb/>dinaire, renfermait implicitement un trait de satire <lb/>trop aiguisé pour être senti par la multitude, D'A-<lb/>LEMB. OEuvres,-t.x, p. 120, note 3, dans POUGENS</subSense>
+<pc>. <lb/>|| </pc>
+<subSense>Avec soin et délicatesse. Tablette curieusement <lb/>sculptée</subSense>
+</sense><sense><subSense>2°Avec curiosité, avec désirde voir et de <lb/>savoir. Observer, s'enquérircurieusement</subSense>
+</sense><sense><subSense>||l°Quia <lb/>cure de, soin de, soucide. Il est vrai que Platon, cu-<lb/>rieux observateurdes antiquités, fait le royaume de <lb/>Troie, du temps de Priant, une dépendancede l'em-<lb/>pire des Assyriens, BOSS. Hist. m, 4. On peut croire <lb/>que les Assyriensétaient peu connus du côté de l'Oc-<lb/>cident, puisqu'un poète [Homère] si savant et si cu-<lb/>rieux d'orner son poème de tout ce qui appartenaità <lb/>son sujet, ne les y fait point paraître, m. ib. Ceux qui <lb/>connaissenttant soit peu les antiquités savent combien <lb/>les premiers temps étaient curieux d'ériger et de <lb/>conserver de tels monumentset combienla postérité <lb/>retenait soigneusementles occasions qui les avaient <lb/>fait dresser, m. ib.n, 3. Peu curieuxà bien remarquer <lb/>ce qui paraît, maisprofondà pénétrer ce qui se cache, <lb/>ST-ÉVREM. u, 451. Elle n'estcurieuse que d'une pro-<lb/>preté fort simple, MOL. l'Av. u, 6. Et le cheval qu'à <lb/>l'herbe on avait mis, Assez peu curieux de sembla-<lb/>bles amis [le loup et le renard].... LA FONT. Fabl. <lb/>xn, 17. Il y a des âmes sales, pétries de boue et <lb/>d'ordure, éprisesdu gain et de l'intérêt, comme les <lb/>belles âmes le sont de la gloire et de la vertu ; cu-<lb/>rieuses et avides du denier dix ; uniquement occu-<lb/>pées de leurs débiteurs.... LA BRUY. VI. Les moeurs <lb/>dans cet âge [l'enfance] sont assez les mêmes, et ce <lb/>n'estqu'avec une curieuse attention qu'on en pénè-<lb/>tre la différence, ID. XI. Il semblesouvent que nous <lb/>soyons plus curieux de montrer que nous savons <lb/>beaucoup de choses, que de faire voir que noussa-<lb/>vons bien celles que nous traitons, CONDILLAC, Art <lb/>d'écr. iv, l</subSense>
+<pc>. || </pc>
+<subSense>En parlant des choses. [Il] Examine <lb/>d'un oeil et d'un soin curieuxOù les vagues rendront <lb/>ce dépôt précieux, CORN. Pomp. n, 2. C'est les exa-<lb/>miner d'un soin trop curieux, ROTR. Vencesl. iv, 1. <lb/>Vous voulez qu'on évite un soin trop curieux, Et <lb/>des vains ornements l'effort ambitieux, LA FONT. <lb/>Fabl. v, l. Une espèce de miséricorde inquiète et <lb/>curieuse, qui songe à tous les maux qu'on peut souf-<lb/>frir, FLÊCH. m, 380</subSense>
+</sense><sense><subSense>2" Qui est désireuxde voir et <lb/>de savoir. Je suis curieux de voir la fin de cetteaf-<lb/>faire <lb/>Si Votre Majesté Est curieuse de beauté, <lb/>Qu'ellefasse venir mon frère, LA FONT. Joe. NOS sol-<lb/>dats furent curieux de voir le pays, FÉN. Tél. x. <lb/>Curieux, incertains, quelle fortune aurait co <lb/>un grand roi, une grande reine, LA BRUY. Dis. à <lb/>l'Acad. Les astrologues n'avaient garde de recher-<lb/>cher une précision qui aurait rendu leur art impra-<lb/>ticable ; et ceux qui les consultaieut, curieux qu'on <lb/>leur dit l'avenir, étaient contents, pourvu qu'on leur <lb/>prédit quelque chose, CONDIU.AC, Traité des sys. <lb/>ch. 5</subSense>
+<pc>. || </pc>
+<subSense>Absolument. Vous êtes curieuse et voulez <lb/>trop savoir, CORN. Héracl. n, 8. Elle bénit mille <lb/>fois le défaut du sexe, se sut très-bon gré d'être <lb/>curieuse, bien fâchée de n'avoir pas contrevenu dès <lb/>le premier jour aux défenses qu'on lui avait faites <lb/>et à ses serments, LA FONT. Psyché, I, p. 85. Elle <lb/>était femme et, partant, curieuse ; L'oeil toujours sur <lb/>sa boite, on la voit soucieuse, LAMOTTE, Fabl. iv, 7. <lb/>Les hommes sont toujours curieux, toujours portés <lb/>naturellement à rechercher la cause de ce qu'ils <lb/>voient; j'entends les hommes qui ont un peu plus <lb/>de génie que les autres, FONTEN. Sur l'histoire, <lb/>OEuvres, t. ix, p. 353, dans POUGENS</subSense>
+<pc>. || </pc>
+<subSense>En parlant <lb/>des choses. Ah ! que vous enflammez mon désir cu-<lb/>rieux! RAC. Esth.'n, 7. Déchirera son sein et d'un <lb/>oeil curieux Dans son coeur palpitant consulterales <lb/>'dieux, m. Iphig. iv, 4. Et sa fuite a trompé mon <lb/>désir curieux, MOL. Sgan. v. Télémaque lui fit di-<lb/>verses questions curieuses,FÉN. Tél. vin. Sans cesse <lb/>je vous suis d'un regard curieux, c. DELAV. Vêpres <lb/>sicil. i, 4</subSense>
+</sense><sense><subSense>3°.Indiscret, qui cherche à pénétrer ce <lb/>qui ne le regarde pas. Ne soyez pas si curieux que <lb/>de fouiller dans mes papiers</subSense>
+<pc>. || </pc>
+<subSense>Eu bonne part. C'est <lb/>un hommecurieux, qui ne néglige aucune occasion <lb/>de s'instruire. Il n'y a qu'à répondre qu'ils n'ont <lb/>point connu cette partie de l'histoire et qu'ils ne <lb/>sont pas moins contraires aux plus curieux et aux <lb/>mieux instruits des auteurs de leur nation qu'à l'E-<lb/>criture, BOSS. Hist. 1,7. La secte des philosophes <lb/>italiques et celle des ioniques la remplissaient [la <lb/>Grèce] de grands hommes, parmi lesquels il se mêla <lb/>beaucoup d'extravagants,à qui la Grèce curieuse ne <lb/>laissa pas de donner le nom de philosophes, ID. <lb/>Hist. i,8. On n'est curieux qu'à proportionqu'on <lb/>est instruit, J. j. HODSS. Ém. v. ||4°Qui recherche, <lb/>rassemble des objets rares, précieux. 11 est curieux <lb/>de tableaux, de vieuxlivres</subSense>
+<pc>. || </pc>
+<subSense>5°Digne de curiosité. <lb/>Travail curieux. Un livre curieux.L'aventure est cu-<lb/>rieuse. Voilà qui est curieux. 11 faut sur des sujets <lb/>plus grands, plus curieux, Attacher de ce pas ton <lb/>esprit et tes yeux, BOIL. Sat. x. Valentin Conrart, <lb/>premier secrétaire de l'Académiefrançaise, n'avait <lb/>point fait d'études; c'est ce que nous apprend un <lb/>passage curieux de l'histoirede l'Académie par l'abhé <lb/>d'Olivet, D'ALEMB-. Éloges, Marivaux. On peut voir, <lb/>dans les oeuvres de Fontenelle, une lettre curieuse <lb/>de ce philosophe sur cet opéra de Bellérophon, qui <lb/>n'était pas de cet inimitable poète lyrique [Qui-<lb/>nault] et qui était presque digne d'en être, ID. Élo-<lb/>ges, Lamotte. La nature a mille détails qui seraient <lb/>vrais, qui rendraient même l'imitation plus vrai-<lb/>semblable et qu'il faut pourtant éloigner, parce <lb/>qu'ils manquent d'agrément ou d'intérêt ou de dé-<lb/>cence, et que nous cherchons, au théâtre et dans <lb/>l'imitation poétique en général, une nature exquise, <lb/>curieuse et intéressante, MARMONT. Élém. litlér. <lb/>OEuvres, t. vm, p. as, dans POUGENS</subSense>
+<pc>. || </pc>
+<subSense>Sciences <lb/>curieuses, se disait de celles qui, étant connues de <lb/>peu de personnes, avaient des secrets particuliers</subSense>
+<pc>. <lb/>|| </pc>
+<subSense>Bête curieuse, animal rare et qui excite la curio-<lb/>sité; et fig. et familièrement, personne qu'on veut <lb/>voir comme une bête de ce genre. Ils en auraient <lb/>savamment parlé dans de belles relations, comme <lb/>d'une hête fort curieuse qui ressemblait assez à <lb/>l'homme, J. :. ROUSS. Inèg. note \</subSense>
+</sense><sense><subSense>6°S. m. Ce qu'il <lb/>y a de remarquable, de digne de curiosité. Le cu-<lb/>rieux de l'affaire est que...</subSense>
+<pc>. || </pc>
+<subSense>1°Celui, celle qui a <lb/>de la curiosité."C'est un curieux. 11 faut punir cette <lb/>petite curieuse. Le sens de sa parole [de Dieu] est <lb/>souvent si sublime Et si mystérieux, Qu'à trop l'ap-<lb/>profondir il égare, il abîme L'esprit du curieux, <lb/>CORN. Imit. i, 5. Rien n'échappe aux regards de <lb/>notre curieuse, BOIL. Sat. x. Un curieux, qui s'ap-<lb/>procha de trop près du lieu où nous étions enfer-<lb/>mées, reçut un coup mortel qui lui ôta pour jamais <lb/>la lumièredu jour, MONTESQ. Lettr.pers.47</subSense>
+<pc>.|| </pc>
+<subSense>8°Ama-<lb/>teur de curiosités. Le cabinetd'un curieux. J'ai reçu, <lb/>l'autre semaine, dix-huit cents livres de ce curieux <lb/>pour les deux grands tableaux dont votre père avait <lb/>refusé deux mille écus quelque temps avant que de <lb/>partir,REGNARD,Hetourimpr. se. 4. Causeriesd'uncu-<lb/>rieux, variétésd'histoire et d'art tirées d'un cabinet <lb/>d'autographes et de dessins par Feuillet de Conches</subSense>
+<pc>. <lb/>|| </pc>
+<subSense>Société desCurieuxdelà nature,sociétéde natura-<lb/>listes fondée à Augsbourg, en Allemagne,en 1670, et <lb/>qui a publié un recueil encore consultéaujourd'hui</subSense>
+</sense><sense><subSense>Prêtre qui présidait aux <lb/>sacrifices d'une curie</subSense>
+<pc>. jl </pc>
+<subSense>Le chef d'une curie</subSense>
+</sense><sense><subSense>i"Souci, soin. <lb/>De' rendre un coeur content, de combler une âme <lb/>de joie, de prévenir d'extrêmes besoins ou d'y re-<lb/>médier, leur curiosité ne s'étend point jusque-là, <lb/>LA BRUY. IX. Pour moi qui ai peut-être examiné leur <lb/>vie avec autant de curiosité quepersonne, ST-ËVREM. <lb/>II, -12-1</subSense>
+</sense><sense><subSense>2°P enchant à voir et à savoir. Satisfaire, <lb/>contenter sa curiosité.Curiosité indiscrète.Curiosité <lb/>défendue.Depuisqu'assujettie aux Romains, Athènes <lb/>n'avait plus à traiter de la paix et de la guerre ni <lb/>des affaires d'État, elle s'était toute tournée à la cu-<lb/>riosité, BOSS. dans le Dict. de DOCHEZ. La curiosité <lb/>quelquefois nous trahit, CORN. Olhon, iv, 4. Eh <lb/>bien, soit jalousie ou curiosité, ID. Perthar. m, 2. <lb/>La curiosité n'est pas, comme l'on croit, un simple <lb/>amour de la nouveauté; il y en a une d'intérêt qui <lb/>fait que nous voulons savoir les choses pour nous <lb/>en prévaloir; il y en a une autre d'orgueil qui nous <lb/>donne envie d'être au-dessusde ceux qui ignorent <lb/>les choses et de n'être pas au-dessousde ceux qui <lb/>les savent, LA ROCHEF. Prem. pens. 57. J'ai naturel-<lb/>lement fort peu de curiosité pour la plus grande <lb/>partie de tout ce qui en donne aux autres gens, ID. <lb/>Portrait. La faiblesse humaine est d'avoir Des cu-<lb/>riosités d'apprendre Ce qu'on ne voudrait pas savoir, <lb/>MOL. Âmph. n, 3. Mais pour les nouveautésOn peut <lb/>avoir parfois des curiosités, ID. Éc. des mar. i, 5. <lb/>La curiosité qui vous presse est bien forte, ID. Tort. <lb/>n, 2. Imprudence, babil et sotte vanité, Et vaine <lb/>curiosité Ont ensemble étroit parentage; Ce sont <lb/>enfants tous d'un lignage, LA FONT. Fabl. x, 3. Voilà <lb/>Psyché fort embarrassée! deux curiosités à la foisl <lb/>y a-t-il femme qui y Têsistât? ID. Psyché, i, p. 63. <lb/>L'appréhension, le dépit, la pitié, la colère, et le <lb/>désespoir, la curiosité principalement; tout ce qui <lb/>porte à commettre quelque forfait et tout ce qui en <lb/>détourne, s'empara du coeur de notre héroïne et en <lb/>fit la scène de cent agitationsdifférentes, m. Psyché, <lb/>i, p. 82. Si la curiosité me prenait de savoir si ces <lb/>propositionssont dans Jansenius, son livre n'est pas <lb/>si rare ni si gros que je ne le pusse lire tout entier <lb/>pour m'en éclaircir, PASC. Prov. -I. Vous ne pensiez <lb/>pas que personne eût la curiositéde savoir qui nous <lb/>sommes,ID. ib. 8. La curiosité n'est que vanité; le <lb/>plus souvent on ne veut savoir que pour en parler, <lb/>ID. Pensées, part, i, art. 5. Vous serez peut-être en <lb/>curiosité de savoir qui m'y a mené; je vous le vas <lb/>dire, SEGRAIS, lie imaginaire, t. n p. &amp;lt;SÛ. Mais! <lb/>j'ai vu près de vous ee superbe Hippolyte ; Et même, <lb/>en le voyant, )e bruit de sa fierté A redoublé pour <lb/>lui ma ,'curiosiLé, RAC. Phèd. n, 1. Ce qui augmenta <lb/>encore la douleur de sa perte [de Sésostris], c'est, <lb/>que son fils Bocchoris n'avait ni humanité pour les <lb/>éf-angers, ni curiosité pour les scieuces, ni estime <lb/>pour les hommes vertueux, ni amour de la gloire, <lb/>FEN. Tel. ii. La curiosité, cette faiblesse si commune <lb/>aux hommes, cesse presque d'en être une, quand <lb/>elle a pour objets des temps et des hommes qui at-<lb/>tirent les regards de la postérité, VOLT. Louis XIV, <lb/>28. La curiosité n'est que le désir de quelque chose <lb/>de nouveau; et ce désir ne peut naître que lorsqu'on <lb/>a déjà fait des découvertes, et qu'on croit avoir des <lb/>moyenspour en faire encore, CONDILLAC, Trait.sens. <lb/>part, II, ch. 7. Parmi tant de malheurs, on cherche <lb/>avec une curiosité triste le destin de la ville de Rome, <lb/>MONTESQ. Rom. J9. Dans l'ordre de nos besoins et <lb/>des objets de nos passions, le plaisir tient une de <lb/>nos premières places, et la curiosité est un besoin <lb/>pour qui sait penser, D'ALEMB. Disc. prél. Encycl. <lb/>OEuvres, 1.1, p. (95, danspouGENS. Cette erreur [l'as-<lb/>trologie],chère à son amour-propre [de l'homme] et <lb/>nécessaireà son inquiète curiosité,estaussiancienne <lb/>que l'astronomie, LAPL. Exp. v, \. Tertullien disait <lb/>qu'après Jésus-Christ la curiosité ne nous était <lb/>plus d'aucun usage, et que l'exercice nous en était <lb/>interdit depuis que l'évangile nous avait été an-<lb/>noncé, BOURDAL. Car. Sur la paix chrétienne</subSense>
+<pc>.|| </pc>
+<subSense>La <lb/>. <lb/>curiositéd'une chose, l'intérêtqu'elle excite en tant <lb/>que chose curieuse. On en a vu [des ânes] d'assez <lb/>bien dressés pour faire curiositéde spectacle, BUFF. <lb/>Ane</subSense>
+<pc>. || </pc>
+<subSense>Familièrement. Pour la curiositédu fait, pour <lb/>s'assurer si une chose dont on doute est réelle. Vous <lb/>m'obligerez, pour la curiosité du fait, de me com-<lb/>muniquer une lettre si singulière</subSense>
+<pc>.|| </pc>
+<subSense>Pour la curiosité <lb/>du fait, se dit aussi pour exprimerqu'onvoudraitêtre <lb/>témoin de quelque chose. Ainsi on dira à un avocat <lb/>qui ne plaidejamais : Je voudrais vous entendre plai-<lb/>der une fois, pour la curiosité du fait</subSense>
+</sense><sense><subSense>8°Indiscré-<lb/>tion, espionnage.Sa curiosité fut punie. Il eut la <lb/>curiosité d'écouter à la porte. Une curiosité témé-<lb/>raire</subSense>
+</sense><sense><subSense>4°Goût d'amateur pour certaines choses. <lb/>J'avais la passion de bâtir, la curiosité des tableaux. <lb/>La curiositén'est pas un goût pour ce qui est bon <lb/>ou ce qui est beau, mais pour ce qui est rare, unique, <lb/>pour ce qu'on a et ce que les autres n'ont point ; ce <lb/>n'est pas un attachement à ce qui est parfait, mais <lb/>à ce qui est couru, à ce qui est de mode; ce n'est <lb/>pas un amusement, mais une passion, et souvent <lb/>si violente qu'elle ne le cède à l'amour et à l'ambi-<lb/>tion que par la petitesse de son objet, LA BRHY. XIII</subSense>
+<pc>. <lb/>|| </pc>
+<subSense>5°Choses rares, nouvelles, singulières. Magasin <lb/>de curiosités. Nous ne pûmes voir les curiositésde <lb/>la foire. Il manquait encore à la collection d'histoire <lb/>naturelle quantité de choses des Indes; il jugeaqu'il <lb/>ne pouvait avoir promptement ces curiositésqu'en <lb/>les allant chercher en Angleterre et en Hollande, <lb/>FONTEN. Marsigli</subSense>
+<pc>. || </pc>
+<subSense>Se dit aussi des passages rares, <lb/>peu connus, intéressants, dans les auteurs. On indi-<lb/>que les sources, on marque souvent les origines et <lb/>les progrès, on ramasse cent belles curiosités de <lb/>l'histoire naturelle , <lb/>de la physique expérimentale <lb/>et de la pratique des arts, Préf. du Dict. de FURE-<lb/>TIÈRE. H La curiosité, les curieux, les amateurs de <lb/>choses curieuses. Le nom de cet amateur subsistera <lb/>longtempsdans la' curiosité. Peu usité en ce sens</subSense>
+<pc>. <lb/>|| </pc>
+<subSense>Espèce de grande boîte que portent sur le dos <lb/>certains savoyards et où ils montrent des choses <lb/>curieuses</subSense>
+</sense><sense><subSense>Rouet de cordier pour le <lb/>fil de caret</subSense>
+</sense><sense><subSense>Bâton pour nettoyer la charrue</subSense>
+</sense><sense><subSense>Expression adverbiale signifiant au courant de la <lb/>plume; c'est-à-dire qu'on écrit rapidement et sans <lb/>soigner son style</subSense>
+</sense><sense><subSense>Terme de géo-<lb/>métrie. Petit corps qui glisse dans une fente ou cou-<lb/>lisse pratiquée au milieu d'une règle, d'un com-<lb/>pas, etc</subSense>
+<pc>. || </pc>
+<subSense>Terme d'astronomie. Fil qui, traversant <lb/>le champd'un micromètre, et se mouvant au moyen <lb/>d'une vis, sert'à renfermer les deux bords d'un <lb/>astre pour en mesurer le diamètre apparent</subSense>
+</sense><sense><subSense>Qu'on écrit à la <lb/>main courante. Écriture cursive. Lettres cursives. <lb/>"Caractèrescursifs.De cette espèce d'écriture cursive <lb/>[des inscriptions]les traits de chaque lettre, à peine <lb/>ébauchés, se doivent le plus souvent deviner, p. L. <lb/>COUR, n, 355</subSense>
+<pc>. || </pc>
+<subSense>Substantivement. La cursive, écri-<lb/>ture cuurante, sorte d'écrjture autrement nommée <lb/>anglaise (voy. ce mot)</subSense>
+</sense><sense><subSense>D'une <lb/>manière cursive</subSense>
+</sense><sense><subSense>Terme <lb/>d'ornithologie.Qui a des pattes propres à la course</subSense>
+</sense><sense><subSense>Terme d'his-<lb/>toire naturelle. Qui a un pied ou un support court</subSense>
+</sense><sense><subSense>Termed'his-<lb/>toire naturelle. Qui a le bec ou le rostre court</subSense>
+</sense><sense><subSense>Terme didacti-<lb/>que peu usité. Ëtat de ce qui est court. L'extrême <lb/>curtitude des anneaux (je demandegrâce pour cette <lb/>expression) m'en avait vraisemblablementimposé, <lb/>et d'autant plus que je n'avais point vu encore de <lb/>taenia à anneaux longs, BONNET, NOUV.rech. tsonia</subSense>
+</sense><sense><subSense>Terme d'antiquité ro-<lb/>maine.Chaise curule, fauteuil d'ivoire sur lequel les <lb/>premiers magistrats de Rome s'asseyaient et qui <lb/>avait les pieds courbes et des ornements d'ivoire</subSense>
+<pc>. <lb/>î| </pc>
+<subSense>Magistrats curules, ceux qui siégeaient sur une <lb/>chaise curule. Partager avec les nobles les magis-<lb/>tratures curules, MONTESQ. Rom. 8</subSense>
+<pc>. || </pc>
+<subSense>Édilitécurule, <lb/>édilité qui donnait droit à une chaise curule</subSense>
+</sense><sense><subSense>Produit du curage des <lb/>étangs, des mares, des puits, composé de substances <lb/>terreuses et de détritus organiques dans un état va-<lb/>riable de décomposition</subSense>
+</sense><sense><subSense>Terme didac-<lb/>tique. Qui courbe</subSense>
+</sense><sense><subSense>Terme <lb/>didactique. Qui se courbe légèrement. Feuilles cur-<lb/>fatives, celles dontlenullement, dans le bourgeon, <lb/>est à peine sensible,à cause de leur peu de largeur</subSense>
+</sense><sense><subSense>Terme de botanique. Qui a un embryon recourbé</subSense>
+</sense><sense><subSense>Terme de <lb/>zoologie. Qui a une queue recourbée</subSense>
+</sense><sense><subSense>Terme de bo-<lb/>tanique. Qui a une tige courbée</subSense>
+</sense><sense><subSense>Terme de zoo-<lb/>logie. Qui a le cou courbé</subSense>
+</sense><sense><subSense>Terme de zoologie. Se dit des poissons marqués de <lb/>petites côtes courbes</subSense>
+</sense><sense><subSense>Terme d'histoire naturelle. Qui est muni de dents <lb/>recourbées</subSense>
+</sense><sense><subSense>Terme de bo-<lb/>tanique. Qui a des fleurs à corollecourbe</subSense>
+</sense><sense><subSense>Terme <lb/>de botanique. Qui a des feuilles recourbées</subSense>
+</sense><sense><subSense>Instru-<lb/>ment de mathématiques servant à tracer des courbes</subSense>
+</sense><sense><subSense>Terme degéomé-<lb/>trie. Formé par des lignes courbes.Figurecurviligne</subSense>
+</sense><sense><subSense>Terme de botanique. Qui a des feuilles à nervures <lb/>courbées</subSense>
+</sense><sense><subSense>Terme de zoo-<lb/>logie. Qui a des jambes courbées</subSense>
+</sense><sense><subSense>Terme de <lb/>zoologie. Qui a le bec recourbé</subSense>
+</sense><sense><subSense>Terme d'histoire <lb/>naturelle. Qui a des soies recourbées</subSense>
+</sense><sense><subSense>Courbure. Peu usité</subSense>
+</sense><sense><subSense>Terme de botanique. <lb/>Plante parasite (convolvulacées) dont la tige s'atta-<lb/>che aux herbes voisines peu de temps après sa ger-<lb/>mination, y prend sa nourriture au moyen de su-<lb/>çoirs et étouffe les végétaux envahis. La cuscute <lb/>commune, cuscuta europxa, L</subSense>
+</sense><sense><subSense>Termede chimie. <lb/>Principe neutre découvertdans i'écorce de l'angus-<lb/>ture vraie [galipea cusparia)</subSense>
+</sense><sense><subSense>Terme de botanique. <lb/>Pointe aiguë et allongée</subSense>
+</sense><sense><subSense>Terme d'his-<lb/>toire naturelle. Muni d'une pointe aiguë et dure. <lb/>Dents cuspidées</subSense>
+</sense><sense><subSense>Terme d'his-<lb/>toire naturelle. Qui porte des pointes</subSense>
+</sense><sense><subSense>Terme de botanique. Qui a des feuilles cuspidées</subSense>
+</sense><sense><subSense>Terme <lb/>d'histoire naturelle. Qui a la forme d'une pointe</subSense>
+</sense><sense><subSense>Se dit quelquefois pour <lb/>cosson</subSense>
+</sense><sense><subSense>Ie Rideau. Vieux <lb/>en ce sens</subSense>
+<pc>. |] </pc>
+<subSense>Fig. Donner le fouet sous la custode, <lb/>réprimander en secret</subSense>
+</sense><sense><subSense>2« Courtinesà côté du mat-<lb/>tre autel</subSense>
+<pc>. || </pc>
+<subSense>Pavillonqu'on met sur le saint ciboire</subSense>
+</sense><sense><subSense>3°Partie intérieure d'un carrosse qui est à chaque <lb/>côté du fond, et contre laquelle on s'appuie</subSense>. ||<subSense>^Cha-<lb/>peron d'un fourreau de pistolet</subSense>
+</sense><sense><subSense>Dans les couvents <lb/>de capucins et de récollets, religieuxqui fait l'office <lb/>du provincial en l'absence du provincial</subSense>.[| <subSense>Titre de <lb/>dignité dans quelques églises</subSense>
+<pc>. || </pc>
+<subSense>Titre du président <lb/>de l'Académie des Arcades à Rome</subSense>
+<pc>. || </pc>
+<subSense>Enltalie, nom <lb/>des gardiens des monuments, des musées</subSense>
+</sense><sense><subSense>Subdivision d'une <lb/>province de moines mendiants</subSense>
+</sense><sense><subSense>Prête-nom <lb/>qui garde un bénéfice ou un office pour le rendre à <lb/>un autre dans un certain temps et qui, n'en ayant <lb/>que le titre, laisse les fruits à celui qui possède en <lb/>effet. M. le comte sentait du scrupule de posséder, <lb/>sous le nom de custodi-nos, plus de tooooo livres <lb/>de rente en bénéfices, RETZ, I, &amp;lt;7</subSense>
+</sense><sense><subSense>Termede zoo-<lb/>logie et de médecine. Qui rampe sur ou sous la peau, <lb/>se dit de parasites logés sur ou dans la peau et de <lb/>douleurs vagues qui se font sentir, comme on dit, <lb/>entre cuir et chair</subSense>
+</sense><sense><subSense>Terme de <lb/>médecine. Qui appartient à la peau. Maladie cu-<lb/>tanée</subSense>
+</sense><sense><subSense>Terme de zoologie. <lb/>Qui vit dans ou sur la peau</subSense>
+</sense><sense><subSense>Terme <lb/>d'anatomie. Qui appartient à la cuticule</subSense>
+</sense><sense><subSense>Terme d'anatomie. <lb/>Épiderme</subSense>
+</sense><sense><subSense>Terme de vétéri-<lb/>naire. Nom donné par quelquesvétérinaires au bour-<lb/>relet du pied du cheval</subSense>
+</sense></body>
+	</text>
+</tei>

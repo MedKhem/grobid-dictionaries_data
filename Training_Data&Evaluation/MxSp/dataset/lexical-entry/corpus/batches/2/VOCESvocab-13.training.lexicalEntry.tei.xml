@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="lexicalEntry.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="lexicalEntry.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><entry><lemma>da quaha nani </lemma>
+<pc>: </pc>
+<sense>como hasta tal parte <lb/></sense>
+</entry><entry><lemma>da quevui dzavua </lemma>
+<pc>: </pc>
+<sense>desde entonces <lb/></sense>
+</entry><entry><lemma>da quevui niquivui niquitu ñuu ñayevui </lemma>
+<pc>: </pc>
+<sense>al prin-<lb/>cipio del mundo <lb/></sense>
+</entry><entry><lemma>da quevui nituvui ñuu ñayevui </lemma>
+<pc>: </pc>
+<sense>principio del <lb/>mundo <lb/></sense>
+</entry><entry><lemma>da queyeni </lemma>
+<pc>: </pc>
+<sense>aprisa ; incontinenti [luego] ; y luego ; <lb/>luego a la hora ; temprano <lb/></sense>
+</entry><entry><lemma>da queyeni nda nditani nina quindi </lemma>
+<pc>: </pc>
+<sense>hallar algo <lb/>de presto <lb/></sense>
+</entry><entry><lemma>da saha </lemma>
+<pc>: </pc>
+<sense>de antes <lb/></sense>
+</entry><entry><lemma>da saha </lemma>
+<pc>: </pc>
+<sense>origen o principio <lb/></sense>
+</entry><entry><lemma>da saha da nino </lemma>
+<pc>: </pc>
+<sense>al principio <lb/></sense>
+</entry><entry><lemma>da saha da nino</lemma>, <re>da ndu nisiyo saha ñuu ñaye-<lb/>vui</re> 
+<pc>: </pc>
+<sense>principio del mundo <lb/></sense>
+</entry><entry><lemma>da saha da nino nisiyo saha ñuu ñayevui </lemma>
+<pc>: </pc>
+<sense>al <lb/>principio del mundo <lb/></sense>
+</entry><entry><lemma>da saha si yona tadzi inindi </lemma>
+<pc>: </pc>
+<sense>pensar antes <lb/></sense>
+</entry><entry><lemma>da sandu si </lemma>
+<pc>: </pc>
+<sense>origen o principio <lb/></sense>
+</entry><entry><lemma>da sani siyo saha </lemma>
+<pc>: </pc>
+<sense>origen o principio <lb/></sense>
+</entry><entry><lemma>da sihindi yotnana </lemma>
+<pc>: </pc>
+<sense>gemir al gemido de otro <lb/></sense>
+</entry><entry><lemma>da tucu ñoho maa inindi </lemma>
+<pc>: </pc>
+<sense>agradecer con palabras <lb/>solamente <lb/></sense>
+</entry><entry><lemma>da vuitna da vuitnani </lemma>
+<pc>: </pc>
+<sense>incontinenti [luego] <lb/></sense>
+</entry><entry><lemma>da vuitna ñuhuni </lemma>
+<pc>: </pc>
+<sense>incontinenti [luego] <lb/></sense>
+</entry><entry><lemma>da yaha </lemma>
+<pc>: </pc>
+<sense>hasta aquí (señalando) <lb/></sense>
+</entry><entry><lemma>da yaha yuca </lemma>
+<pc>: </pc>
+<sense>aquende más cerca <lb/></sense>
+</entry><entry><lemma>da yodzoca yonduvui dzanandi </lemma>
+<pc>: </pc>
+<sense>empeorar cada <lb/>día más en la vida <lb/></sense>
+</entry><entry><lemma>da yoho si </lemma>
+<pc>: </pc>
+<sense>origen o principio <lb/></sense>
+</entry><entry><lemma>da yoquidzacando </lemma>
+<pc>: </pc>
+<sense>y aún (conjunción adversativa), <lb/>ut ¿y aún haces eso todavía? <lb/></sense>
+</entry><entry><lemma>da yosihindi </lemma>
+<pc>: </pc>
+<sense>caerse muerto <lb/></sense>
+</entry><entry><lemma>da yuqua </lemma>
+<pc>: </pc>
+<sense>de allí ; hasta acullá <lb/></sense>
+</entry><entry><lemma>da yutnaa </lemma>
+<pc>: </pc>
+<sense>hasta mañana <lb/></sense>
+</entry><entry><lemma>daa ndu vuitna nee ndu caa qhu</lemma>, <re>nee ndu chihi <lb/>taa qhu, ca toto ca dziya qhu </re>
+<pc>: </pc>
+<sense>desde ahora <lb/>para siempre jamás <lb/></sense>
+</entry><entry><lemma>damaa </lemma>
+<pc>: </pc>
+<sense>centro de la tierra <lb/></sense>
+</entry><entry><lemma>dau sa cavua nduta </lemma>
+<pc>: </pc>
+<sense>cisterna aljibe <lb/></sense>
+</entry><entry><lemma>dedziyu </lemma>
+<pc>: </pc>
+<sense>chivo o cabrón <lb/></sense>
+</entry><entry><lemma>dedziyu nindaa nini yuute </lemma>
+<pc>: </pc>
+<sense>chivato capado <lb/></sense>
+</entry><entry><lemma>deq dziini </lemma>
+<pc>: </pc>
+<sense>átomos del sol <lb/></sense>
+</entry><entry><lemma>dza </lemma>
+<pc>: </pc>
+<sense>que (adverbio de comparación) <lb/></sense>
+</entry><entry><lemma>dza caa </lemma>
+<pc>: </pc>
+<sense>barniz amarillo para jícaras <lb/></sense>
+</entry><entry><lemma>dza dzavua </lemma>
+<pc>: </pc>
+<sense>tanto cuanto <lb/></sense>
+</entry><entry><lemma>dza dzuchi canu ndicandii </lemma>
+<pc>: </pc>
+<sense>a las 11 (día) <lb/></sense>
+</entry><entry><lemma>dza ee cuhua </lemma>
+<pc>: </pc>
+<sense>iguales cosas parejas ; justa en medi-<lb/>da, pro diversis supositis <lb/></sense>
+</entry><entry><lemma>dza ee nicacundi sihi </lemma>
+<pc>: </pc>
+<sense>amigo entrañable <lb/></sense>
+</entry><entry><lemma>dza ee quevuindi sihita </lemma>
+<pc>: </pc>
+<sense>amigo entrañable <lb/></sense>
+</entry><entry><lemma>dza may nino dzini </lemma>
+<pc>: </pc>
+<sense>cofia de mujer <lb/></sense>
+</entry><entry><lemma>dza ndacundi dziñuhu </lemma>
+<pc>: </pc>
+<sense>recabar, o recaudar <lb/></sense>
+</entry><entry><lemma>dza ndaha </lemma>
+<pc>: </pc>
+<sense>eco voz que resuena <lb/></sense>
+</entry><entry><lemma>dza ndahui ñaha </lemma>
+<pc>: </pc>
+<sense>duende ; fantasma <lb/></sense>
+</entry><entry><lemma>dza ndatunica cacuta </lemma>
+<pc>: </pc>
+<sense>duda hay si escapara <lb/></sense>
+</entry><entry><lemma>dza noo cuvuita yahui </lemma>
+<pc>: </pc>
+<sense>monipodio hacer <lb/></sense>
+</entry><entry><lemma>dza ñee </lemma>
+<pc>: </pc>
+<sense>mazorca, el corazón de ella <lb/></sense>
+</entry><entry><lemma>dza ñee nicay coo </lemma>
+<pc>: </pc>
+<sense>espiga de trigo mocha <lb/></sense>
+</entry><entry><lemma>dza ñee nuni castilla </lemma>
+<pc>: </pc>
+<sense>espiga de trigo mocha <lb/></sense>
+</entry><entry><lemma>dza (pedro dza ioan )</lemma>
+<pc>: </pc>
+<sense>que (adverbio de compara-<lb/>ción) <lb/></sense>
+</entry><entry><lemma>dza q tnaha </lemma>
+<pc>: </pc>
+<sense>poco más o menos <lb/></sense>
+</entry><entry><lemma>dza quini dziyo </lemma>
+<pc>: </pc>
+<sense>lanzadera de tejedor <lb/></sense>
+</entry><entry><lemma>dza tnaa </lemma>
+<pc>: </pc>
+<sense>de mañana ; mañana del día <lb/></sense>
+</entry><entry><lemma>dza tnaa huaa nica </lemma>
+<pc>: </pc>
+<sense>de mañana <lb/></sense>
+</entry><entry><lemma>dza tnaa ñuhuca nituvuini </lemma>
+<pc>: </pc>
+<sense>muy de mañana <lb/></sense>
+</entry><entry><lemma>dza tnaa ñuhundi </lemma>
+<pc>: </pc>
+<sense>muy de mañana <lb/></sense>
+</entry><entry><lemma>dza tnaani dzo tuvuini </lemma>
+<pc>: </pc>
+<sense>de mañana <lb/></sense>
+</entry><entry><lemma>dza tuhu nino </lemma>
+<pc>: </pc>
+<sense>inconveniente <lb/></sense>
+</entry><entry><lemma>dzaa </lemma>
+<pc>: </pc>
+<sense>barba sin pelos ; bezo horadado <lb/></sense>
+</entry><entry><lemma>dzaa </lemma>
+<pc>: </pc>
+<sense>brava cosa <lb/></sense>
+</entry><entry><lemma>dzaa </lemma>
+<pc>: </pc>
+<sense>pájaro <lb/></sense>
+</entry><entry><lemma>dzaa ñuchi </lemma>
+<pc>: </pc>
+<sense>pájaro solitario <lb/></sense>
+</entry><entry><lemma>dzaa si </lemma>
+<pc>: </pc>
+<sense>punta de cosa aguda <lb/></sense>
+</entry><entry><lemma>dzaa toto </lemma>
+<pc>: </pc>
+<sense>pájaro solitario <lb/></sense>
+</entry><entry><lemma>dzaa yuchi caa </lemma>
+<pc>: </pc>
+<sense>filos tener el cuchillo <lb/></sense>
+</entry><entry><lemma>dzaca tica </lemma>
+<pc>: </pc>
+<sense>desabrida cosa al gusto <lb/></sense>
+</entry><entry><lemma>dzachi </lemma>
+<pc>: </pc>
+<sense>miembro de mujer <lb/></sense>
+</entry><entry><lemma>dzadza </lemma>
+<pc>: </pc>
+<sense>orina <lb/></sense>
+</entry><entry><lemma>dzadzate </lemma>
+<pc>: </pc>
+<sense>vejiga de animal <lb/></sense>
+</entry><entry><lemma>dzaha </lemma>
+<pc>: </pc>
+<sense>aceite ; enjundia ; gordura ; grasa ; grosura ; <lb/>lardo de puerco ; manteca ; sebo <lb/></sense>
+</entry><entry><lemma>dzaha </lemma>
+<pc>: </pc>
+<sense>embajada ; lenguaje propio ; palabra del <lb/>señor <lb/></sense>
+</entry><entry><lemma>dzaha </lemma>
+<pc>: </pc>
+<sense>pringue de tocino, o torrezno <lb/></sense>
+</entry><entry><lemma>dzaha </lemma>
+<pc>: </pc>
+<sense>redaño <lb/></sense>
+</entry><entry><lemma>dzaha castilla </lemma>
+<pc>: </pc>
+<sense>romance <lb/></sense>
+</entry><entry><lemma>dzaha huidzo </lemma>
+<pc>: </pc>
+<sense>ley generalmente <lb/></sense>
+</entry><entry><lemma>dzaha nduchi </lemma>
+<pc>: </pc>
+<sense>riñonada <lb/></sense>
+</entry><entry><lemma>dzaha nduchi niqui </lemma>
+<pc>: </pc>
+<sense>aceite de higuerilla <lb/></sense>
+</entry><entry><lemma>dzaha nduchi tenama </lemma>
+<pc>: </pc>
+<sense>aceite de higuerilla <lb/></sense>
+</entry><entry><lemma>dzaha ninduta </lemma>
+<pc>: </pc>
+<sense>sebo derretido <lb/></sense>
+</entry><entry><lemma>dzaha ñoho </lemma>
+<pc>: </pc>
+<sense>riñonada <lb/></sense>
+</entry><entry><lemma>dzaha quende </lemma>
+<pc>: </pc>
+<sense>aceite de chía <lb/></sense>
+</entry><entry><lemma>dzaha quende ndaha </lemma>
+<pc>: </pc>
+<sense>barniz con que dan lustre <lb/></sense>
+</entry><entry><lemma>dzaha sa yodzo tnaate </lemma>
+<pc>: </pc>
+<sense>melena de buey <lb/></sense>
+</entry><entry><lemma>dzaha si cavua tnaate </lemma>
+<pc>: </pc>
+<sense>melena de buey <lb/></sense>
+</entry></body>
+	</text>
+</tei>

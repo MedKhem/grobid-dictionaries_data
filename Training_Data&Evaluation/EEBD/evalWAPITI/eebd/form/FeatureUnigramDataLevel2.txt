@@ -1,0 +1,22 @@
+Dict+Eebd+Model+form+Feature+Unigram+DataLevel+2
+===== Field-level results =====
+
+label                accuracy     precision    recall       f1           support
+
+<gramGrp>            99.69        99.21        99.21        99.21        126    
+<orth>               100          100          100          100          129    
+<pc>                 99.38        99.61        98.83        99.22        257    
+<pron>               99.84        99.22        100          99.61        128    
+<usg>                99.69        0            0            0            2      
+
+all (micro avg.)     99.72        99.53        99.07        99.3         642    
+all (macro avg.)     99.72        79.61        79.61        79.61        642    
+
+===== Instance-level results =====
+
+Total expected instances:   128
+Correct instances:          126
+Instance-level recall:      98.44
+
+
+Evaluation for form model is realized in 793 ms

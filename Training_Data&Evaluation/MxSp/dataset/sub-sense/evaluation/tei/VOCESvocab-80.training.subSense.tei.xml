@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="subSense.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="subSense.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><subSense><def>no tener lugar ni espacio </def>
+</subSense><subSense><def>tiempo no tener para hacer algo <lb/></def>
+</subSense><subSense><def>mal querer <lb/></def>
+</subSense><subSense><def>muchedumbre de hom-<lb/>bres <lb/></def>
+</subSense><subSense><def>ignorar por no haber oído <lb/>decir lo que hay </def>
+</subSense><subSense><def>ignorar lo que hay o pasa <lb/></def>
+</subSense><subSense><def>disimular que no ve <lb/></def>
+</subSense><subSense><def>no estar cabal cuenta <lb/></def>
+</subSense><subSense><def>perder el habla el en-<lb/>fermo <lb/></def>
+</subSense><subSense><def>merma <lb/></def>
+</subSense><subSense><def>no estar cabal cuenta <lb/></def>
+</subSense><subSense><def>desmandarse en <lb/>algo no teniendo respeto al mayor <lb/></def>
+</subSense><subSense><def>tomarlo en mala parte <lb/></def>
+</subSense><subSense><def>rechazar <lb/></def>
+</subSense><subSense><def>tener mala fama <lb/></def>
+</subSense><subSense><def>perder la vergüenza <lb/></def>
+</subSense><subSense><def>mascar mal la comida por comer <lb/>de prisa <lb/></def>
+</subSense><subSense><def>desconfiar el que ha estado <lb/>esperando algo <lb/></def>
+</subSense><subSense><def>no cuadrarle algo a alguno <lb/></def>
+</subSense><subSense><def>desigualarse en el <lb/>precio <lb/></def>
+</subSense><subSense><def>destemplarse <lb/>en comer <lb/></def>
+</subSense><subSense><def>morir sosegadamente <lb/></def>
+</subSense><subSense><def>no parece bien <lb/></def>
+</subSense><subSense><def>desagradecer <lb/></def>
+</subSense><subSense><def>descontentarse de algo <lb/></def>
+</subSense><subSense><def>de lejos cuando no se devisa <lb/>bien la cosa <lb/></def>
+</subSense><subSense><def>vacilar dudando de <lb/>alguna cosa <lb/></def>
+</subSense><subSense><def>tiempo no tener para hacer <lb/>algo <lb/></def>
+</subSense><subSense><def>tiempo no tener para hacer <lb/>algo <lb/></def>
+</subSense><subSense><def>desacatar a otro <lb/></def>
+</subSense><subSense><def>estar claro y <lb/>manifiesto algún negocio <lb/></def>
+</subSense><subSense><def>expeditamente hablar <lb/></def>
+</subSense><subSense><def>indigno ser de algún bien <lb/></def>
+</subSense><subSense><def>alguna cosa <lb/></def>
+</subSense><subSense><def>antes no <lb/></def>
+</subSense><subSense><def>nada</def>
+<pc>, </pc>
+<def>ninguna cosa <lb/></def>
+</subSense><subSense><def>persona <lb/></def>
+</subSense><subSense><def>matrona</def>, <def>mujer honrada</def> <lb/>
+</subSense><subSense><def>primeriza en parto <lb/></def>
+</subSense><subSense><def>viuda <lb/></def>
+</subSense><subSense><def>mujer soltera <lb/></def>
+</subSense><subSense><def>mujer carnal </def>
+</subSense><subSense><def>puta ramera <lb/></def>
+</subSense><subSense><def>parida mujer <lb/></def>
+</subSense><subSense><def>ama de niño que cría <lb/></def>
+</subSense><subSense><def>puta ramera <lb/></def>
+</subSense><subSense><def>rufián <lb/></def>
+</subSense><subSense><def>hembra </def>
+</subSense><subSense><def>mujer <lb/></def>
+</subSense><subSense><def>doncella</def>
+<pc>, </pc>
+<def>virgen <lb/></def>
+</subSense><subSense><def>no </def>
+<pc>(</pc>
+<gramGrp>adverbio</gramGrp>
+<pc>) <lb/></pc>
+</subSense><subSense><def>mujer hermosa <lb/></def>
+</subSense><subSense><def>mujer hermosa <lb/></def>
+</subSense><subSense><def>doncella</def>
+<pc>, </pc>
+<def>virgen <lb/></def>
+</subSense><subSense><def>monja <lb/></def>
+</subSense><subSense><def>mujer casada <lb/></def>
+</subSense><subSense><def>mujer varonil <lb/></def>
+</subSense><subSense><def>mujer varonil <lb/></def>
+</subSense><subSense><def>doncella</def>
+<pc>, </pc>
+<def>virgen <lb/></def>
+</subSense><subSense><def>doncella</def>
+<pc>, </pc>
+<def>virgen <lb/></def>
+</subSense><subSense><def>doncella</def>
+<pc>, </pc>
+<def>virgen <lb/></def>
+</subSense><subSense><def>corrompida o corrupta </def>
+<pc>[</pc>
+<translation>virgen</translation>
+<pc>] <lb/></pc>
+</subSense><subSense><def>mujer casada <lb/></def>
+</subSense><subSense><def>mujer casada <lb/></def>
+</subSense><subSense><def>matrona</def>, <def>mujer honrada</def> <lb/>
+</subSense><subSense><def>parida mujer <lb/></def>
+</subSense><subSense><def>viuda <lb/></def>
+</subSense><subSense><def>viuda <lb/></def>
+</subSense><subSense><def>viuda <lb/></def>
+</subSense><subSense><def>viuda <lb/></def>
+</subSense><subSense><def>viuda <lb/></def>
+</subSense><subSense><def>viuda <lb/></def>
+</subSense><subSense><def>comadre <lb/></def>
+</subSense><subSense><def>comadre <lb/></def>
+</subSense><subSense><def>mujer casta <lb/></def>
+</subSense><subSense><def>comadre <lb/></def>
+</subSense><subSense><def>corrompida o corrupta </def>
+<pc>[</pc>
+<translation>virgen</translation>
+<pc>] <lb/></pc>
+</subSense><subSense><def>estéril mujer </def>
+</subSense><subSense><def>mañera</def>
+<pc>, </pc>
+<def>mujer que no <lb/>pare <lb/></def>
+</subSense><subSense><def>disoluta mujer <lb/></def>
+</subSense><subSense><def>pobre puesto en <lb/>grande miseria </def>
+<pc>(</pc>
+<usg>dicho por metáfora</usg>
+<pc>) <lb/></pc>
+</subSense><subSense><def>preñada mujer <lb/></def>
+</subSense><subSense><def>preñada mujer <lb/></def>
+</subSense></body>
+	</text>
+</tei>

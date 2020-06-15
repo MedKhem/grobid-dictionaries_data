@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="sense.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="sense.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><sense><subSense>mudar a veces la carga <lb/></subSense>
+</sense><sense><subSense>amansarse el airado </subSense>
+<pc>; </pc>
+<subSense>aplacarse </subSense>
+<pc>; <lb/></pc>
+<subSense>desembravecerse </subSense>
+<pc>; </pc>
+<subSense>desencapotarse, desenojarse <lb/></subSense>
+</sense><sense><subSense>revolver alguna cosa como <lb/>piedra <lb/></subSense>
+</sense><sense><subSense>amansarse el airado <lb/></subSense>
+</sense><sense><subSense>mancilla tener de <lb/>quien primero estaba enojado <lb/></subSense>
+</sense><sense><subSense>adobar ropa vieja <lb/></subSense>
+</sense><sense><subSense>adobar ropa vieja <lb/></subSense>
+</sense><sense><subSense>suceder a <lb/>otro en oficio <lb/></subSense>
+</sense><sense><subSense>seguir acompañando <lb/></subSense>
+</sense><sense><subSense>tornar a pecar <lb/></subSense>
+</sense><sense><subSense>repetir <lb/></subSense>
+</sense><sense><subSense>seguir de lejos <lb/></subSense>
+</sense><sense><subSense>digerir la comida <lb/></subSense>
+</sense><sense><subSense>enconarse la llaga <lb/></subSense>
+</sense><sense><subSense>mudar el corazón </subSense>
+<pc>; </pc>
+<subSense>pena tener, <lb/>arrepintiéndose de algo <lb/></subSense>
+</sense><sense><subSense>mover algo quitándolo de un <lb/>lugar para otro </subSense>
+<pc>; </pc>
+<subSense>revender </subSense>
+<pc>; </pc>
+<subSense>vender como regatón <lb/></subSense>
+</sense><sense><subSense>mudar casa <lb/></subSense>
+</sense><sense><subSense>proceder <lb/></subSense>
+</sense><sense><subSense>estribar haciendo fuerza con las <lb/>manos <lb/></subSense>
+</sense><sense><subSense>volver prestado en espe-<lb/>cie <lb/></subSense>
+</sense><sense><subSense>trasegar vino <lb/></subSense>
+</sense><sense><subSense>arribar los navíos volver al <lb/>puerto <lb/></subSense>
+</sense><sense><subSense>volverse de donde había ido </subSense>
+<pc>; </pc>
+<subSense>huir para <lb/>atrás </subSense>
+<pc>; </pc>
+<subSense>retraerse o retirarse en batalla </subSense>
+<pc>; </pc>
+<subSense>tornar de <lb/>donde fui <lb/></subSense>
+</sense><sense><subSense>moler <lb/></subSense>
+</sense><sense><subSense>refrescarse </subSense>
+<pc>; </pc>
+<subSense>resfriarse <lb/></subSense>
+</sense><sense><subSense>acompañar a otro <lb/>andando con él <lb/></subSense>
+</sense><sense><subSense>atados estar animales <lb/></subSense>
+</sense><sense><subSense>estar manchado <lb/></subSense>
+</sense><sense><subSense>hojosa cosa de hojas <lb/></subSense>
+</sense><sense><subSense>extenderse por la tierra, como <lb/>hojas de calabaza <lb/></subSense>
+</sense><sense><subSense>caminar a caballo <lb/></subSense>
+</sense><sense><subSense>prestados <lb/>tener tomines </subSense>
+<pc>; </pc>
+<subSense>deudas tener, deberlas <lb/></subSense>
+</sense><sense><subSense>adeudado estar sin pagarlo que <lb/>debe <lb/></subSense>
+</sense><sense><subSense>dejar de enmendar-<lb/>se perseverando en el pecado <lb/></subSense>
+</sense><sense><subSense>estar siempre en pecados <lb/></subSense>
+</sense><sense><subSense>llevar a cuestas <lb/></subSense>
+</sense><sense><subSense>cargado estar <lb/></subSense>
+</sense><sense><subSense>apretarse atropellándose <lb/></subSense>
+</sense><sense><subSense>dejar de enmendarse <lb/>perseverando en el pecado <lb/></subSense>
+</sense><sense><subSense>estar sentado en escaño <lb/></subSense>
+</sense><sense><subSense>estar siempre en pecados <lb/></subSense>
+</sense><sense><subSense>vivir <lb/>en pecados (por metáfora) <lb/></subSense>
+</sense><sense><subSense>relumbrar por relucir <lb/></subSense>
+</sense><sense><subSense>rodar como la bola <lb/></subSense>
+</sense><sense><subSense>urdir <lb/></subSense>
+</sense><sense><subSense>reverberar <lb/></subSense>
+</sense><sense><subSense>calentarse al sol <lb/></subSense>
+</sense><sense><subSense>hacer sol <lb/></subSense>
+</sense><sense><subSense>abochornarse las mieses (no quie-<lb/>re decir abochonarse, sino abochornar las mieses, <lb/>que significa por modo activo) <lb/></subSense>
+</sense><sense><subSense>abrasar el sol <lb/></subSense>
+</sense><sense><subSense>asolearse algo </subSense>
+<pc>; </pc>
+<subSense>herir el sol en algu-<lb/>na parte <lb/></subSense>
+</sense><sense><subSense>rodar como la bola <lb/></subSense>
+</sense><sense><subSense>resplandecer </subSense>
+<pc>; </pc>
+<subSense>reverberar </subSense>
+<pc>; </pc>
+<subSense>traslucirse <lb/></subSense>
+</sense><sense><subSense>echar rayos de sí resplandeciendo <lb/></subSense>
+</sense><sense><subSense>luna hacer <lb/></subSense>
+</sense><sense><subSense>carestía haber de manteni-<lb/>mientos (esa negra sequedad) <lb/></subSense>
+</sense><sense><subSense>andar de día claro <lb/></subSense>
+</sense><sense><subSense>llorar mucha el niño <lb/>con coraje <lb/></subSense>
+</sense><sense><subSense>devanar con aspa </subSense>
+<pc>; </pc>
+<subSense>lucir o resplandecer <lb/>persona <lb/></subSense>
+</sense><sense><subSense>tela urdir <lb/></subSense>
+</sense><sense><subSense>aderezados galanamente según <lb/>su estado <lb/></subSense>
+</sense><sense><subSense>enlutarse, ponerse <lb/>luto <lb/></subSense>
+</sense><sense><subSense>estrenar vestidura <lb/></subSense>
+</sense><sense><subSense>vivir para siempre <lb/></subSense>
+</sense><sense><subSense>cuidado tener mirando por al-<lb/>guno <lb/></subSense>
+</sense><sense><subSense>tener cuidado de alguno <lb/></subSense>
+</sense><sense><subSense>pesar algún negocio, conside-<lb/>rarlo bien <lb/></subSense>
+</sense></body>
+	</text>
+</tei>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="form.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="form.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><form><orth>dzavua dzuhua ama ama </orth>
+</form><form><orth>dzavua hooca tucu </orth>
+</form><form><orth>dzavua huitna </orth>
+</form><form><orth>dzavua ino huidzo sindi </orth>
+</form><form><orth>dzavua itnaha iyo </orth>
+</form><form><orth>dzavua iyo </orth>
+</form><form><orth>dzavua iyo </orth>
+</form><form><orth>dzavua iyo inindi </orth>
+</form><form><orth>dzavua iyo ino sindi </orth>
+</form><form><orth>dzavua iyo ndatu sindi </orth>
+</form><form><orth>dzavua iyo ndudzu itnayta </orth>
+</form><form><orth>dzavua ndatundi </orth>
+</form><form><orth>dzavua nicaa inindi </orth>
+</form><form><orth>dzavua nicacu </orth>
+</form><form><orth>dzavua nicaye </orth>
+</form><form><orth>dzavua nicoo coo inindi </orth>
+</form><form><orth>dzavua nisa coho naha ñuhu sindi </orth>
+</form><form><orth>dzavua nisa coho quevui sindi </orth>
+</form><form><orth>dzavua nisa tnaha inindi </orth>
+</form><form><orth>dzavua nisini nitacundi </orth>
+</form><form><orth>dzavua ñuhu indaandi </orth>
+</form><form><orth>dzavua ñuu </orth>
+</form><form><orth>dzavua quaha inindi </orth>
+</form><form><orth>dzavua quaha ino ndatundi </orth>
+</form><form><orth>dzavua quaha ndudzu </orth>
+</form><form><orth>dzavua quidzata sa naha </orth>
+</form><form><orth>dzavua saha tniño </orth>
+</form><form><orth>dzavua tachi dzavua tnumi yosino saandi </orth>
+</form><form><orth>dzavua tayee dzavua ñaha dzehe </orth>
+</form><form><orth>dzavua tna iyoni </orth>
+</form><form><orth>dzavua tnaha </orth>
+</form><form><orth>dzavua tnaha huitna </orth>
+</form><form><orth>dzavua tnaha iyo </orth>
+</form><form><orth>dzavua tnaha iyo sa yonaha sa yonduvui le-<lb/>tra </orth>
+</form><form><orth>dzavua tnaha quevui pascua yoquidzandi</orth>
+</form><form><orth>dzavua tnaha sa dzavuandi </orth>
+</form><form><orth>dzavua tnaha sinindo </orth>
+</form><form><orth>dzavua tnaha tecoo yee yavui </orth>
+</form><form><orth>dzavua tnaha tiyee yavui </orth>
+</form><form><orth>dzavua tnaha yocachi S.fee </orth>
+</form><form><orth>dzavua tnaha yocuvui misa </orth>
+</form><form><orth>dzavua tnaha yuvui cachi </orth>
+</form><form><orth>dzavua tucu </orth>
+</form><form><orth>dzavua tucuca </orth>
+</form><form><orth>dzavua yocachita dzavua yosinita </orth>
+</form><form><orth>dzavua yocuvui dzavuayu sa cuvui dzavuayu <lb/>iyo </orth>
+</form><form><orth>dzavua yocuvui nuu yaha </orth>
+</form><form><orth>dzavua yocuvui ñuu sa naha </orth>
+</form><form><orth>dzavua yonahata </orth>
+</form><form><orth>dzavua yonana </orth>
+</form><form><orth>dzavua yoqni inindi </orth>
+</form><form><orth>dzavua yosahandita </orth>
+</form><form><orth>dzavua 
+yosico inindi</orth> 
+</form><form><orth>dzavua yosii tnahata dzo ndehe dzavua yocaha-<lb/>ta </orth>
+</form><form><orth>dzavua yotacusita </orth>
+</form><form><orth>dzavua yotusi inindi </orth>
+</form><form><orth>dzavua yotuvui </orth>
+</form><form><orth>dzavua yotuvui sindi </orth>
+</form><form><orth>dzavua yu </orth>
+</form><form><orth>dzavua yu </orth>
+</form></body>
+	</text>
+</tei>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="sense.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="sense.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><sense><subSense>Néologisme. D'une manière approbative</subSense>
+</sense><sense><subSense>2°Approximatif. Les calculs <lb/>astronomiques, qui ne roulent que sur des à peu <lb/>près, quoiqueextrêmementapprochants,il lesvoulait <lb/>amener à être des calculs algébriques, exempts de tout <lb/>tâtonnement.FONTEN.ZrfrawUe</subSense>. ||<subSense>3°Proche.Lanuitde <lb/>plus était fort approchante, LA FONT. Omis</subSense>
+<pc>. || </pc>
+<subSense>4°Adv. <lb/>Kpeu près. Il a vingt ans approchant</subSense>
+</sense><sense><subSense>5°Prépos. <lb/>Aux environs de, en parlant d'époques.Jean Choi-<lb/>nart, approchant l'août, va voir ses blés, trouve sa <lb/>moisson trop belle,P.L. CODR. II, 286. Il parait donc <lb/>indubitablequ'il faut en placer le commencement <lb/>vers la fin de la 76e olympiade, et approchant l'an-<lb/>née 280 de Rome, BOSS. Hist. i, 8</subSense>
+</sense><sense><subSense>||i°Action de s'ap-<lb/>procher ou d'être approché.L'approchedes ennemis. <lb/>L'approche du doigt fait cligner l'oeil. Le mouve-<lb/>ment de là terre, l'approche ou l'éloignement des <lb/>étoiles, REGNARD, Voy. en Pologne. Ma foi, pour <lb/>te servir j'ai diablement couru; Ces notaires sont <lb/>gens d'approchedifficile, va. légat, n, 7. Je ne m'é-<lb/>tonne plus de cet ordre cruel Qui m'aurait interdit <lb/>l'approchede l'autel, RAC. ïphig. II, i. De son coeur <lb/>le trop juste reproche Lui fait peut-être,hélas ! évi-<lb/>ter cette approche, ID. Baj.'m, 3</subSense>
+</sense><sense><subSense>2°Rencontre, <lb/>combat. Â voir de tels amis, des personnes si proches, <lb/>Venir pour leur patrie aux mortelles approches, <lb/>CORN. HoTi m, 2</subSense>
+</sense><sense><subSense>3°En parlant des animaux, rap-<lb/>prochementsexuel. La femelle refuse constamment <lb/>l'approche du mâle, J. J. RODSS. Orig. 1. Chez les <lb/>poissons, la femelle est féconde sans les approches <lb/>du mâle, VOLT. Newt. i, 8</subSense>
+<pc>. || </pc>
+<subSense>4°Proximité. Aux ap-<lb/>proches de l'hiver. Parmi'les souffrances et-dans les <lb/>approches de la mort s'épure, comme dans un feu, <lb/>l'âme chrétienne, BOSS. le Tellier. Et quelle force <lb/>il faut aux objetsmis en place, Que l'approchedis-<lb/>tingue, et le lointain efface, MOL. la Gloire du Val <lb/>de Grâce. L'approche de l'air de la cour a donné à <lb/>son ridicule de nouveaux agréments, ID. • Comt. <lb/>d'Escarb. 1. On pensait à changer de vie aux ap-<lb/>prochesdelà Pâque, MASS. Comm. L'approched'un <lb/>combat qui le glaçait d'effroi, RAC. Théb. in, 3. <lb/>Quand de ce triste adieu je prévis les appro-<lb/>ches, ID. Bérén.v, 6. De ce triste entretien détour-<lb/>nons les approches,, ia. ïphig. ni, 7. Réduit X <lb/>sentir de la faim les premièresapproches, LA FONT. <lb/>Fianc. Et tous, tant que nous sommes, Nous nous <lb/>laissons tenteràl'approchedes biens, ID. Fab. vin, 7. <lb/>Pourvu que, de ma mort respectant les appro-<lb/>ches.... RAC. Phèd. i, 3. 11 s'affaiblissait, ce grand <lb/>prince, mais la mort cachait ses approches, BOSS. <lb/>Louis de Bourbon</subSense>
+</sense><sense><subSense>5°Terme de guerre. Accès <lb/>d'une place forte. L'approche, les approches de la <lb/>ville</subSense>
+<pc>. || </pc>
+<subSense>Travaux pour approcher, à couvert, d'une <lb/>place assiégée. Les approches furent meurtrières. <lb/>Déjà, de tous côtés, s'avançaient les approches, <lb/>MALH. Il, 12. Faire les approchesd'une ville, VAUG. <lb/>Q. C. 516. Il nous laissa faire les approches de sa <lb/>place, HAMILT. Gramm. 8</subSense>
+<pc>. || </pc>
+<subSense>6°Lunette d'approche, <lb/>lunette qui agrandit l'anglevisuel et fait paraître plus <lb/>proches les objets. Les avantages que nous donne la <lb/>lunette d'approche, PASC. Prèf. Vide</subSense>
+<pc>. || </pc>
+<subSense>7°Terme d'a-<lb/>griculture. Greffe en approche, greffe par le con-<lb/>tact de deux branches voisines</subSense>
+</sense><sense><subSense>8°Terme d'impri-<lb/>merie. Espacé, distance entre les lettres</subSense>
+<pc>. || </pc>
+<subSense>Réunion <lb/>fautive de deux mots</subSense>
+</sense><sense><subSense>Mis, amenéauprès. Échelles approchées des murs. <lb/>Le poignard approchéde son sein. Cet homme ap-<lb/>proché du prince par les circonstances</subSense>
+</sense><sense><subSense>Ac-<lb/>tion d'approcher. Ce petit approchement du soleil <lb/>rétablit le dérangement que les planètes opèrent, <lb/>VOLT. Newt. m, 8</subSense>
+</sense><sense><subSense>1°Mettre au-<lb/>près, faire avancer vers. Approcher les échelles des <lb/>murailles. Quand on approche son corps du feu. Le <lb/>vent nous approchait de la terre, FÊN. Tél. vi</subSense>
+<pc>. <lb/>|| </pc>
+<subSense>Cette lunette approcheles objets; elle les fait pa-<lb/>raître plus proches. On dit plus souvent rapprocher</subSense>
+</sense><sense><subSense>2°Fig. Elle est belle cette religion! elle approche <lb/>le coeur de la justice, CHATEAUB. Mart. 259. Le frère <lb/>rarement laisse jouir ses frères De l'honneur dan-<lb/>gereux d'être sorti d'un sang Qui les a de trop près <lb/>approchés de son rang, RAC. Baj. 1, 1. Par elle, <lb/>Bajazet, en m'approchant de lui, Me va contre lui-<lb/>même assurer un appui, ID. Baj. 1, 1. La grandeur <lb/>de Dieu demande.... que toute la gloire qui vient des <lb/>hommes ne soitqu'un songe et qu'une erreur lorsque <lb/>vous l'approchezde la sienne, MASS. Car. Respecthu-<lb/>main</subSense>
+<pc>. || </pc>
+<subSense>Le prince, le ministre, cet homme éminent <lb/>l'a approché de lui, il l'a admis dans sa familiarité, <lb/>lui adonné un emploi auprèsde sa personne</subSense>
+</sense><sense><subSense>3°En <lb/>termes de sculpture, amener successivement un ou-<lb/>vrage à fin, par le travail qu'on fait avec divers ou-<lb/>tils sur le bloc dégrossi</subSense>
+</sense><sense><subSense>4°En termes de manège, <lb/>approcherles talons ou les éperons, serrer les lom-<lb/>bes pour avertir le" cheval</subSense>
+<pc>. || </pc>
+<subSense>5°Se placer auprèsde. <lb/>La pauvreté ne peut-elle approcher les autels? Le <lb/>gardien n'approchait ce lion qu'en tremblant. Ne <lb/>nous approchez pas. Arrête, a-t-elle dit, et ne m'ap-<lb/>proche pas, RAC. Iph. v, 6</subSense>
+<pc>. || </pc>
+<subSense>Aborder, avoir accès. <lb/>C'est un homme qu'on ne peut approcher. Ce sei-<lb/>gneurapprochait le roi. Aucun d'eux du tyran n'ap-<lb/>proche la personne, CORN. Héracl.u, 7.Indignede <lb/>vous plaire et de vous approcher, Je ne dois désor-<lb/>mais songer qu'à me cacher, RAC. Phèd. ni, i. Son <lb/>caractère [de la vraiegrandeur] est nobleetfaciie.... <lb/>on l'approche tout ensemble avec liberté et avec re-<lb/>tenue, LABRUY. 2</subSense>
+</sense><sense><subSense>6°V. n. Venirprès, s'avancer, <lb/>arriver.*Approcherde la porte. Approche. Celui qui <lb/>approchaitle plus de lui. Les endroits dont il déses-<lb/>père d'approcher. Le bruit approche. De ce temple <lb/>profane osez-vous approcher?RAC. Ath. n, 5.Grip-<lb/>peminaud leur dit : Mes enfants, approchez, LA' <lb/>FONT. Fabl. vu, 16</subSense>
+<pc>. || </pc>
+<subSense>Approcher du but, mettre <lb/>près du but ; et au figuré, deviner à peu près, n'être <lb/>pas loin d'atteindre le résultat qu'onpoursuit</subSense>
+<pc>. || </pc>
+<subSense>Fig. <lb/>Nous approchons de juillet. J'approchais de quinze <lb/>ans, CORN. Héracl. m, 1</subSense>
+<pc>. || </pc>
+<subSense>Devenir, proche, être <lb/>près de se faire. Le printemps approchait. Le mo-<lb/>ment approcheoù.... La vieillesse qui approche. <lb/>La mort approche. On ne les sent aussi [les re-<lb/>mords] que quand le coup approche, CORN. Cinna, <lb/>m, 2</subSense>
+<pc>. || </pc>
+<subSense>7°Avoir du rapport, de la ressemblance <lb/>avec, rivaliser. Approcher des dieux, de la vé-<lb/>rité. Votre gloire approche de celle de ce grand <lb/>homme. L'éléphant est l'animal qui approche le <lb/>plus de l'homme par l'intelligence. Parfois le faux <lb/>approche tant du vrai. Nulle de ses soeurs n'appro-<lb/>che de sa beauté, SËV. 437. Dn air de magnificence <lb/>dont M. de Chaulnes n'approchait pas, ID. 597. Ce <lb/>qu'on appelle une oraison funèbre n'est aujourd'hui <lb/>bien reçu qu'à mesure qu'il approche de plus près <lb/>d'un éloge profane, LA BRUY. 15</subSense>. ||<subSense>8°S'approcher, <lb/>v. réfl. S'avancer, venir près de quelqu'un ou de <lb/>quelque chose. Approchez-vous de moi. Approchez-<lb/>vous du feu. L'ennemi s'approchait de la ville. Ap-<lb/>prochez-vous, Néron, et prenez votre place, RAC. <lb/>Brit. lv, 2</subSense>
+<pc>. || </pc>
+<subSense>Fig. Pourvu que ce qu'on dit ici soit <lb/>vrai, qu'il n'y a plus rien entre le roi et la reine sa <lb/>mère, qui les empêchede s'approcher, BALZ. Liv.i, <lb/>lelt. 11</subSense>
+<pc>. || </pc>
+<subSense>9°Ê tre proche, être sur le point d'arri-<lb/>ver. L'éternité s'approche.Et jemeurs! de sa froide <lb/>haleine Le vent funeste m'a touché ; Mon printemps <lb/>commençaità peine, Et mon hiver s'est approché, <lb/>MILLEv. Chute des feuilles</subSense>
+</sense><sense><subSense>Ouvrierqui <lb/>amène le hois à l'endroit où l'on construit un train</subSense>
+</sense><sense><subSense>Tirerprofit de. <lb/>Vieux</subSense>
+</sense><sense><subSense>1°Rendu plus profond. Une fosse approfondie</subSense>
+</sense><sense><subSense>2e-Examiné à fond. L'étude approfondie des an-<lb/>ciens</subSense>
+</sense><sense><subSense>1" Rendre <lb/>plus profond, creuser plus avant. Approfondir un <lb/>puits,,un fossé</subSense>. [| <subSense>Fig. Et la gloire qui suit vos plus <lb/>nobles travaux, Ne fait qu'approfondir l'abîme de <lb/>leurs maux, CORN,. Sertor. in, 2. Ce malheureux <lb/>combat ne fit qu'approfondir L'abymedont Valois <lb/>voulait en vain sortir, VOLT. Henr. ni</subSense>
+</sense><sense><subSense>2°Fig. Pé-<lb/>nétrer dans la connaissancede quelque chose. Nous <lb/>approfondirons ce point dans la dernière partie de <lb/>cet essai, DIDER. ESS. S. le mérite. Peu approfondis-<lb/>sent les choses, PASC. Prov. 2. Enfin de Mahomet <lb/>les sublimes desseins Que n'ose approfondirl'hum-<lb/>ble esprit des humains, VOLT. Fanât, n, &amp;lt;. Â force <lb/>de vouloir approfondir un coeur, ID. Catil. i, i</subSense>
+</sense><sense><subSense>3°S'approfondir, v. rc'fl. Devenir plus profond. <lb/>L'abîme s'approfondit tous les jours</subSense>
+<pc>. || </pc>
+<subSense>4°S'exa-<lb/>miner. Vous devez avoir -sans cesse sous les yeux <lb/>d'un côté l'état de votre âme, de l'autre les vérités <lb/>que nous annonçons, vous mesurer sur cette règle, <lb/>vous approfondirdans cette lumière, MASS. Parole. <lb/>Que l'homme, s'examine, s'analyse et s'approfon-<lb/>disse, il reconnaîtra bientôt la noblessede son être, <lb/>BUFP. Nature des animaux</subSense>
+</sense><sense><subSense>1°Action d'approfondir; résultat de cette <lb/>action. L'approfondissementdes fossés</subSense>
+</sense><sense><subSense>2°Fig. Il <lb/>[St Bernard] ne chercha pas à éblouir les esprits <lb/>par de nouvelles découvertes ni à se faire honneur <lb/>de certains approfondissementsqui flattent par leur <lb/>singularité, MASS. St Bernard</subSense>
+</sense><sense><subSense>1°Ac-<lb/>tion d'approprier, de rendre propre à. L'appropria-<lb/>tion d'un local au service des malades</subSense>
+</sense><sense><subSense>2°Action <lb/>de s'approprier une chose. Cet homme déloyal n'a <lb/>pas craint de se faire l'appropriation d'un dépôt</subSense>
+<pc>. <lb/>|| </pc>
+<subSense>Par extension. On n'estjamaissurpris de voir qu'on <lb/>s'est trompé ; on quitte sans peine une pensée qu'on <lb/>avait sans appropriation,FÉN.II, 2J0</subSense>
+</sense><sense><subSense>3°Terme de <lb/>chimie ancienne. Disposition de deux corps à se <lb/>combiner par l'addition d'un troisième</subSense>
+</sense><sense><subSense>i°Rendu propre à.-Un marais appropriéà la cul-<lb/>ture par des travaux bien entendus</subSense>
+</sense><sense><subSense>2°Convenable <lb/>à,adaptéà. Ayantfait un discours approprié aux cir-<lb/>constances.Mesure appropriéeà leur caractère. Des <lb/>remèdes appropriés. Traitement approprié à chaque <lb/>maladie</subSense>. ||<subSense>3°Mis dans unétatde propreté, dans un <lb/>nouvel état d'agencement. Une maison appropriée.' <lb/>|| 4°En droit canon,' bénéfice approprié, bénéfice <lb/>dont le revenu est annexéà quelquedignité ou com-<lb/>munauté, et qui est desservi par un vicaire</subSense>
+</sense><sense><subSense>1°Rendre <lb/>propre à, convenable à. Usera difficile d'approprier <lb/>ce que j'ai à dire au tribunal où je comparais, <lb/>j. j. ROUSS. Sciences</subSense>
+</sense><sense><subSense>2°Mettre en état de pro-<lb/>prêté , <lb/>disposer convenablement. Approprier une <lb/>maison, une chambre, un cabinet. Mettez or-<lb/>dre à tout [Nausicaa], dépêchez-vous de les laver <lb/>[vos vêtements], de les approprier, FÉN. XXI, 348. <lb/>L'instinct d'approprier son domicile et d'y faire un <lb/>plancher, pour n'être pas incommodée de l'humi-<lb/>dité, BUFF. Loutre</subSense>
+</sense><sense><subSense>3°Fig. Faire qu'une chose de-<lb/>vienne comme la propriété d'un autre. Et son intérêt <lb/>lui doit conseiller de faire cesser les misères que sa <lb/>compassion lui appropria, BALZ. Disc, à la Régente</subSense>
+</sense><sense><subSense>4°S'approprier, approprier à soi, usurper la pro-<lb/>priété. Ils se sont approprié un dépôt.... Vous êtes <lb/>fort plaisante De vouloirm'enlever un coeur comme <lb/>le sien, Et vous approprier si hardiment mon bien, <lb/>BEGNARD, Ménech. v, 2</subSense>
+<pc>. || </pc>
+<subSense>Fig. Ily a apparence que <lb/>Dieu s'est approprié cette affaire, PASC. dans coos. <lb/>Il s'approprie une nature étrangère, EOSS. Hist. n, <lb/>•H. S'approprianttoujours le sort des malheureux, <lb/>De ses concitoyens mon époux fut le père, ROYOU, <lb/>Phocion, n, 2. Je m'approprie de telle sorte vos <lb/>joies et vos déplaisirs, que ce sont les bonnes et les <lb/>mauvaises nouvelles que je reçois de vous, qui font <lb/>mes bons et mes mauvaisjours, BALZ. Lett. à Con-<lb/>rard, i,^, dans RICHELET</subSense>
+</sense><sense><subSense>5" S'approprier, v.réfl. <lb/>Se conformerà, se mettre àla portée de. Cet auteur <lb/>songe peu à s'approprierà ses lecteurs. Lesmaîtres <lb/>se sont appropriés à leurs élèves</subSense>
+</sense><sense><subSense>Son avis fut fort approuvé.Opinion qui n'est pas ap-<lb/>prouvée des Stoïciens.Et, pour être -approuvés, De <lb/>semblablesprojets veulentêtre achevés, RAG. ililhr. <lb/>. <lb/>ni, 1. C'est la situation de presque tous les hom-<lb/>mes, et même des plus sages et des plus approuvés <lb/>dans le monde, MASS. Car. Élus</subSense>
+<pc>. || </pc>
+<subSense>Approuvé, forme <lb/>elliptique, invariable, s'emploie au bas d'un acte, <lb/>d'un compte, etc. qu'on approuve après lecture et <lb/>examen. Approuvé l'écriture ci-dessus</subSense>
+</sense><sense><subSense>1°Agréer, con-<lb/>sentir à. Approuver un avis. Je dirai pourquoi je <lb/>n'approuve pas cette division. Le gouvernement ap-<lb/>prouve l'envoi d'une flotte. Approuver les conditions. <lb/>Le roi n'approuve pas que l'ambassadeur revienne</subSense>
+</sense><sense><subSense>2°Juger louable, trouver digned'estime, louer. Je <lb/>suis enchanté que vous approuviez ma conduite. <lb/>Je l'approuve d'être si vivement touché. J'aurais <lb/>approuvétout ce qui a été fait.Approuver quelqu'un <lb/>par un geste. J'écoute vos conseils,j'ose les approu-<lb/>ver, RAC. Brit. n, 2</subSense>
+</sense><sense><subSense>3°Autoriser par un acte au-<lb/>thentique. Le conseilde l'Université a approuvécet <lb/>ouvrage</subSense>
+</sense><sense><subSense>4°S'approuver, v. réfl. Se donner à soi-<lb/>même un témoignage d'approbation. Ne pense pas <lb/>Qu'innocenteà mes yeux, je m'approuvemoi-même, <lb/>RAC. Phèd. n, 5</subSense>
+</sense><sense><subSense>Garni de provisions. Ville bien appro-<lb/>visionnée</subSense>
+</sense><sense><subSense>1°Action d'approvisionner.L'approvisionne-<lb/>ment de Paris</subSense>
+</sense><sense><subSense>2°Provisions rassemblées. Cette <lb/>place a des approvisionnementssuffisants. Nos ap-<lb/>provisionnements sont épuisés</subSense>
+</sense><sense><pc>[ </pc>
+<subSense>1°Garnir de provisions.Approvisionner une ville, <lb/>un camp</subSense>
+<pc>. || </pc>
+</sense><sense><subSense>2°S'approvisionner, v. réfl. Se mu-<lb/>nir de provisions. L'armée s'était approvisionnée <lb/>de tout ce qui était nécessaire à une longuemarche</subSense>
+</sense><sense><subSense>Celui qui approvisionne</subSense>
+</sense><sense><subSense>Qui est fait par approximation.Estimation ap • <lb/>proximative. Calcul approximatif</subSense>
+</sense><sense><subSense>1°Terme de mathématiques. Opération par la-<lb/>quelle-on s'approche de plus en plus de la valeur <lb/>d'une quantité</subSense>
+</sense><sense><subSense>2°En général, estimation faite à <lb/>peu près. Voyez par approximation ce que cela peut <lb/>coûter. [En agriculture] Les usages sont fondés sur <lb/>des expériencescontinuellementrépétées, dont les <lb/>résultats sont des espèces d'approximationsdu vrai, <lb/>BUFF. Exp. sur les végét. 2e mém</subSense>
+</sense><sense><subSense>D'une manièreapproximative..Evaluer <lb/>approximativement</subSense>
+</sense><sense>i<subSense>°Ce quisupporte, soutient. <lb/>Cette muraille a besoin d'appui. Mur d'appui, mur <lb/>qui soutientdes terres. Il veut faire un mur d'appui <lb/>dans son parterre, SËV. 688</subSense>. ||2<subSense>°Fig. Aide, secours. <lb/>La vérité est sans.force et sans appui. L'argent est <lb/>un puissant appui. Sur ces deux grands appuis ma <lb/>couronne affermie.... CORN. Sertor.n, l. En lui Votre <lb/>trône tombanttrouverait unappui,n&amp;gt;. Rodog. n, 3. <lb/>S'ilest assez fort pour me servir d'appui, w.ib. m, 3. <lb/>Qui ss fit votre appui, ID. D.San.i, i. Un roisage, <lb/>ainsi Dieu l'a prononcélui-même, Sur la richesseet <lb/>l'or ne-met point son appui, RAC. Âthal. iv, 2. Pour <lb/>se donner de l'appui dans sa frayeur, BOSS. Hist. i, <lb/>jo. Seigneur, je viens pour elle implorer votre ap-<lb/>pui, RAci Iphig. ni, 6. Ah! je le prends déjà, sei-<lb/>gneur, sous mon appui, ro. Ath. v, 2. Sous quel ap-<lb/>pui tantôt mon coeur s'est-il jeté? ID. Mithr. n, 6. <lb/>C'est son appui qu'on cherche en cherchant votre <lb/>appui, ID. Brit. rv, 1. Je sais qu'en ma prière il au-<lb/>rait peu d'appui, CORN. Béracl. iv, 4. Lavertu trouve <lb/>appui contre la tyrannie, m. Nicom. ni, 2. Bien <lb/>loin de vous prêter l'appui dont vous parlez, ID. Nie. <lb/>1, 2. Etsousl'appui deslois mit la faible innocence, <lb/>Bon.. A. poêt. iv</subSense>
+<pc>. || </pc>
+<subSense>3°La partie d'une fenêtre, d'une <lb/>balustrade, etc. sur laquelle on peut s'appuyer. Met-<lb/>tre sur l'appui des pots de fleurs</subSense>
+<pc>. || </pc>
+<subSense>X hauteur d'ap-<lb/>pui, à la hauteur ordinaire du coude d'un homme <lb/>qui se penche. Les palissades sont à hauteurd'ap-<lb/>pui, SÉV. 70</subSense>
+<pc>. || </pc>
+<subSense>Fig. Si vous saviez qu'ils sont petits <lb/>de près et combienils sontquelquefois empêchés de <lb/>leurs personnes, vous les remettriez bientôt à hau-<lb/>teur d'appui,sËv.l l l</subSense>. 11<subSense>4°Termede mécanicien.Point <lb/>d'appui ou simplement appui, le point sur lequel <lb/>le levier s'appuie</subSense>
+</sense><sense><subSense>5°En termes de grammaire, <lb/>appui de lavoix sur une syllabe, élévation ou plutôt <lb/>intensité delàvoix sur cettesyllabe</subSense>
+</sense><sense><subSense>6°En termesde <lb/>manège, sensation qu'éprouvela main du cavalier <lb/>par la pression dtfmors sur lesbarres du cheval. Ce <lb/>cheval a l'appui lourd. Ce cheval n'apoint d'appui, il <lb/>n'a point de bouche</subSense>
+<pc>. || </pc>
+<subSense>Appui de main, sorte d'aide <lb/>qu'on donne au cheval par là bride</subSense>
+<pc>. || </pc>
+<subSense>Appui du col-<lb/>lier, lepoint d'unionde l'encolureavec lesépaules,ou <lb/>l'espèce de talus que ces parties présentent en avant. <lb/>|l Appuiposé ou foulée, le temps pendant lequel un <lb/>membre est employé a soutenir le corps sur le sol</subSense>
+</sense><sense><subSense>7°Technologie. Pièce du banc des tourneurs</subSense>
+</sense><sense><subSense>8" X l'appui de, loc. prëpos. X l'appui de mon <lb/>dire. Piècesà l'appui d'un compte, ou, simplement, <lb/>pièces à l'appui. L'événementvint à l'appui</subSense>. ||<subSense>9°Au <lb/>jeu de boule, aller à l'appui de la boule, jeter sa <lb/>boule de manière à.avancer celle du joueur avec <lb/>qui l'on est de moitié; et figurément, appuyer, fa-<lb/>voriser : faites la proposition, firai à l'appui de la <lb/>boule</subSense>
+</sense><sense><subSense>Baguette sur la-<lb/>quelleles peintres appuient la main qui tient le pin-<lb/>ceau</subSense>
+<pc>. || </pc>
+<subSense>Au plur. Des appuis-main</subSense>
+</sense><sense><subSense>l°Qui <lb/>pèse sur. Appuyé sur le coude. Appuyé sur sa lance</subSense>
+</sense><sense><subSense>2" Qui porte contre. Appuyé contre un mur</subSense>. <lb/>|j <subSense>3°Fig. Qui se repose sur, secondé. Appuyé sur <lb/>la faveurpopulaire.Appuyé par le ministre dans son <lb/>élection. Sur son jugement seul ce grand homme <lb/>appuyé, VOLT. Tancr. rv, 6. Après mille serments <lb/>appuyés dé mes larmes, RAC. Bèrèn. n, 2. Appuyé <lb/>de Sénèque et du tribun Burrhus, ID. Brit. m, 3. <lb/>Elle n'est en ces lieux que trop bien,appuyée, ID. <lb/>Andr. rv, e</subSense>
+<pc>. || </pc>
+<subSense>4°Marqué, significatif. Ces derniers <lb/>mots furent prononcés avec une gravité appuyée <lb/>qui surprit fort l'assistance, ST-SIM. 68, 132. D'un <lb/>ton grave et d'un accent appuyé, i. J. ROUSS. Ém.v</subSense>
+<pc>. <lb/>|| </pc>
+<subSense>5°Absolument. Appuyé, formule d'assentimentà <lb/>une proposition, etc. Le projet doit passer par ac-<lb/>clamation.-Appuyé !</subSense> </sense><sense><subSense>i°Donner un ap-<lb/>pui à. Appuyer une muraille par des piliers. Ap-<lb/>puyer un édifice par des arcs-boutants</subSense>
+<pc>. || </pc>
+<subSense>Appuyer <lb/>contre, faire porter une chose contre une autre, de <lb/>manière qu'elle soit soutenue ou abritée. Appuyer <lb/>l'échelle contrele mur</subSense>
+<pc>. || </pc>
+<subSense>Appuyer sur, poser sur ce <lb/>qui peut soutenir. Appuyer ses mains, ses coudes <lb/>sur une table</subSense>
+</sense><sense><subSense>2°Fig. Vous n'appuyez votre bon-<lb/>heur que sur le mensonge, PASC. Prov. 17 <lb/>En <lb/>vain sur leur faiblesse appuyaientleur défense, RAC. <lb/>Andr. i, i. Un père est toujourspère, et sur cette as-<lb/>surance J'ose appuyer encore un reste d'espéranceĈ <lb/>ORN. Poly. v, 3. C'est bâtir sur la boue que d'ap-<lb/>puyer les fondementsde sa fortune sur l'affection <lb/>passagère d'une vile populace, VERTOT, Révol. rom. <lb/>xiv, 303</subSense>
+</sense><sense><subSense>3°Faire peser. Il appuie trop le pied en <lb/>marchant. Il lui appuya le genou sur la poitrine</subSense>
+<pc>. <lb/>|| </pc>
+<subSense>4°Tenir tout contre. Il m'appuya son pistolet contre <lb/>lapoitrine</subSense>
+</sense><sense><subSense>5°En termes de manège, appuyer l'épe-<lb/>ron à son cheval, et elliptiquement, appuyer des <lb/>deux, appliquer l'éperon, les deux éperons à son <lb/>cheval</subSense>
+</sense><sense><subSense>6°En termes d'escrime, appuyer la botte, <lb/>appuyer le fleuret sur le corps de son adversaire <lb/>après l'avoir touché ; et, figurément, presser, <lb/>embarrasser quelqu'un</subSense>
+<pc>. ||</pc>
+<subSense>'7°En termes d'art mili-<lb/>taire, appuyer la droite d'un corps de troupes à un <lb/>bois, à un mamelon, la disposer de manière qu'un <lb/>bois, qu'un mamelon la protège</subSense>
+</sense><sense><subSense>8" En termes de <lb/>marine, v. a. Soutenir les vergues du bord du vent <lb/>contre un vent qui souffle grandfrais</subSense>
+<pc>. || </pc>
+<subSense>9°Soutenir, <lb/>aider. Fallait-il appuyerune prétentionraisonnable? <lb/>FLÉCH. Mont. On ne le voit pas se mettre en peine <lb/>d'appuyer une douteuse réputation par l'intrigue et <lb/>parla cabale, m.Panég. n,68.... Vous appuyezvous-<lb/>même son courroux, RAC. Brit. m, 1. 11 venait par <lb/>la force appuyer son partage, ID. Mithr. n, 3. Vous-<lb/>même en expirant appuyiez ses discours, ID. Phèd. <lb/>m, 3. Un bruit que j'ai pourtant soupçonnéde men-<lb/>songe, Appuyantles avis qu'elle a reçus en songeai <lb/>ID. Ath. m. 4. La sultane, à ce bruit, feignant de <lb/>s'effrayer, Par des cris douloureux eut soin de l'ap-<lb/>puyer, m.Baj. i, 1. Et son trouble appuyant la foi de <lb/>vos discours,îv.Eslh. m,6. Vous daignerez appuyer <lb/>sa demande, MOL. F.sav. i,2. Le pape dont Constant <lb/>appuya le décret, BOSS. Hist. i, il. César que Cicé-<lb/>ron appuyait au sénat, VOLT. Catil. i, 2. Tu n'as de <lb/>fils qu'Octave, et nulle adoption N'a d'un autre Cé-<lb/>sar appuyéta maison, ID. M. de Ces. i, l. Un homme <lb/>savant appuya ce que disait la marquise, ID. Cand. <lb/>22</subSense>
+<pc>. || </pc>
+<subSense>Absolument. Personne à la cour ne veut enta-<lb/>mer;on s'offre d'appuyer, parce que jugeant des au-<lb/>tres par soi-même, on espère que nul n'entamera," et <lb/>qu'on sera ainsi dispensé d'appuyer, LA BRUY. 8</subSense>
+</sense><sense><subSense>10°En termes de chasse, appuyer les chiens, <lb/>les exciter du cor et de la voix</subSense>
+<pc>. || </pc>
+<subSense>ii°V. n. Peser <lb/>fortement sur une chose. Appuyer sur un cachet, <lb/>sur un burin.N'appuyez pas, l'endroit est sensible</subSense>
+<pc>. <lb/>|| </pc>
+<subSense>Fig. Insister avec force. Cet argument sur lequel <lb/>on appuie avec tant de force, BOSS. Préf. Il avait un <lb/>peu trop appuyé sur ce dernier article, HAMILT. <lb/>Gramm. 10. Je n'ai point appuyé là-dessus et j'ai <lb/>bien fait, SÉV. 493</subSense>
+<pc>. || </pc>
+<subSense>En termes de musique, <lb/>appuyer sur une note, y donner plus de force. Ap-<lb/>puyer sur un mot, le prononcer avec plus d'inten-<lb/>sité</subSense>
+</sense><sense><subSense>12°En termes d'art militaire, appuyer sur la <lb/>droite ou à droite, se porter du côté droit</subSense>
+</sense><sense><subSense>13°En <lb/>termes de manège, ce cheval appuie sur le mors, <lb/>il porte la tête basse et fatigue la main du cavalier</subSense>
+</sense><sense><subSense>14°S'appuyer, v. réfl. S'aider, se servir comme <lb/>d'un appui, d'un soutien. S'appuyer contre la mu-<lb/>raille. 11 s'appuyait sur sa canne</subSense>. ||<subSense>Fig. S'appuyant <lb/>sur la faveur du ministre. Sur qui dans son malheur <lb/>voulez-vousqu'il s'appuie? RAC. Phèd. I, 5. Cepen-<lb/>dant, cher Osmin, pour s'appuyer de moi, L'un et <lb/>l'autreont promisAtalide àmafoi, ID. Baj. 1.1. M. de <lb/>Cambrai prétend s'appuyer de Blosius, BOSS. Lett. <lb/>quiét. 399. Il se veut appuyer du décret de saint <lb/>Etienne, ID. Bibl</subSense>
+</sense><sense><subSense>Terme de marine. <lb/>État d'un bâtiment qui, incliné par la force du vent, <lb/>ne se relève pas et n'éprouve pas de mouvement de <lb/>roulis</subSense>
+</sense><sense><subSense>Technologie. Ins-<lb/>trument pour appuyer</subSense>
+</sense><sense><subSense>1°Qui cause une impression <lb/>désagréable, soit sur le goût, soit sur l'ouïe, soit <lb/>sur le toucher, par la rudesse de son action ou par <lb/>les inégalités de surface. Un fruit âpre. Un corps <lb/>âpre au toucher. Un chemin âpre et difficile. Une <lb/>voix rude et âpre</subSense>
+<pc>. || </pc>
+<subSense>Poétiquement. Ses yeux creux <lb/>pleins d'un feu âpre et farouche, FÉN. Tél. in</subSense>
+</sense><sense><subSense>2°Fig. Sévère, dur, violent. Âpre vertu, CORN. <lb/>Hor. il, 3. Âpre jalousie, ID. Sertor. i, t. Et je <lb/>garde, au milieu de tant d'âpres rigueurs, Mes lar-<lb/>mes aux vaincus et ma haine aux vainqueurs, ID. <lb/>Hor. i, 1. L'âpre déplaisir, ID. Pomp. rv, H. Aux plus <lb/>âpres tourments un chrétien est en butte, ID. Poly. <lb/>i, l. Qu'un si charmant abus serait à préférer X <lb/>l'âpre vérité qui vientde m'éclairer,n&amp;gt;.fferacï. in, t. <lb/>Et cet âpre courroux, quoi qu'elle en puisse dire, <lb/>Ne s'obstinera point au refus d'un empire, RAC. <lb/>Alex, m, 3. [L'hymen] y joint [à l'amour], dit <lb/>Climène, une âpre jalousie, LA FONT. Filles de Min. <lb/>La haine devenait plus âpre, BOSS. Hist. i, 10. Leur <lb/>âpre austérité que rien ne peut gagner,. N'est dans <lb/>ces coeurs hautains que la soif de régner, VOLT. <lb/>Brut, i, 4</subSense>
+</sense><sense><subSense>3°Difficile. Quelques grandes difficul-<lb/>tés qu'il y ait à se placer à la cour, il est encore <lb/>plus difficile et plus âpre de se rendre digne d'y <lb/>être placé, LA BRUY. 8</subSense>
+<pc>. || </pc>
+<subSense>4°Cupide, avide. Homme <lb/>âpre. Âpre au gain. Les curés les plus durs, lesplus <lb/>âpres à exiger leurs droits, sont ceux qui vivent <lb/>d'une manière plus sordide et plus indécente, MASS. <lb/>Disc. Syn. Avarice</subSense>
+<pc>. || </pc>
+<subSense>On dit d'un chien : Il est <lb/>âpre à la curée, c'est-à-dire, il est avide, vorace. <lb/>Fig. Il se dit aussi d'un hommeavided'argent et de <lb/>places</subSense>
+<pc>. || </pc>
+<subSense>On dit qu'un faucon est âpre à là proie, <lb/>quand il se sert vigoureusementdu bec et des on-<lb/>gles</subSense>
+</sense></body>
+	</text>
+</tei>

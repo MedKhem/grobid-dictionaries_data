@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="form.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="form.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><form><orth>EXAMINER </orth></form><form><orth>EXCITER </orth></form><form><orth>EXCLAMATION </orth></form><form><orth>EXPLICATION </orth></form><form><orth>EXPLIQUER </orth></form><form><orth>EXPLOIT </orth></form><form><orth>EXPRÈS </orth></form><form><orth>EXTASE </orth></form><form><orth>EXTERMINER </orth></form><form><orth>EXTINCTION </orth></form><form><orth>EXTORQUER </orth></form><form><orth>EXTRAORDINAIRE </orth></form><form><orth>EXTRÉMITÉ </orth></form><form><orth>EZANGA </orth></form><form><orth>FABRIQUER </orth></form><form><orth>FACE </orth></form><form><orth>FACILE </orth></form><form><orth>FAÇONNER </orth></form><form><orth>FADE </orth></form><form><orth>FAGOT </orth></form><form><orth>FAIBLE </orth></form><form><orth>FAIBLESSE <lb/></orth></form><form><orth>FAIBLIR </orth></form><form><orth>FAIM </orth></form><form><orth>FAIRE </orth></form><form><orth>FAISANDÉ </orth></form><form><orth>FAISANDER (se) </orth></form><form><orth>FALLOIR </orth></form><form><orth>FAMILLE </orth></form><form><orth>FANG </orth></form><form><orth>FARDEAU </orth></form><form><orth>FARINE </orth></form><form><orth>FATIGUE </orth></form><form><orth>FATIGUÉ </orth></form><form><orth>FATIGUER (se) </orth></form><form><orth>FAUCHER </orth></form><form><orth>FAUFILER (se) </orth></form><form><orth>FAUSSE-COUCHE <lb/></orth></form><form><orth>FAUTE </orth></form><form><orth>FAVEUR <lb/></orth></form><form><orth>FAVORIS </orth></form><form><orth>FEMELLE </orth></form><form><orth>FEMME </orth></form><form><orth>FÉMUR </orth></form><form><orth>FENDRE </orth></form><form><orth>FENTE </orth></form><form><orth>FER </orth></form><form><orth>FERME </orth></form><form><orth>FERMÉ </orth></form><form><orth>FERMENTER </orth></form><form><orth>FERMER </orth></form><form><orth>FERMETURE </orth></form><form><orth>FERTILE </orth></form><form><orth>FESSE </orth></form><form><orth>FESTIN </orth></form><form><orth>FÊTE </orth></form></body>
+	</text>
+</tei>

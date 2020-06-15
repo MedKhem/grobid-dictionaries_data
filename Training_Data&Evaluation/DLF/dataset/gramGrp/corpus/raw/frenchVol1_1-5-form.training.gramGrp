@@ -1,0 +1,41 @@
+s s s s s s s s s s 13.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 13.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+m m m m m m m m m m 14.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+. . . . . . . . . . 14.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+
+3 3 3 3 3 3 3 3 3 3 11.0 false false ALLCAPS NOPUNCT LINESTART NEWFONT 
+» » » » » » » » » » 11.0 false false ALLCAPS NOPUNCT LINEIN SAMEFONT 
+pers pers p pe per pers s rs ers pers 14.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+. . . . . . . . . . 14.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+sing sing s si sin sing g ng ing sing 14.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+. . . . . . . . . . 14.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+ind ind i in ind ind d nd ind ind 15.0 false false NOCAPS NOPUNCT LINEEND SAMEFONT 
+
+prép prép p pr pré prép p ép rép prép 14.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 14.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+
+ad ad a ad ad ad d ad ad ad 14.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+) ) ) ) ) ) ) ) ) ) 14.0 false false ALLCAPS ENDBRACKET LINEIN SAMEFONT 
+. . . . . . . . . . 14.0 false false ALLCAPS PUNCT LINEEND SAMEFONT 
+
+s s s s s s s s s s 13.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 13.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+f f f f f f f f f f 13.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+. . . . . . . . . . 13.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+
+part part p pa par part t rt art part 15.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+, , , , , , , , , , 15.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+et et e et et et t et et et 15.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+adj adj a ad adj adj j dj adj adj 14.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+. . . . . . . . . . 14.0 false false ALLCAPS PUNCT LINEEND SAMEFONT 
+
+s s s s s s s s s s 17.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 17.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+m m m m m m m m m m 17.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+. . . . . . . . . . 17.0 false false ALLCAPS PUNCT LINEEND SAMEFONT 
+
+v v v v v v v v v v 14.0 false false NOCAPS NOPUNCT LINESTART NEWFONT 
+. . . . . . . . . . 14.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+a a a a a a a a a a 15.0 false false NOCAPS NOPUNCT LINEIN SAMEFONT 
+. . . . . . . . . . 15.0 false false ALLCAPS PUNCT LINEIN SAMEFONT 
+

@@ -1,0 +1,20 @@
+Dict+Mix-Sp+Model+dictionary-segmentation+Feature+Bigram+DataLevel+1
+===== Field-level results =====
+
+label                accuracy     precision    recall       f1           support
+
+<body>               70           40           40           40           5      
+<footnote>           90           100          60           75           5      
+<headnote>           95           100          85.71        92.31        7      
+
+all (micro avg.)     85           78.57        64.71        70.97        17     
+all (macro avg.)     85           80           61.9         69.1         17     
+
+===== Instance-level results =====
+
+Total expected instances:   3
+Correct instances:          0
+Instance-level recall:      0
+
+
+Evaluation for dictionary-segmentation model is realized in 232 ms

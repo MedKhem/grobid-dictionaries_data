@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="form.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="form.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><form><orth>CHÈVRE </orth></form><form><orth>CHEVROTIN </orth></form><form><orth>CHICANER </orth></form><form><orth>CHICANEUR </orth></form><form><orth>CHICOTE </orth></form><form><orth>CHIEN </orth></form><form><orth>CHIMPANZÉ </orth></form><form><orth>CHIQUE </orth></form><form><orth>CHOC </orth></form><form><orth>CHOISI </orth></form><form><orth>CHOISIR </orth></form><form><orth>CHORISTE </orth></form><form><orth>CHOSE </orth></form><form><orth>CHOU </orth></form><form><orth>CHRYSALIDE <lb/></orth></form><form><orth>CHUCHOTEMENT </orth></form><form><orth>CHUCHOTER </orth></form><form><orth>CHUTE </orth></form><form><orth>CIBLE </orth></form><form><orth>CICATRICE </orth></form><form><orth>CIEL </orth></form><form><orth>CIGALE </orth></form><form><orth>CIL </orth></form><form><orth>CÎME </orth></form><form><orth>CIMIER </orth></form><form><orth>CINQ </orth></form><form><orth>CINQUANTE </orth></form><form><orth>CIRCONCIRE </orth></form><form><orth>CIRCONCIS </orth></form><form><orth>CIRCONCISION </orth></form><form><orth>CIRE </orth></form><form><orth>CISEAU </orth></form><form><orth>CITRONNELLE <lb/></orth></form><form><orth>CITRONNIER </orth></form><form><orth>CIVETTE </orth></form><form><orth>CIVIÈRE </orth></form><form><orth>CLAIE </orth></form><form><orth>CLAIR </orth></form><form><orth>CLOQUE </orth></form><form><orth>CLOU </orth></form><form><orth>CLOUER </orth></form><form><orth>COBAYE </orth></form><form><orth>COBRA </orth></form><form><orth>COCHON <lb/></orth></form><form><orth>COCON </orth></form><form><orth>COCOTIER </orth></form><form><orth>COEUR </orth></form><form><orth>COIFFURE </orth></form><form><orth>COIN </orth></form><form><orth>COINCÉ </orth></form><form><orth>COLÈRE </orth></form><form><orth>COLOBE </orth></form><form><orth>COLOCASE </orth></form><form><orth>COLONNE </orth></form><form><orth>COLORANT </orth></form><form><orth>COLORIER </orth></form><form><orth>COMBIEN </orth></form></body>
+	</text>
+</tei>

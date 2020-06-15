@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="sense.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="sense.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><sense><subSense>ab eterno <lb/></subSense>
+</sense><sense><subSense>antes que hubiese mundo <lb/></subSense>
+</sense><sense><subSense>predicar de pasada <lb/></subSense>
+</sense><sense><subSense>casi casi o por poco <lb/></subSense>
+</sense><sense><subSense>desde entonces </subSense>
+<pc>; </pc>
+<subSense>en otro tiempo pa-<lb/>sado <lb/></subSense>
+</sense><sense><subSense>hasta (preposición) <lb/></subSense>
+</sense><sense><subSense>como hasta tal parte <lb/></subSense>
+</sense><sense><subSense>sobre todo (precediendo plá-<lb/>tica) <lb/></subSense>
+</sense><sense><subSense>tanto cuanto <lb/></subSense>
+</sense><sense><subSense>pensar antes <lb/></subSense>
+</sense><sense><subSense>crecer en bien o <lb/>en mal <lb/></subSense>
+</sense><sense><subSense>empeorar a otro queriéndole corregir <lb/>con alguna reprehensión <lb/></subSense>
+</sense><sense><subSense>empeorar cada día más <lb/>en la vida <lb/></subSense>
+</sense><sense><subSense>empeorar a otro que-<lb/>riéndole corregir con alguna reprehensión <lb/></subSense>
+</sense><sense><subSense>empeorar a otro que-<lb/>riéndole corregir con alguna reprehensión <lb/></subSense>
+</sense><sense><subSense>empeorar a otro que-<lb/>riéndole corregir con alguna reprehensión <lb/></subSense>
+</sense><sense><subSense>y aún (conjunción adver-<lb/>sativa), ut ¿y aún haces eso todavía? <lb/></subSense>
+</sense><sense><subSense>ir a ver otra vez <lb/></subSense>
+</sense><sense><subSense>denantes </subSense>
+<pc>; </pc>
+<subSense>rato ha <lb/></subSense>
+</sense><sense><subSense>empeorar <lb/>cada día más en la vida <lb/></subSense>
+</sense><sense><subSense>empeorar cada <lb/>día más en la vida <lb/></subSense>
+</sense><sense><subSense>ahora luego <lb/></subSense>
+</sense><sense><subSense>luego a la hora <lb/></subSense>
+</sense><sense><subSense>morir de repente <lb/></subSense>
+</sense><sense><subSense>de allí </subSense>
+<pc>; </pc>
+<subSense>desde entonces acá <lb/></subSense>
+</sense><sense><subSense>desde ayer <lb/></subSense>
+</sense><sense><subSense>desde antier <lb/></subSense>
+</sense><sense><subSense>hallar algo de presto <lb/></subSense>
+</sense><sense><subSense>hallar algo de presto <lb/></subSense>
+</sense><sense><subSense>hallar algo de presto <lb/></subSense>
+</sense><sense><subSense>hallar algo de presto <lb/></subSense>
+</sense><sense><subSense>morir cayéndose de su estado <lb/></subSense>
+</sense><sense><subSense>caerse muerto <lb/></subSense>
+</sense><sense><subSense>hasta dentro en el corazón <lb/></subSense>
+</sense><sense><subSense>de dentro <lb/></subSense>
+</sense><sense><subSense>de medio abajo <lb/></subSense>
+</sense><sense><subSense>de medio arriba <lb/></subSense>
+</sense><sense><subSense>incontinenti [luego] </subSense>
+<pc>; </pc>
+<subSense>luego a la hora </subSense>
+<pc>; <lb/></pc>
+<subSense>presto </subSense>
+<pc>; </pc>
+<subSense>temprano <lb/></subSense>
+</sense><sense><subSense>presto <lb/></subSense>
+</sense><sense><subSense>ir presto <lb/></subSense>
+</sense><sense><subSense>aína por presto <lb/></subSense>
+</sense><sense><subSense>gemir al gemido <lb/>de otro <lb/></subSense>
+</sense><sense><subSense>y luego a la hora <lb/></subSense>
+</sense><sense><subSense>y luego a la hora <lb/></subSense>
+</sense><sense><subSense>desde que <lb/>el mundo es mundo <lb/></subSense>
+</sense><sense><subSense>ver <lb/>clara o distintamente <lb/></subSense>
+</sense><sense><subSense>de día y de noche </subSense>
+<pc>; </pc>
+<subSense>siempre </subSense>
+<pc>; <lb/></pc>
+<subSense>todos los días y noches <lb/></subSense>
+</sense><sense><subSense>dormir día y <lb/>noche <lb/></subSense>
+</sense><sense><subSense>quebrar el enojo en otro <lb/></subSense>
+</sense><sense><subSense>origen o principio <lb/></subSense>
+</sense><sense><subSense>antes de ahora <lb/></subSense>
+</sense><sense><subSense>pensar antes <lb/></subSense>
+</sense><sense><subSense>principio del <lb/>mundo <lb/></subSense>
+</sense><sense><subSense>presto <lb/></subSense>
+</sense><sense><subSense>ir presto <lb/></subSense>
+</sense><sense><subSense>punto de la <lb/>partida <lb/></subSense>
+</sense><sense><subSense>de allí a cuatro días <lb/></subSense>
+</sense><sense><subSense>hacia mano derecha <lb/></subSense>
+</sense><sense><subSense>como hasta tal parte <lb/></subSense>
+</sense><sense><subSense>desde entonces <lb/></subSense>
+</sense><sense><subSense>al prin-<lb/>cipio del mundo <lb/></subSense>
+</sense><sense><subSense>principio del <lb/>mundo <lb/></subSense>
+</sense><sense><subSense>aprisa </subSense>
+<pc>; </pc>
+<subSense>incontinenti [luego] </subSense>
+<pc>; </pc>
+<subSense>y luego </subSense>
+<pc>; <lb/></pc>
+<subSense>luego a la hora </subSense>
+<pc>; </pc>
+<subSense>temprano <lb/></subSense>
+</sense><sense><subSense>hallar algo <lb/>de presto <lb/></subSense>
+</sense><sense><subSense>de antes <lb/></subSense>
+</sense><sense><subSense>origen o principio <lb/></subSense>
+</sense><sense><subSense>al principio <lb/></subSense>
+</sense><sense><subSense>principio del mundo <lb/></subSense>
+</sense><sense><subSense>al <lb/>principio del mundo <lb/></subSense>
+</sense><sense><subSense>pensar antes <lb/></subSense>
+</sense><sense><subSense>origen o principio <lb/></subSense>
+</sense><sense><subSense>origen o principio <lb/></subSense>
+</sense><sense><subSense>gemir al gemido de otro <lb/></subSense>
+</sense><sense><subSense>agradecer con palabras <lb/>solamente <lb/></subSense>
+</sense><sense><subSense>incontinenti [luego] <lb/></subSense>
+</sense><sense><subSense>incontinenti [luego] <lb/></subSense>
+</sense><sense><subSense>hasta aquí (señalando) <lb/></subSense>
+</sense><sense><subSense>aquende más cerca <lb/></subSense>
+</sense><sense><subSense>empeorar cada <lb/>día más en la vida <lb/></subSense>
+</sense><sense><subSense>origen o principio <lb/></subSense>
+</sense><sense><subSense>y aún (conjunción adversativa), <lb/>ut ¿y aún haces eso todavía? <lb/></subSense>
+</sense><sense><subSense>caerse muerto <lb/></subSense>
+</sense><sense><subSense>de allí </subSense>
+<pc>; </pc>
+<subSense>hasta acullá <lb/></subSense>
+</sense><sense><subSense>hasta mañana <lb/></subSense>
+</sense><sense><subSense>desde ahora <lb/>para siempre jamás <lb/></subSense>
+</sense><sense><subSense>centro de la tierra <lb/></subSense>
+</sense><sense><subSense>cisterna aljibe <lb/></subSense>
+</sense><sense><subSense>chivo o cabrón <lb/></subSense>
+</sense><sense><subSense>chivato capado <lb/></subSense>
+</sense><sense><subSense>átomos del sol <lb/></subSense>
+</sense><sense><subSense>que (adverbio de comparación) <lb/></subSense>
+</sense><sense><subSense>barniz amarillo para jícaras <lb/></subSense>
+</sense><sense><subSense>tanto cuanto <lb/></subSense>
+</sense><sense><subSense>a las 11 (día) <lb/></subSense>
+</sense><sense><subSense>iguales cosas parejas </subSense>
+<pc>; </pc>
+<subSense>justa en medi-<lb/>da, pro diversis supositis <lb/></subSense>
+</sense><sense><subSense>amigo entrañable <lb/></subSense>
+</sense><sense><subSense>amigo entrañable <lb/></subSense>
+</sense><sense><subSense>cofia de mujer <lb/></subSense>
+</sense><sense><subSense>recabar, o recaudar <lb/></subSense>
+</sense><sense><subSense>eco voz que resuena <lb/></subSense>
+</sense><sense><subSense>duende </subSense>
+<pc>; </pc>
+<subSense>fantasma <lb/></subSense>
+</sense><sense><subSense>duda hay si escapara <lb/></subSense>
+</sense><sense><subSense>monipodio hacer <lb/></subSense>
+</sense><sense><subSense>mazorca, el corazón de ella <lb/></subSense>
+</sense><sense><subSense>espiga de trigo mocha <lb/></subSense>
+</sense><sense><subSense>espiga de trigo mocha <lb/></subSense>
+</sense><sense><subSense>que (adverbio de compara-<lb/>ción) <lb/></subSense>
+</sense><sense><subSense>poco más o menos <lb/></subSense>
+</sense><sense><subSense>lanzadera de tejedor <lb/></subSense>
+</sense><sense><subSense>de mañana </subSense>
+<pc>; </pc>
+<subSense>mañana del día <lb/></subSense>
+</sense><sense><subSense>de mañana <lb/></subSense>
+</sense><sense><subSense>muy de mañana <lb/></subSense>
+</sense><sense><subSense>muy de mañana <lb/></subSense>
+</sense><sense><subSense>de mañana <lb/></subSense>
+</sense><sense><subSense>inconveniente <lb/></subSense>
+</sense><sense><subSense>barba sin pelos </subSense>
+<pc>; </pc>
+<subSense>bezo horadado <lb/></subSense>
+</sense><sense><subSense>brava cosa <lb/></subSense>
+</sense><sense><subSense>pájaro <lb/></subSense>
+</sense><sense><subSense>pájaro solitario <lb/></subSense>
+</sense><sense><subSense>punta de cosa aguda <lb/></subSense>
+</sense><sense><subSense>pájaro solitario <lb/></subSense>
+</sense><sense><subSense>filos tener el cuchillo <lb/></subSense>
+</sense><sense><subSense>desabrida cosa al gusto <lb/></subSense>
+</sense><sense><subSense>miembro de mujer <lb/></subSense>
+</sense><sense><subSense>orina <lb/></subSense>
+</sense><sense><subSense>vejiga de animal <lb/></subSense>
+</sense><sense><subSense>aceite </subSense>
+<pc>; </pc>
+<subSense>enjundia </subSense>
+<pc>; </pc>
+<subSense>gordura </subSense>
+<pc>; </pc>
+<subSense>grasa </subSense>
+<pc>; </pc>
+<subSense>grosura </subSense>
+<pc>; <lb/></pc>
+<subSense>lardo de puerco </subSense>
+<pc>; </pc>
+<subSense>manteca </subSense>
+<pc>; </pc>
+<subSense>sebo <lb/></subSense>
+</sense><sense><subSense>embajada </subSense>
+<pc>; </pc>
+<subSense>lenguaje propio </subSense>
+<pc>; </pc>
+<subSense>palabra del <lb/>señor <lb/></subSense>
+</sense><sense><subSense>pringue de tocino, o torrezno <lb/></subSense>
+</sense><sense><subSense>redaño <lb/></subSense>
+</sense><sense><subSense>romance <lb/></subSense>
+</sense><sense><subSense>ley generalmente <lb/></subSense>
+</sense><sense><subSense>riñonada <lb/></subSense>
+</sense><sense><subSense>aceite de higuerilla <lb/></subSense>
+</sense><sense><subSense>aceite de higuerilla <lb/></subSense>
+</sense><sense><subSense>sebo derretido <lb/></subSense>
+</sense><sense><subSense>riñonada <lb/></subSense>
+</sense><sense><subSense>aceite de chía <lb/></subSense>
+</sense><sense><subSense>barniz con que dan lustre <lb/></subSense>
+</sense><sense><subSense>melena de buey <lb/></subSense>
+</sense><sense><subSense>melena de buey <lb/></subSense>
+</sense><sense><subSense>presa de enemigos <lb/></subSense>
+</sense><sense><subSense>prometida cosa <lb/></subSense>
+</sense><sense><subSense>melena de buey <lb/></subSense>
+</sense><sense><subSense>presa de enemigos <lb/></subSense>
+</sense><sense><subSense>breve sermón <lb/></subSense>
+</sense><sense><subSense>corto hablar <lb/></subSense>
+</sense><sense><subSense>algunas veces </subSense>
+<pc>; </pc>
+<subSense>pocas veces <lb/></subSense>
+</sense><sense><subSense>pocos hombres <lb/></subSense>
+</sense><sense><subSense>anillo <lb/></subSense>
+</sense><sense><subSense>sobaco, debajo del brazo <lb/></subSense>
+</sense><sense><subSense>anillo con sello para se-<lb/>llar <lb/></subSense>
+</sense><sense><subSense>dedal <lb/></subSense>
+</sense><sense><subSense>abarrancadero </subSense>
+<pc>; </pc>
+<subSense>barranca <lb/></subSense>
+</sense><sense><subSense>caverna <lb/></subSense>
+</sense><sense><subSense>esta es mi suerte <lb/></subSense>
+</sense><sense><subSense>caverna <lb/></subSense>
+</sense><sense><subSense>paño para cubrir la cabeza, <lb/>que es cobija <lb/></subSense>
+</sense><sense><subSense>paño de cabeza <lb/></subSense>
+</sense><sense><subSense>cañamazo <lb/></subSense>
+</sense><sense><subSense>paño de cabeza <lb/></subSense>
+</sense><sense><subSense>mortaja <lb/></subSense>
+</sense><sense><subSense>paño de cabeza <lb/></subSense>
+</sense><sense><subSense>tobajas [toallas] <lb/></subSense>
+</sense><sense><subSense>pañizuelo de <lb/>mesa <lb/></subSense>
+</sense><sense><subSense>anjeo <lb/></subSense>
+</sense><sense><subSense>cañamazo </subSense>
+<pc>; </pc>
+<subSense>estropajo <lb/></subSense>
+</sense><sense><subSense>paño de cabeza <lb/></subSense>
+</sense><sense><subSense>tapicería <lb/></subSense>
+</sense><sense><subSense>polaina <lb/></subSense>
+</sense><sense><subSense>trocarse los que <lb/>trabajan <lb/></subSense>
+</sense><sense><subSense>polaina <lb/></subSense>
+</sense><sense><subSense>pañales <lb/></subSense>
+</sense><sense><subSense>pañales <lb/></subSense>
+</sense><sense><subSense>trapo <lb/></subSense>
+</sense><sense><subSense>toca de mujer <lb/></subSense>
+</sense><sense><subSense>paño para cubrir la cabe-<lb/>za, que es cobija <lb/></subSense>
+</sense><sense><subSense>cañamazo <lb/></subSense>
+</sense><sense><subSense>manta rota <lb/></subSense>
+</sense><sense><subSense>cabecera que <lb/>ponen en lugar de almohada <lb/></subSense>
+</sense><sense><subSense>saya de mujer <lb/></subSense>
+</sense><sense><subSense>garza blanca <lb/></subSense>
+</sense><sense><subSense>garza parda <lb/></subSense>
+</sense><sense><subSense>cigüeña <lb/></subSense>
+</sense><sense><subSense>legua <lb/></subSense>
+</sense><sense><subSense>desaprovechado <lb/></subSense>
+</sense><sense><subSense>muslo <lb/></subSense>
+</sense><sense><subSense>pantorrilla <lb/></subSense>
+</sense><sense><subSense>pernil de tocino <lb/></subSense>
+</sense><sense><subSense>planta del pie <lb/></subSense>
+</sense><sense><subSense>cuarto trasero <lb/></subSense>
+</sense><sense><subSense>caña de poquiete <lb/></subSense>
+</sense><sense><subSense>linde entre heredades </subSense>
+<pc>; </pc>
+<subSense>mojón </subSense>
+<pc>; </pc>
+<subSense>término por <lb/>linde <lb/></subSense>
+</sense><sense><subSense>término por linde <lb/></subSense>
+</sense><sense><subSense>sobrino <lb/></subSense>
+</sense><sense><subSense>doler los dientes <lb/></subSense>
+</sense><sense><subSense>paloma, ave <lb/></subSense>
+</sense><sense><subSense>corvejón, ave del agua <lb/></subSense>
+</sense><sense><subSense>paloma, ave <lb/></subSense>
+</sense><sense><subSense>ganso <lb/></subSense>
+</sense><sense><subSense>ánsar <lb/></subSense>
+</sense><sense><subSense>ánsar <lb/></subSense>
+</sense><sense><subSense>palomino <lb/></subSense>
+</sense><sense><subSense>ánade casera <lb/></subSense>
+</sense><sense><subSense>pico de jarro <lb/></subSense>
+</sense><sense><subSense>anadino </subSense>
+<pc>; </pc>
+<subSense>palomino <lb/></subSense>
+</sense><sense><subSense>torcaza <lb/></subSense>
+</sense><sense><subSense>ánade de agua <lb/></subSense>
+</sense><sense><subSense>al revés hacer lo <lb/>que me dicen <lb/></subSense>
+</sense><sense><subSense>panzuelos que suelen hacer los niños de <lb/>sobras de la masa <lb/></subSense>
+</sense><sense><subSense>así (adverbio) </subSense>
+<pc>; </pc>
+<subSense>bien está (otorgando) </subSense>
+<pc>; </pc>
+<subSense>casi <lb/>así como </subSense>
+<pc>; </pc>
+<subSense>y también <lb/></subSense>
+</sense><sense><subSense>medio, la mitad </subSense>
+<pc>; </pc>
+<subSense>mitad de lo entero <lb/></subSense>
+</sense><sense><subSense>si <lb/></subSense>
+</sense><sense><subSense>tal cosa </subSense>
+<pc>; </pc>
+<subSense>tamaño </subSense>
+<pc>; </pc>
+<subSense>tanto <lb/></subSense>
+</sense><sense><subSense>estilo o costumbre de la tierra </subSense>
+<pc>; </pc>
+<subSense>inclina-<lb/>ción <lb/></subSense>
+</sense><sense><subSense>costumbre de pueblo <lb/></subSense>
+</sense><sense><subSense>así es el mundo <lb/></subSense>
+</sense><sense><subSense>esta es mi suerte <lb/></subSense>
+</sense><sense><subSense>costumbre de pueblo <lb/></subSense>
+</sense><sense><subSense>esta es mi suerte <lb/></subSense>
+</sense><sense><subSense>atado que no sabe <lb/>hacer nada ni se amaña <lb/></subSense>
+</sense><sense><subSense>media libra <lb/></subSense>
+</sense><sense><subSense>medio año <lb/></subSense>
+</sense><sense><subSense>ejercicio en armas <lb/></subSense>
+</sense><sense><subSense>más (conjunción copulativa) <lb/></subSense>
+</sense><sense><subSense>razonable cosa, algún <lb/>tanto buena <lb/></subSense>
+</sense><sense><subSense>así, así (de enojo) <lb/></subSense>
+</sense><sense><subSense>sobre todo (precediendo <lb/>plática) <lb/></subSense>
+</sense><sense><subSense>a esta hora <lb/></subSense>
+</sense><sense><subSense>obligado ser por profe-<lb/>sión el fraile <lb/></subSense>
+</sense><sense><subSense>manera o modo <lb/></subSense>
+</sense><sense><subSense>estado de cada cosa </subSense>
+<pc>; </pc>
+<subSense>forma o manera </subSense>
+<pc>; <lb/></pc>
+<subSense>inclinación </subSense>
+<pc>; </pc>
+<subSense>manera o modo <lb/></subSense>
+</sense><sense><subSense>soler (acostumbrar) <lb/></subSense>
+</sense><sense><subSense>certificado estar, por cierto tener <lb/></subSense>
+</sense><sense><subSense>obligado ser por profesión <lb/>el fraile <lb/></subSense>
+</sense><sense><subSense>obligado ser por profesión <lb/>el fraile <lb/></subSense>
+</sense><sense><subSense>comúnmente se <lb/>dice <lb/></subSense>
+</sense><sense><subSense>esta es mi suerte <lb/></subSense>
+</sense><sense><subSense>aficionado o aplicado natu-<lb/>ralmente ser una cosa más que otra <lb/></subSense>
+</sense><sense><subSense>condición natural de alguno </subSense>
+<pc>; </pc>
+<subSense>incli-<lb/>nación <lb/></subSense>
+</sense><sense><subSense>medio quemado <lb/></subSense>
+</sense><sense><subSense>aficionado o aplicado <lb/>naturalmente ser una cosa más que otra <lb/></subSense>
+</sense><sense><subSense>obligado ser <lb/>por profesión el fraile <lb/></subSense>
+</sense><sense><subSense>obligado ser por <lb/>profesión el fraile <lb/></subSense>
+</sense><sense><subSense>aficionado o aplicado <lb/>naturalmente ser una cosa más que otra <lb/></subSense>
+</sense><sense><subSense>obligado ser por profe-<lb/>sión el fraile <lb/></subSense>
+</sense><sense><subSense>esta es mi suerte <lb/></subSense>
+</sense><sense><subSense>a media noche <lb/></subSense>
+</sense><sense><subSense>aficionado o aplicado natu-<lb/>ralmente ser una cosa más que otra <lb/></subSense>
+</sense><sense><subSense>obligado ser por <lb/>profesión el fraile <lb/></subSense>
+</sense><sense><subSense>así se usa <lb/></subSense>
+</sense><sense><subSense>costumbre de pueblo <lb/></subSense>
+</sense><sense><subSense>acerca de aquel negocio <lb/></subSense>
+</sense><sense><subSense>correr <lb/>muy ligeramente <lb/></subSense>
+</sense><sense><subSense>así hombres <lb/>como mujeres <lb/></subSense>
+</sense><sense><subSense>como quiera <lb/></subSense>
+</sense><sense><subSense>así como </subSense>
+<pc>; </pc>
+<subSense>como comparativo </subSense>
+<pc>; </pc>
+<subSense>según <lb/>(adverbio) <lb/></subSense>
+</sense><sense><subSense>a esta hora <lb/></subSense>
+</sense><sense><subSense>estado de cada cosa <lb/></subSense>
+</sense><sense><subSense>forma de letra <lb/></subSense>
+</sense><sense><subSense>hacer cuenta que <lb/>es pascua <lb/></subSense>
+</sense><sense><subSense>correr muy ligera-<lb/>mente <lb/></subSense>
+</sense><sense><subSense>de cualquiera manera que <lb/>lo hagas <lb/></subSense>
+</sense><sense><subSense>blanca cosa en gran <lb/>manera <lb/></subSense>
+</sense><sense><subSense>blanca cosa en gran <lb/>manera <lb/></subSense>
+</sense><sense><subSense>acompa-<lb/>ñar con buenas obras la fe <lb/></subSense>
+</sense><sense><subSense>en tanto, o en tanto <lb/>que dicen misa <lb/></subSense>
+</sense><sense><subSense>blanca cosa en gran <lb/>manera <lb/></subSense>
+</sense><sense><subSense>también <lb/></subSense>
+</sense><sense><subSense>sobre todo (precediendo plática) <lb/></subSense>
+</sense><sense><subSense>así se dice o <lb/>se entiende <lb/></subSense>
+</sense><sense><subSense>acostumbrarse por usarse <lb/></subSense>
+</sense><sense><subSense>usarse entre algunos o <lb/>entre todos <lb/></subSense>
+</sense><sense><subSense>costumbre de <lb/>pueblo <lb/></subSense>
+</sense><sense><subSense>así se dice o se entiende <lb/></subSense>
+</sense><sense><subSense>semejar o parecerse una cosa a <lb/>otra <lb/></subSense>
+</sense><sense><subSense>aficionado o aplicado natu-<lb/>ralmente ser una cosa más que otra <lb/></subSense>
+</sense><sense><subSense>doblar el precio <lb/></subSense>
+</sense><sense><subSense>aficionado o aplicado natu-<lb/>ralmente ser una cosa más que otra <lb/></subSense>
+</sense><sense><subSense>comúnmente se dice <lb/></subSense>
+</sense><sense><subSense>así se dice o se entiende <lb/></subSense>
+</sense><sense><subSense>aficionado o aplicado natu-<lb/>ralmente ser una cosa más que otra <lb/></subSense>
+</sense><sense><subSense>semejar o parecerse una cosa a <lb/>otra <lb/></subSense>
+</sense><sense><subSense>parecerme o así me parece <lb/></subSense>
+</sense><sense><subSense>certificado estar, por cierto tener <lb/></subSense>
+</sense><sense><subSense>usarse entre algunos o entre todos <lb/></subSense>
+</sense><sense><subSense>natural cosa <lb/></subSense>
+</sense><sense><subSense>usarse entre algunos o <lb/>entre todos <lb/></subSense>
+</sense><sense><subSense>condición natural de alguno <lb/></subSense>
+</sense><sense><subSense>certificado estar, por cierto <lb/>tener <lb/></subSense>
+</sense><sense><subSense>así se usa <lb/></subSense>
+</sense><sense><subSense>usarse entre algunos o entre todos </subSense>
+<pc>; <lb/></pc>
+<subSense>estilo o costumbre de la tierra <lb/></subSense>
+</sense><sense><subSense>creer o tener por cierto <lb/></subSense>
+</sense><sense><subSense>costumbre de pueblo <lb/></subSense>
+</sense><sense><subSense>condición natural de alguno <lb/></subSense>
+</sense><sense><subSense>soler (acostumbrar) <lb/></subSense>
+</sense><sense><subSense>estilo de hablar <lb/></subSense>
+</sense><sense><subSense>natura o naturaleza </subSense>
+<pc>; </pc>
+<subSense>natural <lb/>cosa <lb/></subSense>
+</sense><sense><subSense>creer o tener por cierto <lb/></subSense>
+</sense><sense><subSense>natura o naturaleza <lb/></subSense>
+</sense><sense><subSense>natura o naturaleza <lb/></subSense>
+</sense><sense><subSense>certificado estar, por cierto <lb/>tener <lb/></subSense>
+</sense><sense><subSense>soler (acostumbrar) <lb/></subSense>
+</sense><sense><subSense>tener por cierto <lb/></subSense>
+</sense><sense><subSense>creer o tener por cierto <lb/></subSense>
+</sense><sense><subSense>tener por cierto <lb/></subSense>
+</sense><sense><subSense>otro tanto <lb/></subSense>
+</sense><sense><subSense>doblar el tra-<lb/>bajo <lb/></subSense>
+</sense><sense><subSense>doblar la pena y el <lb/>castigo <lb/></subSense>
+</sense><sense><subSense>doblar el <lb/>trabajo <lb/></subSense>
+</sense><sense><subSense>otros tantos <lb/></subSense>
+</sense><sense><subSense>abasta (adverbio) </subSense>
+<pc>; </pc>
+<subSense>bien está, basta <lb/></subSense>
+</sense><sense><subSense>propiamente <lb/></subSense>
+</sense><sense><subSense>entre algunos <lb/></subSense>
+</sense><sense><subSense>endurecerse, <lb/>obstinarse <lb/></subSense>
+</sense><sense><subSense>endurecerse, <lb/>obstinarse <lb/></subSense>
+</sense><sense><subSense>endure-<lb/>cerse, obstinarse <lb/></subSense>
+</sense><sense><subSense>endurecerse, <lb/>obstinarse <lb/></subSense>
+</sense><sense><subSense>estilo de hablar <lb/></subSense>
+</sense><sense><subSense>lluvia </subSense>
+<pc>; </pc>
+<subSense>ídolo <lb/></subSense>
+</sense><sense><subSense>aguacero grande </subSense>
+<pc>; </pc>
+<subSense>lluvia grande <lb/></subSense>
+</sense><sense><subSense>recaudo de iglesia <lb/></subSense>
+</sense><sense><subSense>llover mucho <lb/></subSense>
+</sense><sense><subSense>diluvio ge-<lb/>neral <lb/></subSense>
+</sense><sense><subSense>diluvio general <lb/></subSense>
+</sense><sense><subSense>morir de rayo <lb/></subSense>
+</sense><sense><subSense>rayo matar a alguno <lb/></subSense>
+</sense><sense><subSense>aguacero mayor que viene <lb/>con tempestad </subSense>
+<pc>; </pc>
+<subSense>llover mucho <lb/></subSense>
+</sense><sense><subSense>lluvia con granizo <lb/></subSense>
+</sense><sense><subSense>aguacero mayor que viene con tem-<lb/>pestad </subSense>
+<pc>; </pc>
+<subSense>lluvia grande <lb/></subSense>
+</sense><sense><subSense>ornamento sacerdotal <lb/></subSense>
+</sense><sense><subSense>recaudo de iglesia <lb/></subSense>
+</sense><sense><subSense>aguacero de agua menuda </subSense>
+<pc>; </pc>
+<subSense>lluvia <lb/>menuda <lb/></subSense>
+</sense><sense><subSense>brazalete para bailar <lb/></subSense>
+</sense><sense><subSense>braza-<lb/>lete para bailar <lb/></subSense>
+</sense><sense><subSense>aguacero de agua menuda </subSense>
+<pc>; </pc>
+<subSense>llover agua <lb/>menuda </subSense>
+<pc>; </pc>
+<subSense>lluvia menuda <lb/></subSense>
+</sense><sense><subSense>brazalete para <lb/>bailar <lb/></subSense>
+</sense><sense><subSense>armas de ciudades <lb/></subSense>
+</sense><sense><subSense>armas de linaje <lb/></subSense>
+</sense><sense><subSense>aguacero de agua menuda </subSense>
+<pc>; </pc>
+<subSense>llover <lb/>agua menuda </subSense>
+<pc>; </pc>
+<subSense>lluvia menuda <lb/></subSense>
+</sense><sense><subSense>aguacero mayor que viene con <lb/>tempestad </subSense>
+<pc>; </pc>
+<subSense>aguacero grande <lb/></subSense>
+</sense><sense><subSense>aguacero mayor que viene con <lb/>tempestad </subSense>
+<pc>; </pc>
+<subSense>llover mucho <lb/></subSense>
+</sense><sense><subSense>aguacero grande </subSense>
+<pc>; </pc>
+<subSense>llover <lb/>mucho <lb/></subSense>
+</sense><sense><subSense>armas de ciudades <lb/></subSense>
+</sense><sense><subSense>hijo <lb/></subSense>
+</sense><sense><subSense>yerno <lb/></subSense>
+</sense><sense><subSense>hijo único <lb/></subSense>
+</sense><sense><subSense>entenado dice el varón a sus ente-<lb/>nados <lb/></subSense>
+</sense><sense><subSense>legítimo hijo <lb/></subSense>
+</sense><sense><subSense>hijo segundo <lb/></subSense>
+</sense><sense><subSense>bastardo hijo </subSense>
+<pc>; </pc>
+<subSense>hijo adulterino </subSense>
+<pc>; </pc>
+<subSense>horne-<lb/>rizo, hijo de puta <lb/></subSense>
+</sense><sense><subSense>esclavo nacido en casa </subSense>
+<pc>; </pc>
+<subSense>siervo nacido <lb/>en casa <lb/></subSense>
+</sense><sense><subSense>criado desde niño <lb/>en casa <lb/></subSense>
+</sense><sense><subSense>hijo postrero <lb/></subSense>
+</sense><sense><subSense>hijos que nacieron en un mismo día <lb/>pero en diversos años <lb/></subSense>
+</sense></body>
+	</text>
+</tei>

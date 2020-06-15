@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dictionaryBodySegmentation.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="dictionaryBodySegmentation.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><entry>uvui uvui yosay tayundi, futuro quay : de dos en <lb/>dos ir <lb/></entry>
+<entry>uvui uvui yotnaha tayundi yosahandi, futuro [de <lb/>yosahandi] qhu : de dos en dos ir <lb/></entry>
+<entry>uvuica quevui cuvui : dos días antes <lb/></entry>
+<entry>uvuica quevui q tnaha : dos días antes <lb/></entry>
+<entry>uvuita yosica : andar de dos en dos como frailes <lb/></entry>
+<entry>vino dzuq ndehe : vino tinto <lb/></entry>
+<entry>vino huidzi : doncel vino <lb/></entry>
+<entry>vino huii : doncel vino <lb/></entry>
+<entry>vino huita : doncel vino <lb/></entry>
+<entry>vino ña yosihi iyo : doncel vino <lb/></entry>
+<entry>vuadzaca : de ninguna parte <lb/></entry>
+<entry>vuasi codzo quahi : crecer la enfermedad <lb/></entry>
+<entry>vuidza coyo vuita : húmedo <lb/></entry>
+<entry>vuisi cuii ndaha yucu : hoja de árbol <lb/></entry>
+<entry>vuisi yutnu : hoja de árbol <lb/></entry>
+<entry>vuita yosidzo iño : hincarse espina en la superficie <lb/>sin pasar el cuero <lb/></entry>
+<entry>ya : don (pronombre castellano) <lb/></entry>
+<entry>yaa : baile antiguo ; canción o canto ; comedia, repre-<lb/>sentación de diversas cosas ; motete <lb/></entry>
+<entry>yaa : ceniza <lb/></entry>
+<entry>yaa : empeine <lb/></entry>
+<entry>yaa : lengua <lb/></entry>
+<entry>yaa coyo : guayas, canto de dolor <lb/></entry>
+<entry>yaa cuiya : empeine grande <lb/></entry>
+<entry>yaa dza ndesi ini : suave canto <lb/></entry>
+<entry>yaa dzacu : dulce y suave canto <lb/></entry>
+<entry>yaa dzeque : comedia, representación de diversas <lb/>cosas <lb/></entry>
+<entry>yaa dzinda : guayas, canto de dolor <lb/></entry>
+<entry>yaa huaha : comedia, representación de diversas <lb/>cosas ; dulce y suave canto <lb/></entry>
+<entry>yaa huayu : dulce y suave canto <lb/></entry>
+<entry>yaa huidzi : centella muerta <lb/></entry>
+<entry>yaa huii : dulce y suave canto <lb/></entry>
+<entry>yaa ini : rescoldo <lb/></entry>
+<entry>yaa ite ñuma : pavesa de candela <lb/></entry>
+<entry>yaa iya nindacu : comedia, representación de di-<lb/>versas cosas <lb/></entry>
+<entry>yaa iyo nicaha nduvua ñuhu : comedia, represen-<lb/>tación de diversas cosas <lb/></entry>
+<entry>yaa ndaa : canto llano <lb/></entry>
+<entry>yaa ndayu : guayas, canto de dolor <lb/></entry>
+<entry>yaa ndeq : rescoldo <lb/></entry>
+<entry>yaa ndii : empeine grande <lb/></entry>
+<entry>yaa noho : toba de dientes <lb/></entry>
+<entry>yaa nu tnaha ini : suave canto <lb/></entry>
+<entry>yaa ñuhu : llama de fuego ; centella muerta ; res-<lb/>coldo <lb/></entry>
+<entry>yaa ñuhu yodzaca : cisco <lb/></entry>
+<entry>yaa quaha ndaa : canto llano <lb/></entry>
+<entry>yaa quaha quaca : motete triste <lb/></entry>
+<entry>yaa quemi : canto de órgano <lb/></entry>
+<entry>yaa quene : empeine grande <lb/></entry>
+<entry>yaa sacu : guayas, canto de dolor <lb/></entry>
+<entry>yaa sita saha : baile o danza <lb/></entry>
+<entry>yaa techi : empeine pequeño <lb/></entry>
+<entry>yaa tisaha : empeine pequeño <lb/></entry>
+<entry>yaa tiyaca : escama de pescado <lb/></entry>
+<entry>yaa tiyaque : empeine grande <lb/></entry>
+<entry>yaa tnuhu : casta, linaje ; generación, linaje <lb/></entry>
+<entry>yaa tnuhu qua saa : abolorio de los ascendientes <lb/></entry>
+<entry>yaa tnuhundi : linaje <lb/></entry>
+<entry>yaa tnundoco : empeine pequeño <lb/></entry>
+<entry>yaa uvui : dúo que se canta <lb/></entry>
+<entry>yaa yaa nicay saha : burla burlando pararse peor <lb/>algo <lb/></entry>
+<entry>yaa yaani : muellemente, blandamente <lb/></entry>
+<entry>yaa yaani : poco a poco <lb/></entry>
+<entry>yaa yaani qua cuhui cahui : empeorarse, burla <lb/>burlando la llaga <lb/></entry>
+<entry>yaa yocahandi : hablar bajo como entre dientes <lb/></entry>
+<entry>yaa yodzo huidzo iya : comedia, representación de <lb/>diversas cosas <lb/></entry>
+<entry>yaa yonadza saa ini : suave canto <lb/></entry>
+<entry>yaa yuta : occidente ; poniente <lb/></entry>
+<entry>yaani : blandamente o con tiento <lb/></entry>
+<entry>yaani yocahandi : bajar la voz hablando <lb/></entry>
+<entry>yaca : alholí, o troje ; panera <lb/></entry>
+<entry>yaca coo : nasa otra para trigo <lb/></entry>
+<entry>yaca nama : nasa otra para trigo <lb/></entry>
+<entry>yaca ndoho : nasa otra para trigo <lb/></entry>
+<entry>yaca ñaha : mazmorra <lb/></entry>
+<entry>yaca yuhu : silo para trigo <lb/></entry>
+<entry>yacahindi : tomar <lb/></entry>
+<entry>yachi nisaa saani : aína por presto <lb/></entry>
+<entry>yachi yachi qhundo : ir presto <lb/></entry>
+<entry>yachi yachini : aprisa <lb/></entry>
+<entry>yachini : presto <lb/></entry>
+<entry>yachini : incontinenti [luego] <lb/></entry>
+<entry>yadza cuii : color verde <lb/></entry>
+<entry>yadza tnoo : color verde oscuro <lb/></entry>
+<entry>yadza vuisi : color verde <lb/></entry>
+<entry>yadzi : maguey la tela sutil que tiene encima a modo <lb/>de pellejo <lb/></entry>
+</body>
+	</text>
+</tei>

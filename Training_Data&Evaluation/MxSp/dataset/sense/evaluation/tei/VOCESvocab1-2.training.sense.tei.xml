@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="sense.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="sense.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><sense><subSense>a (del que halla a otro en maleficio) <lb/></subSense>
+</sense><sense><subSense>a (interiectio admirantis) <lb/></subSense>
+</sense><sense><subSense>poco más o menos <lb/></subSense>
+</sense><sense><subSense>poco más o menos <lb/></subSense>
+</sense><sense><subSense>poco más o menos <lb/></subSense>
+</sense><sense><subSense>o no <lb/></subSense>
+</sense><sense><subSense>pues no <lb/></subSense>
+</sense><sense><subSense>poco más o menos <lb/></subSense>
+</sense><sense><subSense>ahora poco <lb/></subSense>
+</sense><sense><subSense>o bienaventurado, <lb/>o dichoso <lb/></subSense>
+</sense><sense><subSense>o no </subSense>
+<pc>; </pc>
+<subSense>pues no <lb/></subSense>
+</sense><sense><subSense>pues no <lb/></subSense>
+</sense><sense><subSense>por ventura alguno <lb/></subSense>
+</sense><sense><subSense>por ventura alguno de voso­ <lb/>tros <lb/></subSense>
+</sense><sense><subSense>de manera que <lb/></subSense>
+</sense><sense><subSense>ya, acordándoseme lo que se me había olvi­ <lb/>dado <lb/></subSense>
+</sense><sense><subSense>así, así (sonriéndose) <lb/></subSense>
+</sense><sense><subSense>ya (acordándoseme lo que se me <lb/>había olvidado) <lb/></subSense>
+</sense><sense><subSense>o (disyuntiva) </subSense>
+<pc>; </pc>
+<subSense>por ventura </subSense>
+<pc>; </pc>
+<subSense>quizás <lb/></subSense>
+</sense><sense><subSense>suave cosa <lb/></subSense>
+</sense><sense><subSense>o (disyuntiva) </subSense>
+<pc>; </pc>
+<subSense>por ventura </subSense>
+<pc>; </pc>
+<subSense>quizás <lb/></subSense>
+</sense><sense><subSense>por ventura <lb/></subSense>
+</sense><sense><subSense>por ventura alguno <lb/></subSense>
+</sense><sense><subSense>por ventura alguno de vo­ <lb/>sotros <lb/></subSense>
+</sense><sense><subSense>ay, quejándose la mujer <lb/></subSense>
+</sense><sense><subSense>así <lb/></subSense>
+</sense><sense><subSense>bien está (otorgando) </subSense>
+<pc>; </pc>
+<subSense>sí <lb/></subSense>
+</sense><sense><subSense>¿cuándo? (adverbio interrogativo), ¿en qué <lb/>tiempo? <lb/></subSense>
+</sense><sense><subSense>en algún tiempo <lb/></subSense>
+</sense><sense><subSense>cuandoquiera que <lb/>quisieres <lb/></subSense>
+</sense><sense><subSense>¿cuándo has <lb/>de despertar? <lb/></subSense>
+</sense><sense><subSense>¿cuándo has de despertar? <lb/></subSense>
+</sense><sense><subSense>¿cuándo has de volver en <lb/>ti? </subSense>
+<pc>; </pc>
+<subSense>¿cuándo has de despertar? <lb/></subSense>
+</sense><sense><subSense>en algún tiempo <lb/></subSense>
+</sense><sense><subSense>cuandoquiera <lb/>que quisieres <lb/></subSense>
+</sense><sense><subSense>¿cuándo, en qué tiempo? <lb/></subSense>
+</sense><sense><subSense>de tarde en tarde o raras veces <lb/></subSense>
+</sense><sense><subSense>infierno, lugar de dañados <lb/></subSense>
+</sense><sense><subSense>cielo <lb/></subSense>
+</sense><sense><subSense>cielo estrellado <lb/></subSense>
+</sense><sense><subSense>ángel de mi guarda <lb/></subSense>
+</sense><sense><subSense>ángel de mi guarda <lb/></subSense>
+</sense><sense><subSense>palacio <lb/></subSense>
+</sense><sense><subSense>abismo </subSense>
+<pc>; </pc>
+<subSense>centro de la tierra </subSense>
+<pc>; </pc>
+<subSense>infierno, lugar <lb/>de dañados <lb/></subSense>
+</sense><sense><subSense>profundo <lb/></subSense>
+</sense><sense><subSense>profundo <lb/></subSense>
+</sense><sense><subSense>infierno, lugar de dañados <lb/></subSense>
+</sense><sense><subSense>infierno, lugar de dañados <lb/></subSense>
+</sense><sense><subSense>ojalá <lb/></subSense>
+</sense><sense><subSense>amarga cosa </subSense>
+<pc>; </pc>
+<subSense>áspero al gusto <lb/></subSense>
+</sense><sense><subSense>amarga cosa </subSense>
+<pc>; </pc>
+<subSense>áspero al gusto <lb/></subSense>
+</sense><sense><subSense>lo que está por venir <lb/></subSense>
+</sense><sense><subSense>tiempo por venir <lb/></subSense>
+</sense><sense><subSense>llevar alguna cosa (futuro) <lb/></subSense>
+</sense><sense><subSense>llevar alguna cosa (imperativo), <lb/>traerlo <lb/></subSense>
+</sense><sense><subSense>llevar alguna cosa (im­ <lb/>perativo: llevarás esto) <lb/></subSense>
+</sense><sense><subSense>flocadura tener la manta <lb/></subSense>
+</sense><sense><subSense>lo que está por venir <lb/></subSense>
+</sense><sense><subSense>lo que está por venir <lb/></subSense>
+</sense><sense><subSense>presto (ir) <lb/></subSense>
+</sense><sense><subSense>ir presto <lb/></subSense>
+</sense><sense><subSense>anda (mandando) <lb/></subSense>
+</sense><sense><subSense>almádena <lb/></subSense>
+</sense><sense><subSense>tiempo por venir <lb/></subSense>
+</sense><sense><subSense>para siempre <lb/></subSense>
+</sense><sense><subSense>para siempre <lb/></subSense>
+</sense><sense><subSense>hierro, metal <lb/></subSense>
+</sense><sense><subSense>rellanada cosa <lb/></subSense>
+</sense><sense><subSense>candil <lb/></subSense>
+</sense><sense><subSense>pestillo de cerradura <lb/></subSense>
+</sense><sense><subSense>volar hacia abajo <lb/></subSense>
+</sense><sense><subSense>volar hacia arriba <lb/></subSense>
+</sense><sense><subSense>esquilón <lb/></subSense>
+</sense><sense><subSense>esquilonada campana <lb/></subSense>
+</sense><sense><subSense>esquilonada campana <lb/></subSense>
+</sense><sense><subSense>cardas </subSense>
+<pc>; </pc>
+<subSense>peine de cardador <lb/></subSense>
+</sense><sense><subSense>reloj <lb/></subSense>
+</sense><sense><subSense>podadera <lb/></subSense>
+</sense><sense><subSense>acero <lb/></subSense>
+</sense><sense><subSense>azuela <lb/></subSense>
+</sense><sense><subSense>un poco más <lb/></subSense>
+</sense><sense><subSense>celada, armadura de la cabeza <lb/></subSense>
+</sense><sense><subSense>plana de albañir <lb/></subSense>
+</sense><sense><subSense>dar de llano con la espalda <lb/></subSense>
+</sense><sense><subSense>barrena <lb/></subSense>
+</sense><sense><subSense>reloj <lb/></subSense>
+</sense><sense><subSense>ganzúa <lb/></subSense>
+</sense><sense><subSense>fiel de balanza <lb/></subSense>
+</sense><sense><subSense>candelero en que se pone la <lb/>candela <lb/></subSense>
+</sense><sense><subSense>hebilleta <lb/></subSense>
+</sense><sense><subSense>argolla para el pie o <lb/>garganta <lb/></subSense>
+</sense><sense><subSense>reja para arar <lb/></subSense>
+</sense><sense><subSense>martillo <lb/></subSense>
+</sense><sense><subSense>compás de hierro <lb/></subSense>
+</sense><sense><subSense>pujavante <lb/></subSense>
+</sense><sense><subSense>jeringa para echar agua <lb/></subSense>
+</sense><sense><subSense>eslabón de pedernal <lb/></subSense>
+</sense><sense><subSense>hoz podadera <lb/></subSense>
+</sense><sense><subSense>pujavante <lb/></subSense>
+</sense><sense><subSense>encubierto estar (defecto <lb/>de otro) <lb/></subSense>
+</sense><sense><subSense>podadera <lb/></subSense>
+</sense><sense><subSense>contrahacer letra <lb/></subSense>
+</sense><sense><subSense>desparramado estar <lb/></subSense>
+</sense><sense><subSense>sierra de hierro <lb/></subSense>
+</sense><sense><subSense>pueblo rico <lb/></subSense>
+</sense><sense><subSense>tenazas <lb/></subSense>
+</sense><sense><subSense>dar de agudo <lb/></subSense>
+</sense><sense><subSense>echado estar de lado <lb/></subSense>
+</sense><sense><subSense>azada o azadón </subSense>
+<pc>; </pc>
+<subSense>badil de hierro <lb/></subSense>
+</sense><sense><subSense>ganzúa <lb/></subSense>
+</sense><sense><subSense>sencilla <lb/></subSense>
+</sense><sense><subSense>dobla hablar <lb/></subSense>
+</sense><sense><subSense>ganzúa <lb/></subSense>
+</sense><sense><subSense>sencilla <lb/></subSense>
+</sense><sense><subSense>armella <lb/></subSense>
+</sense><sense><subSense>estribo de silla <lb/></subSense>
+</sense><sense><subSense>casquillo de saeta <lb/></subSense>
+</sense><sense><subSense>jeringa <lb/></subSense>
+</sense><sense><subSense>manopla <lb/></subSense>
+</sense><sense><subSense>hoz podadera <lb/></subSense>
+</sense><sense><subSense>almohaza <lb/></subSense>
+</sense><sense><subSense>llave <lb/></subSense>
+</sense><sense><subSense>corchete <lb/></subSense>
+</sense><sense><subSense>cerrojo <lb/></subSense>
+</sense></body>
+	</text>
+</tei>

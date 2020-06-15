@@ -1,0 +1,21 @@
+Dict+Mix-Sp+Model+form+Feature+Bigram+DataLevel+3
+===== Field-level results =====
+
+label                accuracy     precision    recall       f1           support
+
+<gramGrp>            99.01        90           81.82        85.71        11     
+<orth>               98.03        97.82        100          98.9         269    
+<part>               96.38        50           45.45        47.62        11     
+<pc>                 99.67        0            0            0            1      
+
+all (micro avg.)     98.27        95.93        96.92        96.42        292    
+all (macro avg.)     98.27        59.45        56.82        58.06        292    
+
+===== Instance-level results =====
+
+Total expected instances:   280
+Correct instances:          274
+Instance-level recall:      97.86
+
+
+Evaluation for form model is realized in 259 ms

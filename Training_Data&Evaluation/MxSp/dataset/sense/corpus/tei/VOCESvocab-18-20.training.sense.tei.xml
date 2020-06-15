@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="sense.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="sense.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><sense><subSense>madri-<lb/>na de bautismo <lb/></subSense>
+</sense><sense><subSense>madrina <lb/>de boda <lb/></subSense>
+</sense><sense><subSense>madrina de bau-<lb/>tismo <lb/></subSense>
+</sense><sense><subSense>lagrimal del ojo <lb/></subSense>
+</sense><sense><subSense>pernil de tocino <lb/></subSense>
+</sense><sense><subSense>madrina de bautismo <lb/></subSense>
+</sense><sense><subSense>pata hendida <lb/></subSense>
+</sense><sense><subSense>cacao <lb/></subSense>
+</sense><sense><subSense>almendra <lb/></subSense>
+</sense><sense><subSense>cacao grande <lb/></subSense>
+</sense><sense><subSense>cacao grande <lb/></subSense>
+</sense><sense><subSense>bebida de cacao <lb/></subSense>
+</sense><sense><subSense>cacao ancho y blanco <lb/></subSense>
+</sense><sense><subSense>piñón <lb/></subSense>
+</sense><sense><subSense>bebida de cacao <lb/></subSense>
+</sense><sense><subSense>borra de tinta </subSense>
+<pc>; </pc>
+<subSense>escoria de metal <lb/></subSense>
+</sense><sense><subSense>estaño para dorar <lb/></subSense>
+</sense><sense><subSense>bala, pelota <lb/></subSense>
+</sense><sense><subSense>cometa errática pequeña que parece <lb/>caer <lb/></subSense>
+</sense><sense><subSense>incordio <lb/></subSense>
+</sense><sense><subSense>incordio grande <lb/></subSense>
+</sense><sense><subSense>incordio pequeño <lb/></subSense>
+</sense><sense><subSense>garabato <lb/></subSense>
+</sense><sense><subSense>garabato <lb/></subSense>
+</sense><sense><subSense>cabeza </subSense>
+<pc>; </pc>
+<subSense>colodrillo de la cabeza </subSense>
+<pc>; </pc>
+<subSense>(en) la <lb/>cumbre <lb/></subSense>
+</sense><sense><subSense>sartal de cuentas <lb/></subSense>
+</sense><sense><subSense>ajorcas <lb/></subSense>
+</sense><sense><subSense>manilla <lb/></subSense>
+</sense><sense><subSense>burla burlando pa-<lb/>rarse peor algo <lb/></subSense>
+</sense><sense><subSense>burlando hacer o <lb/>decir algo <lb/></subSense>
+</sense><sense><subSense>empeorarse, burla <lb/>burlando la llaga <lb/></subSense>
+</sense><sense><subSense>empeorarse, burla <lb/>burlando la llaga <lb/></subSense>
+</sense><sense><subSense>espinilla de la pierna <lb/></subSense>
+</sense><sense><subSense>joya <lb/></subSense>
+</sense><sense><subSense>collar de oro <lb/></subSense>
+</sense><sense><subSense>manilla <lb/></subSense>
+</sense><sense><subSense>rabadilla de ave <lb/></subSense>
+</sense><sense><subSense>campanilla de zarcillo o joya <lb/></subSense>
+</sense><sense><subSense>campanilla de zarcillo o <lb/>joya <lb/></subSense>
+</sense><sense><subSense>cuenta para rezar <lb/></subSense>
+</sense><sense><subSense>cuenta para rezar <lb/></subSense>
+</sense><sense><subSense>después de cualquiera fiesta <lb/></subSense>
+</sense><sense><subSense>de lo alto </subSense>
+<pc>; </pc>
+<subSense>encima de lo alto <lb/></subSense>
+</sense><sense><subSense>rodilla <lb/></subSense>
+</sense><sense><subSense>ajorcas <lb/></subSense>
+</sense><sense><subSense>título de libro <lb/></subSense>
+</sense><sense><subSense>hablar burlando <lb/></subSense>
+</sense><sense><subSense>cadena de oro <lb/></subSense>
+</sense><sense><subSense>tiara <lb/></subSense>
+</sense><sense><subSense>corazón, lo de dentro de la pe-<lb/>pita <lb/></subSense>
+</sense><sense><subSense>él, ella, ello <lb/></subSense>
+</sense><sense><subSense>heces <lb/></subSense>
+</sense><sense><subSense>renombre <lb/></subSense>
+</sense><sense><subSense>de la misma medida <lb/></subSense>
+</sense><sense><subSense>buenamente <lb/></subSense>
+</sense><sense><subSense>buena-<lb/>mente <lb/></subSense>
+</sense><sense><subSense>iguales en vicio o en virtud <lb/></subSense>
+</sense><sense><subSense>plomo <lb/></subSense>
+</sense><sense><subSense>de ahí </subSense>
+<pc>; </pc>
+<subSense>ese, esa, eso <lb/></subSense>
+</sense><sense><subSense>helo allí <lb/></subSense>
+</sense><sense><subSense>título de libro <lb/></subSense>
+</sense><sense><subSense>apellido de nombre particular <lb/></subSense>
+</sense><sense><subSense>bien está, que dice el menor al mayor </subSense>
+<pc>; </pc>
+<subSense>sí, <lb/>para con los señores <lb/></subSense>
+</sense><sense><subSense>carcañal <lb/></subSense>
+</sense><sense><subSense>a (adverbio de llamar) <lb/></subSense>
+</sense><sense><subSense>hao <lb/></subSense>
+</sense><sense><subSense>o (para llamar) <lb/></subSense>
+</sense><sense><subSense>a (adverbio para llamar <lb/>cuando se me ha olvidado algo) <lb/></subSense>
+</sense><sense><subSense>aha [ahó] o para llamar <lb/></subSense>
+</sense><sense><subSense>cornudo llamar a otro <lb/></subSense>
+</sense><sense><subSense>relampaguear de noche sin <lb/>truenos <lb/></subSense>
+</sense><sense><subSense>relampaguear de noche <lb/>sin truenos <lb/></subSense>
+</sense><sense><subSense>pecado <lb/></subSense>
+</sense><sense><subSense>culpa </subSense>
+<pc>; </pc>
+<subSense>defecto <lb/></subSense>
+</sense><sense><subSense>camisa que usan las indias que llaman huipil <lb/></subSense>
+</sense><sense><subSense>engrasarse como en las minas <lb/></subSense>
+</sense><sense><subSense>engrasarse como en las <lb/>minas <lb/></subSense>
+</sense><sense><subSense>ponzoña de víbora <lb/></subSense>
+</sense><sense><subSense>bien (nombre) <lb/></subSense>
+</sense><sense><subSense>inficionarse <lb/>lugar <lb/></subSense>
+</sense><sense><subSense>inficionarse lugar <lb/></subSense>
+</sense><sense><subSense>olor de comida <lb/></subSense>
+</sense><sense><subSense>gustar de lo que se <lb/>come <lb/></subSense>
+</sense><sense><subSense>sobrina <lb/></subSense>
+</sense><sense><subSense>buba <lb/></subSense>
+</sense><sense><subSense>espinilla de la pierna <lb/></subSense>
+</sense><sense><subSense>pitahaya, fruta [tuna] <lb/></subSense>
+</sense><sense><subSense>zanca <lb/></subSense>
+</sense><sense><subSense>tabla del brazo <lb/></subSense>
+</sense><sense><subSense>hermana de mi abuela <lb/></subSense>
+</sense><sense><subSense>hermana de mi padre o madre <lb/></subSense>
+</sense><sense><subSense>tía <lb/></subSense>
+</sense><sense><subSense>carga <lb/></subSense>
+</sense><sense><subSense>cuñado, hermano de mi mujer <lb/></subSense>
+</sense><sense><subSense>pierna de animal <lb/></subSense>
+</sense><sense><subSense>así <lb/></subSense>
+</sense><sense><subSense>dura ave de comer o carne por mal cocida <lb/></subSense>
+</sense><sense><subSense>recio como cuero <lb/></subSense>
+</sense><sense><subSense>flor de vino, la lapa <lb/></subSense>
+</sense><sense><subSense>dura ave por ser vieja <lb/></subSense>
+</sense><sense><subSense>recia cosa como madero casi <lb/></subSense>
+</sense><sense><subSense>primeramente <lb/></subSense>
+</sense><sense><subSense>lo primero, o cuanto a lo primero <lb/></subSense>
+</sense><sense><subSense>primeramente <lb/></subSense>
+</sense><sense><subSense>primeramente <lb/></subSense>
+</sense><sense><subSense>lo primero, o cuanto a lo <lb/>primero <lb/></subSense>
+</sense><sense><subSense>primeramente <lb/></subSense>
+</sense><sense><subSense>principalmente <lb/></subSense>
+</sense><sense><subSense>antes o primeramente <lb/></subSense>
+</sense><sense><subSense>primeramente <lb/></subSense>
+</sense><sense><subSense>principalmente <lb/></subSense>
+</sense><sense><subSense>primero <lb/></subSense>
+</sense><sense><subSense>principalmente <lb/></subSense>
+</sense><sense><subSense>primeramente </subSense>
+<pc>; </pc>
+<subSense>principalmente <lb/></subSense>
+</sense><sense><subSense>adelantar o antevenir a otro en honra <lb/></subSense>
+</sense><sense><subSense>ganar por la mano <lb/></subSense>
+</sense><sense><subSense>adelantarse en ca-<lb/>mino <lb/></subSense>
+</sense><sense><subSense>sombra de hombre <lb/></subSense>
+</sense><sense><subSense>tuétano <lb/></subSense>
+</sense><sense><subSense>meollo o tuétano <lb/></subSense>
+</sense><sense><subSense>telaraña <lb/></subSense>
+</sense><sense><subSense>cabeza </subSense>
+<pc>; </pc>
+<subSense>arriba en lo alto <lb/></subSense>
+</sense><sense><subSense>cautivos sacrificados ante los ídolos <lb/></subSense>
+</sense><sense><subSense>chimenea lo alto <lb/></subSense>
+</sense><sense><subSense>empulgueras de arco <lb/></subSense>
+</sense><sense><subSense>en la cumbre <lb/></subSense>
+</sense><sense><subSense>azutea o azotea <lb/></subSense>
+</sense><sense><subSense>cabecera de mesa <lb/></subSense>
+</sense><sense><subSense>calva cabeza <lb/></subSense>
+</sense><sense><subSense>cabeza cortada <lb/></subSense>
+</sense><sense><subSense>corona de clérigo <lb/></subSense>
+</sense><sense><subSense>cabeza cortada <lb/></subSense>
+</sense><sense><subSense>cautivos sacrificados ante los ídolos <lb/></subSense>
+</sense><sense><subSense>Mixteca alta <lb/></subSense>
+</sense><sense><subSense>cabecera de pueblo <lb/></subSense>
+</sense><sense><subSense>calva <lb/>entradas de las sienes <lb/></subSense>
+</sense><sense><subSense>de lo alto </subSense>
+<pc>; </pc>
+<subSense>de punta </subSense>
+<pc>; </pc>
+<subSense>encima de lo alto <lb/></subSense>
+</sense><sense><subSense>cabecera de cama <lb/></subSense>
+</sense><sense><subSense>mocha cosa sin cuernos <lb/></subSense>
+</sense><sense><subSense>padrastro de los dedos <lb/></subSense>
+</sense><sense><subSense>calva cabeza <lb/></subSense>
+</sense><sense><subSense>cautivos sacrificados ante los <lb/>ídolos <lb/></subSense>
+</sense><sense><subSense>alto, la cumbre de la sierra <lb/></subSense>
+</sense><sense><subSense>copa de árbol </subSense>
+<pc>; </pc>
+<subSense>entre el mismo árbol <lb/></subSense>
+</sense><sense><subSense>extremidad </subSense>
+<pc>; </pc>
+<subSense>cabeza de clavo <lb/></subSense>
+</sense><sense><subSense>arras, presentes que se dan entre ma-<lb/>cehuales </subSense>
+<pc>; </pc>
+<subSense>don, preseas tales entre macehuales </subSense>
+<pc>; <lb/></pc>
+<subSense>prenda lo que se da <lb/></subSense>
+</sense><sense><subSense>calentura enfermedad </subSense>
+<pc>; </pc>
+<subSense>fiebre <lb/></subSense>
+</sense><sense><subSense>ciclones <lb/></subSense>
+</sense><sense><subSense>terciana, calentura <lb/></subSense>
+</sense><sense><subSense>terciana, calentura <lb/></subSense>
+</sense><sense><subSense>gavilán <lb/></subSense>
+</sense><sense><subSense>gerifalte <lb/></subSense>
+</sense><sense><subSense>lado </subSense>
+<pc>; </pc>
+<subSense>sienes <lb/></subSense>
+</sense><sense><subSense>sienes <lb/></subSense>
+</sense><sense><subSense>costado </subSense>
+<pc>; </pc>
+<subSense>ijares <lb/></subSense>
+</sense><sense><subSense>enfermo estar de la ijada <lb/></subSense>
+</sense><sense><subSense>lado izquierdo <lb/></subSense>
+</sense><sense><subSense>a los lados <lb/></subSense>
+</sense><sense><subSense>lado izquierdo <lb/></subSense>
+</sense><sense><subSense>costado <lb/></subSense>
+</sense><sense><subSense>lagrimal del ojo <lb/></subSense>
+</sense><sense><subSense>lado derecho <lb/></subSense>
+</sense><sense><subSense>a los lados <lb/></subSense>
+</sense><sense><subSense>entradas de la frente <lb/></subSense>
+</sense><sense><subSense>espolón de gallo <lb/></subSense>
+</sense><sense><subSense>arras, las que se dan por mano del sacer-<lb/>dote <lb/></subSense>
+</sense><sense><subSense>plata <lb/></subSense>
+</sense><sense><subSense>marcada <lb/>plata <lb/></subSense>
+</sense><sense><subSense>cendrada plata <lb/></subSense>
+</sense><sense><subSense>plata mar-<lb/>cada <lb/></subSense>
+</sense><sense><subSense>plata cendrada <lb/></subSense>
+</sense><sense><subSense>real, un tomín <lb/></subSense>
+</sense><sense><subSense>tesoro <lb/></subSense>
+</sense><sense><subSense>dinero </subSense>
+<pc>; </pc>
+<subSense>moneda <lb/></subSense>
+</sense><sense><subSense>moneda falsa <lb/></subSense>
+</sense><sense><subSense>moneda falsa <lb/></subSense>
+</sense><sense><subSense>juntarse, ut pecunia <lb/>[juntarse cosas en compañía y contratación] <lb/></subSense>
+</sense><sense><subSense>tesoro <lb/></subSense>
+</sense><sense><subSense>tesoro <lb/></subSense>
+</sense><sense><subSense>moneda falsa <lb/></subSense>
+</sense><sense><subSense>moneda falsa <lb/></subSense>
+</sense><sense><subSense>oro <lb/></subSense>
+</sense><sense><subSense>brazalete de oro <lb/></subSense>
+</sense><sense><subSense>moneda falsa <lb/></subSense>
+</sense><sense><subSense>arras estas dar (las que se dan <lb/>por mano del sacerdote) <lb/></subSense>
+</sense><sense><subSense>nalga <lb/></subSense>
+</sense><sense><subSense>pan <lb/></subSense>
+</sense><sense><subSense>biscocho <lb/></subSense>
+</sense><sense><subSense>bollos que hacían en las fiestas de los <lb/>demonios <lb/></subSense>
+</sense><sense><subSense>rosca <lb/></subSense>
+</sense><sense><subSense>rosquilla <lb/></subSense>
+</sense><sense><subSense>panzuelos que suelen hacer los niños <lb/>de sobras de la masa <lb/></subSense>
+</sense><sense><subSense>acemita, pan de afrechos <lb/></subSense>
+</sense><sense><subSense>rosquilla <lb/></subSense>
+</sense><sense><subSense>fruta de sartén <lb/></subSense>
+</sense><sense><subSense>mollete </subSense>
+<pc>; </pc>
+<subSense>reciente pan <lb/></subSense>
+</sense><sense><subSense>rosca <lb/></subSense>
+</sense><sense><subSense>edad <lb/>tener más de 52 años <lb/></subSense>
+</sense><sense><subSense>cosa grande y ancha <lb/></subSense>
+</sense><sense><subSense>torta <lb/></subSense>
+</sense><sense><subSense>biscocho </subSense>
+<pc>; </pc>
+<subSense>pan tostado <lb/></subSense>
+</sense><sense><subSense>zatico de pan <lb/></subSense>
+</sense><sense><subSense>pan tostado <lb/></subSense>
+</sense><sense><subSense>pan quemado <lb/></subSense>
+</sense><sense><subSense>mohoso pan <lb/></subSense>
+</sense><sense><subSense>pan quemado <lb/></subSense>
+</sense><sense><subSense>mamantón <lb/></subSense>
+</sense><sense><subSense>migas de pan <lb/></subSense>
+</sense><sense><subSense>avahadas sopas <lb/></subSense>
+</sense><sense><subSense>hornazo <lb/></subSense>
+</sense><sense><subSense>ahogarse con bo-<lb/>cado <lb/></subSense>
+</sense><sense><subSense>zatico de pan <lb/></subSense>
+</sense><sense><subSense>mendrugo de pan <lb/></subSense>
+</sense><sense><subSense>mohoso pan <lb/></subSense>
+</sense><sense><subSense>pan tostado <lb/></subSense>
+</sense><sense><subSense>cenceño pan <lb/></subSense>
+</sense><sense><subSense>cenceño pan <lb/></subSense>
+</sense><sense><subSense>zatico de pan </subSense>
+<pc>; </pc>
+<subSense>mendrugo de pan <lb/></subSense>
+</sense><sense><subSense>pastel de comer <lb/></subSense>
+</sense><sense><subSense>hornazo <lb/></subSense>
+</sense><sense><subSense>sopa <lb/></subSense>
+</sense><sense><subSense>torta <lb/></subSense>
+</sense><sense><subSense>hígado <lb/></subSense>
+</sense><sense><subSense>zatico de pan <lb/></subSense>
+</sense><sense><subSense>acemita, pan de afrechos <lb/></subSense>
+</sense><sense><subSense>empanada de pescado <lb/></subSense>
+</sense><sense><subSense>pan rollizo <lb/></subSense>
+</sense><sense><subSense>bollo cocido <lb/>en las brasas <lb/></subSense>
+</sense><sense><subSense>hojuela <lb/></subSense>
+</sense><sense><subSense>ñudo de árbol <lb/></subSense>
+</sense><sense><subSense>más pan u otra cosa <lb/></subSense>
+</sense><sense><subSense>coroza </subSense>
+<pc>; </pc>
+<subSense>mitra de obispo <lb/></subSense>
+</sense><sense><subSense>corona <lb/></subSense>
+</sense><sense><subSense>mitra de obispo <lb/></subSense>
+</sense><sense><subSense>carrillo de la cara <lb/></subSense>
+</sense><sense><subSense>nariz <lb/></subSense>
+</sense><sense><subSense>algodón lim-<lb/>piar <lb/></subSense>
+</sense><sense><subSense>pezón de fruta <lb/></subSense>
+</sense><sense><subSense>nariz aguileña <lb/></subSense>
+</sense><sense><subSense>hocico de puerco <lb/></subSense>
+</sense><sense><subSense>pie de maizal <lb/></subSense>
+</sense><sense><subSense>mocos de narices <lb/></subSense>
+</sense><sense><subSense>lima (la fruta) <lb/></subSense>
+</sense><sense><subSense>pezón de teta <lb/></subSense>
+</sense><sense><subSense>mocos de narices <lb/></subSense>
+</sense><sense><subSense>hocico de puerco <lb/></subSense>
+</sense><sense><subSense>mocos de narices <lb/></subSense>
+</sense><sense><subSense>nariz aguileña <lb/></subSense>
+</sense><sense><subSense>lima (la fruta) <lb/></subSense>
+</sense><sense><subSense>nariz roma <lb/></subSense>
+</sense><sense><subSense>brújula o puente de arcabuz <lb/></subSense>
+</sense><sense><subSense>mocos de narices <lb/></subSense>
+</sense><sense><subSense>nariz pequeña <lb/></subSense>
+</sense><sense><subSense>ova que nace en el agua <lb/></subSense>
+</sense><sense><subSense>marojo de los árboles <lb/></subSense>
+</sense></body>
+	</text>
+</tei>

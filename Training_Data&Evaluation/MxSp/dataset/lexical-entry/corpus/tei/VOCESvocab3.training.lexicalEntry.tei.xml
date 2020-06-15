@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="lexicalEntry.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="lexicalEntry.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><entry><lemma>caa nacono nini yuhu yahi </lemma>
+<pc>: </pc>
+<sense>cerrojo <lb/></sense>
+</entry><entry><lemma>caa naha sindi </lemma>
+<pc>: </pc>
+<sense>lograr de alguna cosa gozando de <lb/>ella <lb/></sense>
+</entry><entry><lemma>caa naho iñendi </lemma>
+<pc>: </pc>
+<sense>distar (estando en pie) uno de <lb/>otro <lb/></sense>
+</entry><entry><lemma>caa naho iyondi </lemma>
+<pc>: </pc>
+<sense>distar (sentados) uno de otro <lb/></sense>
+</entry><entry><lemma>caa ndaa </lemma>
+<pc>: </pc>
+<sense>estar de cuesta con otro <lb/></sense>
+</entry><entry><lemma>caa ndaa </lemma>
+<pc>: </pc>
+<sense>rellanada cosa <lb/></sense>
+</entry><entry><lemma>caa ndaa chihi </lemma>
+<pc>: </pc>
+<sense>corchete <lb/></sense>
+</entry><entry><lemma>caa ndaa dziñe </lemma>
+<pc>: </pc>
+<sense>piezas de casas bajas a un lado <lb/></sense>
+</entry><entry><lemma>caa ndaandi </lemma>
+<pc>: </pc>
+<sense>echado estar <lb/></sense>
+</entry><entry><lemma>caa ndadza huii yutnu </lemma>
+<pc>: </pc>
+<sense>cepillo <lb/></sense>
+</entry><entry><lemma>caa ndaha </lemma>
+<pc>: </pc>
+<sense>martillo <lb/></sense>
+</entry><entry><lemma>caa ndaye </lemma>
+<pc>: </pc>
+<sense>lima de hierro <lb/></sense>
+</entry><entry><lemma>caa ndaye dzoo yondisindi / sa ndisindi </lemma>
+<pc>: </pc>
+<sense>manta <lb/>traer al revés <lb/></sense>
+</entry><entry><lemma>caa ndaye yona canundi </lemma>
+<pc>: </pc>
+<sense>doblar manta hacia <lb/>dentro <lb/></sense>
+</entry><entry><lemma>caa ndayendi</lemma>
+<pc>, </pc>
+<inflected>futuro cavua </inflected>
+<pc>: </pc>
+<sense>boca abajo estar echa­ <lb/>do ; echado estar de bruces <lb/></sense>
+</entry><entry><lemma>caa ndeca caa nuna </lemma>
+<pc>: </pc>
+<sense>desocupado lugar <lb/></sense>
+</entry><entry><lemma>caa ndevui nuu tnaha </lemma>
+<pc>: </pc>
+<sense>corchete <lb/></sense>
+</entry><entry><lemma>caa ndidzonica yocahandi </lemma>
+<pc>: </pc>
+<sense>fingir <lb/></sense>
+</entry><entry><lemma>caa ndihindi </lemma>
+<pc>: </pc>
+<sense>acostado estar ; echado estar sobre <lb/>petate <lb/></sense>
+</entry><entry><lemma>caa ndii </lemma>
+<pc>: </pc>
+<sense>echado estar <lb/></sense>
+</entry><entry><lemma>caa ndii quaaca </lemma>
+<pc>: </pc>
+<sense>a puesta de sol <lb/></sense>
+</entry><entry><lemma>caa ndiindi </lemma>
+<pc>: </pc>
+<sense>acostado estar <lb/></sense>
+</entry><entry><lemma>caa ndisi </lemma>
+<pc>: </pc>
+<sense>atravesado estar algo (puesto de través) <lb/></sense>
+</entry><entry><lemma>caa ndisi </lemma>
+<pc>: </pc>
+<sense>de través <lb/></sense>
+</entry><entry><lemma>caa ndisi yositute </lemma>
+<pc>: </pc>
+<sense>arar cruzando <lb/></sense>
+</entry><entry><lemma>caa ndiyeca </lemma>
+<pc>: </pc>
+<sense>siniestra cosa <lb/></sense>
+</entry><entry><lemma>caa ndiyoca </lemma>
+<pc>: </pc>
+<sense>siniestra cosa <lb/></sense>
+</entry><entry><lemma>caa ndiyu quachita </lemma>
+<pc>: </pc>
+<sense>encubierto estar defecto de <lb/>otro <lb/></sense>
+</entry><entry><lemma>caa ndodzo </lemma>
+<pc>: </pc>
+<sense>estar encima de algo, si echado ; carga­ <lb/>do estar (al cuello o a los hombros) <lb/></sense>
+</entry><entry><lemma>caa ndodzo dzuq </lemma>
+<pc>: </pc>
+<sense>llevar algo al pescuezo <lb/></sense>
+</entry><entry><lemma>caa ndodzo ndayendi</lemma>
+<pc>, </pc>
+<inflected>futuro cavua </inflected>
+<pc>: </pc>
+<sense>estar de <lb/>pechos sobre la mesa <lb/></sense>
+</entry><entry><lemma>caa ndodzo ndayendi (nuu mesa) </lemma>
+<pc>: </pc>
+<sense>echado estar <lb/>de pechos (sobre una mesa) <lb/></sense>
+</entry><entry><lemma>caa ndodzo ninondi (nuu sito) </lemma>
+<pc>: </pc>
+<sense>echado estar (en <lb/>la cama) <lb/></sense>
+</entry><entry><lemma>caa ndodzo yucu </lemma>
+<pc>: </pc>
+<sense>jeringa <lb/></sense>
+</entry><entry><lemma>caa ndodzondi </lemma>
+<pc>: </pc>
+<sense>acostado estar <lb/></sense>
+</entry><entry><lemma>caa ndodzondi (nuu sito)</lemma>
+<pc>, </pc>
+<inflected>futuro cavua </inflected>
+<pc>: </pc>
+<sense>echado <lb/>estar (en la cama) <lb/></sense>
+</entry><entry><lemma>caa ndodzonica yocahandi </lemma>
+<pc>: </pc>
+<sense>fingir <lb/></sense>
+</entry><entry><lemma>caa ndodzote ndevui </lemma>
+<pc>: </pc>
+<sense>echarse el ave sobre sus <lb/>huevos <lb/></sense>
+</entry><entry><lemma>caa nduq </lemma>
+<pc>: </pc>
+<sense>cuadrada cosa <lb/></sense>
+</entry><entry><lemma>caa ndusa tacu </lemma>
+<pc>: </pc>
+<sense>imprenta <lb/></sense>
+</entry><entry><lemma>caa ndusi itu </lemma>
+<pc>: </pc>
+<sense>estar las milpas llenas de yerba <lb/></sense>
+</entry><entry><lemma>caa nduvua dzoo yondisindi </lemma>
+<pc>: </pc>
+<sense>manta traer al de­ <lb/>recho <lb/></sense>
+</entry><entry><lemma>caa nduvua ndodzo nduta yodzutandi </lemma>
+<pc>: </pc>
+<sense>nadar de <lb/>espaldas <lb/></sense>
+</entry><entry><lemma>caa nduvua tatnu yocanindi </lemma>
+<pc>: </pc>
+<sense>dar de llano con la <lb/>espalda <lb/></sense>
+</entry><entry><lemma>caa nduvuandi</lemma>
+<pc>, </pc>
+<inflected>futuro cavua </inflected>
+<pc>: </pc>
+<sense>boca arriba estar <lb/>echado ; de espaldas estar echado <lb/></sense>
+</entry><entry><lemma>caa nduvui caa tnaha yocahandi </lemma>
+<pc>: </pc>
+<sense>hablar llana­ <lb/>mente sin mezcla <lb/></sense>
+</entry><entry><lemma>caa nduvui siyo nuu </lemma>
+<pc>: </pc>
+<sense>escoda para labrar <lb/></sense>
+</entry><entry><lemma>caa neni </lemma>
+<pc>: </pc>
+<sense>montosa, cosa alta <lb/></sense>
+</entry><entry><lemma>caa nicay </lemma>
+<pc>: </pc>
+<sense>batido <lb/></sense>
+</entry><entry><lemma>caa nicuvui yadzi </lemma>
+<pc>: </pc>
+<sense>batido <lb/></sense>
+</entry><entry><lemma>caa nidzucu yutnu ñuu </lemma>
+<pc>: </pc>
+<sense>arco de pipa <lb/></sense>
+</entry><entry><lemma>caa nini huisi </lemma>
+<pc>: </pc>
+<sense>escondido estar algo debajo de la <lb/>hoja caída <lb/></sense>
+</entry><entry><lemma>caa nini ndita dzuma dzeque iyondi sihita </lemma>
+<pc>: </pc>
+<sense>estar <lb/>de cuesta con otro <lb/></sense>
+</entry><entry><lemma>caa nini ndoyo </lemma>
+<pc>: </pc>
+<sense>escondido estar algo debajo de la <lb/>hoja caída <lb/></sense>
+</entry><entry><lemma>caa nini ndudzu quahi </lemma>
+<pc>: </pc>
+<sense>extenderse la enfer­ <lb/>medad <lb/></sense>
+</entry><entry><lemma>caa nini ndudzu tedzehe </lemma>
+<pc>: </pc>
+<sense>agallas enfermedad <lb/></sense>
+</entry><entry><lemma>caa nini quayo </lemma>
+<pc>: </pc>
+<sense>escondido estar algo debajo de la <lb/>hoja caída <lb/></sense>
+</entry><entry><lemma>caa nini sa ninatnu dzoo </lemma>
+<pc>: </pc>
+<sense>entre dobleces <lb/></sense>
+</entry><entry><lemma>caa nini sa yototo yotavui dzoo </lemma>
+<pc>: </pc>
+<sense>entre dobleces <lb/></sense>
+</entry><entry><lemma>caa nini yuhu </lemma>
+<pc>: </pc>
+<sense>escondido estar algo debajo de la <lb/>hoja caída <lb/></sense>
+</entry><entry><lemma>caa nino cono </lemma>
+<pc>: </pc>
+<sense>estar metido en algún lugar <lb/>hondo <lb/></sense>
+</entry><entry><lemma>caa nino ndisi</lemma>
+<pc>, </pc>
+<inflected>futuro cavua </inflected>
+<pc>: </pc>
+<sense>atravesado estar algo <lb/>(puesto de través) <lb/></sense>
+</entry><entry><lemma>caa nino ndisi yuhundi </lemma>
+<pc>: </pc>
+<sense>atravesado llevar algo en <lb/>la boca <lb/></sense>
+</entry><entry><lemma>caa nino quevui yoquesita </lemma>
+<pc>: </pc>
+<sense>dejar algunos días de <lb/>venir <lb/></sense>
+</entry><entry><lemma>caa nino yavui yende</lemma>
+<pc>, </pc>
+<inflected>futuro cavua </inflected>
+<pc>: </pc>
+<sense>estar metido <lb/>en algún lugar hondo <lb/></sense>
+</entry><entry><lemma>caa ninoca quevui </lemma>
+<pc>: </pc>
+<sense>pocas veces <lb/></sense>
+</entry><entry><lemma>caa niñe </lemma>
+<pc>: </pc>
+<sense>hilo de alambre <lb/></sense>
+</entry><entry><lemma>caa nitusi yadzi </lemma>
+<pc>: </pc>
+<sense>hoja de lata <lb/></sense>
+</entry><entry><lemma>caa nuhu </lemma>
+<pc>: </pc>
+<sense>perdiz <lb/></sense>
+</entry></body>
+	</text>
+</tei>

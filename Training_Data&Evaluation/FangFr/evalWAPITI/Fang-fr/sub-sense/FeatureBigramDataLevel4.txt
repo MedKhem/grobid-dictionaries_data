@@ -1,0 +1,23 @@
+Dict+Fang-Fr+Model+sub-sense+Feature+Bigram+DataLevel+4
+===== Field-level results =====
+
+label                accuracy     precision    recall       f1           support
+
+<def>                93.65        80.97        87.14        83.94        210    
+<etym>               100          100          100          100          1      
+<example>            95.1         88.51        88.51        88.51        235    
+<note>               97.91        70.97        61.11        65.67        36     
+<pc>                 95.19        92.89        94.46        93.67        415    
+<xr>                 99.37        96.77        95.74        96.26        94     
+
+all (micro avg.)     96.87        88.89        90.41        89.64        991    
+all (macro avg.)     96.87        88.35        87.83        88.01        991    
+
+===== Instance-level results =====
+
+Total expected instances:   165
+Correct instances:          116
+Instance-level recall:      70.3
+
+
+Evaluation for sub-sense model is realized in 820 ms

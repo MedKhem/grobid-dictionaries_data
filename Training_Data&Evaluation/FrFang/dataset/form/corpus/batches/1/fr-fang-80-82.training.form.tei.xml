@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="form.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="form.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><form><orth>LUTTER </orth></form><form><orth>MACABO </orth></form><form><orth>MÂCHER </orth></form><form><orth>MACHINE </orth></form><form><orth>MÂCHOIRE </orth></form><form><orth>MÂCHOIRON </orth></form><form><orth>MAGICIEN </orth></form><form><orth>MAGIE </orth></form><form><orth>MAGNIFIQUE </orth></form><form><orth>MAIGRE </orth></form><form><orth>MAIGRIR </orth></form><form><orth>MAILLE </orth></form><form><orth>MAILLET </orth></form><form><orth>MAIN </orth></form><form><orth>MAINTENANT </orth></form><form><orth>MAINTENIR <lb/></orth></form><form><orth>MAIS </orth></form><form><orth>MAIS </orth></form><form><orth>MAISON </orth></form><form><orth>MAÎTRE <lb/></orth></form><form><orth>MAKI </orth></form><form><orth>MAKOKOU </orth></form><form><orth>MAL </orth></form><form><orth>MALADE </orth></form><form><orth>MALADROIT </orth></form><form><orth>MALCHANCE </orth></form><form><orth>MÂLE </orth></form><form><orth>MALÉDICTION </orth></form><form><orth>MALÉFICE </orth></form><form><orth>MALFAITEUR </orth></form><form><orth>MALHEUR </orth></form><form><orth>MALHEUREUX </orth></form><form><orth>MALTRAITER <lb/></orth></form><form><orth>MAMELLE </orth></form><form><orth>MANCHE </orth></form><form><orth>MANDRILL </orth></form><form><orth>MANGÉ </orth></form><form><orth>MANGER </orth></form><form><orth>MANGOUSTE <lb/></orth></form><form><orth>MANIER </orth></form><form><orth>MANIÈRE </orth></form><form><orth>MANIOC </orth></form><form><orth>MANQUER </orth></form></body>
+	</text>
+</tei>

@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="subSense.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="subSense.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><subSense><def>madri-<lb/>na de bautismo <lb/></def>
+</subSense><subSense><def>madrina <lb/>de boda <lb/></def>
+</subSense><subSense><def>madrina de bau-<lb/>tismo <lb/></def>
+</subSense><subSense><def>lagrimal del ojo <lb/></def>
+</subSense><subSense><def>pernil de tocino <lb/></def>
+</subSense><subSense><def>madrina de bautismo <lb/></def>
+</subSense><subSense><def>pata hendida <lb/></def>
+</subSense><subSense><def>cacao <lb/></def>
+</subSense><subSense><def>almendra <lb/></def>
+</subSense><subSense><def>cacao grande <lb/></def>
+</subSense><subSense><def>cacao grande <lb/></def>
+</subSense><subSense><def>bebida de cacao <lb/></def>
+</subSense><subSense><def>cacao ancho y blanco <lb/></def>
+</subSense><subSense><def>piñón <lb/></def>
+</subSense><subSense><def>bebida de cacao <lb/></def>
+</subSense><subSense><def>borra </def>
+<usg>de tinta </usg>
+</subSense><subSense><def>escoria de metal <lb/></def>
+</subSense><subSense><def>estaño para dorar <lb/></def>
+</subSense><subSense><def>bala</def>, <def>pelota</def> <lb/>
+</subSense><subSense><def>cometa errática pequeña que parece <lb/>caer <lb/></def>
+</subSense><subSense><def>incordio <lb/></def>
+</subSense><subSense><def>incordio grande <lb/></def>
+</subSense><subSense><def>incordio pequeño <lb/></def>
+</subSense><subSense><def>garabato <lb/></def>
+</subSense><subSense><def>garabato <lb/></def>
+</subSense><subSense><def>cabeza </def>
+</subSense><subSense><def>colodrillo </def>
+<usg>de la cabeza </usg>
+</subSense><subSense><def>(en) la <lb/>cumbre <lb/></def>
+</subSense><subSense><def>sartal de cuentas <lb/></def>
+</subSense><subSense><def>ajorcas <lb/></def>
+</subSense><subSense><def>manilla <lb/></def>
+</subSense><subSense><def>burla burlando pa-<lb/>rarse peor algo <lb/></def>
+</subSense><subSense><def>burlando hacer o <lb/>decir algo <lb/></def>
+</subSense><subSense><def>empeorarse</def>, <def>burla <lb/>burlando la llaga</def> <lb/>
+</subSense><subSense><def>empeorarse</def>, <def>burla <lb/>burlando la llaga</def> <lb/>
+</subSense><subSense><def>espinilla de la pierna <lb/></def>
+</subSense><subSense><def>joya <lb/></def>
+</subSense><subSense><def>collar de oro <lb/></def>
+</subSense><subSense><def>manilla <lb/></def>
+</subSense><subSense><def>rabadilla de ave <lb/></def>
+</subSense><subSense><def>campanilla de zarcillo o joya <lb/></def>
+</subSense><subSense><def>campanilla de zarcillo o <lb/>joya <lb/></def>
+</subSense><subSense><def>cuenta para rezar <lb/></def>
+</subSense><subSense><def>cuenta para rezar <lb/></def>
+</subSense><subSense><def>después de cualquiera fiesta <lb/></def>
+</subSense><subSense><def>de lo alto </def>
+</subSense><subSense><def>encima de lo alto <lb/></def>
+</subSense><subSense><def>rodilla <lb/></def>
+</subSense><subSense><def>ajorcas <lb/></def>
+</subSense><subSense><def>título de libro <lb/></def>
+</subSense><subSense><def>hablar burlando <lb/></def>
+</subSense><subSense><def>cadena de oro <lb/></def>
+</subSense><subSense><def>tiara <lb/></def>
+</subSense><subSense><def>corazón</def>, <def>lo de dentro de la pe-<lb/>pita</def> <lb/>
+</subSense><subSense><def>él</def>, <def>ella</def>, <def>ello</def> <lb/>
+</subSense><subSense><def>heces <lb/></def>
+</subSense><subSense><def>renombre <lb/></def>
+</subSense><subSense><def>de la misma medida <lb/></def>
+</subSense><subSense><def>buenamente <lb/></def>
+</subSense><subSense><def>buena</def>
+<pc>-<lb/></pc>
+<gramGrp>mente <lb/></gramGrp>
+</subSense><subSense><def>iguales en vicio o en virtud <lb/></def>
+</subSense><subSense><def>plomo <lb/></def>
+</subSense><subSense><def>de ahí </def>
+</subSense><subSense><def>ese</def>, <def>esa</def>, <def>eso</def> <lb/>
+</subSense><subSense><def>helo allí <lb/></def>
+</subSense><subSense><def>título de libro <lb/></def>
+</subSense><subSense><def>apellido de nombre particular <lb/></def>
+</subSense><subSense><def>bien 
+está</def>, <def>que dice el menor al mayor</def> 
+</subSense><subSense><def>sí</def>, <lb/><def>para con los señores</def> <lb/>
+</subSense><subSense><def>carcañal <lb/></def>
+</subSense><subSense><def>a </def>
+<pc>(</pc>
+<gramGrp>adverbio de llamar</gramGrp>) <lb/>
+</subSense><subSense><def>hao <lb/></def>
+</subSense><subSense><def>o</def> (<usg>para llamar</usg>) <lb/>
+</subSense><subSense><def>a </def>
+<pc>(</pc>
+<def>adverbio para llamar <lb/>cuando se me ha olvidado algo) <lb/></def>
+</subSense><subSense><def>aha</def> [<translation>ahó</translation>] <def>o para llamar </def><lb/>
+</subSense><subSense><def>cornudo llamar a otro <lb/></def>
+</subSense><subSense><def>relampaguear de noche sin <lb/>truenos <lb/></def>
+</subSense><subSense><def>relampaguear de noche <lb/>sin truenos <lb/></def>
+</subSense><subSense><def>pecado <lb/></def>
+</subSense><subSense><def>culpa </def>
+</subSense><subSense><def>defecto <lb/></def>
+</subSense><subSense><def>camisa que usan las indias que llaman huipil <lb/></def>
+</subSense><subSense><def>engrasarse como en las minas <lb/></def>
+</subSense><subSense><def>engrasarse como en las <lb/>minas <lb/></def>
+</subSense><subSense><def>ponzoña de víbora <lb/></def>
+</subSense><subSense><def>bien </def>
+<pc>(</pc>
+<usg>nombre</usg>) <lb/>
+</subSense><subSense><def>inficionarse <lb/>lugar <lb/></def>
+</subSense><subSense><def>inficionarse lugar <lb/></def>
+</subSense><subSense><def>olor de comida <lb/></def>
+</subSense><subSense><def>gustar de lo que se <lb/>come <lb/></def>
+</subSense><subSense><def>sobrina <lb/></def>
+</subSense><subSense><def>buba <lb/></def>
+</subSense><subSense><def>espinilla de la pierna <lb/></def>
+</subSense><subSense><def>pitahaya</def>, <def>fruta</def> [<translation>tuna</translation>] <lb/>
+</subSense><subSense><def>zanca <lb/></def>
+</subSense><subSense><def>tabla del brazo <lb/></def>
+</subSense><subSense><def>hermana de mi abuela <lb/></def>
+</subSense><subSense><def>hermana de mi padre o madre <lb/></def>
+</subSense><subSense><def>tía <lb/></def>
+</subSense><subSense><def>carga <lb/></def>
+</subSense><subSense><def>cuñado</def>, <def>hermano de mi mujer </def><lb/>
+</subSense><subSense><def>pierna de animal <lb/></def>
+</subSense><subSense><def>así <lb/></def>
+</subSense><subSense><def>dura ave de comer o carne por mal cocida <lb/></def>
+</subSense><subSense><def>recio como cuero <lb/></def>
+</subSense><subSense><def>flor </def>
+<def>de vino</def>, <def>la lapa</def> <lb/>
+</subSense><subSense><def>dura ave por ser vieja <lb/></def>
+</subSense><subSense><def>recia cosa como madero casi <lb/></def>
+</subSense><subSense><def>primeramente <lb/></def>
+</subSense><subSense><def>lo primero</def>, <def>o cuanto a lo primero</def> <lb/>
+</subSense><subSense><def>primeramente <lb/></def>
+</subSense><subSense><def>primeramente <lb/></def>
+</subSense><subSense><def>lo primero</def>, <def>o cuanto a lo <lb/>primero</def> <lb/>
+</subSense><subSense><def>primeramente <lb/></def>
+</subSense><subSense><def>principalmente <lb/></def>
+</subSense><subSense><def>antes o primeramente <lb/></def>
+</subSense><subSense><def>primeramente <lb/></def>
+</subSense><subSense><def>principalmente <lb/></def>
+</subSense><subSense><def>primero <lb/></def>
+</subSense><subSense><def>principalmente <lb/></def>
+</subSense><subSense><def>primeramente </def>
+</subSense><subSense><def>principalmente <lb/></def>
+</subSense><subSense><def>adelantar o antevenir a otro en honra <lb/></def>
+</subSense><subSense><def>ganar por la mano <lb/></def>
+</subSense><subSense><def>adelantarse en ca-<lb/>mino <lb/></def>
+</subSense><subSense><def>sombra de hombre <lb/></def>
+</subSense><subSense><def>tuétano <lb/></def>
+</subSense><subSense><def>meollo o tuétano <lb/></def>
+</subSense><subSense><def>telaraña <lb/></def>
+</subSense><subSense><def>cabeza </def>
+</subSense><subSense><def>arriba en lo alto <lb/></def>
+</subSense><subSense><def>cautivos sacrificados ante los ídolos <lb/></def>
+</subSense><subSense><def>chimenea lo alto <lb/></def>
+</subSense><subSense><def>empulgueras de arco <lb/></def>
+</subSense><subSense><def>en la cumbre <lb/></def>
+</subSense><subSense><def>azutea o azotea <lb/></def>
+</subSense><subSense><def>cabecera de mesa <lb/></def>
+</subSense><subSense><def>calva cabeza <lb/></def>
+</subSense><subSense><def>cabeza cortada <lb/></def>
+</subSense><subSense><def>corona de clérigo <lb/></def>
+</subSense><subSense><def>cabeza cortada <lb/></def>
+</subSense><subSense><def>cautivos sacrificados ante los ídolos <lb/></def>
+</subSense><subSense><def>Mixteca alta <lb/></def>
+</subSense><subSense><def>cabecera de pueblo <lb/></def>
+</subSense><subSense><def>calva <lb/>entradas de las sienes <lb/></def>
+</subSense><subSense><def>de lo alto </def>
+</subSense><subSense><def>de punta </def>
+</subSense><subSense><def>encima de lo alto <lb/></def>
+</subSense><subSense><def>cabecera de cama <lb/></def>
+</subSense><subSense><def>mocha cosa sin cuernos <lb/></def>
+</subSense><subSense><def>padrastro de los dedos <lb/></def>
+</subSense><subSense><def>calva cabeza <lb/></def>
+</subSense><subSense><def>cautivos sacrificados ante los <lb/>ídolos <lb/></def>
+</subSense><subSense><def>alto</def>, <def>la cumbre de la sierra</def> <lb/>
+</subSense><subSense><def>copa 
+de árbol</def> 
+</subSense><subSense><def>entre el mismo árbol <lb/></def>
+</subSense><subSense><def>extremidad </def>
+</subSense><subSense><def>cabeza de clavo <lb/></def>
+</subSense><subSense><def>arras</def>, <def>presentes que se dan entre ma-<lb/>cehuales</def> 
+</subSense><subSense><def>don</def>
+, <def>preseas tales entre macehuales</def> 
+</subSense><subSense><def>prenda lo que se da <lb/></def>
+</subSense><subSense><def>calentura enfermedad </def>
+</subSense><subSense><def>fiebre <lb/></def>
+</subSense><subSense><def>ciclones <lb/></def>
+</subSense><subSense><def>terciana</def>, <def>calentura</def> <lb/>
+</subSense><subSense><def>terciana</def>, <def>calentura</def> <lb/>
+</subSense><subSense><def>gavilán <lb/></def>
+</subSense><subSense><def>gerifalte <lb/></def>
+</subSense><subSense><def>lado </def>
+</subSense><subSense><def>sienes <lb/></def>
+</subSense><subSense><def>sienes <lb/></def>
+</subSense><subSense><def>costado </def>
+</subSense><subSense><def>ijares <lb/></def>
+</subSense><subSense><def>enfermo estar de la ijada <lb/></def>
+</subSense><subSense><def>lado izquierdo <lb/></def>
+</subSense><subSense><def>a los lados <lb/></def>
+</subSense><subSense><def>lado izquierdo <lb/></def>
+</subSense><subSense><def>costado <lb/></def>
+</subSense><subSense><def>lagrimal del ojo <lb/></def>
+</subSense><subSense><def>lado derecho <lb/></def>
+</subSense><subSense><def>a los lados <lb/></def>
+</subSense><subSense><def>entradas de la frente <lb/></def>
+</subSense><subSense><def>espolón de gallo <lb/></def>
+</subSense><subSense><def>arras</def>, <def>las que se dan por mano del sacer-<lb/>dote</def> <lb/>
+</subSense><subSense><def>plata <lb/></def>
+</subSense><subSense><def>marcada <lb/>plata <lb/></def>
+</subSense><subSense><def>cendrada plata <lb/></def>
+</subSense><subSense><def>plata mar-<lb/>cada <lb/></def>
+</subSense><subSense><def>plata cendrada <lb/></def>
+</subSense><subSense><def>real</def>, <def>un tomín</def> <lb/>
+</subSense><subSense><def>tesoro <lb/></def>
+</subSense><subSense><def>dinero </def>
+</subSense><subSense><def>moneda <lb/></def>
+</subSense><subSense><def>moneda falsa <lb/></def>
+</subSense><subSense><def>moneda falsa <lb/></def>
+</subSense><subSense><def>juntarse</def>, <def>ut pecunia</def> <lb/>[<translation>juntarse cosas en compañía y contratación</translation>] <lb/>
+</subSense><subSense><def>tesoro <lb/></def>
+</subSense><subSense><def>tesoro <lb/></def>
+</subSense><subSense><def>moneda falsa <lb/></def>
+</subSense><subSense><def>moneda falsa <lb/></def>
+</subSense><subSense><def>oro <lb/></def>
+</subSense><subSense><def>brazalete de oro <lb/></def>
+</subSense><subSense><def>moneda falsa <lb/></def>
+</subSense><subSense><def>arras estas dar</def> (<usg>las que se dan <lb/>por mano del sacerdote</usg>) <lb/>
+</subSense><subSense><def>nalga <lb/></def>
+</subSense><subSense><def>pan <lb/></def>
+</subSense><subSense><def>biscocho <lb/></def>
+</subSense><subSense><def>bollos que hacían en las fiestas de los <lb/>demonios <lb/></def>
+</subSense><subSense><def>rosca <lb/></def>
+</subSense><subSense><def>rosquilla <lb/></def>
+</subSense><subSense><def>panzuelos que suelen hacer los niños <lb/>de sobras de la masa <lb/></def>
+</subSense><subSense><def>acemita</def>, <def>pan de afrechos</def> <lb/>
+</subSense><subSense><def>rosquilla <lb/></def>
+</subSense><subSense><def>fruta de sartén <lb/></def>
+</subSense><subSense><def>mollete </def>
+</subSense><subSense><def>reciente pan <lb/></def>
+</subSense><subSense><def>rosca <lb/></def>
+</subSense><subSense><def>edad <lb/>tener más de 52 años <lb/></def>
+</subSense><subSense><def>cosa grande y ancha <lb/></def>
+</subSense><subSense><def>torta <lb/></def>
+</subSense><subSense><def>biscocho </def>
+</subSense><subSense><def>pan tostado <lb/></def>
+</subSense><subSense><def>zatico de pan <lb/></def>
+</subSense><subSense><def>pan tostado <lb/></def>
+</subSense><subSense><def>pan quemado <lb/></def>
+</subSense><subSense><def>mohoso pan <lb/></def>
+</subSense><subSense><def>pan quemado <lb/></def>
+</subSense><subSense><def>mamantón <lb/></def>
+</subSense><subSense><def>migas de pan <lb/></def>
+</subSense><subSense><def>avahadas sopas <lb/></def>
+</subSense><subSense><def>hornazo <lb/></def>
+</subSense><subSense><def>ahogarse con bo-<lb/>cado <lb/></def>
+</subSense><subSense><def>zatico de pan <lb/></def>
+</subSense><subSense><def>mendrugo de pan <lb/></def>
+</subSense><subSense><def>mohoso pan <lb/></def>
+</subSense><subSense><def>pan tostado <lb/></def>
+</subSense><subSense><def>cenceño pan <lb/></def>
+</subSense><subSense><def>cenceño pan <lb/></def>
+</subSense><subSense><def>zatico </def>
+<usg>de pan </usg>
+</subSense><subSense><def>mendrugo de pan <lb/></def>
+</subSense><subSense><def>pastel de comer <lb/></def>
+</subSense><subSense><def>hornazo <lb/></def>
+</subSense><subSense><def>sopa <lb/></def>
+</subSense><subSense><def>torta <lb/></def>
+</subSense><subSense><def>hígado <lb/></def>
+</subSense><subSense><def>zatico de pan <lb/></def>
+</subSense><subSense><def>acemita</def>, <def>pan de afrechos</def> <lb/>
+</subSense><subSense><def>empanada de pescado <lb/></def>
+</subSense><subSense><def>pan rollizo <lb/></def>
+</subSense><subSense><def>bollo cocido <lb/>en las brasas <lb/></def>
+</subSense><subSense><def>hojuela <lb/></def>
+</subSense><subSense><def>ñudo de árbol <lb/></def>
+</subSense><subSense><def>más pan u otra cosa <lb/></def>
+</subSense><subSense><def>coroza </def>
+</subSense><subSense><def>mitra de obispo <lb/></def>
+</subSense><subSense><def>corona <lb/></def>
+</subSense><subSense><def>mitra de obispo <lb/></def>
+</subSense><subSense><def>carrillo de la cara <lb/></def>
+</subSense><subSense><def>nariz <lb/></def>
+</subSense><subSense><def>algodón lim-<lb/>piar <lb/></def>
+</subSense><subSense><def>pezón de fruta <lb/></def>
+</subSense><subSense><def>nariz aguileña <lb/></def>
+</subSense><subSense><def>hocico de puerco <lb/></def>
+</subSense><subSense><def>pie de maizal <lb/></def>
+</subSense><subSense><def>mocos de narices <lb/></def>
+</subSense><subSense><def>lima</def> (<usg>la fruta</usg>) <lb/>
+</subSense><subSense><def>pezón de teta <lb/></def>
+</subSense><subSense><def>mocos de narices <lb/></def>
+</subSense><subSense><def>hocico de puerco <lb/></def>
+</subSense><subSense><def>mocos de narices <lb/></def>
+</subSense><subSense><def>nariz aguileña <lb/></def>
+</subSense><subSense><def>lima</def> (<usg>la fruta</usg>) <lb/>
+</subSense><subSense><def>nariz roma <lb/></def>
+</subSense><subSense><def>brújula o puente de arcabuz <lb/></def>
+</subSense><subSense><def>mocos de narices <lb/></def>
+</subSense><subSense><def>nariz pequeña <lb/></def>
+</subSense><subSense><def>ova que nace en el agua <lb/></def>
+</subSense><subSense><def>marojo de los árboles <lb/></def>
+</subSense></body>
+	</text>
+</tei>

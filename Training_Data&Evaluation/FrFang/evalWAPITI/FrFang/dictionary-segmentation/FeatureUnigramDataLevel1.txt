@@ -1,0 +1,19 @@
+Dict+FrFang+Model+dictionary-segmentation+Feature+Unigram+DataLevel+1
+===== Field-level results =====
+
+label                accuracy     precision    recall       f1           support
+
+<body>               76.19        75           66.67        70.59        9      
+<headnote>           80.95        85.71        66.67        75           9      
+
+all (micro avg.)     78.57        80           66.67        72.73        18     
+all (macro avg.)     78.57        80.36        66.67        72.79        18     
+
+===== Instance-level results =====
+
+Total expected instances:   3
+Correct instances:          1
+Instance-level recall:      33.33
+
+
+Evaluation for dictionary-segmentation model is realized in 272 ms

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="form.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="form.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><form><orth>yondico dzamandi </orth>
+</form><form><orth>yondico inindi </orth>
+</form><form><orth>yondico nahindi yuu </orth>
+</form><form><orth>yondico ndahui inindi </orth>
+</form><form><orth>yondico ndahui inindi sita </orth>
+</form><form><orth>yondico ndaq ndayendi </orth>
+</form><form><orth>yondico ndidzondi </orth>
+</form><form><orth>yondico ndodzo tniño nicoo coondi </orth>
+</form><form><orth>yondico ñahandi </orth>
+</form><form><orth>yondico quaa </orth>
+</form><form><orth>yondico quay </orth>
+</form><form><orth>yondico sica ñahandi </orth>
+</form><form><orth>yondico siyo </orth>
+</form><form><orth>yondico siyo qua ñuhu </orth>
+</form><form><orth>yondico tasi inindi </orth>
+</form><form><orth>yondico tasindi </orth>
+</form><form><orth>yondico tasindi huahi </orth>
+</form><form><orth>yondico tnahandi </orth>
+</form><form><orth>yondico tneendi </orth>
+</form><form><orth>yondico tniño naandi </orth>
+</form><form><orth>yondico tniñondi </orth>
+</form><form><orth>yondico tnundoo </orth>
+</form><form><orth>yondicondi </orth>
+</form><form><orth>yondicondi </orth>
+</form><form><orth>yondicondi </orth>
+</form><form><orth>yondicondita</orth>
+</form><form><gramGrp>futuro </gramGrp>
+<part>ca ndico</part> 
+</form><form><orth>yondicote </orth>
+</form><form><orth>yondichi </orth>
+</form><form><orth>yondichi yondaa vuisi </orth>
+</form><form><orth>yondidzi ndaa </orth>
+</form><form><orth>yondidzo ñaha idzu </orth>
+</form><form><orth>yondidzo yecandi</orth>
+</form><form><gramGrp>futuro </gramGrp>
+<part>ca ndidzo</part> 
+</form><form><orth>yondidzo yecandita nday ndaa cata nitavui</orth>
+</form><form><gramGrp>fu-<lb/>
+turo</gramGrp> 
+<part>ca ndidzo</part> 
+</form><form><orth>yondidzo yotavuindi quachi </orth>
+</form><form><orth>yondidzo yotavuindi quachi</orth>
+</form><form><gramGrp>futuro </gramGrp>
+<part>candidzo</part>, <lb/>
+</form><form><gramGrp>futuro </gramGrp>
+<part>ca tavui </part>
+</form><form><orth>yondidzondi</orth>
+</form><form><gramGrp>futuro </gramGrp>
+<part>ca ndidzo</part> 
+</form><form><orth>yondidzondi dzidzo </orth>
+</form><form><orth>yondihi tnahandi </orth>
+</form><form><orth>yondihi yonañundi quachi </orth>
+</form><form><orth>yondihindi tayu </orth>
+</form><form><orth>yondihindi yonañundi quachi</orth>
+</form><form><gramGrp>futuro </gramGrp>
+<part>co 
+ndi-<lb/>hi</part> 
+</form><form><orth>yondihindi yonañundi quachi idzi mihi </orth>
+</form><form><orth>yondii </orth>
+</form><form><orth>yondii </orth>
+</form><form><orth>yondii idza </orth>
+</form><form><orth>yondii ndaa </orth>
+</form><form><orth>yondii ndaandi </orth>
+</form><form><orth>yondii ndicandii </orth>
+</form><form><orth>yondii ndodzo </orth>
+</form><form><orth>yondii ndodzo </orth>
+</form><form><orth>yondii ndodzo </orth>
+</form><form><orth>yondii ndodzo quaha </orth>
+</form><form><orth>yondii nini </orth>
+</form><form><orth>yondii ninindi </orth>
+</form><form><orth>yondii yoo </orth>
+</form><form><orth>yondii yosaya ñuu </orth>
+</form><form><orth>yondii yotnoo yosicandi </orth>
+</form><form><orth>yondii yotuvuisi yosacusi </orth>
+</form><form><orth>yondiindi </orth>
+</form><form><orth>yondiindi idza </orth>
+</form><form><orth>yondisi huatundi </orth>
+</form><form><orth>yondisindi ndayu saha ndeye </orth>
+</form><form><orth>yondisindi sa saa </orth>
+</form><form><orth>yondito cuiindi </orth>
+</form><form><orth>yondito cutundi </orth>
+</form><form><orth>yondito cutundita </orth>
+</form><form><orth>yondito huahandi </orth>
+</form></body>
+	</text>
+</tei>

@@ -1,0 +1,23 @@
+Dict+DLF+Model+gramGrp+Feature+Unigram+DataLevel+1
+===== Field-level results =====
+
+label                accuracy     precision    recall       f1           support
+
+<dictScrap>          99.85        100          80           88.89        5      
+<gen>                100          100          100          100          115    
+<lbl>                100          100          100          100          2      
+<number>             100          100          100          100          111    
+<pc>                 99.85        99.69        100          99.85        326    
+<pos>                98.95        95.33        98.08        96.68        104    
+
+all (micro avg.)     99.78        99.1         99.55        99.32        663    
+all (macro avg.)     99.78        99.17        96.35        97.57        663    
+
+===== Instance-level results =====
+
+Total expected instances:   216
+Correct instances:          214
+Instance-level recall:      99.07
+
+
+Evaluation for gramGrp model is realized in 199 ms

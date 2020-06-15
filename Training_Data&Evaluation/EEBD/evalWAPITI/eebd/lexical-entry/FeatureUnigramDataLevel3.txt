@@ -1,0 +1,23 @@
+Dict+Eebd+Model+lexical-entry+Feature+Unigram+DataLevel+3
+===== Field-level results =====
+
+label                accuracy     precision    recall       f1           support
+
+<dictScrap>          100          100          100          100          128    
+<lemma>              95.45        85.82        94.53        89.96        128    
+<pc>                 98.82        94           92.16        93.07        51     
+<re>                 93.43        0            0            0            14     
+<sense>              87.88        71.78        90.62        80.11        160    
+<xr>                 98.65        0            0            0            6      
+
+all (micro avg.)     95.71        80.47        90.55        85.22        487    
+all (macro avg.)     95.71        58.6         62.89        60.52        487    
+
+===== Instance-level results =====
+
+Total expected instances:   128
+Correct instances:          101
+Instance-level recall:      78.91
+
+
+Evaluation for lexical-entry model is realized in 642 ms

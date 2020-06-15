@@ -1,0 +1,19 @@
+Dict+Eebd+Model+dictionary-body-segmentation+Feature+Bigram+DataLevel+1
+===== Field-level results =====
+
+label                accuracy     precision    recall       f1           support
+
+<entry>              100          100          100          100          127    
+<pc>                 100          100          100          100          71     
+
+all (micro avg.)     100          100          100          100          198    
+all (macro avg.)     100          100          100          100          198    
+
+===== Instance-level results =====
+
+Total expected instances:   3
+Correct instances:          3
+Instance-level recall:      100
+
+
+Evaluation for dictionary-body-segmentation model is realized in 685 ms

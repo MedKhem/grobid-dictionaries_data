@@ -1,0 +1,20 @@
+Dict+Eebd+Model+sense+Feature+Engineered+DataLevel+4
+===== Field-level results =====
+
+label                accuracy     precision    recall       f1           support
+
+<gramGrp>            98.65        92.31        97.3         94.74        37     
+<pc>                 99.33        97.44        97.44        97.44        39     
+<subSense>           95.62        96.68        97.14        96.91        210    
+
+all (micro avg.)     97.87        96.19        97.2         96.7         286    
+all (macro avg.)     97.87        95.48        97.29        96.36        286    
+
+===== Instance-level results =====
+
+Total expected instances:   158
+Correct instances:          154
+Instance-level recall:      97.47
+
+
+Evaluation for sense model is realized in 1167 ms

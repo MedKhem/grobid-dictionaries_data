@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="form.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="form.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><form><orth>ña yosina nino sindi </orth>
+</form><form><orth>ña yosini mani ñahandi </orth>
+</form><form><orth>ña yosini nino sa iyota </orth>
+</form><form><orth>ña yosinindi</orth>
+</form><form><gramGrp>futuro </gramGrp>
+<part>qni</part> 
+</form><form><orth>ña yosinindi yocachi inindi </orth>
+</form><form><orth>ña yosino </orth>
+</form><form><orth>ña yosino ca ndudzuta </orth>
+</form><form><orth>ña yosino cuhua </orth>
+</form><form><orth>ña yosino tuhua </orth>
+</form><form><orth>ña yosito iyondi</orth>
+</form><form><gramGrp>futuro </gramGrp>
+<part>coto </part>
+</form><form><orth>ña yotacu huatu sindi </orth>
+</form><form><orth>ña yotacu huatu sindi ndudzuta </orth>
+</form><form><orth>ña yotacu ninondi ninuu nahandi ninday dzi-<lb/>condi </orth>
+</form><form><orth>ña yotadzi ca ini </orth>
+</form><form><orth>ña yotadzi sa casi </orth>
+</form><form><orth>ña yotadzica inindi </orth>
+</form><form><orth>ña yotavui </orth>
+</form><form><orth>ña yotnay yahuindi sihita </orth>
+</form><form><orth>ña yotniño cuhua inindi casindi </orth>
+</form><form><orth>ña yotnoño ña yosani cata </orth>
+</form><form><orth>ña yotuvui huatu </orth>
+</form><form><orth>ña yotuvui huatu sita </orth>
+</form><form><orth>ña yotuvui huatusindi </orth>
+</form><form><orth>ña yotuvui ndaaca </orth>
+</form><form><orth>ña yotuvui tnuni casi inindi </orth>
+</form><form><orth>ña yoyaa ndaa sindi </orth>
+</form><form><orth>ña yoyaa nino sindi </orth>
+</form><form><orth>ña yoyuhuindita </orth>
+</form><form><orth>ña yuhu ña siyo nicuvui ndudzu </orth>
+</form><form><orth>ña yuhua yocahandi </orth>
+</form><form><orth>ñaa caa sindi </orth>
+</form><form><orth>ñaha </orth>
+</form><form><orth>ñaha </orth>
+</form><form><orth>ñaha </orth>
+</form><form><orth>ñaha </orth>
+</form><form><orth>ñaha caa yuhu nuu </orth>
+</form><form><orth>ñaha cacu dzina dzaya </orth>
+</form><form><orth>ñaha cay </orth>
+</form><form><orth>ñaha cay yaha yoo yee </orth>
+</form><form><orth>ñaha coco </orth>
+</form><form><orth>ñaha cuvui quahi nicacu dzayaña </orth>
+</form><form><orth>ñaha dza cadzi dzaya </orth>
+</form><form><orth>ñaha dzana </orth>
+</form><form><orth>ñaha dzana </orth>
+</form><form><orth>ñaha dzehe </orth>
+</form><form><orth>ñaha dzoho </orth>
+</form><form><orth>ñaha</orth>
+</form><form><gramGrp>futuro </gramGrp>
+<part>hua </part>
+</form><form><orth>ñaha huayu </orth>
+</form><form><orth>ñaha huii </orth>
+</form><form><orth>ñaha ii </orth>
+</form><form><orth>ñaha iyo ii</orth>
+</form><form><orth>ñaha iyo yee </orth>
+</form><form><orth>ñaha nday ini </orth>
+</form><form><orth>ñaha ndodzo </orth>
+</form><form><orth>ñaha nee </orth>
+</form><form><orth>ñaha nee ii </orth>
+</form><form><orth>ñaha nee yoco </orth>
+</form><form><orth>ñaha nicaa </orth>
+</form><form><orth>ñaha nicoo coo yee </orth>
+</form><form><orth>ñaha nicuvui cutu </orth>
+</form><form><orth>ñaha nicuvui nisanu </orth>
+</form><form><orth>ñaha nicuvui qhu </orth>
+</form><form><orth>ñaha ninday caca </orth>
+</form><form><orth>ñaha ninduvui cay </orth>
+</form><form><orth>ñaha ninduvui coyo cay </orth>
+</form><form><orth>ñaha ninduvui ee </orth>
+</form><form><orth>ñaha ninduvui ndahui </orth>
+</form><form><orth>ñaha ninduvui quaa </orth>
+</form><form><orth>ñaha ninumi dzaya </orth>
+</form><form><orth>ñaha nisaca dzaya quevui ninihi nduta dzehe <lb/>sahu ñuhu</orth>
+</form><form><orth>ñaha nisani ini </orth>
+</form><form><orth>ñaha nisay dzaya </orth>
+</form><form><orth>ñaha nitevui </orth>
+</form><form><orth>ñaha numa </orth>
+</form><form><orth>ñaha ña ñoho dzadzica ini </orth>
+</form><form><orth>ñaha ña tnaha dzoo dzonondi </orth>
+</form><form><orth>ñaha ñoho chisi </orth>
+</form><form><orth>ñaha ñoho dzaya </orth>
+</form></body>
+	</text>
+</tei>

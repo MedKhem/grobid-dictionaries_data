@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="form.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="form.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><form><orth>CRÉPUSCULE </orth></form><form><orth>CRÊTE </orth></form><form><orth>CREUSÉ </orth></form><form><orth>CREUSEMENT </orth></form><form><orth>CREUSER </orth></form><form><orth>CREUX </orth></form><form><orth>CREVASSE </orth></form><form><orth>CREVER </orth></form><form><orth>CREVETTE </orth></form><form><orth>CRI </orth></form><form><orth>CRIER </orth></form><form><orth>CRIN </orth></form><form><orth>CRINIÈRE </orth></form><form><orth>CROC-EN-JAMBE </orth></form><form><orth>CROCHET </orth></form><form><orth>CROCODILE </orth></form><form><orth>(</orth></form><form><orth>CROIRE </orth></form><form><orth>CROISEMENT </orth></form><form><orth>CROISER </orth></form><form><orth>CROISSANCE </orth></form><form><orth>CROISSANT </orth></form><form><orth>CROÎTRE </orth></form><form><orth>CROIX DU SUD (la)</orth></form><form><orth>CROQUE-MITAINE </orth></form><form><orth>CROQUER </orth></form><form><orth>CROSSE </orth></form><form><orth>CROYANT </orth></form><form><orth>CROUPION </orth></form><form><orth>CROÛTE DE PLAIE </orth></form><form><orth>CRUCHE </orth></form><form><orth>CRUCIFIER </orth></form><form><orth>CRUCIFIXION </orth></form><form><orth>CRUE </orth></form><form><orth>CRUEL </orth></form><form><orth>CUBITUS </orth></form><form><orth>CUEILLETTE </orth></form><form><orth>CUEILLIR </orth></form><form><orth>CUILLÈRE </orth></form><form><orth>CUILLERÉE </orth></form><form><orth>CUIRE </orth></form><form><orth>CUISINER </orth></form><form><orth>CUISSE </orth></form><form><orth>CUISSON </orth></form><form><orth>CUIVRE </orth></form><form><orth>CUL </orth></form><form><orth>CULPABILITÉ </orth></form><form><orth>CULTE </orth></form><form><orth>CUPIDE </orth></form><form><orth>CUPIDITÉ </orth></form><form><orth>CYCLONE </orth></form><form><orth>D'ABORD </orth></form><form><orth>D'ACCORD </orth></form><form><orth>DAMAN </orth></form><form><orth>DAME </orth></form><form><orth>DAMER </orth></form><form><orth>DANDINER (se)</orth></form><form><orth>DANGER </orth></form><form><orth>DANS </orth></form><form><orth>DANSE </orth></form></body>
+	</text>
+</tei>

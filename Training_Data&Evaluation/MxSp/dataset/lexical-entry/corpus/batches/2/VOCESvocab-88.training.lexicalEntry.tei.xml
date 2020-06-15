@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="lexicalEntry.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="lexicalEntry.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><entry><lemma>q cahi </lemma>
+<pc>: </pc>
+<sense>ir por algo generalmente [futuro de yosa ca-<lb/>hindi] <lb/></sense>
+</entry><entry><lemma>q coho quevui </lemma>
+<pc>: </pc>
+<sense>de cuando en cuando <lb/></sense>
+</entry><entry><lemma>q ndehe q tuhu </lemma>
+<pc>: </pc>
+<sense>en fin, en conclusión <lb/></sense>
+</entry><entry><lemma>q ndita nde ndita yocuvuindi </lemma>
+<pc>: </pc>
+<sense>columpiarse <lb/></sense>
+</entry><entry><lemma>qhu </lemma>
+<pc>: </pc>
+<sense>atabal de palo, teponaztle <lb/></sense>
+</entry><entry><lemma>qmi </lemma>
+<pc>: </pc>
+<sense>4 <lb/></sense>
+</entry><entry><lemma>qmi sichi sa niquevui nisiyo saha ndehe ndu sa <lb/>caa sa isi ñuu ñayevui </lemma>
+<pc>: </pc>
+<sense>elementos los cuatro <lb/></sense>
+</entry><entry><lemma>qmi sichica </lemma>
+<pc>: </pc>
+<sense>cuatro tantos <lb/></sense>
+</entry><entry><lemma>qmi siqui </lemma>
+<pc>: </pc>
+<sense>cuadra cosa <lb/></sense>
+</entry><entry><lemma>qni nuu qni </lemma>
+<pc>: </pc>
+<sense>anoche <lb/></sense>
+</entry><entry><lemma>qua </lemma>
+<pc>: </pc>
+<sense>infieri <lb/></sense>
+</entry><entry><lemma>qua caha</lemma> [<inflected>imperativo de yosa quacandi</inflected>] 
+<pc>: </pc>
+<sense>ir a <lb/>llamar a alguno <lb/></sense>
+</entry><entry><lemma>qua cahi</lemma> [<inflected>imperativo de yosa cahindi</inflected>] 
+<pc>: </pc>
+<sense>ir por algo <lb/>generalmente <lb/></sense>
+</entry><entry><lemma>qua cana ndita </lemma>
+<pc>: </pc>
+<sense>crecer el maíz cuando tiene hojas <lb/>grandes <lb/></sense>
+</entry><entry><lemma>qua cana quevui </lemma>
+<pc>: </pc>
+<sense>amaneciendo ir <lb/></sense>
+</entry><entry><lemma>qua cana tuvui </lemma>
+<pc>: </pc>
+<sense>amaneciendo ir <lb/></sense>
+</entry><entry><lemma>qua cana vuiyu </lemma>
+<pc>: </pc>
+<sense>crecer (el maíz) cuando sale la <lb/>espiga <lb/></sense>
+</entry><entry><lemma>qua cana yoco </lemma>
+<pc>: </pc>
+<sense>crecer (el maíz) cuando sale la es-<lb/>piga <lb/></sense>
+</entry><entry><lemma>qua casa nama </lemma>
+<pc>: </pc>
+<sense>caer poco a poco, o irse cayendo <lb/></sense>
+</entry><entry><lemma>qua casa nino nama </lemma>
+<pc>: </pc>
+<sense>acostarse la pared, que pro-<lb/>mete ruina <lb/></sense>
+</entry><entry><lemma>qua cay </lemma>
+<pc>: </pc>
+<sense>pasar como el tiempo (pretérito) <lb/></sense>
+</entry><entry><lemma>qua cay ndicandii </lemma>
+<pc>: </pc>
+<sense>a puesta de sol (a las 5/6) <lb/></sense>
+</entry><entry><lemma>qua cay nini ñuu coyo </lemma>
+<pc>: </pc>
+<sense>¿hacia dónde está Mé-<lb/>xico? <lb/></sense>
+</entry><entry><lemma>qua cay saha cuchi </lemma>
+<pc>: </pc>
+<sense>pintar la fruta cuando empie-<lb/>za a madurar <lb/></sense>
+</entry><entry><lemma>qua caya </lemma>
+<pc>: </pc>
+<sense>irse aumentando algo <lb/></sense>
+</entry><entry><lemma>qua coo cuisi sa yocuhuindi </lemma>
+<pc>: </pc>
+<sense>ir mejorando en la <lb/>enfermedad <lb/></sense>
+</entry><entry><lemma>qua coo cuvui, qua coo cuisi sa yocuhuindi </lemma>
+<pc>: </pc>
+<sense>me-<lb/>jorar en enfermedad <lb/></sense>
+</entry><entry><lemma>qua coo tiquaa </lemma>
+<pc>: </pc>
+<sense>anochecer <lb/></sense>
+</entry><entry><lemma>qua cuico ndaha vuiyu </lemma>
+<pc>: </pc>
+<sense>crecer el maíz cuando <lb/>tiene hojas grandes <lb/></sense>
+</entry><entry><lemma>qua cuiñe ndaye nama </lemma>
+<pc>: </pc>
+<sense>inclinarse pared <lb/></sense>
+</entry><entry><lemma>qua cuiñini </lemma>
+<pc>: </pc>
+<sense>por todas partes <lb/></sense>
+</entry><entry><lemma>qua cuisi ndaa </lemma>
+<pc>: </pc>
+<sense>abrirse el entendimiento al niño <lb/>cuando empieza el uso de la razón <lb/></sense>
+</entry><entry><lemma>qua cuvui ndeq </lemma>
+<pc>: </pc>
+<sense>anochecer <lb/></sense>
+</entry><entry><lemma>qua cuvui ndichi </lemma>
+<pc>: </pc>
+<sense>abrirse el entendimiento al niño <lb/>cuando empieza el uso de la razón <lb/></sense>
+</entry><entry><lemma>qua cuisi nini </lemma>
+<pc>: </pc>
+<sense>esclareciendo ir ya el día <lb/></sense>
+</entry><entry><lemma>qua cuisi sa yocana cuisi </lemma>
+<pc>: </pc>
+<sense>de día entre dos luces <lb/></sense>
+</entry><entry><lemma>qua cuita ndaha sahandi </lemma>
+<pc>: </pc>
+<sense>desfallecer desmayán-<lb/>dose <lb/></sense>
+</entry><entry><lemma>qua cuita nini coñondi </lemma>
+<pc>: </pc>
+<sense>desfallecer desmayán-<lb/>dose <lb/></sense>
+</entry><entry><lemma>qua cuvui quaa </lemma>
+<pc>: </pc>
+<sense>amarillecerse la fruta que comien-<lb/>za a madurar <lb/></sense>
+</entry><entry><lemma>qua cuvui quaha ndaya </lemma>
+<pc>: </pc>
+<sense>pintar la fruta cuando <lb/>empieza a madurar <lb/></sense>
+</entry><entry><lemma>qua cuvui quendete </lemma>
+<pc>: </pc>
+<sense>emplumecer el ave cuando <lb/>empieza a echar pluma <lb/></sense>
+</entry><entry><lemma>qua cuvui quehui </lemma>
+<pc>: </pc>
+<sense>anochecer <lb/></sense>
+</entry><entry><lemma>qua cuvui tecuiñe </lemma>
+<pc>: </pc>
+<sense>pintar la fruta cuando empieza <lb/>a madurar <lb/></sense>
+</entry><entry><lemma>qua cuvui tnoo </lemma>
+<pc>: </pc>
+<sense>pintar la fruta cuando empieza a <lb/>madurar <lb/></sense>
+</entry><entry><lemma>qua cuvui yatni </lemma>
+<pc>: </pc>
+<sense>allegarse, irse allegando <lb/></sense>
+</entry><entry><lemma>qua cuvui yatni quevui </lemma>
+<pc>: </pc>
+<sense>llegarse el tiempo <lb/></sense>
+</entry><entry><lemma>qua cuvui yatni sino ee cuiya </lemma>
+<pc>: </pc>
+<sense>andar en un año <lb/>que se hizo tal cosa <lb/></sense>
+</entry><entry><lemma>qua cuvui yatni tuvui </lemma>
+<pc>: </pc>
+<sense>modorra, vigilia antes del <lb/>alba <lb/></sense>
+</entry><entry><lemma>qua dzii nini coñondi </lemma>
+<pc>: </pc>
+<sense>desfallecer desmayán-<lb/>dose <lb/></sense>
+</entry><entry><lemma>qua na cuico tachi </lemma>
+<pc>: </pc>
+<sense>refrescar la tarde <lb/></sense>
+</entry><entry><lemma>qua na ndusate </lemma>
+<pc>: </pc>
+<sense>emplumecer el ave que ha sido <lb/>pelada <lb/></sense>
+</entry><entry><lemma>qua na tacu ndaa ini </lemma>
+<pc>: </pc>
+<sense>mejorar en enfermedad <lb/></sense>
+</entry></body>
+	</text>
+</tei>

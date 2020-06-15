@@ -1,0 +1,23 @@
+Dict+DLF+Model+lexical-entry+Feature+Bigram+DataLevel+2
+===== Field-level results =====
+
+label                accuracy     precision    recall       f1           support
+
+<etym>               99.17        98.72        95.65        97.16        161    
+<lemma>              99.26        97.92        97.92        97.92        192    
+<note>               98.8         88.37        82.61        85.39        46     
+<pc>                 97.51        96.46        95.61        96.04        342    
+<sense>              95.76        92.41        91.78        92.1         292    
+<xr>                 99.45        33.33        20           25           5      
+
+all (micro avg.)     98.33        95.41        94.03        94.71        1038   
+all (macro avg.)     98.33        84.54        80.6         82.27        1038   
+
+===== Instance-level results =====
+
+Total expected instances:   192
+Correct instances:          171
+Instance-level recall:      89.06
+
+
+Evaluation for lexical-entry model is realized in 2636 ms

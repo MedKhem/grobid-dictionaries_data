@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="lexicalEntry.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="lexicalEntry.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><entry><lemma>ña yosina nino sindi </lemma>
+<pc>: </pc>
+<sense>no tener lugar ni espacio ; <lb/>tiempo no tener para hacer algo <lb/></sense>
+</entry><entry><lemma>ña yosini mani ñahandi </lemma>
+<pc>: </pc>
+<sense>mal querer <lb/></sense>
+</entry><entry><lemma>ña yosini nino sa iyota </lemma>
+<pc>: </pc>
+<sense>muchedumbre de hom-<lb/>bres <lb/></sense>
+</entry><entry><lemma>ña yosinindi</lemma>
+<pc>, </pc>
+<inflected>futuro qni </inflected>
+<pc>: </pc>
+<sense>ignorar por no haber oído <lb/>decir lo que hay ; ignorar lo que hay o pasa <lb/></sense>
+</entry><entry><lemma>ña yosinindi yocachi inindi </lemma>
+<pc>: </pc>
+<sense>disimular que no ve <lb/></sense>
+</entry><entry><lemma>ña yosino </lemma>
+<pc>: </pc>
+<sense>no estar cabal cuenta <lb/></sense>
+</entry><entry><lemma>ña yosino ca ndudzuta </lemma>
+<pc>: </pc>
+<sense>perder el habla el en-<lb/>fermo <lb/></sense>
+</entry><entry><lemma>ña yosino cuhua </lemma>
+<pc>: </pc>
+<sense>merma <lb/></sense>
+</entry><entry><lemma>ña yosino tuhua </lemma>
+<pc>: </pc>
+<sense>no estar cabal cuenta <lb/></sense>
+</entry><entry><lemma>ña yosito iyondi</lemma>
+<pc>, </pc>
+<inflected>futuro coto </inflected>
+<pc>: </pc>
+<sense>desmandarse en <lb/>algo no teniendo respeto al mayor <lb/></sense>
+</entry><entry><lemma>ña yotacu huatu sindi </lemma>
+<pc>: </pc>
+<sense>tomarlo en mala parte <lb/></sense>
+</entry><entry><lemma>ña yotacu huatu sindi ndudzuta </lemma>
+<pc>: </pc>
+<sense>rechazar <lb/></sense>
+</entry><entry><lemma>ña yotacu ninondi ninuu nahandi ninday dzi-<lb/>condi </lemma>
+<pc>: </pc>
+<sense>tener mala fama <lb/></sense>
+</entry><entry><lemma>ña yotadzi ca ini </lemma>
+<pc>: </pc>
+<sense>perder la vergüenza <lb/></sense>
+</entry><entry><lemma>ña yotadzi sa casi </lemma>
+<pc>: </pc>
+<sense>mascar mal la comida por comer <lb/>de prisa <lb/></sense>
+</entry><entry><lemma>ña yotadzica inindi </lemma>
+<pc>: </pc>
+<sense>desconfiar el que ha estado <lb/>esperando algo <lb/></sense>
+</entry><entry><lemma>ña yotavui </lemma>
+<pc>: </pc>
+<sense>no cuadrarle algo a alguno <lb/></sense>
+</entry><entry><lemma>ña yotnay yahuindi sihita </lemma>
+<pc>: </pc>
+<sense>desigualarse en el <lb/>precio <lb/></sense>
+</entry><entry><lemma>ña yotniño cuhua inindi casindi </lemma>
+<pc>: </pc>
+<sense>destemplarse <lb/>en comer <lb/></sense>
+</entry><entry><lemma>ña yotnoño ña yosani cata </lemma>
+<pc>: </pc>
+<sense>morir sosegadamente <lb/></sense>
+</entry><entry><lemma>ña yotuvui huatu </lemma>
+<pc>: </pc>
+<sense>no parece bien <lb/></sense>
+</entry><entry><lemma>ña yotuvui huatu sita </lemma>
+<pc>: </pc>
+<sense>desagradecer <lb/></sense>
+</entry><entry><lemma>ña yotuvui huatusindi </lemma>
+<pc>: </pc>
+<sense>descontentarse de algo <lb/></sense>
+</entry><entry><lemma>ña yotuvui ndaaca </lemma>
+<pc>: </pc>
+<sense>de lejos cuando no se devisa <lb/>bien la cosa <lb/></sense>
+</entry><entry><lemma>ña yotuvui tnuni casi inindi </lemma>
+<pc>: </pc>
+<sense>vacilar dudando de <lb/>alguna cosa <lb/></sense>
+</entry><entry><lemma>ña yoyaa ndaa sindi </lemma>
+<pc>: </pc>
+<sense>tiempo no tener para hacer <lb/>algo <lb/></sense>
+</entry><entry><lemma>ña yoyaa nino sindi </lemma>
+<pc>: </pc>
+<sense>tiempo no tener para hacer <lb/>algo <lb/></sense>
+</entry><entry><lemma>ña yoyuhuindita </lemma>
+<pc>: </pc>
+<sense>desacatar a otro <lb/></sense>
+</entry><entry><lemma>ña yuhu ña siyo nicuvui ndudzu </lemma>
+<pc>: </pc>
+<sense>estar claro y <lb/>manifiesto algún negocio <lb/></sense>
+</entry><entry><lemma>ña yuhua yocahandi </lemma>
+<pc>: </pc>
+<sense>expeditamente hablar <lb/></sense>
+</entry><entry><lemma>ñaa caa sindi </lemma>
+<pc>: </pc>
+<sense>indigno ser de algún bien <lb/></sense>
+</entry><entry><lemma>ñaha </lemma>
+<pc>: </pc>
+<sense>alguna cosa <lb/></sense>
+</entry><entry><lemma>ñaha </lemma>
+<pc>: </pc>
+<sense>antes no <lb/></sense>
+</entry><entry><lemma>ñaha </lemma>
+<pc>: </pc>
+<sense>nada, ninguna cosa <lb/></sense>
+</entry><entry><lemma>ñaha </lemma>
+<pc>: </pc>
+<sense>persona <lb/></sense>
+</entry><entry><lemma>ñaha caa yuhu nuu </lemma>
+<pc>: </pc>
+<sense>matrona, mujer honrada <lb/></sense>
+</entry><entry><lemma>ñaha cacu dzina dzaya </lemma>
+<pc>: </pc>
+<sense>primeriza en parto <lb/></sense>
+</entry><entry><lemma>ñaha cay </lemma>
+<pc>: </pc>
+<sense>viuda <lb/></sense>
+</entry><entry><lemma>ñaha cay yaha yoo yee </lemma>
+<pc>: </pc>
+<sense>mujer soltera <lb/></sense>
+</entry><entry><lemma>ñaha coco </lemma>
+<pc>: </pc>
+<sense>mujer carnal ; puta ramera <lb/></sense>
+</entry><entry><lemma>ñaha cuvui quahi nicacu dzayaña </lemma>
+<pc>: </pc>
+<sense>parida mujer <lb/></sense>
+</entry><entry><lemma>ñaha dza cadzi dzaya </lemma>
+<pc>: </pc>
+<sense>ama de niño que cría <lb/></sense>
+</entry><entry><lemma>ñaha dzana </lemma>
+<pc>: </pc>
+<sense>puta ramera <lb/></sense>
+</entry><entry><lemma>ñaha dzana </lemma>
+<pc>: </pc>
+<sense>rufián <lb/></sense>
+</entry><entry><lemma>ñaha dzehe </lemma>
+<pc>: </pc>
+<sense>hembra ; mujer <lb/></sense>
+</entry><entry><lemma>ñaha dzoho </lemma>
+<pc>: </pc>
+<sense>doncella, virgen <lb/></sense>
+</entry><entry><lemma>ñaha</lemma>
+<pc>, </pc>
+<inflected>futuro hua </inflected>
+<pc>: </pc>
+<sense>no (adverbio) <lb/></sense>
+</entry><entry><lemma>ñaha huayu </lemma>
+<pc>: </pc>
+<sense>mujer hermosa <lb/></sense>
+</entry><entry><lemma>ñaha huii </lemma>
+<pc>: </pc>
+<sense>mujer hermosa <lb/></sense>
+</entry><entry><lemma>ñaha ii </lemma>
+<pc>: </pc>
+<sense>doncella, virgen <lb/></sense>
+</entry><entry><lemma>ñaha iyo ii</lemma>, <re>iyo ñuhu</re> 
+<pc>: </pc>
+<sense>monja <lb/></sense>
+</entry><entry><lemma>ñaha iyo yee </lemma>
+<pc>: </pc>
+<sense>mujer casada <lb/></sense>
+</entry><entry><lemma>ñaha nday ini </lemma>
+<pc>: </pc>
+<sense>mujer varonil <lb/></sense>
+</entry><entry><lemma>ñaha ndodzo </lemma>
+<pc>: </pc>
+<sense>mujer varonil <lb/></sense>
+</entry><entry><lemma>ñaha nee </lemma>
+<pc>: </pc>
+<sense>doncella, virgen <lb/></sense>
+</entry><entry><lemma>ñaha nee ii </lemma>
+<pc>: </pc>
+<sense>doncella, virgen <lb/></sense>
+</entry><entry><lemma>ñaha nee yoco </lemma>
+<pc>: </pc>
+<sense>doncella, virgen <lb/></sense>
+</entry><entry><lemma>ñaha nicaa </lemma>
+<pc>: </pc>
+<sense>corrompida o corrupta [virgen] <lb/></sense>
+</entry><entry><lemma>ñaha nicoo coo yee </lemma>
+<pc>: </pc>
+<sense>mujer casada <lb/></sense>
+</entry><entry><lemma>ñaha nicuvui cutu </lemma>
+<pc>: </pc>
+<sense>mujer casada <lb/></sense>
+</entry><entry><lemma>ñaha nicuvui nisanu </lemma>
+<pc>: </pc>
+<sense>matrona, mujer honrada <lb/></sense>
+</entry><entry><lemma>ñaha nicuvui qhu </lemma>
+<pc>: </pc>
+<sense>parida mujer <lb/></sense>
+</entry><entry><lemma>ñaha ninday caca </lemma>
+<pc>: </pc>
+<sense>viuda <lb/></sense>
+</entry><entry><lemma>ñaha ninduvui cay </lemma>
+<pc>: </pc>
+<sense>viuda <lb/></sense>
+</entry><entry><lemma>ñaha ninduvui coyo cay </lemma>
+<pc>: </pc>
+<sense>viuda <lb/></sense>
+</entry><entry><lemma>ñaha ninduvui ee </lemma>
+<pc>: </pc>
+<sense>viuda <lb/></sense>
+</entry><entry><lemma>ñaha ninduvui ndahui </lemma>
+<pc>: </pc>
+<sense>viuda <lb/></sense>
+</entry><entry><lemma>ñaha ninduvui quaa </lemma>
+<pc>: </pc>
+<sense>viuda <lb/></sense>
+</entry><entry><lemma>ñaha ninumi dzaya </lemma>
+<pc>[</pc>
+<re>quevui ninihi nduta dzehe <lb/>sahu ñuhu, dzehe huahi ñuhu] </re>
+<pc>: </pc>
+<sense>comadre <lb/></sense>
+</entry><entry><lemma>ñaha nisaca dzaya quevui ninihi nduta dzehe <lb/>sahu ñuhu</lemma>, <re>dzehe huahi ñuhu</re> 
+<pc>: </pc>
+<sense>comadre <lb/></sense>
+</entry><entry><lemma>ñaha nisani ini </lemma>
+<pc>: </pc>
+<sense>mujer casta <lb/></sense>
+</entry><entry><lemma>ñaha nisay dzaya </lemma>
+<pc>[</pc>
+<re>quevui ninihi nduta dzehe <lb/>sahu ñuhu, dzehe huahi ñuhu] </re>
+<pc>: </pc>
+<sense>comadre <lb/></sense>
+</entry><entry><lemma>ñaha nitevui </lemma>
+<pc>: </pc>
+<sense>corrompida o corrupta [virgen] <lb/></sense>
+</entry><entry><lemma>ñaha numa </lemma>
+<pc>: </pc>
+<sense>estéril mujer ; mañera, mujer que no <lb/>pare <lb/></sense>
+</entry><entry><lemma>ñaha ña ñoho dzadzica ini </lemma>
+<pc>: </pc>
+<sense>disoluta mujer <lb/></sense>
+</entry><entry><lemma>ñaha ña tnaha dzoo dzonondi </lemma>
+<pc>: </pc>
+<sense>pobre puesto en <lb/>grande miseria (dicho por metáfora) <lb/></sense>
+</entry><entry><lemma>ñaha ñoho chisi </lemma>
+<pc>: </pc>
+<sense>preñada mujer <lb/></sense>
+</entry><entry><lemma>ñaha ñoho dzaya </lemma>
+<pc>: </pc>
+<sense>preñada mujer <lb/></sense>
+</entry></body>
+	</text>
+</tei>

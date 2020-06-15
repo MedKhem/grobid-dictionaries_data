@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dictionaryBodySegmentation.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="dictionaryBodySegmentation.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><entry>da quaha nani : como hasta tal parte <lb/></entry>
+<entry>da quevui dzavua : desde entonces <lb/></entry>
+<entry>da quevui niquivui niquitu ñuu ñayevui : al prin-<lb/>cipio del mundo <lb/></entry>
+<entry>da quevui nituvui ñuu ñayevui : principio del <lb/>mundo <lb/></entry>
+<entry>da queyeni : aprisa ; incontinenti [luego] ; y luego ; <lb/>luego a la hora ; temprano <lb/></entry>
+<entry>da queyeni nda nditani nina quindi : hallar algo <lb/>de presto <lb/></entry>
+<entry>da saha : de antes <lb/></entry>
+<entry>da saha : origen o principio <lb/></entry>
+<entry>da saha da nino : al principio <lb/></entry>
+<entry>da saha da nino, da ndu nisiyo saha ñuu ñaye-<lb/>vui : principio del mundo <lb/></entry>
+<entry>da saha da nino nisiyo saha ñuu ñayevui : al <lb/>principio del mundo <lb/></entry>
+<entry>da saha si yona tadzi inindi : pensar antes <lb/></entry>
+<entry>da sandu si : origen o principio <lb/></entry>
+<entry>da sani siyo saha : origen o principio <lb/></entry>
+<entry>da sihindi yotnana : gemir al gemido de otro <lb/></entry>
+<entry>da tucu ñoho maa inindi : agradecer con palabras <lb/>solamente <lb/></entry>
+<entry>da vuitna da vuitnani : incontinenti [luego] <lb/></entry>
+<entry>da vuitna ñuhuni : incontinenti [luego] <lb/></entry>
+<entry>da yaha : hasta aquí (señalando) <lb/></entry>
+<entry>da yaha yuca : aquende más cerca <lb/></entry>
+<entry>da yodzoca yonduvui dzanandi : empeorar cada <lb/>día más en la vida <lb/></entry>
+<entry>da yoho si : origen o principio <lb/></entry>
+<entry>da yoquidzacando : y aún (conjunción adversativa), <lb/>ut ¿y aún haces eso todavía? <lb/></entry>
+<entry>da yosihindi : caerse muerto <lb/></entry>
+<entry>da yuqua : de allí ; hasta acullá <lb/></entry>
+<entry>da yutnaa : hasta mañana <lb/></entry>
+<entry>daa ndu vuitna nee ndu caa qhu, nee ndu chihi <lb/>taa qhu, ca toto ca dziya qhu : desde ahora <lb/>para siempre jamás <lb/></entry>
+<entry>damaa : centro de la tierra <lb/></entry>
+<entry>dau sa cavua nduta : cisterna aljibe <lb/></entry>
+<entry>dedziyu : chivo o cabrón <lb/></entry>
+<entry>dedziyu nindaa nini yuute : chivato capado <lb/></entry>
+<entry>deq dziini : átomos del sol <lb/></entry>
+<entry>dza : que (adverbio de comparación) <lb/></entry>
+<entry>dza caa : barniz amarillo para jícaras <lb/></entry>
+<entry>dza dzavua : tanto cuanto <lb/></entry>
+<entry>dza dzuchi canu ndicandii : a las 11 (día) <lb/></entry>
+<entry>dza ee cuhua : iguales cosas parejas ; justa en medi-<lb/>da, pro diversis supositis <lb/></entry>
+<entry>dza ee nicacundi sihi : amigo entrañable <lb/></entry>
+<entry>dza ee quevuindi sihita : amigo entrañable <lb/></entry>
+<entry>dza may nino dzini : cofia de mujer <lb/></entry>
+<entry>dza ndacundi dziñuhu : recabar, o recaudar <lb/></entry>
+<entry>dza ndaha : eco voz que resuena <lb/></entry>
+<entry>dza ndahui ñaha : duende ; fantasma <lb/></entry>
+<entry>dza ndatunica cacuta : duda hay si escapara <lb/></entry>
+<entry>dza noo cuvuita yahui : monipodio hacer <lb/></entry>
+<entry>dza ñee : mazorca, el corazón de ella <lb/></entry>
+<entry>dza ñee nicay coo : espiga de trigo mocha <lb/></entry>
+<entry>dza ñee nuni castilla : espiga de trigo mocha <lb/></entry>
+<entry>dza (pedro dza ioan ): que (adverbio de compara-<lb/>ción) <lb/></entry>
+<entry>dza q tnaha : poco más o menos <lb/></entry>
+<entry>dza quini dziyo : lanzadera de tejedor <lb/></entry>
+<entry>dza tnaa : de mañana ; mañana del día <lb/></entry>
+<entry>dza tnaa huaa nica : de mañana <lb/></entry>
+<entry>dza tnaa ñuhuca nituvuini : muy de mañana <lb/></entry>
+<entry>dza tnaa ñuhundi : muy de mañana <lb/></entry>
+<entry>dza tnaani dzo tuvuini : de mañana <lb/></entry>
+<entry>dza tuhu nino : inconveniente <lb/></entry>
+<entry>dzaa : barba sin pelos ; bezo horadado <lb/></entry>
+<entry>dzaa : brava cosa <lb/></entry>
+<entry>dzaa : pájaro <lb/></entry>
+<entry>dzaa ñuchi : pájaro solitario <lb/></entry>
+<entry>dzaa si : punta de cosa aguda <lb/></entry>
+<entry>dzaa toto : pájaro solitario <lb/></entry>
+<entry>dzaa yuchi caa : filos tener el cuchillo <lb/></entry>
+<entry>dzaca tica : desabrida cosa al gusto <lb/></entry>
+<entry>dzachi : miembro de mujer <lb/></entry>
+<entry>dzadza : orina <lb/></entry>
+<entry>dzadzate : vejiga de animal <lb/></entry>
+<entry>dzaha : aceite ; enjundia ; gordura ; grasa ; grosura ; <lb/>lardo de puerco ; manteca ; sebo <lb/></entry>
+<entry>dzaha : embajada ; lenguaje propio ; palabra del <lb/>señor <lb/></entry>
+<entry>dzaha : pringue de tocino, o torrezno <lb/></entry>
+<entry>dzaha : redaño <lb/></entry>
+<entry>dzaha castilla : romance <lb/></entry>
+<entry>dzaha huidzo : ley generalmente <lb/></entry>
+<entry>dzaha nduchi : riñonada <lb/></entry>
+<entry>dzaha nduchi niqui : aceite de higuerilla <lb/></entry>
+<entry>dzaha nduchi tenama : aceite de higuerilla <lb/></entry>
+<entry>dzaha ninduta : sebo derretido <lb/></entry>
+<entry>dzaha ñoho : riñonada <lb/></entry>
+<entry>dzaha quende : aceite de chía <lb/></entry>
+<entry>dzaha quende ndaha : barniz con que dan lustre <lb/></entry>
+<entry>dzaha sa yodzo tnaate : melena de buey <lb/></entry>
+<entry>dzaha si cavua tnaate : melena de buey <lb/></entry>
+</body>
+	</text>
+</tei>

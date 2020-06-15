@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="form.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="form.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><form><orth>da quaha nani </orth>
+</form><form><orth>da quevui dzavua </orth>
+</form><form><orth>da quevui niquivui niquitu ñuu ñayevui </orth>
+</form><form><orth>da quevui nituvui ñuu ñayevui </orth>
+</form><form><orth>da queyeni </orth>
+</form><form><orth>da queyeni nda nditani nina quindi </orth>
+</form><form><orth>da saha </orth>
+</form><form><orth>da saha </orth>
+</form><form><orth>da saha da nino </orth>
+</form><form><orth>da saha da nino</orth>
+</form><form><orth>da saha da nino nisiyo saha ñuu ñayevui </orth>
+</form><form><orth>da saha si yona tadzi inindi </orth>
+</form><form><orth>da sandu si </orth>
+</form><form><orth>da sani siyo saha </orth>
+</form><form><orth>da sihindi yotnana </orth>
+</form><form><orth>da tucu ñoho maa inindi </orth>
+</form><form><orth>da vuitna da vuitnani </orth>
+</form><form><orth>da vuitna ñuhuni </orth>
+</form><form><orth>da yaha </orth>
+</form><form><orth>da yaha yuca </orth>
+</form><form><orth>da yodzoca yonduvui dzanandi </orth>
+</form><form><orth>da yoho si </orth>
+</form><form><orth>da yoquidzacando </orth>
+</form><form><orth>da yosihindi </orth>
+</form><form><orth>da yuqua </orth>
+</form><form><orth>da yutnaa </orth>
+</form><form><orth>daa ndu vuitna nee ndu caa qhu</orth>
+</form><form><orth>damaa </orth>
+</form><form><orth>dau sa cavua nduta </orth>
+</form><form><orth>dedziyu </orth>
+</form><form><orth>dedziyu nindaa nini yuute </orth>
+</form><form><orth>deq dziini </orth>
+</form><form><orth>dza </orth>
+</form><form><orth>dza caa </orth>
+</form><form><orth>dza dzavua </orth>
+</form><form><orth>dza dzuchi canu ndicandii </orth>
+</form><form><orth>dza ee cuhua </orth>
+</form><form><orth>dza ee nicacundi sihi </orth>
+</form><form><orth>dza ee quevuindi sihita </orth>
+</form><form><orth>dza may nino dzini </orth>
+</form><form><orth>dza ndacundi dziñuhu </orth>
+</form><form><orth>dza ndaha </orth>
+</form><form><orth>dza ndahui ñaha </orth>
+</form><form><orth>dza ndatunica cacuta </orth>
+</form><form><orth>dza noo cuvuita yahui </orth>
+</form><form><orth>dza ñee </orth>
+</form><form><orth>dza ñee nicay coo </orth>
+</form><form><orth>dza ñee nuni castilla </orth>
+</form><form><orth>dza (pedro dza ioan )</orth>
+</form><form><orth>dza q tnaha </orth>
+</form><form><orth>dza quini dziyo </orth>
+</form><form><orth>dza tnaa </orth>
+</form><form><orth>dza tnaa huaa nica </orth>
+</form><form><orth>dza tnaa ñuhuca nituvuini </orth>
+</form><form><orth>dza tnaa ñuhundi </orth>
+</form><form><orth>dza tnaani dzo tuvuini </orth>
+</form><form><orth>dza tuhu nino </orth>
+</form><form><orth>dzaa </orth>
+</form><form><orth>dzaa </orth>
+</form><form><orth>dzaa </orth>
+</form><form><orth>dzaa ñuchi </orth>
+</form><form><orth>dzaa si </orth>
+</form><form><orth>dzaa toto </orth>
+</form><form><orth>dzaa yuchi caa </orth>
+</form><form><orth>dzaca tica </orth>
+</form><form><orth>dzachi </orth>
+</form><form><orth>dzadza </orth>
+</form><form><orth>dzadzate </orth>
+</form><form><orth>dzaha </orth>
+</form><form><orth>dzaha </orth>
+</form><form><orth>dzaha </orth>
+</form><form><orth>dzaha </orth>
+</form><form><orth>dzaha castilla </orth>
+</form><form><orth>dzaha huidzo </orth>
+</form><form><orth>dzaha nduchi </orth>
+</form><form><orth>dzaha nduchi niqui </orth>
+</form><form><orth>dzaha nduchi tenama </orth>
+</form><form><orth>dzaha ninduta </orth>
+</form><form><orth>dzaha ñoho </orth>
+</form><form><orth>dzaha quende </orth>
+</form><form><orth>dzaha quende ndaha </orth>
+</form><form><orth>dzaha sa yodzo tnaate </orth>
+</form><form><orth>dzaha si cavua tnaate </orth>
+</form></body>
+	</text>
+</tei>

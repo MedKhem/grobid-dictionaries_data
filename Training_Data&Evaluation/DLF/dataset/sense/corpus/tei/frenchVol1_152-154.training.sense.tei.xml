@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="sense.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="sense.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><sense><subSense>1°Terme de médecine. Qui calme la dou-<lb/>leur. Il lui aproposé un petit remèdeanodin, SÉV. 58</subSense>
+<pc>. <lb/>|| </pc>
+<subSense>Substantif, masc. On emploie les anodins contre <lb/>les névralgies</subSense>
+</sense><sense><subSense>2" Fig. Remède anodin, moyen, <lb/>ressource peu efficace, à cause que, en médecine, <lb/>les remèdes anodins adoucissentplutôt le mal qu'ils <lb/>ne le guérissent. Dans l'état où sont les choses, il <lb/>ne faut pas des remèdesanodins, SÉV. 187</subSense>
+</sense><sense><subSense>3" Dans <lb/>un sens railleur,pour se moquer,vers anodins, cou-<lb/>plets anodins, méchants vers, couplets sans esprit. <lb/>Il se dit aussi en ce sens des personnes. Peignez-<lb/>nous ce personnage anodin</subSense>
+</sense><sense><subSense>Terme d'ana-<lb/>tomie. Anomalie caractérisée par l'ahsence de toutes <lb/>les dents</subSense>
+</sense><sense><subSense>Terme de méde-<lb/>cine. Ahsence de douleur</subSense>
+</sense><sense><subSense>Terme de zoologie. <lb/>Genre de reptiles qui ressemblent au lézard, et <lb/>qu'on trouve aux Antilles [anolis bullaris)</subSense>
+</sense><sense><subSense>1°Oui présente des inégalités, <lb/>des irrégularités. Pour l'anatomiste, les monstres <lb/>ne sont que des êtres anomaux</subSense>
+</sense><sense><subSense>2°Termede gram-<lb/>maire. Irrégulier. Aller est un verbe anomal</subSense>
+</sense><sense><subSense>3°Maladies anomales, maladies dont la marche <lb/>n'est pas régulière</subSense>
+</sense><sense><subSense>4°Fleurs anomales,fleurs dont <lb/>(a forme est irrégulière</subSense>
+</sense><sense><subSense>1°Etat de ce <lb/>qui est anomal; irrégularité. Les anomalies que <lb/>présentent les langues dérivées du latin. Les ano-<lb/>maliesde la situation</subSense>
+</sense><sense><subSense>2°En termes d'astronomie, <lb/>la distance angulaire du lieu vrai ou moyen d'une <lb/>planète a l'aphélie ou à l'apogée. Relativement au <lb/>soleil, distance angulaire du lieu de la planète à <lb/>l'aphélie; relativement à la lune, distance angu-<lb/>laire à l'apogée ; relativement à un satellitede Jupi-<lb/>ter, distance angulaire à l'apojove. Cette distance <lb/>se. compte jusqu'à 4 80 degrés d'un côté ou de <lb/>l'autre</subSense>
+</sense><sense><subSense>Terme <lb/>de zoologie. Se dit des animaux dont le* pattes ne <lb/>se ressemblent pas ou offrent quelque anomalie</subSense>
+</sense><sense><subSense>Terme <lb/>d'astronomie.Année anomalistique, temps que la <lb/>terre,êtantaphélie,metà redevenir aphélie; elle est <lb/>de 365 jours 6 heures 13 minutes 59 secondes</subSense>
+</sense><sense><subSense>Termed'histoire natu-<lb/>relle. Genre de coquilles créé par Linné, et que les <lb/>auteurs systématiques rangent parmi les ostra-<lb/>cées</subSense>
+</sense><sense><subSense>Terme <lb/>de botanique. Qui a des fruits anomaux</subSense>
+</sense><sense><subSense>Terme <lb/>de zoologie. Dont la tête offre accidentellement <lb/>quelque difformité</subSense>
+</sense><sense><subSense>1°Petit d'un àne et d'une <lb/>ànesse. Quoi qu'on dise,unânon ne deviendraqu'un <lb/>àne</subSense>
+</sense><sense><subSense>2°Aigrefin,poisson du genre des gades</subSense>
+</sense><sense><subSense>Une <lb/>leçon ânonnée. Mes pauvres lettres n'ont de prix <lb/>que celui que vous y donnez en les lisant comme <lb/>vous faites ; elles ne sont pas supportablesquand <lb/>elles sont ânonnées ou épelées, SÉV</subSense>
+</sense><sense><subSense>Action d'â-<lb/>nonner</subSense>
+</sense><sense><subSense>1°Y. n. Lire ou réciter <lb/>d'une manière pénible et hésitante. Son éloquence <lb/>ne nous a p*5s séduites, elle nous a diverties ; nous <lb/>admirions comme, en ânonnant, il ne laissait pas de <lb/>sortir heureusement de toutes ses périodes, SÉV. 575. <lb/>M. de Chaulnes répète : Monsieur ; il ânonne ; bref, <lb/>il se démonte au point qu'il ne peut lire, ST-SIMON , <lb/>315, -N6</subSense>
+</sense><sense><subSense>2°V. a. Il ânonna misérablement cette <lb/>pièce de vers</subSense>
+</sense><sense><subSense>1°Qui est sans <lb/>nom. Auteur anonyme. Pamphlet anonyme. La cour <lb/>de la duchesse de Bourgogne fut longtemps à être <lb/>déterminée ; les lettres anonymes abondèrent, les <lb/>délations, les faux rapports, ST-SIMON, 38, t85</subSense>
+</sense><sense><subSense>2. En termes de commerce, société anonyme, so-<lb/>ciété dont la raison n'est pas connue du public</subSense>
+</sense><sense><subSense>3°S. m. Ce libelle est d'un anonyme</subSense>
+<pc>. || </pc>
+<subSense>Garder <lb/>l'anonyme, faire un secret de son nom</subSense>
+</sense><sense><subSense>Qualité d'ano-<lb/>nyme. Une anonymie transparente laissait deviner <lb/>l'auteur</subSense>
+</sense><sense><subSense>Terme de <lb/>zoologie. Genre de mammifèresdont on ne connaît <lb/>que des ossementsfossiles</subSense>
+</sense><sense><subSense>Terme de marine. <lb/>Vent qui vient du nord</subSense>
+</sense><sense><subSense>Terme de marine. <lb/>Venir du nord, en parlant du vent</subSense>
+</sense><sense><subSense>Terme de mé-<lb/>decine. Absenced'appétit qu'il ne faut pas confondre <lb/>avec le dégoût</subSense>
+</sense><sense><subSense>Terme de pathologie. Diminution <lb/>ou perte complète de l'odorat</subSense>
+</sense><sense><subSense>Terme de zoologie. Se dit des animaux qui n'ont <lb/>point d'os</subSense>
+</sense><sense><subSense>Terme de commerce. <lb/>Matière résineuse colorante, dite aussi rocou</subSense>
+</sense><sense><subSense>Terme de <lb/>zoologie. Se dit des animaux qui n'ont point de <lb/>queue</subSense>
+</sense><sense><subSense>1°Partie saillante de cer-<lb/>tains ustensiles, qui sert à les saisir et à les porter. <lb/>Anse d'un panier. La maison du garde fait partie de <lb/>la forêt ; c'est une raillerie de prétendre avoir <lb/>vendu le pot et non l'anse, P. L. COURIER, Lelt. <lb/>n, -H9</subSense>. Il <subSense>Fig. Faire danser l'anse du panier, se dit <lb/>d'une cuisinière qui gagne sur les denrées qu'elle <lb/>achète</subSense>. 11<subSense>Faire le pot à deux anses, mettre les mains <lb/>sur les hanches en arrondissant les coudes ; et par <lb/>suite dans le langage familier et par plaisanterie, <lb/>donner le bras à deux damesà la fois
+</subSense></sense><sense><subSense>2" Par com-<lb/>paraison, tout ce qui est recourbé comme l'anse <lb/>d'un vase. Une anse d'intestin, une anse nerveuse <lb/>ou vasculaire, une anse de fil</subSense>
+</sense><sense><subSense>3°En géométrie, <lb/>anse de panier, courbe composée d'arcs de cercles <lb/>raccordés et ressemblant à une demi-ellipse</subSense>
+</sense><sense><subSense>4°En <lb/>architecture, arc de voûteà plusieurs centres. ||5°En <lb/>termesde serrurerie, partie demi-circulaired'un ca-<lb/>denas</subSense>. Il <subSense>B°En artillerie, anneaux de fer qui sont de <lb/>chaque côté de l'oeil d'une bombe</subSense>
+</sense><sense><subSense>7°En termes <lb/>de marine, petite baie peu profonde. Les navires se <lb/>réfugièrent dans une anse</subSense>
+</sense><sense><subSense>Qui' porte une <lb/>anse, qui a la forme d'une anse. Croix ansée, croix <lb/>suspendue à une anse; symbole usité chez les <lb/>Égyptiens</subSense>
+</sense><sense><subSense>Technologie. Garnird'une <lb/></subSense>
+</sense><sense><subSense>Terme didac-<lb/>tique. Peauansérine, ce qu'on appellevulgairement <lb/>chair dé poule</subSense>
+</sense><sense><subSense>Genre de plantes <lb/>de la famille des chénopodées <lb/>, <lb/>où l'on remarque <lb/>l'ansérine vermifuge, dont le nom indique la pro-<lb/>priété; et le bon-henri, dont on mange les feuilles <lb/>comme celles de l'épinard</subSense>
+</sense><sense><subSense>'f Terme de ma-<lb/>rine. Ourlet de voiles</subSense>
+</sense><sense><subSense>2°Technologie. Attache <lb/>dans laquelle on passe le ruban d'une croix</subSense>
+</sense><sense><subSense>Terme de pêche. Filet <lb/>qu'on tend dans les anses ou petites baies</subSense>
+</sense><sense><subSense>Terme de marine. <lb/>Levier dont l'extrémitéestgarnied'une armature de <lb/>fer</subSense>
+</sense><sense><subSense>Dansl'ancienne <lb/>armée française, bas-officier d'infanterie subor-<lb/>donné au caporal. Officier aux gardes de son mé-<lb/>tier, anspessade de la colonelle, qui tue régulière-<lb/>ment deux hommes toutes les sewines, DANCOURT, <lb/>les Vendanges, 4 2</subSense>
+</sense><sense><subSense>2°Fig. Opposition d'idées, de doc-<lb/>trines</subSense>
+</sense><sense><subSense>1" Celui <lb/>qui lutte contre. Un redoutable antagoniste. Cette <lb/>femme est un dangereux antagoniste</subSense>
+</sense><sense><subSense>2°En phy-<lb/>siologie, un muscle antagonisted'un autre muscle, <lb/>est celui qui tend à'communiquer à la partie à la-<lb/>quelle il s'attache un mouvement opposé à celui que <lb/>produit l'autre muscle. Il y a des musclesopposés, <lb/>dont lé jeu est contraire; on les.appelle antagonis-<lb/>tes, BOSS. Connaiss. n, 2</subSense>
+</sense><sense><subSense>L'année qui précède celle <lb/>qui court. Avec trois brins de sauge, une figue d'an-<lb/>tan, RÉGNIEK, Sat. xi. Il n'est usité aujourd'hui que <lb/>dans cette locution : Je ne m'en soucie non plus que <lb/>des neiges d'antan</subSense>
+</sense><sense><subSense>Terme de <lb/>*. rhétorique. Répétitiond'un même mot en des sens <lb/>différents</subSense>
+</sense><sense><subSense>Figure de <lb/>rhétorique. Récrimination</subSense>
+</sense><sense><subSense>En <lb/>termes de fauconnerie, se dit d'un faucon de l'an-<lb/>née précédente</subSense>
+</sense><sense><subSense>Terme de <lb/>rhétorique</subSense>
+</sense><sense><subSense>1" Seconde partie d'une similitudequi <lb/>répond exactement à la première</subSense>
+</sense><sense><subSense>2°Membre de <lb/>période répondant à un autre</subSense>
+</sense><sense><subSense>1°Qui est <lb/>opposé au pôle arctique, c'est-à-direqui est au sud. <lb/>Pôle antarctique, le pôle sud. Cercle polaire antarc-<lb/>tique, le cercle voisin du pôle sud</subSense>
+</sense><sense><subSense>2°En termes <lb/>d'histoire naturelle , se dit d'animaux et de plantes <lb/>qui habitent les contrées froides de l'hémisphère <lb/>méridional</subSense>
+</sense><sense><subSense>Nom d'une étoile <lb/>fixe de la première grandeur, qui est dans le coeur <lb/>du Scorpion</subSense>
+</sense><sense><subSense>Petit manche <lb/>sur lequel on fixe le pinceau à laver</subSense>
+<pc>. || </pc>
+<subSense>Avance en <lb/>bois qu'onmet aux ailes d'un moulin</subSense>
+<pc>. || </pc>
+<subSense>Antes, en ar-<lb/>chitecture, pilastres carrés qui accompagnent les <lb/>jambages des portes, ou qui formentles anglesd'un <lb/>édifice. Se dit aussi de tous les ordres de pilastres <lb/>d'encoignure</subSense>
+</sense><sense><subSense>Terme de menui-<lb/>serie. Tringle mise sur le parquet d'une chambre, <lb/>le long du mur, afin d'empêcher le frottementdes <lb/>meubles contre la paroi</subSense>
+</sense><sense><subSense>An-<lb/>térieurement</subSense>
+</sense><sense><subSense>f Néo-<lb/>logisme. État de ce qui est antécédent</subSense>
+</sense><sense><subSense>2°En as-<lb/>tronomie, se dit de la marche en apparence rétro-<lb/>grade des planètes de l'est à l'ouest</subSense>
+</sense><sense><subSense>Qui précède dans l'ordre des temps. Des actes <lb/>antécédentsannulent celui-ci</subSense>
+</sense><sense><subSense>1» Fait an-<lb/>térieur par rapport à un autre fait. Les antécédents <lb/>permettent de décider cette question</subSense>
+<pc>. || </pc>
+<subSense>Les anté-<lb/>cédents d'une personne, les faits principaux de sa <lb/>vie passée. Il a de bons, de mauvais antécédents, <lb/>c'est-à-dire son passé témoigne pour lui, contre lui</subSense>
+</sense><sense><subSense>2°Terme de grammaire. Tout mot auquel le pro-<lb/>nom relatif ou adjectif conjonctif qui, lequel, etcŝ <lb/>e rapporte</subSense>
+</sense><sense><subSense>3°Terme de logique. La première <lb/>proposition d'un enthymème, dont la seconde est <lb/>appelée conséquent</subSense>
+<pc>. || </pc>
+<subSense>4°Terme de mathématiques. <lb/>Lepremier des deux termes d'un rapport; le second <lb/>terme estappelé conséquent</subSense>
+</sense><sense><subSense>Titre <lb/>donné autrefois au professeur en droit dans une <lb/>université</subSense>
+</sense><sense><subSense>i°Imposteur'qui, venant avant la fin <lb/>des temps, voudra établir une religion opposée à <lb/>celle de Jésus-Christ, ils servirontà la continuation <lb/>de l'Eglise jusqu'à l'Antéchrist, PASC. P. Jés. 45</subSense>
+</sense><sense><subSense>2°Ennemi du Christ. Les deux papes [Clément, <lb/>Urbain] se traitaient mutuellement d'antechrist, <lb/>VOLT. Moeurs, 76</subSense>. j| <subSense>3°Populairement, c'est un an-<lb/>techrist, c'est un méchant homme, un diable</subSense>. \\<subSense>Au <lb/>plur. Des antechrists</subSense>
+</sense><sense><subSense>Terme de géographie ancienne. On nom-<lb/>mait ainsi les habitants de la zone qui fait face <lb/>à la nôtre, c'est-à-dire de la zone tempérée, les <lb/>anciens regardant la zone torride comme inhabi-<lb/>table aussi bien que les zones glaciales</subSense>
+</sense><sense><subSense>Qui a existé avant le déluge. Pour une <lb/>imagination vigoureuse, c'était pourtant une belle <lb/>carrière à parcourir qu'un monde antédiluvien, <lb/>CHATEAUB. Génie, S, I, 4</subSense>
+</sense><sense><subSense>Terme d'archi-<lb/>tecture ancienne. Ornementqui s'appliquait au bord <lb/>des toits couverts de tuiles creusespour en masquer <lb/>lesvides</subSense>
+</sense><sense><subSense>Terme <lb/>de zoologie. Qui a rapport aux antennes des in-<lb/>sectes</subSense>
+</sense><sense><subSense>1°Terme de ma-<lb/>rine. Vergue très-inclinée et fixée au mât par le <lb/>tiers de sa longueur, dont les deux tiers s'élèvent <lb/>ainsi au-dessusdu mât. L'antenne soutient la voile <lb/>triangulaire de certains bâtiments. Ses voiles ou-<lb/>vertes et pleinesAspiraient le souffle des flots, Et <lb/>ses vigoureusesantennes Balançaient sur les vertes <lb/>plaines Ses ponts chargés de matelots, LAMART. à <lb/>MmeDesbordes-Valmore</subSense>
+<pc>.|| </pc>
+<subSense>Fortesaiguilles ou traver-<lb/>ses debois qui appuient et retiennent, ducôtéde terre, <lb/>le mât principal et les bigues d'une macTiine à ma-<lb/>ter</subSense>
+<pc>. || </pc>
+<subSense>Rang transversalde gueuses, ou de barriques, <lb/>ou de caisses arrimées dans la cale d'un navire</subSense>
+</sense><sense><subSense>2°En histoire naturelle, appendice articulé et <lb/>mobile que les insectes portent à la partie antérieure <lb/>etsupérieure de la tête. Les antennes sont certaine-<lb/>ment des organes de toucher</subSense>
+</sense><sense><subSense>Termede <lb/>zoologie. Qui porte des antennes</subSense>
+</sense><sense><subSense>Terme de <lb/>zoologie. Antenne très-courte et très-petite</subSense>
+</sense><sense><subSense>Nom que <lb/>prend l'agneau ou l'agnelle à douze ou quinze mois. <lb/>Ils portent ce nom jusqu'au vingt-cinquième ou <lb/>trentième mois</subSense>
+</sense><sense><subSense>Qui est antérieur au mariage.'Des dons anténûp-<lb/>tiaux</subSense>
+</sense><sense><subSense>Figure,de rhétorique par laquelle on va au-devant <lb/>des objections et on y répond d'abord; c'est la même <lb/>que la prolepse ou anticipation</subSense>
+</sense><sense><subSense>Terme de logiqueancienne. Questionprélimi-<lb/>naire</subSense>
+</sense><sense><subSense>||1°Qui précède dans l'ordre des temps. Il fut anté-<lb/>rieur à Plaute. Les temps antérieurs</subSense>
+</sense><sense><subSense>2°Pla;.ê en <lb/>avant. Les poteauxantérieurs. La partie antérieure <lb/>d'un bâtiment</subSense>
+<pc>. || </pc>
+<subSense>En ce sens, il ne prend pas la pré-<lb/>position à</subSense>
+</sense><sense><subSense>3" En termes de grammaire, passé an-<lb/>térieur, futur antérieur, temps qui exprime une <lb/>action passée antérieurement à une autre action</subSense>
+</sense><sense><subSense>Pré-<lb/>cédemment</subSense>
+<pc>.|| </pc>
+<subSense>Il se construit avec lapréposition «.An-<lb/>térieurement à ces faits, il s'en est passé d'autres</subSense>
+</sense><sense><subSense>Priorité de <lb/>temps. L'antériorité est primauté de date et non <lb/>pas primauté de rang ou d'ordre. Je dois le gain de <lb/>mon procès à l'antériorité de mon titre</subSense>
+</sense><sense><subSense>Terme <lb/>de chirurgie. Inclinaison du fond de l'utérus en <lb/>avant</subSense>
+</sense><sense><subSense>Terme de météo-<lb/>rologie. Apparence lumineuseplacée à I'opposue au <lb/>soleil</subSense>
+</sense><sense><subSense>Terme d'anato-<lb/>mie. Ëminence du pavillon de l'oreille qui s'étend <lb/>depuis la conque jusqu'à la rainure de l'hélix, et qu: <lb/>est située au-devant de celui-ci</subSense>
+</sense><sense><subSense>Terme de médecine. Synonyme de VERMI-<lb/>FUGE</subSense>
+</sense><sense><subSense>Terme de bota-<lb/>nique. Nom scientifiquede la camomille</subSense>
+</sense><sense><subSense>Terme de botanique. <lb/>Partie de l'étamine qui renferme, ayant la féconda-<lb/>tion, le .pollen ou poussière fécondante</subSense>
+</sense><sense><subSense>Terme, de bo-<lb/>tanique.Organe mile de la plupart des cryptogames</subSense>
+</sense><sense><subSense>Terme de <lb/>botanique. Qui porte des anthères</subSense>
+</sense><sense><subSense>Terme <lb/>de zoologie.Sedit d'insectesquivivent-sur les fleurs</subSense>
+</sense><sense><subSense>Terme <lb/>de rhétorique. Style orné, fleuri</subSense>
+</sense><sense><subSense>Terme <lb/>de zoologie.Genre de coléoptères</subSense>
+</sense><sense><subSense>Terme de botanique. <lb/>Ensembledes phénomènes que les fleurs présentent <lb/>quand elles s'épanouissent</subSense>
+</sense><sense><subSense>1°Choix, <lb/>collection defleurs</subSense>
+<pc>. || </pc>
+<subSense>Peu usité au propre</subSense>
+</sense><sense><subSense>2°Fig. <lb/>Recueilde petites pièces de vers choisis. L'antholo-<lb/>gie grecque. L'anthologie française. M. de La Ro-<lb/>chette nous donnera-t-ilenfin cette anthologie? p. L. <lb/>COUHIER, Lelt. il, 57</subSense>
+</sense><sense><subSense>3°En histoire naturelle, <lb/>traité des fleurs</subSense>
+</sense><sense><subSense>Terme de <lb/>zool'gie. Qui mange des fleurs, qui vit de fleurs</subSense>
+</sense><sense><subSense>Terme de zoo-<lb/>logie. Qui se tient d'habitude sur les fleurs</subSense>
+</sense><sense><subSense>Terme de bo-<lb/>tanique. Qui porte une ou plusieurs fleurs</subSense>
+</sense><sense><subSense>terme de' bota-<lb/>nique. Espèce d'aconit (aconitum anthora, L.)</subSense>
+</sense><sense><subSense>Terme de <lb/>rhétorique. Contre-définition, sorte de correction <lb/>par laquelle on change un mot pour en mettre à <lb/>la place un autre qu'on regarde comme plus fort <lb/>ou plus exact</subSense>
+</sense><sense><subSense>Terme de <lb/>zoologie. Se dit de certains animauxdont labouche <lb/>est entourée d'appendices qui lui donnent l'appa-<lb/>rence d'une fleur</subSense>
+</sense><sense><subSense>Terme de <lb/>zoologie. Se dit d'animaux qui ressemblent plus ou <lb/>moins à des fleurs</subSense>
+</sense><sense><subSense>Terme de <lb/>minéralogie. Qui contient du charbon ou de la <lb/>houille</subSense>
+</sense><sense><subSense>Terme d'his-<lb/>toire naturelle. Carbone presque entièrement privé <lb/>de principes volatils pyrogénés, d'origine végétale, <lb/>comme la houille. On le trouve dans les terrains de <lb/>transition, au milieu des roches schisteuses et aréna-<lb/>cées, au-dessous des houilles,ou formantdes veines <lb/>au milieu des couches de celles-ci</subSense>
+</sense><sense><subSense>L'un des <lb/>noms.de l'anthracite</subSense>
+</sense><sense><subSense>Terme <lb/>de zoologie.Genre de mammifèresfossiles, dont on <lb/>trouve les débris dans les terrainscarbonifères</subSense>
+</sense><sense><subSense>Terme de médecine. <lb/>Tumeur inflammatoire affectant le tissu cellulaire <lb/>sous-cutané et se terminant toujours par la gan-<lb/>grène. Le roi eut un anthrax au cou qui ne parut <lb/>d'abord qu'un clou, mais qui donna beaucoup d'in-<lb/>quiétude, ST-SIM. 38, 184</subSense>
+</sense><sense><subSense>Anthrëne des <lb/>musées, dit aussi amourette, sorte d'insecte qui dé-<lb/>vaste les collections</subSense>
+</sense><sense><subSense>Terme de <lb/>géologie. Se dit du terrain appartenant à la forma-<lb/>tion dans laquelle a apparu l'homme</subSense>
+</sense><sense><subSense>Qui <lb/>a forme d'homme. Il est encore parlé de ces ani-<lb/>maux anthropoformes, J. J. nouss. Orig. notes</subSense>
+</sense><sense><subSense>Terme didactique. Descriptionde l'homme, en tant <lb/>qu'être faisant partie de la série animale</subSense>
+</sense><sense><subSense>Terme <lb/>de paléontologie. Nom donné par les anciensgéo-<lb/>logues à des pétrificationshumaines</subSense>
+</sense><sense><subSense>Brûleur <lb/>d'hommes. Les plus barbares des mortels étaient ces <lb/>rechercheurs anthropokaies [les inquisiteurs],VOLT. <lb/>Babyl. u</subSense>
+</sense><sense><subSense>Adoration d'un homme comme s'il était un dieu</subSense>
+</sense><sense><subSense>Débris <lb/>fossile attribué à l'espèce humaine</subSense>
+</sense><sense><subSense>1°His-<lb/>toire naturelle de l'homme</subSense>
+</sense><sense><subSense>2°Figure de style, par <lb/>laquelle on attribue à Dieu des-aflections, des ac-<lb/>tions humaines. Comme l'Ecriture est faite pour les <lb/>simples comme pour les savants, elle est pleine <lb/>d'anthropologies, MALEBRANCHE</subSense>
+</sense><sense><subSense>1°Qui a rapport à l'anthropologie, histoire na-<lb/>turelle de l'homme. Les discussions anthropologi-<lb/>ques</subSense>
+</sense><sense><subSense>2°Qui a rapport à la figure de style dite <lb/>anthropologie.Les expressions de la Sainte Ecriture <lb/>étant, selon Malebranche,figurées et anthropologi-<lb/>ques, on n'en peut rien conclure, TÉS. ni, 76</subSense>
+</sense><sense><subSense>Magnétisme dit animal</subSense>
+</sense><sense><subSense>Divination qui se pratiquait en examinant les en-<lb/>traillesd'un enfant ou d'un homme égorgé</subSense>
+</sense><sense><subSense>Terme didactique. Art de mesurer les proportions <lb/>des parties de l'homme bien conformé</subSense>
+</sense><sense><subSense>Terme didactique. Qui a la forme d'un homme</subSense>
+</sense><sense><subSense>Doctrine de ceux qui attribuent à Dieu une <lb/>forme humaine</subSense>
+</sense><sense><subSense>Ancien sectaire qui attribuait à Dieu une forme hu-<lb/>maine. Nous sommes pour la plupart de vrais an-<lb/>thropomorphites, J. J. ROUSS. Ém. iv</subSense>
+</sense><sense><subSense>1°Figure de style plus connuesous le nom d'an-<lb/>thropologie</subSense>
+</sense><sense><subSense>2°Terme de philosophie. Système qui <lb/>attribue à la divinité les affections de l'humanité</subSense>
+</sense><sense><subSense>i&amp;lt; Adj. <lb/>Qui mange delà chair humaine. Peuple anthropo-<lb/>phage</subSense>
+</sense><sense><subSense>2°S. 1». Les anthropophagessont aussi ap-. <lb/>pelés Cannibales</subSense>
+</sense><sense><subSense>Ha <lb/>bitude de manger de la chair humaine. Si c'est <lb/>un crime détestable et une • cruelle anthropophagie <lb/>(car ce sont les termes ordinairesdont-se servent <lb/>les calvinistes) que de manger le corps de N. S ' <lb/>BOSS. Euch.in, 2. <lb/>... .. <lb/></subSense>
+</sense><sense><subSense>Terme d'hor-<lb/>ticulture. Joli arbrisseau connu sous les noms de <lb/>barbe de Jupiter, arbuste argenté</subSense>
+</sense><sense><subSense>Terma <lb/>de rhétorique ancienne. Figure qui consisteà ré-<lb/>pondre à une objectionqu'on se fait à soi-même</subSense>
+</sense><sense><subSense>Terme de médecine. Bon contre l'apoplexie</subSense>
+</sense><sense><subSense>Terme de chi-<lb/>mie. Principe actif de l'upas antiar</subSense>
+</sense><sense><subSense>et f. Néologisme. Celui, celle qui est opposé à l'a-<lb/>ristocratie</subSense>
+</sense><sense><subSense>Ter-<lb/>me de métrique ancienne. Se dit de vers où l'on <lb/>trouvait quatre fois l'antibacchius</subSense>
+</sense><sense><subSense>Terme de métrique ancien-<lb/>ne. Pied composé de deux longues«td'une brève</subSense>
+</sense><sense><subSense>Voy; ANTE-BOIS</subSense>
+</sense><sense><subSense>Bulle d'un anti-<lb/>pape</subSense>
+</sense><sense><subSense>Terme <lb/>d'architecture. Pièce qui précède un cabinet</subSense>
+</sense><sense><subSense>Pièce <lb/>d'entrée d'un appartement. Une antichambre plei-<lb/>ne de laquais, SÉV. 3&amp;lt;8. Parbleu! coquins, je vous <lb/>apprendrai à <lb/>. <lb/>laisser monsieur ' Dimanche dans, <lb/>une antichambre, MOL. Festin,' rv, i. Ses vers.... <lb/>Iraient dans l'antichambre amuser Pacolet, BOIL. <lb/>Épît. ix. Vous qu'on ne voit assis dans le sanc-<lb/>tuaire du Dieu vivant que pour avoir été long-<lb/>temps debout dans les antichambres,des grands.... <lb/>MASS. Villeroy. Qu'un valet change ses galons,.Sans <lb/>changer d'antichambre, BÊRANG.Marotte. M'a-t-onja-<lb/>mais vu dans une antichambre T'expOs-jr au mépris <lb/>d'un grand? ID. Jfo»ftabït</subSense>.j| <subSense>Propos d'antichambre, <lb/>propos de' valets</subSense>
+<pc>. || </pc>
+<subSense>Faire antichambre, attendre le <lb/>moment d'être introduit</subSense>. !] <subSense>Faire faire antichambre, <lb/>faire longtemps attendre quelqu'un avant de le re-<lb/>cevoir</subSense>
+</sense><sense><subSense>Terme de pra-<lb/>tique. Abandon des revenus d'une propriété pour les <lb/>intérêts d'un emprunt</subSense>
+</sense><sense><subSense>Qui est opposé à la religion chrétienne. L'air <lb/>infecté partout de maximes antichrétiennes, BOSS. <lb/>Prédic. -I. Cependant, poursuit cet auteur, le pa-<lb/>pisme est l'empire antichrétien, ID. for.^</subSense>
+</sense><sense><subSense>Caractère de ce qui est antichrétien. Encore <lb/>qu'ils n'aient cessé d'animer le peuple par ces idées <lb/>d'antichristianisme, BOSS. Var. të. Ce mystère d'i-<lb/>niquité est fait pour éprouver les élus, et il consiste <lb/>dans la corruptiondes maximes de l'Evangile et l'é-<lb/>tablissement de Tantichristianismê,' BOSS. Pensées <lb/>détachées, i</subSense>
+</sense></body>
+	</text>
+</tei>

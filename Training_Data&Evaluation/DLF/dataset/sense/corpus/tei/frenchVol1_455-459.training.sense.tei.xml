@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="sense.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="sense.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><sense><subSense>qui firent voler la poudre et sauter le cail-<lb/>lotaje à l'entoùrde vos 'pieds',' SULLY,' Èim. t. iy, <lb/>p. &amp;lt;56, dans 1ACTONE</subSense>
+</sense><sense><subSense>1°Faïence fine</subSense>
+<pc>: || </pc>
+<subSense>2°Sorte d'enjolivementpittores-<lb/>que fait de cailloux .de 'diverses " couleurs' dans: les <lb/>jardins. '.".,. ', ",. ";.."' V '</subSense>
+</sense><sense><subSense>Lieutenant du <lb/>grand vizir'.. ...;.' <lb/>., ,...</subSense>
+</sense><sense><subSense>Espèce dé crocodile. <lb/>Cette rivière [dans les Florides] était remplie de <lb/>caïmans, CHATEAUB. Voy. Am, 430</subSense>
+</sense><sense><subSense>Nom de gnostiques <lb/>qui honoraient Caïn et Judas, et qui avaient un <lb/>évangile sous le nom de ce dernier personnage</subSense>
+</sense><sense><subSense>Sorte d'esquifd'une forme <lb/>gracieuse et légère, en usage dans l'Archipel et à <lb/>Constantinople. Je retournai au vaisseau sur un <lb/>caïque, CHATEAUB. Itin. 26</subSense>. [| <subSense>Autrefois, sorte de <lb/>chaloupequi servaitordinairement avec les galères <lb/>dans.la Méditerranée.jOn envoya le çaïque.recon-<lb/>naître les ennemis</subSense>
+<pc>. || </pc>
+<subSense>Dans le XVII" siècle, le genre ni <lb/>l'orthographe <lb/>; n'étaient déterminés. La cahique de <lb/>Vinceguerreayant rencontré un bateau pêcheur, le <lb/>mena à la capitaine, Relationdumarquis de Brégé, <lb/>i642, dansJAL. [LespiratesdelaRussieméridionale] <lb/>vont quelquefois jusques à trois ou quatre lieues de <lb/>Constantinople avec leurs caïcs tant seulement, qui <lb/>sont de petits vaisseaux de rame, en chascun des-<lb/>quels iln'y a la plupart du temps que trente ou qua-<lb/>rante soldats^Le père DAN, Hist. de Barbarie, -1649, <lb/>liv. i, p. io,, dans JAL</subSense>
+</sense><sense><subSense>Écorce du fruit du cacao-<lb/>tier servant à faire des cordes et des écorces</subSense>
+</sense><sense><subSense>Monticule de terre et de <lb/>pierres élevé par les Geites en Bretagne, en Ecosse, <lb/>en Irlande</subSense>
+</sense><sense><subSense>Sortede pierre servant <lb/>à former les bords de la chaudière des savonniers</subSense>
+</sense><sense><subSense>Remplir les caisses. <lb/>Charger les caisses.sur-un camion</subSense>
+</sense><sense><subSense>2°Assemblage <lb/>de planehesayant un fond et dans lequel on plante <lb/>des fleurs et des arbustes. Il y a un bois entier d'o-<lb/>rangers dans de grandes caisses^S ÉV. 202, Tout était <lb/>plein de fleurs dans des caisses, m. 387</subSense>
+<pc>. || </pc>
+<subSense>Terme <lb/>de chirurgie. Caisse à amputation, caisse à trépan, <lb/>caisse contenant les instruments nécessaires pour <lb/>amputer, trépaner. Caisse à médicaments, boîte <lb/>garnie d'instruments, de médicaments</subSense>
+</sense><sense><subSense>3°Coffre <lb/>dans lequel on dépose l'argent. Tirer de l'argent de <lb/>sa. caisse. La caisse fut forcée par des voleurs. Les <lb/>caisses de l'Etat</subSense>
+<pc>. || </pc>
+<subSense>Le bureau où est la caisse, où se <lb/>font les payements. Allez à la caisse, vous serez <lb/>payé. La caisse est fermée</subSense>
+<pc>. || </pc>
+<subSense>Les fonds mêmes qui <lb/>sont en caisse, ou qui sont à la dispositiondu cais-<lb/>sier. Sa caisse est de cent mille écus</subSense>
+<pc>. || </pc>
+<subSense>Livre de caisse, <lb/>le registre où sontinscrits les mouvements de fonds</subSense>
+<pc>. <lb/>|| </pc>
+<subSense>Tenir la.cai.sse, dirigerles opérationsd'une caisse, <lb/>avoir le maniement de l'argent</subSense>
+<pc>. |</pc>
+<subSense>) Caissemilitaire, la <lb/>caisse du régiment, les fonds destinés à payer, les <lb/>troupes</subSense>
+<pc>. || </pc>
+<subSense>Caisse des pensions, les fonds affectés au <lb/>payement des pensions de retraite</subSense>
+<pc>. || </pc>
+<subSense>Etablissement <lb/>où l'on dépose des fonds. Caisse d'amortissement.. <lb/>L'établissement delà caisse d'amortissement, VOLT. <lb/>Lett. Tabareàu,octobre -1768</subSense>
+<pc>. || </pc>
+<subSense>Caisse d'épargne, : <lb/>établisseinerit où l'on reçoit de très-petites sommes <lb/>dont l'intérêt est payé et capitalisé, et qui a pour <lb/>but dé faciliter les économiesdes ouvriers,, desdo-: <lb/>mestiques," et, en général, de toutes les personnes <lb/>dont lé revenu est très-petit</subSense>. ]| <subSense>4°Le cylindre d'un <lb/>tambour, et, par extension, le tambour même. <lb/>Caisse de tambour. La, caisse est crevée. Les voyar; <lb/>geurs battent de la caisse pour les empêcher, d'ap-<lb/>procher [les.éléphants], BIIFFON, Éléphant. Amour; <lb/>voulant lever un régiment Battait la caisse autour. <lb/>de ses domaines, J. B. ROUSS. Vers allégoriques au <lb/>duc de Bourg</subSense>. \\ <subSense>Caisse roulante, tambour allongé, <lb/>employé surtout dans la musique militaire</subSense>
+<pc>. || </pc>
+<subSense>Grosse <lb/>caisse, espèce de très-grand tambour employé dans <lb/>la musique militaire</subSense>
+<pc>. || </pc>
+<subSense>L'artiste qui en joue. Faites <lb/>signe à la grosse caisse</subSense>
+<pc>. || </pc>
+<subSense>Terme d'anàtomie. Caisse <lb/>dutambour, cavitédemi-sphériquequi se trouve au <lb/>fonddu trou auditif externe</subSense>
+</sense><sense><subSense>5°Le corps d'unevoi-<lb/>ture</subSense>
+</sense><sense><subSense>6°Terme de physique. Caisse catoptriquë, <lb/>instrument d'optique qui grossit de petits corps <lb/>très-rapprochés</subSense>
+<pc>. || </pc>
+<subSense>7°Terme de cuisine. Papier plié <lb/>en carré avec rebords où l'on fait cuire les biscuits, <lb/>etc. Champignons en caisse</subSense>
+</sense><sense><subSense>8°Terme de marine. <lb/>Caisse à eau, grand vaisseau en fer dans lequel on <lb/>met l'eau nécessaire au navire</subSense>
+<pc>. || </pc>
+<subSense>Morceau de bois, <lb/>ayant en général la forme d'un ellipsoïde aplati, <lb/>qui renferme le rouet de la poulie</subSense>
+<pc>. || </pc>
+<subSense>Caisse d'un <lb/>mât, nom donné,à la partie quadrangulaire servant <lb/>de pied à un mât de hune, de perroquet ou de ca-<lb/>catois</subSense>
+</sense><sense><subSense>9°Terme d'architecture. Renfoncement <lb/>carré entre les modulons de la colonne corinthienne</subSense>
+</sense><sense><subSense>10" Ce qui renferme le mouvementd'une pièce <lb/>d'horlogerie</subSense>
+<pc>.|| </pc>
+<subSense>ii°Termed'artificier.Caisseaérienne, <lb/>ballon rempli de fusées et d'artificesdivers</subSense>
+</sense><sense><subSense>Petite caisse ou <lb/>armoire où l'ouvrier range les dorures et les soies <lb/>qu'il emploie</subSense>
+<pc>. || </pc>
+<subSense>Petite caisse de sapin dans laquelle <lb/>on envoie de Provence les raisins séchés au soleil</subSense>
+</sense><sense><subSense>Celui qui tient la caisse d'un banquier, d'une admi-<lb/>nistration, et qui en dirige les opérations</subSense>. \\ <subSense>S. f. &amp;lt; <lb/>Caissière, femme qui, dans certainsmagasins, tient <lb/>la caisse de l'établissement</subSense>
+</sense><sense><subSense>i°Grande caisse pla-<lb/>cée sur un train à quatre roues. Les caissons ser-<lb/>vent à porter, des vivres et des munitions. St-Fré-<lb/>mont fut détaché le -18. avec presque tous les <lb/>caissons de l'armée, sous prétexte d'aller quérir un <lb/>grand convoi au fort Louis, ST-SIMON, 47, 49</subSense>
+</sense><sense><subSense>2°Terme d'architecture. Compartiments, ornés <lb/>de moulures,.dont on décore les plafonds elles voû-<lb/>tes</subSense>
+</sense><sense><subSense>3°Petit coffredans un carrosse</subSense>
+<pc>. || </pc>
+<subSense>4°Coffre en <lb/>charpente, pour maçonner au fond de l'eau</subSense>
+</sense><sense><subSense>5°Terme de marine. Banquette renfermant des <lb/>provisions de table</subSense>
+</sense><sense><subSense>6°Terme de menuiserie.Bout <lb/>de tringle ajusté haut et bas à un volet</subSense>
+</sense><sense><subSense>Terme.de phar-<lb/>macie. Huile volatile fournie par la distillation des <lb/>feuilles et des rameaux d'un arbuste des îles Mplu-<lb/>ques (melaleucacajeputi). ..&amp;lt; ... ... <lb/>......</subSense>
+</sense><sense><subSense>Qui peut être <lb/>cajolé. Mme de Warens se mit à cajoler Grossi,.qui <lb/>pourtant n'était pas trop cajolable, J. J. RODSS.,CO»-<lb/>fess. v., <lb/></subSense>
+</sense><sense><subSense>Un en-<lb/>fant cajolé par sa bonne. Cette jeune fille cajolée par <lb/>les.garçons du village,</subSense> 
+</sense><sense><subSense>2" Tâcher de plaire, à une femme par pa-<lb/>roles et manières. Les, coqs ne chantent point, je <lb/>n'entends aucun bruit, Sinon quelqueszéphyrs, qui <lb/>le long delà plaine Vont cajolant tout bas les nym-<lb/>pbes de la Seine [c'est-à-dire, caressant, frôlant les <lb/>eaux de la Seine], RACAN, Berg. Alcidor,i, i. Il ca-<lb/>jolait la jeune bachelette, LA FONT. Cloçh. Il ne ca-<lb/>jole point safemme, LA BRUY. 1.3. Va,'bienheureux <lb/>amant, cajoler ta maîtresse,, CORN.. Mëdée, v, ,7</subSense>
+<pc>. <lb/>|| </pc>
+<subSense>Absolument. Tudieu! comme avec lui; votre lan-<lb/>gue cajole! MOL. ÉC. des femmes, v, 4. Et je m'as-<lb/>sure aussi tellement en sa foi, Que,..bien que tout <lb/>le jour il cajole, avec toi, Mon esprit te conserve <lb/>une amitié si pure, Que, sans être jaloux, jele vois <lb/>et l'endure, CORN, J,a Suivante, il, 8</subSense>, || <subSense>3°Terme de <lb/>marine. Faire marcher" un vaisseau contre le vent, <lb/>en profitant d'un courant</subSense>
+<pc>. || </pc>
+<subSense>T. n. Faire de petites <lb/>bordées. Les brûlots ennemis ne pouvaient, en ca-<lb/>jolant et en se laissant dériver aux courants, pré-<lb/>senter que la proue ou la poupe aux vaisseauxfran-<lb/>çais, Relation du combat de laHougue, dans JAL</subSense>
+<pc>. <lb/>|| </pc>
+<subSense>4°V. n. S'est dit du cri du geai. C'est en ce sens <lb/>que Régnier l'a pris activement : Sa barbe pinçoter, <lb/>cajoler la science [parler le jargon de, la science]</subSense>
+</sense><sense><subSense>[ i°P aroles et ma-<lb/>nières par lesquelles on cajole. La nécessité apprend <lb/>la complaisance.etla cajolerie aux âmes lés plus li-<lb/>bres et les,plus altières, BAL?, le Barbon. Je n'ai <lb/>point tant d'esprit pour tant de.menterie : Je ne puis <lb/>m'adonner. à la cajolerie, RÉGNIER,. Sat.'m.' Un <lb/>temps, sans lui parler, ma langue vacilla; Enfin <lb/>je me remets sur les cajoleries, Lui dis comme le <lb/>roi était aux Tuileries, ip. Sat'vm. Le roi de Prusse <lb/>ayant offert.... je lui ai repondu avec la cajolerie <lb/>. <lb/>qu'il faut mettre dans les lettres qu'on écrit à des <lb/>rois victorieux, VOLT. Lett, Richelieu, 19 août 1,766. <lb/>Voltaire m'écrase,,il me persécute, peut-être me <lb/>fera-t-il périr à la fin; grande merveille,'avec cent <lb/>mille livres de rente, tant d'amis puissants â la cour, <lb/>et tant de si basses cajoleries contre un pauvre <lb/>homme dans mon état ! J. J. ROUSS. Lettr. Le Aïeps. <lb/>8 févr. 1766</subSense>
+<pc>. j| </pc>
+<subSense>2°Propos et manièresdont.on se ser' <lb/>pour gagner les bonnes grâces d'une femme. Souf-<lb/>frir, aimerla cajolerie. Use servit de'toujt son esprit <lb/>et de toute sa cajolerie pour exagérer l'agréable <lb/>capricede sa maîtresse, SCARR. Rom. corn. ch. 9. Sé-<lb/>duire les personnes innocentes et simples par des <lb/>cajoleries affectées, FLÊCH. Serm. n, 67. Ces assem-<lb/>blées étaient un rendez-voustumultueux de vanité, <lb/>de curiosité, de cajolerie, n&amp;gt;. ib. D, 67</subSense>
+</sense><sense><subSense>Celui, celle qui cajole. Elle n'eut pas la force de <lb/>chasser tous ces cajoleurs, SCAHRON, Rom. com. <lb/>chap. 8 <lb/>Et ce beau cajoleur, Avec qui je t'ai <lb/>vue en douce confidence, HAUTEROCHE, Nobles de <lb/>province,rv, 4</subSense>
+</sense><sense><subSense>Terme de pêche. Espèce <lb/>de cuve pour faire l'huile de foie de morue</subSense>
+</sense><sense><subSense>Termede marine. Pe-<lb/>tite chambre dans un navire</subSense>
+<pc>. || </pc>
+<subSense>Chambre du capi-<lb/>taine</subSense>
+<pc>. || </pc>
+<subSense>Lit en forme d'armoire</subSense>
+</sense><sense><subSense>1°Durillon. Il vient des cals <lb/>aux mains à force de travailler</subSense>
+<pc>. || </pc>
+<subSense>On dit plus sou-<lb/>vent calus</subSense>
+</sense><sense><subSense>2°Terme de chirurgie. Cicatrice des <lb/>os à la suite d'une fracture</subSense>
+</sense><sense><subSense>3°Masse endurcie sur <lb/>un végétal</subSense>
+</sense><sense><subSense>Terme de manège. La <lb/>pente d'un terrain par lequel on fait descendre un <lb/>cheval au petit galop, pour donner de la souplesse <lb/>à ses hanches</subSense>
+</sense><sense><subSense>Termede marine. Ac-<lb/>tion de caler</subSense>
+</sense><sense><subSense>Sorte de panier, parti-<lb/>culièrement à l'usage des marchands des halles</subSense>
+<pc>. <lb/>|| </pc>
+<subSense>î la halle de Paris, mesure adoptée pour certains <lb/>légumes tels que la chicorée sauvage; il contient <lb/>42 têtes</subSense>
+</sense><sense><subSense>Terme de marine. <lb/>Quantité dont un bâtiment plonge dans l'eau, en <lb/>raison du chargement</subSense>
+</sense><sense><subSense>Bois <lb/>odorant des Indes. Le cèdre, le calambou et le palo <lb/>d'aquila ne sont rien au prix, VOIT. Lettr.1 33</subSense>
+</sense><sense><subSense>Roseau dont les an-<lb/>ciens se servaient pour écrire</subSense>
+</sense><sense><subSense>Terme de botani-<lb/>que. Plante labiée odorante (melissa calamin-<lb/>tha, L.)</subSense>
+</sense><sense><subSense>Terme de zoo-<lb/>logie. Nom des polypes en forme de chaume ou de <lb/>plume</subSense>
+</sense><sense><subSense>Terme di-<lb/>dactique. Qui porte des chaumes</subSense>
+</sense><sense><subSense>Terme <lb/>didactique.Qui est en forme de chaume</subSense>
+</sense><sense><subSense>i°Terme d'an-<lb/>cienne chimie. Calamine ou pierre calaminaire, <lb/>oxyde de zinc carbonate natif</subSense>
+</sense><sense><subSense>2°Terre bitumi-<lb/>neuse qui sertà affiner le cuivre</subSense>
+</sense><sense><subSense>Bouclé, en parlant des cheveux</subSense>
+</sense><sense><subSense>Mettre en <lb/>boucles, en parlant des cheveux. Dans vos réduits où <lb/>tout est peigné, ajusté, arrangé, calamistré, DIDE-<lb/>ROT, Lett. à Mme Riccdboni.\ Horsd'usage</subSense>
+</sense><sense><subSense>Gomme-résine, <lb/>sorte inférieure de storax qu'on recueilledans des <lb/>tiges de roseau</subSense>
+</sense><sense><subSense>i°Ancien <lb/>nom de la pierre d'aimant, et, par suite, de la bous-<lb/>sole</subSense>
+</sense><sense><subSense>2°Calamité blanche, sorte de marne ou d'ar-<lb/>gile blanche</subSense>
+</sense><sense><subSense>i* Tout grand <lb/>malheur public. La famine, la guerre, la peste sont <lb/>des calamités. Est-il arrivé quelque calamité à Sa-<lb/>lente? FÉN. Tél. xxn. Un astre qui n'annonce que <lb/>des calamités à la terre, MASS. Petit car. Gloire. <lb/>Apres ces jours de sang et de calamités, VOLT. Zaïre, <lb/>n, 4. Job déploreles diverses calamités qui affligent <lb/>lavie humaine, BOSS. dansLAFAYE</subSense>
+</sense><sense><subSense>2°Infortune.Et <lb/>qu'une femme enfin dans la calamité, CORN. Poly. <lb/>iv, '6. Ici, près des remparts de l'auguste cité, Il a <lb/>marqué la fin de ma calamité, n&amp;gt;. OEd. i, i</subSense>
+</sense><sense><subSense>D'une façon calamiteuse</subSense>
+</sense><sense><subSense>Fécond en calamités.Le mari de Mme de Navailles, <lb/>le plus fidèle confident du cardinal Mazarin jusque <lb/>dans les temps les plus calamiteux de sa vie, ST-<lb/>SIM. 4 38, 4 2. Mme de Maintenon vanta la longueur <lb/>de la pénitencede Villeroy, sa désolation de ne pou-<lb/>voir être auprès du roi dans des momentssi calami-<lb/>teux, ID. 325, 6</subSense>
+</sense><sense><subSense>Opéra-<lb/>tion que les étoffes subissent avant d'êtrelivrées au <lb/>commerce</subSense>
+</sense><sense><subSense>Nom vulgaire <lb/>de la calandre granaire (coléoptère), dite cusson <lb/>dans le midi de la France, et appelée généralement <lb/>charançon du blé ou simplement charançon, LE-<lb/>GOARANT. H La calandre des palmiers, nomméevul-<lb/>gairement ver palmiste</subSense>
+</sense><sense><subSense>Machine de bois <lb/>avec laquelle on tabise les taffetas et d'autres étoffes <lb/>de soie. J'étais à l'étendage dans la chambre de la <lb/>calandre, J. J. ROUSS. Prom. 4</subSense>
+</sense><sense><subSense>Passé à la calandre</subSense>
+</sense><sense><subSense>Espèced'a-<lb/>louette (alouettebrachydactyle), dite aussi alouette <lb/>des sables</subSense>
+</sense><sense><subSense>Faire passer par <lb/>la calandre, opération qui a pour but de presser et <lb/>lustrer une étoffé</subSense>
+</sense><sense><subSense>Grive de <lb/>vigne</subSense>
+</sense><sense><subSense>Ouvrier <lb/>qui calandre</subSense>
+</sense><sense><subSense>Synonyme de <lb/>crique ou petite baie dans la Méditerranée</subSense>
+</sense><sense><subSense>Terme de marite. <lb/>Petit coin pour assujettir un objet</subSense>
+</sense><sense><subSense>Nom d'un oiseau (bu-<lb/>ceros)</subSense>
+</sense><sense><subSense>Nom de concré-<lb/>tions qui se formentdans les noix de coco</subSense>
+</sense><sense><subSense>Terme de bota-<lb/>nique. Assemblage de petites fleurs portées sur un <lb/>réceptacle commun</subSense>
+</sense><sense><subSense>Terme <lb/>de botanique. Qui est en forme de corbeille</subSense>
+</sense><sense><subSense>Ordre militaire <lb/>très-célèbre qui fut fondé en 4 4 58 à Calatrava, sous <lb/>Sanche III de Castille, pour défendre cette ville <lb/>contre les Maures. Les chevaliersde cet ordre se ma-<lb/>riaient une fois et faisaient voeu de pauvreté, d'o-<lb/>béissance, de chasteté conjugale, voeu auquel, plus <lb/>tard en 4 652, ils ajoutèrentceluide soutenirl'imma-<lb/>culée Conceptionde la Vierge. Cet ordre était soumis <lb/>à l'ordre de Cîteaux. Les chevaliersportaient en céré-<lb/>monie un grand manteau blanc, sur lequel il y avait <lb/>du côté gauche une croix rouge fleurdelisée</subSense>
+</sense><sense><subSense>1°Qui est de la na-<lb/>ture de la chaux, où il y a de la chaux. Terrain cal-<lb/>caire. Matière calcaire. Pour l'incrédule,les monta-<lb/>gnes sont des protubérancesde pierres calcaires ou <lb/>vitrescibles, CHATEAUBR. Gén. ni, 45</subSense>
+</sense><sense><subSense>2" S. m. Terme <lb/>de géologie. Roche essentiellementcomposée de car-<lb/>bonate de chaux. On distingue : 4Q le calcaire pri-<lb/>mitif, qui est le marbre,d'un grain égal, ne portant <lb/>aucune empreintede corps organisés ; 2" le calcaire <lb/>ancien ou de transition, d'un tissu compacte, et ne <lb/>contenant que peu de corps marins ; 3°l e calcaire <lb/>coquillier, ainsi nommé parce qu'il contient beau-<lb/>coup de coquilles</subSense>
+</sense><sense><subSense>Qui se rapporte au calcanéum. </subSense>
+</sense><sense><subSense>Terme d'a-<lb/>natomie. Os court, situé à la partie postérieure et <lb/>inférieure du pied, et faisant partie du tarse</subSense>
+</sense><sense><subSense>Terme de minéralogie. Qui contient de la chaux ou <lb/>des pierres calcaires</subSense>
+</sense><sense><subSense>Terme <lb/>d'histoire naturelle. Qui est muni d'un éperon</subSense>
+</sense><sense><subSense>Terme <lb/>didactique. Qui a la forme d'un éperon</subSense>
+</sense><sense><subSense>Pierre pré-<lb/>cieuse de couleur bleue ou jaunâtre, qu'on met au <lb/>rang des agates, et sur laquelle on grave aisément</subSense>
+</sense><sense><subSense>Marqué de blanc, en parlant des pierres pré-<lb/>cieuses</subSense>
+</sense><sense><subSense>Terme <lb/>d'histoire naturelle. Qui a la forme d'une pantoufle</subSense>
+</sense><sense><subSense>Plante culti-<lb/>vée depuisquelque temps pour sa fleur(calceolaria)</subSense>
+</sense><sense><subSense>Terme de zoolo-<lb/>gie. Sorte de coquillage (calceola)</subSense>
+</sense><sense><subSense>Terme de zoo-<lb/>logie. Nom de la famille des calcéolés</subSense>
+</sense><sense><subSense>Terme d'histoire naturelle. Qui est en formede pan-<lb/>toufle</subSense>
+</sense><sense><subSense>Terme de marine. <lb/>Pièce de bois placée au haut d'un mât de galère, <lb/>et dans la tète de laquelle sont placéesles poulies</subSense>
+</sense><sense><subSense>Terme de chimie. <lb/>Nom des métaux analogues au calcium</subSense>
+</sense><sense><subSense>Terme de mi-<lb/>néralogie. Qui contient de la chaux</subSense>
+</sense><sense><subSense>Terme <lb/>de pathologie. Passage d'un tissu mou à la consis-<lb/>tance et quelquefois à la couleur de la chaux, par <lb/>dépôt moléculairedes sels de chaux et autres</subSense>
+</sense><sense><subSense>Terme de <lb/>minéralogie.Qui est converti en carbonate de chaux</subSense>
+</sense><sense><subSense>Terme de mi-<lb/>néralogie. Pierre de chaux compacte</subSense>
+</sense><sense><subSense>Verre qui provient des <lb/>rognures de glace</subSense>
+<pc>. || </pc>
+<subSense>Verre réduit en parcelles par la <lb/>calcination suivie de l'immersion dans l'eau froide</subSense>
+<pc>. <lb/>|| </pc>
+<subSense>On dit aussi casson</subSense>
+</sense><sense><subSense>Qui peut être <lb/>calciné. Une pointe de roche escarpée lui [à An-<lb/>nibal]'fermaitle passage, il la rendit calcinable, <lb/>VOLT. Sing. 9. Pierres calcinables ou marbres, BUiT. <lb/>Théorie de la terre, art. ix</subSense>
+</sense><sense><subSense>1°Autrefois <lb/>réduction des pierres calcaires en chaux par l'action <lb/>d'un feu violent</subSense>
+</sense><sense><subSense>2°Aujourd'hui, opération dans <lb/>laquelle on soumet à une chaleur très-éîevée une sub-<lb/>stance infusible, mais sensiblementaltérable.-100 li-<lb/>vres de plomb produisent, après la calcination,jus-<lb/>qu'à -no livres de minium, VOLT. Feu, i, 2</subSense>
+</sense><sense><subSense>Oxyde métallique en <lb/>poudre servant à faire les émaux</subSense>
+</sense><sense><subSense>1°Ré-<lb/>duit en chaux ou oxyde métallique</subSense>
+</sense><sense><subSense>2°Très-<lb/>échauffé. Tous ces rocs calcinés sous un soleil ron-<lb/>geur, Brûlent et font hâter les pas du voyageur, A. <lb/>CHÉNIER,34. Il 3°Brûlé. Un rôti calciné</subSense>
+<pc>. || </pc>
+<subSense>Fig. Mon <lb/>sang est calciné, la fièvre me consume, j. j. ROUSS. <lb/>Lettr. l'eyrou, e avril 1765</subSense>
+<pc>. || </pc>
+<subSense>Il a le corps calciné, <lb/>se dit d'un homme qui fait abus des liqueurs alcoo-<lb/>liques</subSense>
+</sense><sense><subSense>1°Terme de chi-<lb/>mie. Réduire par l'action du feu en ce qu'on nom-<lb/>mait chaux autrefois, ce nom de chaux étant alors <lb/>donné à tous les oxydes métalliques, et surtout à <lb/>ceux qui avaient des propriétés alcalines</subSense>
+</sense><sense><subSense>2°Sou-<lb/>mettre à une forte chaleur. Calciner le salpêtre, le <lb/>vitriol, lesmélaux, etc</subSense>
+</sense><sense><subSense>3°Se calciner, v. réfl. Cette <lb/>pierre s'est calcinéedans le feu</subSense>
+</sense><sense><subSense>Terme de chimie. <lb/>Qui a rapport à la chaux</subSense>
+</sense><sense><subSense>Terme de bo-<lb/>tanique. Voy. CHAUSSETRAPE, plante</subSense>
+</sense><sense><subSense>Terme de <lb/>botanique. Nom de la famille de plantes dont la <lb/>chaussetrapeest le type</subSense>
+</sense><sense><subSense>Terme de chimie. <lb/>Métal qui, par sa combinaison avec l'oxygène, con-<lb/>stitue la chaux</subSense>
+</sense><sense><subSense>1°Terme de médecine. <lb/>Concrétion pierreuse qui se forme dans certains or-<lb/>ganes. Calculs biliaires, urinaires, etc</subSense>
+<pc>. || </pc>
+<subSense>La mala-<lb/>die même. Avoir le calcul. Peu usité en cet emploi</subSense>
+</sense><sense><subSense>2°Opération par laquelle on trouve le résultat de <lb/>la combinaison de nombres ou de quantités. Calcul <lb/>exact. Calcul faux. Sauf erreur de calcul</subSense>
+<pc>. || </pc>
+<subSense>De cal-<lb/>cul fait, tout bien compté. Scapin, elle obéit à sa <lb/>mère, je suis perdu; il y a de l'erreur de calcul, <lb/>REGNARD, la Sérénade, 7</subSense>
+<pc>. || </pc>
+<subSense>Absolument, le calcul, <lb/>l'arithmétique. Dans cette école on apprend le fran-<lb/>çais, l'histoire et le calcul</subSense>
+<pc>. || </pc>
+<subSense>En algèbre, le calcul, <lb/>l'opérationarithmétique. L'équationest posée ; c'est <lb/>au calcul à la résoudre, c'est-à-dire il n'y a plus à <lb/>faire que les opérations arithmétiques qui donnent <lb/>les valeursde tous les termes inconnus</subSense>
+<pc>.|| </pc>
+<subSense>Calcul dif-<lb/>férentiel, partie de l'analyse transcendante dans la-<lb/>quelle on considèredes quantités infiniment petites <lb/>s'évanouissantdans le résultat et permettantde met-<lb/>tre en équation une foule de conditionsgéométriques, <lb/>mécaniqueset physiques</subSense>
+<pc>.|| </pc>
+<subSense>Calculintégral, partiede <lb/>l'analyse qui est au calcul différentiel ce qu'est l'ex-<lb/>traction des racines à la formationdes puissances. <lb/>Dans le siècle dernier l'invention des nouveaux cal-<lb/>culs avait produit une révolution dans les sciences <lb/>mathématiques, CONDORCET, Sourdelin.||Calcul aux <lb/>différences partielles ou finies, calcul qui a pour <lb/>but de trouver les différences des quantités données <lb/>et de remonter de ces différences aux fonctions dont <lb/>elles dérivent. Il dit que D'Alembert a le pre-<lb/>mier résolu, d'une manière générale, le problème <lb/>des cordes vibrantes et qu'il a inventé le calcul des <lb/>différences partielles, VOLT. Lettre d'Ârgenlal, &amp;lt;7 <lb/>août 1774</subSense>
+</sense><sense><subSense>3°Fig. Mesures combinées, dessein <lb/>prémédité, plan. Il avait fait d'avance son calcul. <lb/>La fortune fit échouer les calculs les plus sages. <lb/>Il Proverbe.L'erreur de calcul ne se couvre point; <lb/>c'est-à-dire on peut toujours revenir sur une errem <lb/>de calcul</subSense>
+</sense><sense><subSense>Qui peut être <lb/>calculé</subSense>
+</sense><sense><subSense>i°Celui <lb/>qui sait calculer.Un bon calculateur</subSense>
+</sense><sense><subSense>2" Fig. Tristes <lb/>calculateurs des misères humaines, Ne me consolez <lb/>point, vous aigrissez mes peines, VOLT. Dés. de Lis-<lb/>bonne</subSense>
+</sense><sense><subSense>3°Adjectivement. Esprit.calculateur,esprit <lb/>qui est habile à combiner ses mesures, ses projets</subSense>
+</sense><sense><subSense>Qui <lb/>sert à calculer. Machine calculatoire</subSense>
+</sense><sense><subSense>l°Trou-<lb/>vé par le calcul. Les éclipses calculées longtempsà <lb/>l'avance</subSense>
+</sense><sense><subSense>2°Fig. Prémédité. Une méchancetécalcu-<lb/>lée</subSense>
+<pc>. || </pc>
+<subSense>Prévu, combiné. Tout bien calculé</subSense>
+<pc>. || </pc>
+<subSense>Disposé. <lb/>L'appareilétait calculé pour frapperles imaginations. <lb/>Son régime était soigneusement calculé sur les <lb/>changements que, selon M. Malouin, l'âge produit <lb/>dans l'économie animale, CONDORCET, Malouin. Le <lb/>divers langage des hôtes du désert nous parait cal-<lb/>culé sur la grandeur ou le charme du lieu où ils vi-<lb/>vent, CHATEAUBR. Gén. I, 55</subSense>
+</sense><sense><subSense>1°Faire une opé-<lb/>ration de calcul. Calculer les distances des astres. Il <lb/>calcula combien son argent lui rapporterait. Calcu-<lb/>ler une éclipse, en déterminer par le calcul l'époque <lb/>précise et les circonstances</subSense>
+<pc>.|| </pc>
+<subSense>Absolument. Il passait <lb/>les nuits et les jours X compter, calculer, supputer <lb/>sans relâche;Calculant, supputant,comptant comme <lb/>à la tâche; Car il trouvait toujours du mécompte <lb/>à son fait, LA FONT. Fabl. xn, 3</subSense>
+</sense><sense><subSense>2°Fig. Médi-<lb/>ter, combiner. Calculer les avantages de la guerre <lb/>et de la paix. Calculer les événements. Calculez <lb/>si cela vous sera de quelque utilité. On verrait <lb/>des gens qui passeraient leur vie à calculer des <lb/>événements, MONTESQ. Esp. xix, 27." Trahissez <lb/>tout, l'amour, le devoir, l'amitié, Mais calculez <lb/>du moins vos dangers, votre perte, GUIBERT, Bour-<lb/>bon, iv, 3</subSense>
+<pc>. || </pc>
+<subSense>Fig. C'est un homme habile et qui <lb/>sait calculer. Calculer odieusement sur la mort d'un <lb/>frère</subSense>
+<pc>. || </pc>
+<subSense>3°Se calculer, v. réfl. Être calculé.Celapeut <lb/>se calculer de tête</subSense>
+<pc>. || </pc>
+<subSense>Fig. Être reconnu, déterminé. <lb/>Les opinions des hommes se calculent souvent à'a.-<lb/>près leur position et le milieu où ils vivent</subSense>
+<pc>. || </pc>
+<subSense>Être <lb/>combiné.Des mesures qui se calculent longtempsà <lb/>l'avance</subSense>
+</sense><sense><subSense>Tsrme de médecine</subSense>
+</sense><sense><subSense>i°Relatif aux calculs, causé <lb/>par les calculs. Affection calculeuse</subSense>
+</sense><sense><subSense>2°Affecté de <lb/>calculs. Ce vieillard est calculeux</subSense>
+<pc>. || </pc>
+<subSense>Substantive-<lb/>ment. C'est un pauvre calculeux</subSense>
+</sense><sense><subSense>Terme <lb/>de chirurgie. Qui brise les calculs de la vessie</subSense>
+</sense><sense><subSense>11i°Fond d'un navire ou partie <lb/>la plus basse qui entre dans l'eau, et qui s'étend de <lb/>la poupe à la proue. Le mousse courait se cacher à <lb/>fond de cale en poussant des cris, CHATEAUB. Gé-<lb/>nie, i, v, 4. ||Fig. Être à fond 'de cale, n'avoir <lb/>plus le sou</subSense>
+</sense><sense><subSense>2°La partie inclinée d'un port pour <lb/>le chargement d'un bateau. René, escorté d'un dé-<lb/>tachement de soldats de marine, débarque à la cale <lb/>du port, CHATEAUB. Nateh. n, 202</subSense>
+</sense><sense><subSense>3°Plan incliné <lb/>vers la mer servant à construire ou à réparer lesbâ-<lb/>timents. Cale de construction,cale couverte, cale où <lb/>le navire en construction est à l'abri</subSense>
+<pc>. || </pc>
+<subSense>4°Cale, châti-<lb/>ment de mer, qui consiste à laisser tomberplusieurs <lb/>fois le coupable dans l'eau, par le moyen d'un cor-<lb/>dage auquel il est attaché avec un bâton entre les <lb/>jambes. La cale sèche est lorsqu'on ne le fait tom-<lb/>ber que jusqu'à la surface de l'eau sans qu'il en soit <lb/>mouillé. Donnerla cale</subSense>
+<pc>. || </pc>
+<subSense>5°Anciennement, crique, <lb/>abri entre deux pointes de terre ou de rocher</subSense>. <lb/>Il <subSense>6°P lomb qui fait enfoncer l'hameçon pour la pê-<lb/>che de la morue</subSense>
+</sense><sense><subSense>qu'on place sous un objet pour le mettre de niveau <lb/>ou lui donner de l'assiette</subSense>
+<pc>.|| </pc>
+<subSense>Terme de maçonnerie. <lb/>Petit morceau de bois mince dont on se sert pour <lb/>déterminer la largeur de lit d'une pierre</subSense>
+</sense><sense><subSense>1°Anciennement,espèce <lb/>de coiffure de femine, en forme de bonnet plat par <lb/>en haut, couvrant les oreilles et échancré par de-<lb/>vant avec une petite bordure de velours. On nous <lb/>a dit entre autres merveilles que beaucoup de Li-<lb/>mousines de la première bourgeoisie portent des <lb/>chaperonsde drap rose sèche sur des cales de ve-<lb/>lours noir, LA FONT. Lettres, v. Un matin, ma ser-<lb/>vante à cale Fit entrer dans ma chambresale Votre <lb/>laquais vert, jaune ou gris, SCARRON, Rondeau re-<lb/>doublé, à Mme Radigue</subSense>
+<pc>. || </pc>
+<subSense>Par extension, jeune <lb/>fille, grisette. Même sitôt qu'un valet, Une cale, <lb/>un bavolet Montrait au doigt ce grand homme, Son <lb/>coeur s'épanouissait, Lucain travesti, p. 73. 11 en-<lb/>treprit de prouver que Gombaud, qui se piquait de <lb/>n'aimer qu'en bon lieu, cajolait une petite cale <lb/>crasseuse, TALLEMANT DES KÉAUX, Historiettes, <lb/>chap.'147, 3= édit. t. in, p. 249</subSense>
+</sense><sense><subSense>^" Ancienne-<lb/>ment, bonnet d'homme fait en rond et plat, cou-<lb/>vrant seulementle haut de la tête. Les clercs por-<lb/>taient la cale. Des correcteurs de modes qui <lb/>empêcheraient, par exemple, que les formes de <lb/>chapeaux ne devinssenthautes comme des pots à <lb/>beurre ou plates comme des cales, Roman bour-<lb/>geois, édit. de Nancy, 4 743, p. 409</subSense>
+</sense><sense><subSense>i°Nom du fruit de <lb/>plusieurs espèces de cucurbitacées, mais en parti-<lb/>culier du baobab (malvacées). Les calebasses vidées <lb/>et séchées serventà contenir des liquides. Les vases <lb/>dans lesquels on nous servit le vin étaient tout à <lb/>fait semblables aux calebasses de Saint-Jacques, <lb/>RETZ, v, 417. Il leur présenta aussitôt un gâteau, <lb/>des fruits et une grande calebasse, BERN. DE s.-P. <lb/>Paul et Virg. Il n'y avait dans ce lieu qu'une cale-<lb/>basse pour puiser de l'eau, CHATEAUB. Âtala, 26t. <lb/>Chactas présenta à René la calebasse de l'hospita-<lb/>lité, ID. Natch. 1, 83. On boit dans de grandes ca-<lb/>lebasses le suc de l'érable, ID. Âmér.n. </subSense>
+</sense><sense><subSense>2°Les <lb/>calebasses vidées et séchées ont servi à se soutenir <lb/>sur l'eau. Nager à l'aide de calebasses</subSense>
+<pc>. || </pc>
+<subSense>Fig. <lb/>Noailles, riche en calebasses de toutes les sortes, <lb/>nageait partout, tâtant tout, reçu honnêtement par-<lb/>tout, ST-SIM. 238, &amp;lt;G8</subSense>
+</sense><sense><subSense>3°Terme de marine. Ar-<lb/>tifice qui fait partie des artificesd'un bri^ot</subSense>
+</sense><sense><subSense>Nom vulgaire du cucur-<lb/>bila lagenaria, arbre d'Amérique, qui produit des <lb/>calebasses</subSense>
+</sense><sense><subSense>Panier, <lb/>fond de chapeauoù les cordonniers mettent leur fil</subSense>
+<pc>. <lb/>|| </pc>
+<subSense>On trouve aussi caillebottin</subSense>
+</sense><sense><subSense>i" Voiture à res-<lb/>sort et à quatre roues, fort légèie et ordinaire-<lb/>ment découverte sur le devant. Marquis, allons au <lb/>Cours faire voir ma calèche, Elle est bienentendue, <lb/>et plus d'un duc et pair En fait à mon faiseur faire <lb/>une de même air, MOL. Fdch. i, i</subSense>
+</sense><sense><subSense>2" Coiffure de <lb/>femme qui se repliait sur elle-même</subSense>
+</sense><sense><subSense>Vêtement de dessous en <lb/>forme de pantalon qui va de la ceinture auxgenoux <lb/>ou aux mollets</subSense>
+<pc>. || </pc>
+<subSense>Caleçon de bain, caleçon qui ne <lb/>va guère qu'à mi-cuisse et que mettent les na-<lb/>geurs</subSense>
+</sense><sense><subSense>Appa-<lb/>reil propre à la cuisson des aliments</subSense>
+</sense><sense><subSense>Terme di-<lb/>dactique. Action de faire chauffer ; chaleur causée <lb/>par le feu</subSense>
+</sense><sense><subSense>Terme de marine. Cordage qui sert à mainte-<lb/>nir le mât de hune</subSense>
+</sense><sense><subSense>Terme <lb/>de physique.Instrument qui rend sensibles les vi-<lb/>brations de la productiondes sons</subSense>
+</sense><sense><subSense>Ins-<lb/>trument de physique qui, garni de petits fragments <lb/>de diverses couleurs, montre, à chaque mouve-<lb/>ment, des combinaisons toujours variées et tou-<lb/>jours agréables</subSense>
+<pc>. || </pc>
+<subSense>Au figuré, voir les choses avec <lb/>le caléidoscope de l'espérance</subSense>
+</sense><sense><subSense>Jeu de mots fondé sur des <lb/>mots se ressemblant par le son, différantpar !e sens, <lb/>comme quand M. de Bièvre disait que le temps était <lb/>bon à mettre en cage, c'est-à-dire serein (serin). Il <lb/>n'est sorte de calembours et de mauvaises plaisan-<lb/>teries qu'on n'ait faits là-dessus, p. L. COUR. Leur. <lb/>i, 142</subSense>
+</sense><sense><subSense>Bourde, vains propos, faux-fuyants. Répondre par <lb/>des calembredaines.Mot très-familier</subSense>
+</sense><sense><subSense>Toile peinte des <lb/>Indes</subSense>
+</sense><sense><subSense>Registre <lb/>d'église</subSense>
+</sense><sense><subSense>Machine à tirer les <lb/>pierres des carrières</subSense>
+</sense><sense><subSense>Nom d'un ordre <lb/>de derviches. <lb/>, <lb/></subSense>
+</sense><sense><subSense>i°Lepremier <lb/>du mois chez les Romains. Le jour des calendes. <lb/>Le premier avant les calendes d'avril, le 31 mars. <lb/>Les Romainscomptaientles jours d'un mois à partir <lb/>des calendes du mois suivant, en rétrogradant jus-<lb/>qu'aux ides, qui étaient, suivant les mois, le 15 ou <lb/>le 13. Vous faites un bel éloge du jour de l'an, <lb/>mais je vous aime toute l'année, et tous les jours <lb/>sont pour moi les calendesde janvier, VOLT. Leur. <lb/>Cideville, 4 févr. 1765</subSense>
+<pc>. || </pc>
+<subSense>Renvoyer aux calendes <lb/>grecques, renvoyer à un temps qui ne viendra ja-<lb/>mais, attraper. 11 s'éloignedes chiens, les renvoie <lb/>aux calendes Et leur fait arpenter les landes, LA <lb/>FONT. Fabl., vi, 40</subSense>
+</sense><sense><subSense>2" Assemblée de curés de <lb/>campagne, convoquée par l'évêque. La Fontaine a <lb/>écrit calende : C'était jour de calende, et nombre <lb/>de confrères Devaient dîner chez lui, Cas de consc</subSense>
+</sense><sense><subSense>1°Indication des jours, des mois et des saisons <lb/>de l'année. Moinsdedévotion de calendrier, et moins <lb/>de licence les soirs, aurait formé une vie plus unie <lb/>et plus décente, ST-SIM. 633, 48. La saison ne per-<lb/>mettait pas De faire voile vers la France.... Pendant <lb/>ces trois mois de tempête, Que faire sans calen-<lb/>drier? Comment placer les jours de fête? Comment <lb/>les différencier? GRESSET , <lb/>Carême impromptu</subSense>
+<pc>. <lb/>|| </pc>
+<subSense>Vieux calendrier, ou calendrier julien, celui qui <lb/>est conformeà la réformequi fut faite par les ordres <lb/>de Jules César, et que l'astronome grec Sosigène <lb/>calcula d'après la longueur, connue alors, de l'an-<lb/>née</subSense>
+<pc>. || </pc>
+<subSense>Nouveau calendrier, ou calendriergrégorien, <lb/>celui qui est conforme à la réforme faite par le <lb/>pape Grégoire XIII et qui ajouta à l'année de cette <lb/>réforme onze jours, erreur entre le temps vrai et <lb/>le temps du calendrierJulien produite par des quan-<lb/>tités que n'avait pas connues l'astronomeSosigène. <lb/>|1 Calendrierrépublicain, calendrier institué par la <lb/>Républiquefrançaise, lequel commençait à l'équi-<lb/>noxe d'automne et avait lesmois de 30 jours chacun, <lb/>avec 6 ou 6 jours complémentaires</subSense>
+<pc>.|| </pc>
+<subSense>Calendrier per-<lb/>pétuel <lb/>, <lb/>série de calendriers: comprenant tous les <lb/>joursoù tombe lafête de Pâques</subSense>
+<pc>. || </pc>
+<subSense>Au figuré. Il ne <lb/>figure pas sur votre calendrier, ce n'est pas un des <lb/>saints de votre calendrier, c'estrà-dire vous ne l'ai-<lb/>mez pas</subSense>
+</sense><sense><subSense>2°Calendrier de Flore, tableau des épo-<lb/>ques de l'épanouissement des fleurs</subSense>
+<pc>. || </pc>
+<subSense>Quelquefois <lb/>parterre où sont disposées en ordre des plantes qui, <lb/>fleurissant aux différentsmois del'année, indiquent <lb/>à quelle époque on est</subSense>
+</sense><sense><subSense>Ternie de botanique. Nom d'une famillede plantes <lb/>dont le type est le souci (calendula)</subSense>
+</sense><sense><subSense>Terme de bo-<lb/>tanique. Nom scientifiquedu souci</subSense>
+</sense><sense><subSense>Terme <lb/>de chimie. Substanceextraite dé la calendula offi-<lb/>cinalis</subSense>
+</sense><sense><subSense>Terme de mé-<lb/>decine. Espèce de délire furieux auquel les naviga-<lb/>teurs sont sujets sous la zone torride</subSense>
+</sense><sense><subSense>Recueil de notes <lb/>qu'une personne prend pour son usage. Jaquin.... <lb/>Qui de ses revenus écrits par alphabet Peut fournir <lb/>aisément un calepincomplet, BOILEAÛ, Sat. ï..... Sei-<lb/>gneur, excusez le bonhomme, 11 a laissé son cale-<lb/>pin à Rome, CHAÙLIEU , à Malêgieus. Pour que son <lb/>nom lui surviveAhT Prends', Clio, prends ton cale-<lb/>pin, BÈRANG. Turlupin</subSense>. |l<subSense>Fig. et ironiquement. Cela <lb/>n'était pas dans son' calepin, il ne s'attendait pas <lb/>à cela</subSense>
+<pc>. || </pc>
+<subSense>Mettez cela sur votre calepin, souvenez-<lb/>vous-en, que cela vous serve de leçon</subSense>
+</sense><sense><subSense>1°Terme de marine. <lb/>Baisser, en parlant des basses vergues, des mâts de <lb/>hune ou de perroquet</subSense>
+<pc>. || </pc>
+<subSense>Fig. et familièrement. Ca-<lb/>*er la voile, rabattre de ses prétentions, céder. Je <lb/>vous conseille de caler lavoile</subSense>. |] <subSense>Absolument et po-<lb/>pulairement, dans le même sens. Il fut obligé de <lb/>caler. Il calera</subSense>
+</sense><sense><subSense>2°V. n. En parlant de l'enfonce-<lb/>ment d'un bâtiment dans l'eau. Le navire cale trop, <lb/>ne cale pas assez</subSense>
+</sense><sense><subSense>3" Terme de pêche.-'Enfoncer <lb/>dans l'eau</subSense>
+</sense><sense><subSense>Terme de pêche. Grand <lb/>carreau établi à l'avant d'un petitbateau, et qu'on <lb/>relève au moyen d'un contre-poids</subSense>
+</sense><sense><subSense>Terme de marine. Es-<lb/>pèce de ciseau pour calfater</subSense>
+</sense><sense><subSense>Terme demarine. <lb/>Ouvrier qui calfate les bâtiments. Maître calfat</subSense>
+</sense><sense><subSense>Travail, ouvrage <lb/>du calfat</subSense>
+</sense><sense><subSense>Na-<lb/>vire calfaté</subSense>
+</sense><sense><subSense>Terme de marine. <lb/>Mettre des étoupes et, par-dessus, du suif, du gou-<lb/>dron dans les joints, trous et fentes d'un bâtiment. <lb/>Les lois sont faites après coup, comme on calfate <lb/>des vaisseaux qui ont une voie d'eau, VOLT. Lett. <lb/>à Cather. 45</subSense>
+</sense><sense><subSense>Terme de ma-<lb/>rine. Jeune garçon qui sert les calfats</subSense>
+</sense><sense><subSense>Action de <lb/>calfeutrer, ou le résultat de cette action</subSense>
+</sense><sense><subSense>Chambre bien calfeutrée.11Renfermé.Il se tientbien <lb/>tranquille, bien calfeutré</subSense>
+</sense><sense><subSense>1°Boucherles <lb/>fentes d'une porte, d'une fenêtre, avec des bourre-<lb/>lets, avec des lisières, avec du papier collé, etc</subSense>
+</sense><sense><subSense>2°Se calfeutrer, v. rèfl. S'enfermerbien chaude-<lb/>ment; et figurément, cacher sa vie, ses actions</subSense>
+</sense><sense><subSense>3°Fig. Se garnir, s'entourer. Cette aventuré se cal-<lb/>feutra avec le temps d'un si grand nombre de pièces, <lb/>queles esprits forts du siècle suivantdevaient en être <lb/>fort embarrassés, DIDEROT, Pens. phil. 49</subSense>
+<pc>. || </pc>
+<subSense>Cette <lb/>signification n'est plus usitée; voyez l'historique <lb/>pour une significationtrès-voisine</subSense>
+</sense><sense><subSense>i°Terme de <lb/>poterie. Opération qui consiste à abaisser un calibre <lb/>sur l'ébauchede la piècefaite</subSense>
+</sense><sense><subSense>2°Terme de marine. <lb/>Mesurage des calibres</subSense>
+</sense><sense><subSense>1°Capacité d'un tuyau, <lb/>d'un tube que l'on mesure par son diamètre.Tuyau <lb/>de dix centimètres de calibre. Le calibre de l'aorte <lb/>était rétréci par une tumeur</subSense>
+</sense><sense><subSense>2°En particulier, <lb/>diamètre intérieur des armes à feu. Une pièce de <lb/>gros calibre. M. d'Arci examinaquelle différencela <lb/>longueur des pièces de même calibre, tirées avec <lb/>des charges égales, produit dans la vitesse du bou-<lb/>let, CONDORCET, d'Arci. Seize canons d'un calibre tel <lb/>qu'on n'en avait point encore vu en Europe, CHA-<lb/>TEAUB. Génie, iv, v, t. 11 faudra que vous examiniez <lb/>si ces canons sont des calibres ordinairesde marine <lb/>quisontde36, 24, 48, 12, 8, 6 et 4 livres de balle, <lb/>COLBERT, dans ÏAL</subSense>. ]] <subSense>Absolument, la dimension <lb/>adoptée pour les armes de guerre. Un fusil de cali-<lb/>bre et tout l'équipage d'un fantassin, i. i. aouss. <lb/>Pol. 4 2</subSense>
+<pc>. || </pc>
+<subSense>Se dit de même de la grosseur du projec-<lb/>tile. Cette balle est de tel calibre. M. le Prince tira <lb/>d'Agendeux pièces,l'une de dix-huitlivres et l'autre <lb/>de douze, avec un petit nombre de boulets de ca-<lb/>libre, LAROCH. Mérn. 248</subSense>
+</sense><sense><subSense>3°L'instrument qui sert <lb/>à déterminer le calibre. Passer des balles au calibre</subSense>
+</sense><sense><subSense>4* Terme d'architecture. Volume. Bes colonnes <lb/>de même calibre</subSense>
+<pc>. || </pc>
+<subSense>Profil découpé sur bois ou sur <lb/>tôle suivant les contours d'une moulure</subSense>
+</sense><sense><subSense>5°M an.-*'"' <lb/>drin à l'usage du potier de terre</subSense>
+<pc>. || </pc>
+<subSense>Espèce d'équerre <lb/>du tourneur</subSense>
+<pc>. || </pc>
+<subSense>Mouleà briques et à carreaux</subSense>
+<pc>. || </pc>
+<subSense>Es-<lb/>pace compris entre les deux platines d'une montre</subSense>
+</sense><sense><subSense>6°Fig. et familièrement, la valeur, l'état, etc. <lb/>d'une personne. Cela s'entend prix pour prix et sans <lb/>faire comparaison de deux comédiens de campagne <lb/>à deux Romains de ce calibre-là,, SCARR. 'Rom', conï. <lb/>ch. 46</subSense>
+</sense><sense><subSense>Des <lb/>balles bien calibrées</subSense>
+</sense><sense><subSense>i°Donnerle calibre <lb/>convenable. Calibrer des balles</subSense>
+</sense><sense><subSense>2°Mesurer le cali-<lb/>bre. Calibrer un mortier</subSense>
+</sense><sense><subSense>Terme de <lb/>botanique. Qui est du calice. Tégumentscalicaux</subSense>
+</sense><sense><subSense>\\ i°Vase qui sert à la <lb/>messe pour la consécrationdu vin. Calice d'or. Ele-<lb/>ver le calice. Nos calices avaient cherchéleurs noms <lb/>parmi les plantes, et le lis leur avait prêté sa forme, <lb/>CHATEAÏÏB. Génie, iv, I, 2</subSense>
+<pc>. || </pc>
+<subSense>Le calice, objet de la <lb/>guerre des Hussitesdansle XVe sièclequi demandaient <lb/>que la communion se fît sous les deux espèces, et que <lb/>le calice fût donné au communiant.Ferdinand Ier de-<lb/>mandait que le calice fût accordé aux laïques, VOLT. <lb/>Moeurs, 4 72</subSense>
+<pc>. || </pc>
+<subSense>Familièrement. Être doré comme un <lb/>calice, porter des habits chargés de galons d'or</subSense>
+</sense><sense><subSense>2°Dans un sens mystique et de dévotion. Il avala <lb/>jusqu'au fond le calice de Jésus-Christ, lorsque, <lb/>choisi pour sauver ce peuple, il lui en fallut sup-<lb/>porter les révoltes, BOSS. Hist. n, 3. Buvons avec <lb/>lui le calice de sa passion, ID. Serm. Quinq. 4. 11 <lb/>faut que nous participionsà son calice, si nous vou-<lb/>lons partager sa gloire, MASS. Carême, Mot. de con-<lb/>version</subSense>
+<pc>. || </pc>
+<subSense>Figurément et dans le langage général, <lb/>boire le calice, souffrir quelque chose de pénible, <lb/>de douloureux. Il faut avaler ce calice, SÉV. 446 <lb/>Quoi ! du calice amer d'un malheursi durable Faut-i. <lb/>boire à longs traits la lie insupportable? VOLT. Al%. <lb/>Y, 3. Si le Fils de l'homme trouva le calice amer, <lb/>comment un ange l'eût-il porté à ses lèvres? CHA-<lb/>TEAUB. Génie, i, i, 4. Souvent, las d'être esclave <lb/>et de boirela lie De ce calice amer que l'on nomme <lb/>la vie, A. CHÊNIER, El. 36. Mes lèvres à peine ont <lb/>. <lb/>goûté Le calice amer de la vie, LAMART. Méd. i, 25</subSense>
+</sense></body>
+	</text>
+</tei>

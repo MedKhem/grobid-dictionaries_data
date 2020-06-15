@@ -1,0 +1,22 @@
+Dict+Mix-Sp+Model+lexical-entry+Feature+Bigram+DataLevel+1
+===== Field-level results =====
+
+label                accuracy     precision    recall       f1           support
+
+<inflected>          99.41        77.78        70           73.68        10     
+<lemma>              98.59        97.43        98.15        97.79        270    
+<pc>                 99.18        98.94        98.59        98.76        283    
+<re>                 99.29        0            0            0            4      
+<sense>              100          100          100          100          269    
+
+all (micro avg.)     99.29        98.32        98.09        98.2         836    
+all (macro avg.)     99.29        74.83        73.35        74.05        836    
+
+===== Instance-level results =====
+
+Total expected instances:   270
+Correct instances:          262
+Instance-level recall:      97.04
+
+
+Evaluation for lexical-entry model is realized in 739 ms

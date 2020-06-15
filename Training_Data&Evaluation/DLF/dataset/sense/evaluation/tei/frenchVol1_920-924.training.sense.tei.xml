@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="sense.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="sense.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><sense><subSense>Action de <lb/>crucifier. Dans le manichéisme la crucifixion du <lb/>Christest le symbole des souffrances de la nature et <lb/>de l'âme humaine, NICOLAS, Rev. Germ. t. vin, <lb/>p. 685</subSense>
+</sense><sense><subSense>Qui est en <lb/>forme ae croix</subSense>
+<pc>. || </pc>
+<subSense>Terme d'anatomie. Ligaments cru-<lb/>ciformes. Petits ligaments en forme de croix qui <lb/>affermissentl'articulation des phalanges</subSense>
+</sense><sense><subSense>Terme d'his-<lb/>toire naturelle. Qui porte une croix</subSense>
+</sense><sense><subSense>Terme d'his-<lb/>toire naturelle. Qui a le bec croisé</subSense>
+</sense><sense><pc>\\ </pc>
+<subSense>1°Etat de ce qui est cru. <lb/>La crudité des fruits, des viandes. Le fruit est mûr <lb/>et garde, en sa douce âpreté, D'un fruit à peine mûr <lb/>l'aimablecrudité, A.CHÉN. ArcasetPaUmon</subSense>
+</sense><sense><subSense>2°Ali-<lb/>menlscrus. Manger des crudités</subSense>
+</sense><sense><subSense>3°Terme de méde-<lb/>cine. La crudité des humeurs,l'état des humeurs qui <lb/>ne sont pas encore arrivées à ce que les anciensmé-<lb/>decins nommaient coction</subSense>
+<pc>.|| </pc>
+<subSense>Crudité des maladies, <lb/>état où. elles n'offrent encore aucun signe de coc-<lb/>tion</subSense>
+</sense><sense><subSense>4" Mal d'estomac venant de la mauvaise qua-<lb/>lité de certains aliments dont la digestion est dif-<lb/>ficile</subSense>
+<pc>. || </pc>
+<subSense>Fig. Tu dis.... Que mes vers à les ouïr lire <lb/>Te font venir des crudités, MALH. IV, 4 5. Nos fai-<lb/>seurs de notes ne rapportent dans leurs écrits que <lb/>la crudité et l'indigestion de leur lecture, BALZ. <lb/>liv. v, lett. 48</subSense>
+</sense><sense><subSense>5°Fig. Qualité de ce qui est non <lb/>mitigé, comme les substances qui ne sont pas miti-<lb/>gées par la cuisson ou la maturation. En ce sens il <lb/>s'emploiedans les cas suivants</subSense>
+<pc>. || </pc>
+<subSense>Crudité de l'eau, <lb/>état de l'eau qui contient une forte proportion de <lb/>sels calcaires et qui est froide, indigeste</subSense>
+<pc>.|| </pc>
+<subSense>Terme <lb/>de peinture. Effet dur et tranchantdes tons crus</subSense>
+<pc>. <lb/>|| </pc>
+<subSense>Expression qui esttrop libre, ou qui a quelque gros-<lb/>sièreté. Les crudités sont de mauvais goût. La po-<lb/>litesse n'avait point appris aux héros d'Homère à <lb/>se.quereller noblement, et la crudité des injures <lb/>qu'Achille dit à Agamemnon n'était encore que de <lb/>la franchise, MARMONT. ESS. sur le goût, OEuvres, <lb/>t. iv, p. 347, dans POUGENS</subSense>
+</sense><sense><subSense>Terme didac-<lb/>tique. Populationscrudivores, celles qui ne se nour-<lb/>rissent que d'aliments crus</subSense>
+</sense><sense><subSense>l'Elévation du niveau des <lb/>eaux d'un cours d'eau, par suite de pluies ou de <lb/>fonte de neiges. Ce fleuve [ Nil], qui prend sa source <lb/>dans l'Ethiopie, doit son accroissementà des nuages <lb/>qui, retombant en pluie, occasionnent sa crue pé-<lb/>riodique, RAYNAL, Hist. phil. xi, 3. Montez à travers <lb/>Blois cet escalier de rues Que n'inonde jamais la <lb/>Loire au temps des crues, v. HUGO, F. d'aut. 2</subSense>
+</sense><sense><subSense>2°Croissance. Cet enfant, cet arbre n'a pas pris <lb/>toute sa crue</subSense>
+</sense><sense><subSense>3" Autrefois l'augmentation des <lb/>tailles. La crue de la taille</subSense>
+<pc>. || </pc>
+<subSense>Dans l'ancienne pra-<lb/>tique et en matière d'inventaire, le cinquièmede-<lb/>nier au-dessus delà prisée, lequel était attribué aux <lb/>commissaires-priseurs, parce qu'alorsils étaient res-<lb/>ponsables. La crue est abolie. Estimation à juste <lb/>prix et sans crue</subSense>
+<pc>. || </pc>
+<subSense>En un autre sens. Je ne sais qui <lb/>a pu imaginer que nous demandions à prendre le <lb/>sel de la ferme à bas prix, pour en tirer un petit <lb/>profit qu'on appelle crue, VOLT. Lett. Dupont, 4 0 <lb/>OCt. 4775</subSense>
+</sense><sense><subSense>||l°Qui aime <lb/>à infliger des souffrances, la mort. Un tyran cruel. <lb/>Le cruel Henri VIII fit périr plusieursde ses femmes. <lb/>Valérien ne fut cruel qu'aux chrétiens, BOSS. Hist. <lb/>1,4 0. J'ai mendié la mort chez des peuples cruels, <lb/>RAC. Andr. ri, 2. Mes inhumaines soeurs sont d'autant <lb/>plus cruelles, Qu'elles le sont par piété, LAMOTTE, <lb/>Odes, t. 1, p. 500, dans POUGENS. Perfide par in-<lb/>stinct et cruel par penchant,Son âme est un enfer <lb/>et sa vie un long crime, MASSON, Helvét' 11. Dans <lb/>cette guerre à mort, leur donner la vie [aux pri-<lb/>sonniers], c'eût été se sacrifier soi-même; on fut <lb/>cruel par nécessité; le mal venait de s'être jeté <lb/>dans une si terrible alternative,SËGUR, Hist. deNap. <lb/>ix, 8. Il Les plus cruels ennemis, les ennemis les <lb/>plus acharnés</subSense>
+<pc>. || </pc>
+<subSense>Il se. dit de quelquesanimaux.Le <lb/>tigre est un animal cruel</subSense>
+</sense><sense><subSense>2°Qui a un caractèrede <lb/>cruauté, en parlant des choses. Un ordre cruel. Une <lb/>politique cruelle et ambitieuse. Une guerre cruelle, <lb/>sanglante, acharnée. Cruelle bataille, BAC. The"b. <lb/>m, 4. On fit une cruelle boucheriede ces brigands, <lb/>VERTOT, Révol. ronï. xi, p. 143. Loin de ces lieux <lb/>cruels précipitez vos pas, RAC. Iphig. iv, 4 0. Je <lb/>suis persuadé plus que jamais de l'innocence des <lb/>Calas et de la cruelle bonne foi du parlement de <lb/>Toulouse, VOLT. Lett. d'Argental, 2) juin (764. Une <lb/>guerre longueet cruelle, inutile à l'Autriche,funeste <lb/>à la France, profitable aux seuls Anglais, et glorieuse <lb/>au seul roi de Prusse, qui, après l'avoir soutenue <lb/>pendant sept ans contre la moitié de l'Europe, l'a <lb/>terminée sans perdre un village, D'ALEMB. Eloges, <lb/>milord Maréchal. Ses expériencesn'avaient pu être <lb/>faites sans assujettir un grand nombre d'animaux à <lb/>des douleurs cruelles ; et c'eût été acheter bien cher <lb/>une vérité inutile; M. de Haller le sentait, CONDOR-<lb/>CET, Halhr</subSense>
+<pc>. || </pc>
+<subSense>3°Dur, sévère, rigoureux, en parlant <lb/>des personnes et des choses. Père,, tuteur cruel. Une <lb/>peine cruelle.Desdevoirs cruels à remplir. C'est cette <lb/>vertu même à nos désirs cruelle, Que vous louez <lb/>encore en blasphémant contre elle, CORN. Poly.n, <lb/>2. Les dieux depuis longtemps me sont cruels et <lb/>sourds, RAC. Iphig. 11, 2. Hélas! fus-je jamais si <lb/>cruel que vous l'êtes? ID. Andr. 1, 4. Tous deux <lb/>haïs du peuple, et tous deux admirés; Enfin, par <lb/>leurs efforts ou par leur industrie, Utiles à leurs <lb/>rois, cruels à la patrie, VOLT. Henr. vn. Ses parents, <lb/>à la fois jacobites et catholiques, étaient opprimés, <lb/>à ce dernier titre, sous des lois cruelles, indignes <lb/>de la sagesse et de l'humanité des lois anglaises, <lb/>mais qu'une fausse politiqueavait crues nécessaires <lb/>dans le siècle dernier, CONDORCET, d'Arci</subSense>
+<pc>. || </pc>
+<subSense>4°Dou-<lb/>loureux, fâcheux. C'est une chose cruelle que d'être <lb/>abandonné de ses amis. Quels reproches cruels ne <lb/>nous ferons-nous pas? CORN. Sertor. 11, 2. Je dois <lb/>vous annoncer, Léandre, une nouvelle, Mais la <lb/>trouverez-vousagréable ou cruelle? MOL. VÉtour. a, <lb/>4 0. Le ciel eut pour ses voeux une bonté cruelle, <lb/>LA FONT. Fabl. vu, 17. C'est une cruelle chose que <lb/>de mettre sa vie entre les mains d'un médecin, qui <lb/>croit fermementqu'il va prendre possession d'une <lb/>souveraineté en Italie, SÉV. t. x, lett. 4012, dans <lb/>POUGENS. Ce ne peut être que cette seule curiosité <lb/>qui vous ait fait faire une si cruelle imprudence, <lb/>M"°DE LAFAYETTE, Princ. deClèves, OEuvres, 1.11, <lb/>p. 4 85, dans POUGENS. Non, vous ne verrez pas cette <lb/>fête cruelle, RAC. Baj. 11, 6. Ah! souvenir cruel, <lb/>ro. Andr. 1, 4. Et ton nom paraîtra dans la race fu-<lb/>ture Aux plus cruels tyrans'une cruelle injure, ID. <lb/>Brit. v, 6. [C'est lui qui] Veut, la force à la main, <lb/>m'attacher à son sort Par un hymen pour moi plus <lb/>cruel que la mort, ID. Withr. 1, 2. Mesdames [les <lb/>soeurs du roi] savaientcombien est cruelle pour ceux <lb/>qui souffrent,la perte du médecindont ils attendent <lb/>la conservationde leur vie ou la fin de leurs dou-<lb/>leurs, CONDORCET, Bourdelin</subSense>
+<pc>. || </pc>
+<subSense>Destin, sort cruel, <lb/>destin, sort tout à fait contraire. Que ma destinée <lb/>est cruelle! MOL. le Fest. m, 4</subSense>
+</sense><sense><subSense>5°Insensible. <lb/>Beauté cruelle.Et même en ce momentoù ta bouche <lb/>cruelleVient si tranquillementm'arinoncerle trépas, <lb/>RAC. Andr. iv, 6. Avec quels yeux cruels sa rigueur <lb/>obstinée Vous laissait à ses pieds peu s'en faut <lb/>prosternée! m. Phèd. m, 4. Ehl comment font <lb/>tant de jeunes filles qui, pendant des mois entiers, <lb/>résistent à leur penchant, cachent leur amour, et <lb/>paraissent non-seulement insensibles, mais encore <lb/>cruelles à un amant qui leur platt? SAINT-FOIX, <lb/>Oracle, se. 7</subSense>
+<pc>. [| </pc>
+<subSense>Danslelangagefamilier.Cette femme <lb/>passe pour n'être pas cruelle, elle cède facilementà <lb/>ceux qui la poursuivent</subSense>
+</sense><sense><subSense>6°Un cruel homme, un <lb/>fâcheux, un ennuyeux personnage; une cruelle <lb/>femme, une femme bien insupportable</subSense>
+<pc>. || </pc>
+<subSense>7°Sub-<lb/>stantivement. La mort a des rigueurs à nulle autre <lb/>pareilles; On a beau la prier; La cruelle qu'elle est <lb/>se bouche les oreilles, Et nous laisse crier, MALH. <lb/>VI, 4 8. Vous triomphez, cruelle, et bravez ma dou-<lb/>leur, RAC. Iphig. 11, 5. Un cruel (commentpuis-je <lb/>autrement l'appeler?)Par la mainde Calchas s'en va <lb/>vous immoler, ID. Iphig. m, 6. Je ne t'ai point aimé, <lb/>cruel?qu'ai-je donc fait? ID. Andr.vi,s</subSense>
+</sense><sense><subSense>8°Femme <lb/>qui n'écoute pas un amant. Venge-toi d'une ingrate <lb/>et quitte une cruelle, CORN. Nicom. v, 4. Soulagez <lb/>mon tourment, disais-je à ma cruelle; Ma mort <lb/>vous ferait perdre un amant si fidèle Qu'il n'en est <lb/>point de tel en l'empire amoureux, LA FONT. Poésies <lb/>mêlées, XLV. Mon fils me parle de la grosse cousine <lb/>d'une étrange façon; il ne désire qu'une bonne <lb/>cruelle pour le consoler un peu, SÉV. t. vu, p. 649, <lb/>p. 47, dans POUGENS. Les cruelles ne me sont rien, <lb/>Je ne crains que les infidèles, FONTEN. Poésiespast. <lb/>OEuvres, t. iv, p. 22, dans POUGENS. Ceux qui son) <lb/>accablés des rigueurs d'une cruelle y viennent <lb/>soupirer, MONTESQ. Gnide, 4. Si elle vous nomme <lb/>audacieux, vous l'appellerezcruelle;les femmesai-<lb/>ment beaucoup qu'on les appelle cruelles, BEAU-<lb/>MARCH. Barbier, iv, 5</subSense>
+<pc>. || </pc>
+<subSense>Familièrement. Ne pas <lb/>trouver de cruelles, être toujoursheureux en amour. <lb/>Jamais surintendant ne trouva de cruelles, BOIL. <lb/>Sat. vin. Il Familièrement.Faire le cruel, se montrer <lb/>dédaigneuxà l'égard des femmes</subSense>
+<pc>. || </pc>
+<subSense>9°S. f. Cruelle, <lb/>nom qu'on donne à de l'eau-de-vie rendue plus <lb/>brûlante par l'addition de substances acres</subSense>
+</sense><sense><subSense>1°D'une <lb/>manière cruelle, avec cruauté. Il le fait mourir cruel-<lb/>lement. Cruellementdocile aux leçons de ton maî-<lb/>tre, VOLT. Femaf. m, 8</subSense>
+</sense><sense><subSense>2°D'une façon doulou-<lb/>reuse. Cruellement humilié.Cruellement blessé, mais <lb/>trop fier pour me plaindre, VOLT. Zaïre, iv, 2. Cruel-<lb/>lement» trompé, je t'ai trompé toi-même, ID. ronce <lb/>v, 6. La marmotte a les quatre dents de devant as-<lb/>sez longues et assez fortes pour blesser cruellement, <lb/>BUFF. Marmotte. Enfin on atteignit Gjatz avec la <lb/>nuit; mais cette première journée d'hiver avait été <lb/>cruellementremplie; l'aspect du champ de bataille, <lb/>de ces deux hôpitaux abandonnés, cette multitude <lb/>de caissons livrés aux flammes, ces Russes fusillés.... <lb/>SÉGUR, Hist. de Nap. ix, 8</subSense>
+</sense><sense><subSense>3°Familièrement. <lb/>Cruellement laid, très-laid. Chamillart se trouva <lb/>d'autant plus flatté [de la demande de la Feuillade] <lb/>que sa fille était cruellement vilaine, ST-SIM. 99, <lb/>66. L'esprit y est toujours naturel et exempt de ce <lb/>jargon ridicule, à la fois puéril et barbare, dont <lb/>plusieurs de nos pièces modernes sont si cruelle-<lb/>ment infectées, D'ALEMB. Éloges, Boissi. Sa gloire, <lb/>cruellement obscurcie par la fin de son règne, au <lb/>moins si on en juge par les événements, m. Éloges, <lb/>Card. d'Est</subSense>
+</sense><sense><subSense>Nom <lb/>donné par les anciens médecins au phénomène du <lb/>suintement et même du jaillissement de sang, plus <lb/>ou moins de temps après la mort, par les pluies <lb/>d'une personne tuée; phénomène auquel on atta-<lb/>chait une valeur superstitieuse et fausse pour la dé-<lb/>couverte des meurtriers</subSense>
+</sense><sense><subSense>Terme <lb/>d'histoire naturelle. Qui porte une bourse</subSense>
+</sense><sense><subSense>Terme de zoologie. Se dit de poissons qui ont <lb/>l'oeil entouré d'une bourse</subSense>
+<pc>. || </pc>
+<subSense>S. m. pi. Les crumé-<lb/>nophthalmes, famille de poissons de mer du genre <lb/>des scombres</subSense>
+</sense><sense><subSense>D'une manière crue, <lb/>sans ménagement ni correctif. Mademoiselle, per-<lb/>sonne n'est encore mort de votre absence, hormis <lb/>moi ; et je ne crains point de vous le dire aussi crû-<lb/>ment, parce que je crois que vous ne vous en sou-<lb/>ciez guère, VOIT. Lctt. &amp;lt;&amp;lt;0. Ne lui laissez point <lb/>penser tout crûment qu'on la sacrifie, SÊV. m. <lb/>Oui, pour vous, dit Cloris, qui passez cinquante <lb/>ans... Car, pour vous découvrirle fond de ma pen-<lb/>sée, Je me plais aux livres d'amour. Cloris eut quel-<lb/>que tort de parler si crûment, LA FONT. Ballade. Je <lb/>sens qu'un prince très-délicat sur la charité du pro-<lb/>chain pourrait s'effaroucheraisément de ce qui est <lb/>dit un peu crûment par rapport à sa délicatesse, <lb/>ST-SIM. 265, 66. Non d'un vrai sec et crûment his-<lb/>torique, Mais de ce vrai moral et théorique, Qui, <lb/>nous montrant les hommes tels qu'ils sont, De no-<lb/>tre coeur nous découvre le fond, J. B. BOUSS. Ép. 11, <lb/>i. Rendre crûment la vérité commune est le talent <lb/>d'un ouvrier; faire mieux que n'a fait la nature elle-<lb/>même et l'embellir en l'imitant est l'art réservé au <lb/>génie, MARMOHT. Élèm. lin. OEuvres, t. vu, p. 46, <lb/>dans POUGENS. Les femmes, à qui l'on reproche tout <lb/>crûment dans les Harangueuses[d'Aristophane] de <lb/>se soûier, de ferrer la mule et bien d'autres espiègle-<lb/>ries, ID ib. t. ix, p. 398</subSense>
+</sense><sense><subSense>Terme d'anatomie. Ma-<lb/>tière colorante du sang, ou, plus souvent, le caillot <lb/>lui-même, et, quand il y a couenne, la partie du <lb/>caillot colorée par les globules sanguins</subSense>
+</sense><sense><subSense>Terme d'anato-<lb/>mie. Qui appartient au cruor. Éléments cruoriques <lb/>du sang, parties solides de ce liquide, qui, par leur <lb/>réunion, constituent le caillot</subSense>
+</sense><sense><subSense>Terme d'a-<lb/>natomie. Qui appartient à la cuisse. L'artère cru-<lb/>rale. Les nerfs cruraux</subSense>
+<pc>. || </pc>
+<subSense>Plexuscrural, réunion des <lb/>branches antérieures des quatre dernières paires de <lb/>nerfs lombaires et des quatre premières paires de <lb/>nerfs sacrés</subSense>
+<pc>. || </pc>
+<subSense>Arcade crurale, repli formé par l'apo-<lb/>névrose abdominale et qui est fixé d'une part à l'é-<lb/>pine iliaque antérieure supérieure, de l'autre,au <lb/>pubis</subSense>
+<pc>. I] </pc>
+<subSense>Canal crural, aussi nommé anneau crural, <lb/>anneau fémoral, canal par où passent les vaisseaux <lb/>cruraux à leur sortie de l'abdomen</subSense>
+</sense><sense><subSense>Académie delà Crusca, <lb/>académie célèbre, établie à Florence en ) 682, pour <lb/>le perfectionnementde la langue italienne. Il faut <lb/>voir aussi une autre espèce de ménagerie, c'est la <lb/>salle de .l'académie de la Crusca, où le siège de <lb/>toutes les chaises sur lesquelles on se met est une <lb/>hotte et le dos une pelle à four; le directeur est <lb/>élevé sur un trône de meules; la table est un pê-<lb/>trissoir; les garde-robes sont des sacs; on tire les <lb/>papiers d'une trémie; celui qui les lit a la moitiédu <lb/>corps passé dans un blutoir et cent autres coïonne-<lb/>ries relatives au nom de la Crusca, qui signifie son <lb/>de farine; car le but de son institution est de bluter <lb/>et ressasser la langue italienne, pour en tirer ce <lb/>qu'il y a de plus fine fleur de langage, rejetant ce <lb/>qu'il y a de moins pur, DE BROSSES, Lettres sur l'I-<lb/>talie, t. 11, lettre 2</subSense>
+</sense><sense><subSense>Pu-<lb/>risme, en parlant de la langue italienne. Il avait <lb/>rapporté [de l'université] une assez forte dose de <lb/>cruscantisme, J. J. ROUSS. Conf. m</subSense>
+</sense><sense><subSense>i°Terme <lb/>de zoologie. Qui a l'apparence d'une espèce de <lb/>croûte. Les vers dontle corps est logé dans un tuyau <lb/>crustacé ou pierreux semblent lier les insectes avec <lb/>les coquillages, BONNET , <lb/>Contempl. nat. 3» part, <lb/>ch. 20. Les oeufs des insectes sont de deux genres : <lb/>les uns sont membraneux, comme ceux des tortues <lb/>et des reptiles; les autres sont crustacés, comme <lb/>ceux des oiseaux, m. ib. t. vin, p. m, dans POU-<lb/>GENS</subSense>
+<pc>. |] </pc>
+<subSense>Terme de botanique.Péricarpe crustacé, ce-<lb/>lui qui est mince, très-fragile, et que l'eau ne peut <lb/>ramollir</subSense>
+</sense><sense><subSense>2°Terme de zoologie. Qui est revêtu d'une <lb/>sorte de croûte, d'une écaille</subSense>
+<pc>. || </pc>
+<subSense>S. m. plur. Nom <lb/>d'une classe comprenanttous les animaux articulés, <lb/>qui ont la tête confondue avec le thorax, une croûte <lb/>extérieure plus ou moins calcaire, des pieds arti-<lb/>culés au nombre de 5 à 7 paires, et qui respirent, <lb/>soit par des branchies, comme les crabes, les écre-<lb/>visses, les cloportes, soit par la peau, comme les <lb/>lernées</subSense>
+</sense><sense><subSense>3°Terme de médecine. Qui est accompa-<lb/>gné de croûtes à la peau. Dartre crustacée.Lèpre <lb/>crustacêe</subSense>
+</sense><sense><subSense>Terme de zoologie. Qui a rapport aux crustacés</subSense>
+</sense><sense><subSense>Crustacé <lb/>fossile</subSense>
+</sense><sense><subSense>Terme <lb/>de zoologie. Se dit de poissons qui ont la peau dure <lb/>et croûteuse</subSense>
+<pc>. || </pc>
+<subSense>S. m. pi. Les crustodermes, tribu de <lb/>poissons qui ont la peau ainsi constituée</subSense>
+</sense><sense><subSense>Terme d'histoire naturelle. Qui a la forme d'un <lb/>échaudé</subSense>
+</sense><sense><subSense>Cruzade vieille, mon-<lb/>naie d'or des Portugais, valant 3 fr. 30 c. Cruzade <lb/>neuve, monnaie d'argent valant un peu moins de <lb/>3 francs</subSense>
+</sense><sense><subSense>Ancien terme de <lb/>médecine. Fièvre crymode, fièvre caractérisée par <lb/>un état algide</subSense>
+<pc>. || </pc>
+<subSense>S. m. plur. Les crymodes, genre <lb/>d'insecteslépidoptères, de la famille des nocturnes</subSense>
+</sense><sense><subSense>Terme d'his-<lb/>toire naturelle. Qui aime les pays froids</subSense>
+</sense><sense><subSense>Spath du Groen-<lb/>land, variétédu fluate d'alumine</subSense>
+</sense><sense><subSense>Terme de <lb/>physique. Instrument servant à faire connaître l'in-<lb/>tensité du froid</subSense>
+</sense><sense><subSense>Terme de phy-<lb/>sique. Instrument congelant l'eau par l'effet de l'é-<lb/>vaporation</subSense>
+</sense><sense><subSense>Terme de paléographie. <lb/>Signe en forme d'une demi-circonférence ponctuée <lb/>au centre (ç^)), avec lequel on note les passages obs-<lb/>curs</subSense>
+</sense><sense><subSense>Yoy, <lb/>ORYPTORCHIDE</subSense>
+</sense><sense><subSense>Terme d'histoire natu-<lb/>relle. Qui n'a pas d'organes mâles apparents</subSense>
+</sense><sense><subSense>Terme de bo-<lb/>tanique. Dont les fleurs sont très-peu apparentes</subSense>
+</sense><sense><subSense>Terme de botanique. Dont les étamines ne sont pa3 <lb/>apparentes</subSense>
+</sense><sense><subSense>1°Caveau souterrain, <lb/>servant de sépulcredans certaines églises. Les pre-<lb/>mières cryptes ou grottesont été taillées dansle roc ou <lb/>maçonnées sous le sol, pour cacher aux yeux des pro-<lb/>fanes les tombeaux des martyrs; plus tard, au-dessus <lb/>de ces hypogées vénérés par les premiers chrétiens, <lb/>on éleva des chapelles et de vastes églises; puis on <lb/>établit des cryptes sous les édifices destinés au culte <lb/>pour y renfermer les corps saints recueillis par la <lb/>piété des fidèles, viOLLET-LE-nuc,ih'cf. d'arch. Crypte</subSense>
+</sense><sense><subSense>2°Terme d'anatomie.Synonyme de follicule, sorte <lb/>de petite glande caractérisée par sa forme de sac</subSense>. <lb/>Il <subSense>L'Académie dit qu'en ce sens crypte est d'ordi-<lb/>naire masculin. Le fait est que les anatomisteslui <lb/>donnent ce genre; mais il n'y a aucune raison pour <lb/>faire subir à ce mot, contre î'étymologie et contre <lb/>l'usage de la langue générale, un changement da <lb/>genre qui, même suivant la remarque de l'Acadé-<lb/>mie, n'est pas universel. Pour une anomalie sem-<lb/>blable, voy. COTYLE</subSense>. Il <subSense>3°S. m. Genre d'insecteshy-<lb/>ménoptèresde la famille des pupivores, tribu des <lb/>ichneumonides</subSense>
+</sense><sense><subSense>Simulacre d'expédition <lb/>dans laquelle les jeunes gens de Sparte s'accoutu-<lb/>maient aux opérationsmilitaires, battaient la cam-<lb/>pagne et se tenaient^n embuscade comme s'ils <lb/>étaient.en présencede l'ennemi; plusieurs auteurs <lb/>ajoutent que dans cette cryptie on faisait la nuit la <lb/>chasse aux Hilotes et qu'on tuait ceux qu'on ren-<lb/>contrait</subSense>
+</sense><sense><subSense>Terme <lb/>d'histoire naturelle. Dont la vie est à l'état latent</subSense>
+</sense><sense><subSense>Terme de zoologie. Qui respire par des branchies <lb/>cachées</subSense>
+</sense><sense><subSense>Nom donné, au xvi" siècle, à des calvinistes <lb/>qui, cachant leur croyance, affectaient les pratiques <lb/>du catholicisme</subSense>
+</sense><sense><subSense>Terme de <lb/>botanique. Dont les fruits sont cachés</subSense>
+</sense><sense><subSense>Terme <lb/>d'entomologie.Dont la tête est cachée</subSense>
+</sense><sense><subSense>Terme d'en-<lb/>tomologie. Dont les antennes sont cachées</subSense>
+</sense><sense><subSense>Terme d'er-<lb/>pétologie. Qui a le cou caché</subSense>
+</sense><sense><subSense>Terme de <lb/>botanique. Qui a les organes de la fructification ca-<lb/>chés</subSense>
+<pc>. || </pc>
+<subSense>S, f. Les mousses, les fougères sont des <lb/>cryptogames</subSense>
+</sense><sense><subSense>Classe des <lb/>plantes cryptogames; la dernière des vingt-quatre <lb/>classesde Linné</subSense>
+</sense><sense><subSense>Terme de botanique. Qui appartient à la crypto-<lb/>garnie</subSense>
+</sense><sense><subSense>Terme <lb/>d'entomologie. Qui a l'abdomen caché</subSense>
+</sense><sense><subSense>Terme d'his-<lb/>toire naturelle. Qui est engendrédans un lieu caché, <lb/>dans l'intérieurd'un autre corps vivant</subSense>
+</sense><sense><subSense>Terme <lb/>didactique. Petit écrit en caractères secrets</subSense>
+</sense><sense><subSense>Celui <lb/>qui écrit en chiffre</subSense>
+<pc>. (| </pc>
+<subSense>Instrument propre à écrire <lb/>en un chiffre qui ne puisse être lu</subSense>
+</sense><sense><subSense>Art <lb/>d'écrire en caractères secrets qui sont ou de conven-<lb/>tion ou le résullat d'une transpositiondes lettres de <lb/>l'alphabet. La cryptographie est la même chose que <lb/>l'écriture en chiffre</subSense>. Il <subSense>L'art d'exprimer secrètement <lb/>ses sentiments et ses pensées, soit par des mots <lb/>obscurs, ou par des écrits équivoques, ou par des <lb/>mouvementset des signes</subSense>
+</sense><sense><subSense>Qui a rapport à la cryptographie</subSense>
+</sense><sense><subSense>Terme <lb/>didactique. Qui renferme la recherche des effets <lb/>produits par des causes cachées. Le point de vue <lb/>cryptologiquede chacune des sciences. Mot formé <lb/>par Ampère dans sa classification des sciences</subSense>
+</sense><sense><subSense>Terme de <lb/>zoologie. Qui n'a pas de nerfs apparenls</subSense>
+</sense><sense><subSense>Terme di-<lb/>dactique. Dont le nom est caché. Ouvrage crypto-<lb/>nyme, ouvrage qui contient le nom de l'auteur <lb/>véritable déguisé par une anagra'mme</subSense>
+<pc>. || </pc>
+<subSense>Auteur <lb/>cryptonyme, auteur qui a caché ou déguisé son <lb/>nom</subSense>
+</sense><sense><subSense>Terme de <lb/>20ologie. Qui a des pattes cachées</subSense>
+</sense><sense><subSense>Terme d'his-<lb/>toire naturelle. Qui a des pores peu apparents</subSense>
+</sense><sense><subSense>Terme d'architecture. Portique souterrain</subSense>
+<pc>. || </pc>
+<subSense>Arc <lb/>pris en sous-oeuvre dans un vieux mur et au-dessous <lb/>du rez-de-chaussée</subSense>
+<pc>. || </pc>
+<subSense>Décoration de l'entrée d'une <lb/>grotte</subSense>
+</sense><sense><subSense>Terme <lb/>de pathologie. Celui dont le scrotum ne renferme <lb/>pas de testicules</subSense>
+<pc>.|| </pc>
+<subSense>On dit aussi crypsorchide</subSense>
+</sense><sense><subSense>Termede pathologie. Êlat du cryptorchide</subSense>
+</sense><sense><subSense>Terme <lb/>didactique.Qui, à l'aide île ce que l'on découvre en <lb/>analysant les données de l'observation, sert à déter-<lb/>miner ce qu'elles renfermentde caché. Terme formé <lb/>par Ampère dans sa classificationdes sciences</subSense>
+</sense><sense><subSense>Terme de botanique.Qui n'a point d'étaminesvisibles</subSense>
+</sense><sense><subSense>Terme de <lb/>chimie. Substance organique, qui existe dans le <lb/>cristallin. Voy. CRISTALLINE. <lb/>-ItEM. Puisqu'on a supprimépartout l'y dansles <lb/>dérivésde cristal, il vaudrait mieuxécrire cristalline</subSense>
+</sense><sense><subSense>Terme de zoologie. <lb/>Coquillage du genre peigne</subSense>
+</sense><sense><subSense>Terme de <lb/>zoologie. Qui a les dents en forme de peigne</subSense>
+</sense><sense><subSense>Terme <lb/>de zoologie. Qui a des branchies pectinées</subSense>
+</sense><sense><subSense>Action de cuber</subSense>
+<pc>. <lb/>|| </pc>
+<subSense>Méthode pour cuber. Le cubage des bois de con-<lb/>struction</subSense>
+<pc>. || </pc>
+<subSense>Quantitéd'unités cubiques que renferme <lb/>un volume donné</subSense>
+</sense><sense><subSense>Action de cuber, <lb/>de mesurer un solide</subSense>
+<pc>. || </pc>
+<subSense>Assez mauvais synonyme, <lb/>d'ailleurs très-peu usité, de cubage</subSense>
+</sense><sense><subSense>Réductiongéomé-<lb/>trique d'un solide quelconque à un cube équivalent <lb/>en volume. La cubature de la sphère ou la cuhature <lb/>des coins et des pyramidessphériques que l'on dé-<lb/>montre égales à des pyramides rectilignes est encore <lb/>un morceau de M. de Lagny, neuf, singulier et qui <lb/>seul prouverait un grand géomètre, FONTEN. Lagny</subSense>
+</sense><sense><subSense>||1°Terme de géométrie. So-<lb/>lide à six faces qui sont des carrés égaux. Les dés <lb/>ont la forme du cube. Cet Être Suprême n'a pas <lb/>pris des cubes, de petits dés pour en formerla terre, <lb/>VOLT. Dial. 25. Un cube est un solide dont la base, <lb/>la hauteur et la profondeur sont égales, CONDILLAC, <lb/>Lang. cale, i, G</subSense>
+</sense><sense><subSense>2°Terme d'arithmétique. Le pro-<lb/>duit d'un nombre par son carré. Si on multiplie <lb/>quatre par deux, le produit huit prend le nom de <lb/>cube, parce qu'il est en effet la mesure d'un cube, <lb/>c'est-à-dire d'un solide qui aurait deux de base, <lb/>deux de hauteur, deux de profondeur, CONDILLAC, <lb/>ib. Dieu a ordonné que toutes nos planètes tour-<lb/>nassent autour du soleil, de façon que les cubes de <lb/>leurs distances seraient toujours comme les carrés <lb/>de leurs révolutions, VOLT. Dial. 25</subSense>
+</sense><sense><subSense>3°Adjective-<lb/>ment. Mètre, pied cube, mesure qui a un mètre, <lb/>un pied, dans les trois dimensions</subSense>
+<pc>.|| </pc>
+<subSense>La racine cube <lb/>d'un nombre, le nombre qui, multiplié deux fois <lb/>par lui-même,reproduit le nombre donné. Deux est <lb/>la racine cube de huit</subSense>
+</sense><sense><subSense>Terme de botanique. <lb/>Fruit du piper cubeba ou cubeba of/icinarum, et <lb/>du cubeba canina</subSense>
+</sense><sense><subSense>Terme de chimie. Principe neutre <lb/>découvertdans le cubèbe</subSense>
+</sense><sense><subSense>1°Terme de géométrie. <lb/>Evaluer le volume d'un solide. Cuber des bois de <lb/>construction</subSense>
+</sense><sense><subSense>2°Terme d'arithmétique. Élever un <lb/>nombre au cube ou troisième puissance</subSense>
+</sense><sense><subSense>3°Se cu-<lb/>ber, v. réjl. Être cubé. Le bois se cube</subSense>
+</sense><sense><subSense>T. de métallurgie. <lb/>Cylindre portant plusieurs tuyères sur les côtés</subSense>
+</sense><sense><subSense>||1« Terme de géomé-<lb/>trie. Qui appartient au cube. Forme cubique. Qu'on <lb/>mette dam un vivier cent pieds cubiques d'eau, <lb/>VOLT. A'etflt. m, 11</subSense>
+</sense><sense><subSense>2°Terme d'arithmétique. La <lb/>racine cubique d'un nombre, le nombre qui, mul-<lb/>tiplié deux fois par lui-même, donne le nombre <lb/>proposé. 3 est la racine cubique de 27</subSense>
+</sense><sense><subSense>3°Ancien <lb/>terme d'algèbre. Équation cubique, équation du <lb/>troisième degré</subSense>
+</sense><sense><subSense>1°Terme <lb/>d'anatomie. Qui appartient au cubitus ou à la partie <lb/>de l'avant-bras où cet os se trouve. Nerf cubital. <lb/>Muscles cubitaux</subSense>
+<pc>. || </pc>
+<subSense>Os cubital, troisième os de la <lb/>première rangée du carpe, plus connu sous le nom <lb/>de pyramidal</subSense>
+</sense><sense><subSense>2°Qui a une coudée de longueur</subSense>
+<pc>. <lb/>|| </pc>
+<subSense>Écriture cubitale, se disait, par exagération,d'une <lb/>écrituredont les caractères étaient très-allongés</subSense>
+</sense><sense><subSense>Terme d'anatomie. Qui a rapport au <lb/>cubitus et au carpe. Muscle cubito-carpien</subSense>
+</sense><sense><subSense>Terme d'anatomie.Muscle <lb/>cubito-métacarpien, ou, substantivement, le cu-<lb/>bito-métacarpienoblique, nom donné par les vété-<lb/>rinaires à un petit muscle situé obliquement à la <lb/>partie inférieurede l'avant-brasdu cheval</subSense>
+</sense><sense><subSense>Terme d'anatomie. Muscle cu-<lb/>bito-phàlangien, ou , <lb/>substantivement, euhito-pha-<lb/>langien, nom donné par les vétérinaires à un <lb/>muscle fléchisseur situé dans la région postérieure <lb/>de l'avant-bras du cheval</subSense>
+</sense><sense><subSense>Terme d'anatomie. <lb/>Os de l'avant-bras, qui en occupe la partie interne <lb/>et s'étend du coude au carpe</subSense>
+<pc>. || </pc>
+<subSense>Le 4e article des <lb/>pattes antérieures des hexapodes et la nervure in-<lb/>terne ou postérieure de leurs ailes</subSense>
+</sense><sense><subSense>Terme de ma-<lb/>thématique. Cube du cube ou neuvième puissance</subSense>
+</sense><sense><subSense>Terme didactique. <lb/>Qui a la forme .d'un cube</subSense>
+<pc>. || </pc>
+<subSense>Terme d'anatomie. L'os <lb/>cuboïde, ouj simplement, le cuboïde, os court et <lb/>cubique, situé à la partie antérieure et supérieure <lb/>du tarse, et articulé avec le calcanéum</subSense>
+<pc>. || </pc>
+<subSense>Terme de <lb/>minéralogie. Se dit d'un rhomboïde très-peu diffé-<lb/>rent du cube</subSense>
+</sense><sense><subSense>Terme de minéralogie Qui participe du cube et du <lb/>prisme</subSense>
+</sense><sense><subSense>Insecte qui dévore <lb/>les légumes</subSense>
+</sense><sense><subSense>Terme de botani-<lb/>que. Genre de plantes qui, ayant été démembré, <lb/>ne contient plus qu'une espèce (cucubalusbaccifer)</subSense>
+</sense><sense><subSense>Terme d'histoire naturelle. Famille d'oi-<lb/>seaux analogues au coucou</subSense>
+</sense><sense><subSense>Terme <lb/>d'histoire naturelle. Abeilles parasites qui, comme <lb/>le coucou, mettent leur progéniture dans le nid d'au-<lb/>trui</subSense>
+</sense><sense><subSense>Qui est en <lb/>forme d'un capuchon. Muscle cucullaire, nom donné <lb/>quelquefois au muscle trapèze à cause de sa res-<lb/>semblance avec le capuchond'un moine, lorsqu'onle <lb/>considère avec son congénère</subSense>
+</sense><sense><subSense>Les chartreux nom-<lb/>ment cuculle ce que les autres religieux appellent <lb/>scapulaire</subSense>
+</sense><sense><subSense>Terme <lb/>d'histoire naturelle. Qui porte des appendices en <lb/>forme de capuchon ou de cornet</subSense>
+</sense><sense><subSense>Terme de botanique. Qui a des feuilles en formede <lb/>capuchon</subSense>
+</sense><sense><subSense>Terme <lb/>d'histoire naturelle. Qui a la forme d'un capuchon <lb/>ou d'un cornet</subSense>
+</sense><sense><subSense>Terme de botanique. Qui ressembleà un concombre</subSense>
+</sense><sense><subSense>Terme d'histoire naturelle. Qui ressembleà un grain <lb/>de courge</subSense>
+</sense><sense><subSense>Terme <lb/>didactique. Qui a la forme d'un concombre</subSense>
+</sense><sense><subSense>Ancien terme de <lb/>pharmacie. Espèce de bonnet à double fond, conte-<lb/>nant, entre ses deux fonds un mélange de poudres <lb/>aromatiques</subSense>
+</sense><sense><subSense>Terme <lb/>de botanique. Plantes cucurbitacées, plantes her-<lb/>bacées, à tiges rampantes, telles que les melons, <lb/>les concombres, etc., et, substantivement, les cu-<lb/>curbitacées, famille de plantes dont la courge est <lb/>le type</subSense>
+</sense><sense><subSense>Voy. cu-<lb/>CURBIT1N</subSense>
+</sense><sense><subSense>1°Partie de <lb/>l'alambic qui s'introduit dans le" fourneau et dans <lb/>laquelle on met la matière à distiller</subSense>
+</sense><sense><subSense>2°Nom d'uue <lb/>pierre argileuse, dont la figure approche de celle <lb/>du concombre</subSense>
+</sense><sense><subSense>2°S. m. Terme d'histoire naturelle. Nom <lb/>donné au tsenia (taenia solium), parce qu'il est com-<lb/>posé d'anneaux qui ressemblentà des semences de <lb/>courge. Les anciens nommaient cucurbitins ces an-<lb/>neaux qui sont souvent rendus isolés et qu'ils pre-<lb/>naient pour des vers particuliers. Chaque anneau <lb/>paraît un véritable ver; et ce sont ces anneaux ainsi <lb/>détachés qui ont été nommés par erreur vers cu-<lb/>curbitins, de leur ressemblance avec la graine de <lb/>courge, BONNET, Nouv. rech. Txnia</subSense>
+</sense><sense><subSense>Sorte de chien de <lb/>mer</subSense>
+</sense><sense><subSense>Ancien terme <lb/>de vétérinaire. Affecté d'eaux aux jambes en parlant <lb/>d'un cheval</subSense>
+</sense><sense><subSense>1°Action de cueillirles fruits</subSense>
+<pc>. || </pc>
+<subSense>Saison où on les <lb/>cueille</subSense>
+</sense><sense><subSense>2°Action d'enlever le verre en fusion avec <lb/>la sarbacane</subSense>
+<pc>.|| </pc>
+<subSense>Quantité de matière prise à la fois</subSense>
+</sense><sense><subSense>Terme d'agriculture. Époque de cueillir</subSense>
+</sense><sense><subSense>Terme <lb/>d'agriculture. L'action de cueillir. La cueille est <lb/>faite</subSense>
+</sense><sense><subSense>Terme <lb/>de marine. Largeur d'une pièce de toile à voile</subSense>
+</sense><sense><subSense>Fais-<lb/>ceau de fils redressé par l'engin de l'épinglier</subSense>
+</sense><sense><subSense>Action de cueillir</subSense>
+</sense><sense><subSense>1°Récolte "de certains fruits. La cueil-<lb/>lette des olives, des pommes. Oui, d'abord vivant <lb/>de nos miettes. Il [l'homme] prit de nous [singes] <lb/>l'artdescueillettes, BËRANG. Orangs-out</subSense>
+</sense><sense><subSense>2°Collecte, <lb/>produit d'une quête. Faire une cueillette pour les <lb/>pauvres</subSense>
+<pc>. || </pc>
+<subSense>En ce sens il est vieux</subSense>
+</sense><sense><subSense>3" Terme de ma-<lb/>rine. Charger un navire en cueillette, à la cueil-<lb/>lette, le charger de marchandises appartenant à <lb/>divers. Si le vaisseau est chargé à cueillette ou au <lb/>quintal ou tonneau, le marchand qui voudra retirer <lb/>ses marchandisesavantle départ du vaisseau .pourra <lb/>les faire décharger à ses frais, en payant la moitié <lb/>du fret, Ordonn. aoûuest</subSense>
+<pc>. || </pc>
+<subSense>4°Récolte des chiffons <lb/>à faire le papier</subSense>
+</sense><sense><subSense>1°Celui, celle qui cueille</subSense>
+<pc>. || </pc>
+<subSense>Être <lb/>fait en cueilleur de pommes, être mal accoutré, <lb/>ou être accoutré comme quelqu'un se préparant à <lb/>quelque ouvrage rustique,à quelque travail pénible</subSense>
+</sense><sense><subSense>2°Celui qui prend le verre fondu dans le pot</subSense>
+</sense><sense><subSense>3°Pièce du rouet à filer l'or</subSense>
+</sense><sense><subSense>, passé de cueillir. Des fruits cueillis à <lb/>point. Les plantes cueillies le matin à la rosée ou <lb/>le soir à l'humidité ou le jourdurant la pluie, ne se <lb/>conservent point; il faut absolument choisir un <lb/>temps sec, J. J. ROUSSEAU, Lettre élément, sur la bo-<lb/>tanique</subSense>
+<pc>. || </pc>
+<subSense>Fig. [L'ode] Vante un baiser cueilli sur <lb/>les lèvres d'Iris, Qui mollement résiste, et, par un <lb/>doux caprice, Quelquefois le refuse afin qu'on le ra-<lb/>visse, BOIL. Art p. il</subSense>
+</sense><sense><subSense>1°Terme <lb/>de maçonnerie.Trait île plâtre par lequel les maçons <lb/>commencent pour dresser un enduit. La cueillie <lb/>sert aussi à former les angles</subSense>
+</sense><sense><subSense>2°Terme d'épinglier. <lb/>Faisceau de fils de laiton redressés par l'engin</subSense>
+</sense><sense><subSense>1°Détacher des <lb/>fruits, des fleurs, des feuilles de la tige. Cueillir des <lb/>fruits, des fraises, des raisins. Cueillir une rose. <lb/>Cueillir des feuilles de mûrier. Les nymphes sa <lb/>mirent à cueillir des fleurs <lb/>, <lb/>FÉN. Tél. vu. Ces <lb/>herbes ne sont pas d'une vertu commune ; Moi-<lb/>même, en les cueillant, je fis pâlir la lune, CORN. <lb/>Médce, iv, 2. Telle qu'une bergère au plus beau <lb/>jour de fête De superbesrubis-ne charge point sa <lb/>tête, Et, sans mêler à l'or l'éclat des diamants. <lb/>Cueille en un champ voisin ses plus beaux orne-<lb/>ments, BOIL. Art p. u. Le gouvernement fait cueil-<lb/>lir tous les ans cette plante par dix mille soldats <lb/>tartares, dont chacun doit rendre gratuitement deux <lb/>onces du meilleur ginseng, RAYNAL, Hist. pliil. v, <lb/>24</subSense>
+<pc>. || </pc>
+<subSense>Cueillir un bouquet, cueillir des fleurs pour en <lb/>faire un bouquet. Il oublie à les voir [les fleurs] <lb/>l'emploi qui le demande, Et s'égare à cueillir une <lb/>beileguirlande, A.-CHËN. Idylles,Hylas</subSense>
+<pc>. || </pc>
+<subSense>Fig. Quel-<lb/>que fruit que par là j'espère de cueillir, CORN. Cin-<lb/>na, m, 3</subSense>
+<pc>. || </pc>
+<subSense>Cueillir des palmes, des lauriers, rem-<lb/>porter des victoires. C'est le fruit que j'attendsdes <lb/>lauriers qui m'attendent; Heureux si mon destin, <lb/>encore un peu plus doux, Me les faisait cueillir <lb/>sans m'éloigner de vous, CORN. Pomp. iv, 3. tout le <lb/>fruit qu'on en cueille est de se mettre mal, Et d'a-<lb/>vancer par là les desseins d'un rival, MOL. le Dép. <lb/>i, 2. Mayenne.... Songe à cueillir le fruit sans en <lb/>être complice [du crime de J. Clément], VOLT, lienr. <lb/>v. </subSense>
+</sense><sense><subSense>2°Cueillir un baiser, prendre un baiser à une <lb/>femme. C'est du poison que j'ai cueilli sur tes lèvres, <lb/>i. J. ROUSS. Hél. i, a. Il [l'Amour] dormait; un sou-<lb/>ris sur sa bouche formé L'entr'ouvrait mollement; <lb/>et de jeunes abeilles Viennentcueillir le miel de ses <lb/>lèvres vermeilles, A. CHÊN. Idylles,imité de Platon</subSense>
+</sense><sense><subSense>3°Cueillir, dans le langage des maçons, faire une <lb/>cueillie. Cueillir une fenêtre en plâtre</subSense>
+</sense><sense><subSense>4°Terme <lb/>de marine. Plier une manoeuvre en rond ou en el-<lb/>lipse</subSense>
+</sense><sense><subSense>5°Prendre le verre fondu avec la canne</subSense>
+</sense><sense><subSense>6°Boucler la soie étendue sur les platines</subSense>
+<pc>. || </pc>
+<subSense>7°Cou' <lb/>per le fil destinéà faireles épingles</subSense>
+<pc>.|| </pc>
+<subSense>8°Se cueillir, <lb/>D. re'fl. Être cueilli. C'est en cette saison que les <lb/>pommes se cueillent</subSense>
+</sense><sense><subSense>Action de cueillir la soie sur les platines</subSense>
+<pc>. || </pc>
+<subSense>Mouve-<lb/>ment du métier à bas qui plie le fil étendu sur les <lb/>aiguilles</subSense>
+</sense><sense><subSense>Panier où l'on met la cueillette</subSense>
+<pc>.|| </pc>
+<subSense>Cor-<lb/>beille attachée au bout d'un long bâton pour cueillir <lb/>les fruits des hautes branchés. Les dômes découpés <lb/>en feuillage ou creusés en forme de cueilloir de-<lb/>viennent autant de corbeilles, CHATEAUB. Génie, <lb/>m, v, 5. Il Espèce ne cisaille pour cueillir des fruits <lb/>délicats</subSense>
+</sense><sense><subSense>Sorte détonne, employée <lb/>dans les puits de mines, pour transporter le minerai <lb/>et les mineurs</subSense>
+</sense><sense><subSense>2°Se cuider, v. réfl. Se pavaner, faire l'outre-<lb/>cuidant. Quelques vieux et plats courtisans, comme <lb/>Dangeau, Cavoie, regrettèrent de n'avoir plus à se <lb/>cuider parmi les sots et les ignorants, dans les rai-<lb/>sonnements et l'amusement journalier d'une cour <lb/>qui s'éteignait avec le roi, ST-SIM. 417, 2)</subSense>
+</sense><sense><subSense>Panierlong pour cueil-<lb/>lir et porter les fruits. </subSense></sense><sense><subSense>1* Petite palette creuse tenue par un manche , <lb/>dont on se sert pour porter à sa bouche les ali-<lb/>ments peu consistants ou pour les servir à table. <lb/>Cuiller de fer, d'argent, d'étain. Cuiller à potage. <lb/>Cuiller à ragoût. [Dans les catacombes] Anciens ca-<lb/>lices, anciennes croix, anciennes cuillers pour ad-<lb/>ministrer la communion, CHATEAUB. Italie , 38</subSense>. <lb/>Il <subSense>Cuiller à pot, cuiller large et profonde, avec la-<lb/>quelle on prend le bouillon dans le pot-au-feu pour <lb/>tremper la soupe</subSense>. Il <subSense>Cuiller à punch, grande cuiller <lb/>dans laquelle la palette, au lieu d'avoir sa longueur <lb/>dans la direction du manche, l'a perpendiculaire-<lb/>ment à ce manche; de plus elle est termiuée par <lb/>des goulots à droite et à gauche, afin de pouvoir <lb/>verser commodémentla liqueur soit dans les verres <lb/>pour la boire, soit dans le bol lui-même lorsqu'on <lb/>brûle l'eau-de-vie</subSense>
+<pc>.|| </pc>
+<subSense>Petite cuiller se dit des cuillers <lb/>à café. Il Biscuit à la cuiller, biscuit long et mince, <lb/>fort léger, qu'on trempe ordinairement dans le vin ; <lb/>ainsi nommé parce que, pour le faire, on en ré-<lb/>pand la pâte en long sur le papier avec la cuiller. <lb/>Il Terme de botanique. Pétales, feuilles en cuiller, <lb/>pétales, feuilles qui en ont la forme</subSense>
+<pc>. || </pc>
+<subSense>Chevaliers <lb/>de la cuiller-, nom que prirent, dans le xvie siècle, <lb/>des nobles du pays de Vaud, s'étant vantés, dans <lb/>une orgie, de manger les Genevois à la cuiller</subSense>
+</sense><sense><subSense>2°Ustensile de cuisine. Cuiller de bois</subSense>
+<pc>. || </pc>
+<subSense>Par ex-<lb/>tension , nom d'instruments de formes diverses em-<lb/>ployés dans les arts. Cuiller à fondre du plomb. <lb/>Cuiller à brai</subSense>
+<pc>. || </pc>
+<subSense>Cuiller à projection, demi-sphère <lb/>creuse, en fer ou en fonte, munie d'un manche à <lb/>bois, à l'aide de laquelle, dans les laboratoires, on <lb/>fait fondre les métaux, les alliages, on verse certains <lb/>corps dans les creusets chauffés au rouge</subSense>
+<pc>. || </pc>
+<subSense>Outil <lb/>pour transporter les boulets rouges du gril à la pièce. <lb/>Il Pierre creusé'e en rond ou en ovale pour recevoir <lb/>i'eau d'un tuyau de descente</subSense>
+<pc>. || </pc>
+<subSense>Morceau de fer qui <lb/>embrasse le bout de l'essieu des roues de devant <lb/>d'un carrosse</subSense>
+</sense><sense><subSense>3" Tarière de sabotier</subSense>
+<pc>. || </pc>
+<subSense>4°Terme de <lb/>marine. Sorte de foret acéré et coupant, pour percer <lb/>les pompes</subSense>. 11<subSense>Instrument pour déchargerles bouches <lb/>à feu</subSense>. IJ <subSense>5°Herbe à cuillers, cochléaria</subSense>
+</sense><sense><subSense>6" Nom <lb/>vulgaire de la spatule, espèce de héron qui ne dif-<lb/>fère du héron que par le bec, qu'il a de la forme <lb/>d'une cuiller, d'où il tire son nom</subSense>
+</sense><sense><subSense>7" Nom de cer-<lb/>taines coquilles de mer</subSense>
+</sense><sense><subSense>Quantité contenue dans une cuiller. <lb/>Une cuillerée de potage, de sirop. Une cuillerée à <lb/>café équivaut à cinq grammes d'eau commune; une <lb/>cuillerée à bouche équivaut à quatre cuillerées à <lb/>café, et par conséquent à vingt grammes; il faut <lb/>huit cuilleréesà bouche pour un verre ou une verree</subSense>
+</sense></body>
+	</text>
+</tei>

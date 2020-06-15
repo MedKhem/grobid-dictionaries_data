@@ -1,0 +1,23 @@
+Dict+Eebd+Model+lexical-entry+Feature+Engineered+DataLevel+4
+===== Field-level results =====
+
+label                accuracy     precision    recall       f1           support
+
+<dictScrap>          100          100          100          100          128    
+<lemma>              98.06        94.7         97.66        96.15        128    
+<pc>                 98.84        95.92        92.16        94           51     
+<re>                 99.03        84.62        78.57        81.48        14     
+<sense>              94.77        89.35        94.38        91.79        160    
+<xr>                 99.03        100          16.67        28.57        6      
+
+all (micro avg.)     98.29        94.11        95.07        94.59        487    
+all (macro avg.)     98.29        94.1         79.9         82           487    
+
+===== Instance-level results =====
+
+Total expected instances:   128
+Correct instances:          114
+Instance-level recall:      89.06
+
+
+Evaluation for lexical-entry model is realized in 1740 ms

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dictionaryBodySegmentation.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="dictionaryBodySegmentation.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><entry>ña yosina nino sindi : no tener lugar ni espacio ; <lb/>tiempo no tener para hacer algo <lb/></entry>
+<entry>ña yosini mani ñahandi : mal querer <lb/></entry>
+<entry>ña yosini nino sa iyota : muchedumbre de hom-<lb/>bres <lb/></entry>
+<entry>ña yosinindi, futuro qni : ignorar por no haber oído <lb/>decir lo que hay ; ignorar lo que hay o pasa <lb/></entry>
+<entry>ña yosinindi yocachi inindi : disimular que no ve <lb/></entry>
+<entry>ña yosino : no estar cabal cuenta <lb/></entry>
+<entry>ña yosino ca ndudzuta : perder el habla el en-<lb/>fermo <lb/></entry>
+<entry>ña yosino cuhua : merma <lb/></entry>
+<entry>ña yosino tuhua : no estar cabal cuenta <lb/></entry>
+<entry>ña yosito iyondi, futuro coto : desmandarse en <lb/>algo no teniendo respeto al mayor <lb/></entry>
+<entry>ña yotacu huatu sindi : tomarlo en mala parte <lb/></entry>
+<entry>ña yotacu huatu sindi ndudzuta : rechazar <lb/></entry>
+<entry>ña yotacu ninondi ninuu nahandi ninday dzi-<lb/>condi : tener mala fama <lb/></entry>
+<entry>ña yotadzi ca ini : perder la vergüenza <lb/></entry>
+<entry>ña yotadzi sa casi : mascar mal la comida por comer <lb/>de prisa <lb/></entry>
+<entry>ña yotadzica inindi : desconfiar el que ha estado <lb/>esperando algo <lb/></entry>
+<entry>ña yotavui : no cuadrarle algo a alguno <lb/></entry>
+<entry>ña yotnay yahuindi sihita : desigualarse en el <lb/>precio <lb/></entry>
+<entry>ña yotniño cuhua inindi casindi : destemplarse <lb/>en comer <lb/></entry>
+<entry>ña yotnoño ña yosani cata : morir sosegadamente <lb/></entry>
+<entry>ña yotuvui huatu : no parece bien <lb/></entry>
+<entry>ña yotuvui huatu sita : desagradecer <lb/></entry>
+<entry>ña yotuvui huatusindi : descontentarse de algo <lb/></entry>
+<entry>ña yotuvui ndaaca : de lejos cuando no se devisa <lb/>bien la cosa <lb/></entry>
+<entry>ña yotuvui tnuni casi inindi : vacilar dudando de <lb/>alguna cosa <lb/></entry>
+<entry>ña yoyaa ndaa sindi : tiempo no tener para hacer <lb/>algo <lb/></entry>
+<entry>ña yoyaa nino sindi : tiempo no tener para hacer <lb/>algo <lb/></entry>
+<entry>ña yoyuhuindita : desacatar a otro <lb/></entry>
+<entry>ña yuhu ña siyo nicuvui ndudzu : estar claro y <lb/>manifiesto algún negocio <lb/></entry>
+<entry>ña yuhua yocahandi : expeditamente hablar <lb/></entry>
+<entry>ñaa caa sindi : indigno ser de algún bien <lb/></entry>
+<entry>ñaha : alguna cosa <lb/></entry>
+<entry>ñaha : antes no <lb/></entry>
+<entry>ñaha : nada, ninguna cosa <lb/></entry>
+<entry>ñaha : persona <lb/></entry>
+<entry>ñaha caa yuhu nuu : matrona, mujer honrada <lb/></entry>
+<entry>ñaha cacu dzina dzaya : primeriza en parto <lb/></entry>
+<entry>ñaha cay : viuda <lb/></entry>
+<entry>ñaha cay yaha yoo yee : mujer soltera <lb/></entry>
+<entry>ñaha coco : mujer carnal ; puta ramera <lb/></entry>
+<entry>ñaha cuvui quahi nicacu dzayaña : parida mujer <lb/></entry>
+<entry>ñaha dza cadzi dzaya : ama de niño que cría <lb/></entry>
+<entry>ñaha dzana : puta ramera <lb/></entry>
+<entry>ñaha dzana : rufián <lb/></entry>
+<entry>ñaha dzehe : hembra ; mujer <lb/></entry>
+<entry>ñaha dzoho : doncella, virgen <lb/></entry>
+<entry>ñaha, futuro hua : no (adverbio) <lb/></entry>
+<entry>ñaha huayu : mujer hermosa <lb/></entry>
+<entry>ñaha huii : mujer hermosa <lb/></entry>
+<entry>ñaha ii : doncella, virgen <lb/></entry>
+<entry>ñaha iyo ii, iyo ñuhu : monja <lb/></entry>
+<entry>ñaha iyo yee : mujer casada <lb/></entry>
+<entry>ñaha nday ini : mujer varonil <lb/></entry>
+<entry>ñaha ndodzo : mujer varonil <lb/></entry>
+<entry>ñaha nee : doncella, virgen <lb/></entry>
+<entry>ñaha nee ii : doncella, virgen <lb/></entry>
+<entry>ñaha nee yoco : doncella, virgen <lb/></entry>
+<entry>ñaha nicaa : corrompida o corrupta [virgen] <lb/></entry>
+<entry>ñaha nicoo coo yee : mujer casada <lb/></entry>
+<entry>ñaha nicuvui cutu : mujer casada <lb/></entry>
+<entry>ñaha nicuvui nisanu : matrona, mujer honrada <lb/></entry>
+<entry>ñaha nicuvui qhu : parida mujer <lb/></entry>
+<entry>ñaha ninday caca : viuda <lb/></entry>
+<entry>ñaha ninduvui cay : viuda <lb/></entry>
+<entry>ñaha ninduvui coyo cay : viuda <lb/></entry>
+<entry>ñaha ninduvui ee : viuda <lb/></entry>
+<entry>ñaha ninduvui ndahui : viuda <lb/></entry>
+<entry>ñaha ninduvui quaa : viuda <lb/></entry>
+<entry>ñaha ninumi dzaya [quevui ninihi nduta dzehe <lb/>sahu ñuhu, dzehe huahi ñuhu] : comadre <lb/></entry>
+<entry>ñaha nisaca dzaya quevui ninihi nduta dzehe <lb/>sahu ñuhu, dzehe huahi ñuhu : comadre <lb/></entry>
+<entry>ñaha nisani ini : mujer casta <lb/></entry>
+<entry>ñaha nisay dzaya [quevui ninihi nduta dzehe <lb/>sahu ñuhu, dzehe huahi ñuhu] : comadre <lb/></entry>
+<entry>ñaha nitevui : corrompida o corrupta [virgen] <lb/></entry>
+<entry>ñaha numa : estéril mujer ; mañera, mujer que no <lb/>pare <lb/></entry>
+<entry>ñaha ña ñoho dzadzica ini : disoluta mujer <lb/></entry>
+<entry>ñaha ña tnaha dzoo dzonondi : pobre puesto en <lb/>grande miseria (dicho por metáfora) <lb/></entry>
+<entry>ñaha ñoho chisi : preñada mujer <lb/></entry>
+<entry>ñaha ñoho dzaya : preñada mujer <lb/></entry>
+</body>
+	</text>
+</tei>
