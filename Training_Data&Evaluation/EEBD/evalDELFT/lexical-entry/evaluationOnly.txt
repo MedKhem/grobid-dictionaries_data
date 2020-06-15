@@ -1,0 +1,14 @@
+===== Field-level results =====
+
+label                accuracy     precision    recall       f1           support
+
+<PAD>                99.62        0            0            0            0      
+<dictScrap>          97.55        92.59        97.66        95.06        128    
+<lemma>              97.18        93.8         94.53        94.16        128    
+<pc>                 98.68        94           92.16        93.07        51     
+<re>                 98.87        83.33        71.43        76.92        14     
+<sense>              94.73        89.29        93.75        91.46        160    
+<xr>                 98.68        0            0            0            6      
+
+all (micro avg.)     97.61        91.52        93.02        92.26        487    
+all (macro avg.)     97.61        75.5         74.92        75.11        487   
